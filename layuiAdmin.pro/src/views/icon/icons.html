@@ -1,0 +1,76 @@
+<style type="text/css">
+	.select-icon {
+		cursor: pointer;
+		display: inline-block;
+		vertical-align: middle;
+		width: 127px;
+		height: 105px;
+		line-height: 25px;
+		padding: 20px 0;
+		margin-right: -1px;
+		margin-bottom: -1px;
+		border: 1px solid #e2e2e2;
+		font-size: 14px;
+		text-align: center;
+		color: #666;
+		transition: all .3s;
+		-webkit-transition: all .3s;
+		border: 1px solid #e2e2e2;
+	}
+	
+	.doc-icon-name {
+		color: #c2c2c2;
+	}
+	
+	.doc-icon-code {
+		color: #c2c2c2;
+	}
+	
+	.doc-icon-fontclass {
+		height: 40px;
+		line-height: 20px;
+		padding: 0 5px;
+		font-size: 13px;
+		color: #333;
+	}
+	
+	.layui-big-icon {
+		display: inline-block;
+		font-size: 36px;
+	}
+</style>
+<script type="text/html" template lay-url="./layui/font/iconfont/selection.json?v={{ layui.admin.v }}" lay-done="
+        
+        layui.jquery('.select-icon').on('click',function () {
+            layui.jquery('.select-icon').css('background-color','#ffffff');
+            layui.jquery(this).css('background-color','#d3d3d3');
+            layui.jquery('#LAY_basemodule_icons_selecticon').val(layui.jquery(this).attr('icon-text'));
+        })">
+	<ul class="layui-row layui-col-space10">
+		{{# var iconfunction = function(text){return text?'&#x'+text+';':''}; layui.each(d['icons'], function(index, item){ }}
+		<li class="layui-col-xs2 select-icon" icon-text="{{item.icon.defaultCode.toString(16)}}">
+			<i class="layui-icon layui-big-icon">
+                {{
+                iconfunction(item.icon.defaultCode.toString(16))
+                }}
+            </i>
+			<div class="doc-icon-name">{{item.properties.name}}</div>
+			<div class="doc-icon-code">&amp;#x{{item.icon.defaultCode.toString(16)}};</div>
+		</li>
+		{{# }) }}
+	</ul>
+	<input type="hidden" value="" id="LAY_basemodule_icons_selecticon" />
+</script>
+<style>
+	.common_area {
+		margin-top: -10px;
+	}
+	
+	.common_area .layui-form-select dl {
+		max-height: 185px;
+	}
+	
+	.common_area .layui-form-select dl dd {
+		height: 30px;
+	}
+</style>

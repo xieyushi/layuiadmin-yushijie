@@ -1,0 +1,30027 @@
+{"code": 0
+  ,"msg": ""
+  ,"data": [{
+	"id": 100000,
+	"parentId": 0,
+	"name": "全国",
+	"level": 0,
+	"postalCode": "",
+	"areaNumber": "100000"
+}, {
+	"id": 110000,
+	"parentId": 100000,
+	"name": "北京",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "110000"
+}, {
+	"id": 110100,
+	"parentId": 110000,
+	"name": "北京市",
+	"level": 2,
+	"postalCode": "100000",
+	"areaNumber": "110100"
+}, {
+	"id": 110101,
+	"parentId": 110100,
+	"name": "东城区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110101"
+}, {
+	"id": 110102,
+	"parentId": 110100,
+	"name": "西城区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110102"
+}, {
+	"id": 110105,
+	"parentId": 110100,
+	"name": "朝阳区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110105"
+}, {
+	"id": 110106,
+	"parentId": 110100,
+	"name": "丰台区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110106"
+}, {
+	"id": 110107,
+	"parentId": 110100,
+	"name": "石景山区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110107"
+}, {
+	"id": 110108,
+	"parentId": 110100,
+	"name": "海淀区",
+	"level": 3,
+	"postalCode": "100000",
+	"areaNumber": "110108"
+}, {
+	"id": 110109,
+	"parentId": 110100,
+	"name": "门头沟区",
+	"level": 3,
+	"postalCode": "102300",
+	"areaNumber": "110109"
+}, {
+	"id": 110111,
+	"parentId": 110100,
+	"name": "房山区",
+	"level": 3,
+	"postalCode": "102400",
+	"areaNumber": "110111"
+}, {
+	"id": 110112,
+	"parentId": 110100,
+	"name": "通州区",
+	"level": 3,
+	"postalCode": "101100",
+	"areaNumber": "110112"
+}, {
+	"id": 110113,
+	"parentId": 110100,
+	"name": "顺义区",
+	"level": 3,
+	"postalCode": "101300",
+	"areaNumber": "110113"
+}, {
+	"id": 110114,
+	"parentId": 110100,
+	"name": "昌平区",
+	"level": 3,
+	"postalCode": "102200",
+	"areaNumber": "110114"
+}, {
+	"id": 110115,
+	"parentId": 110100,
+	"name": "大兴区",
+	"level": 3,
+	"postalCode": "102600",
+	"areaNumber": "110115"
+}, {
+	"id": 110116,
+	"parentId": 110100,
+	"name": "怀柔区",
+	"level": 3,
+	"postalCode": "101400",
+	"areaNumber": "110116"
+}, {
+	"id": 110117,
+	"parentId": 110100,
+	"name": "平谷区",
+	"level": 3,
+	"postalCode": "101200",
+	"areaNumber": "110117"
+}, {
+	"id": 110118,
+	"parentId": 110100,
+	"name": "密云区",
+	"level": 3,
+	"postalCode": "101500",
+	"areaNumber": "110118"
+}, {
+	"id": 110119,
+	"parentId": 110100,
+	"name": "延庆区",
+	"level": 3,
+	"postalCode": "102100",
+	"areaNumber": "110119"
+}, {
+	"id": 110120,
+	"parentId": 110100,
+	"name": "中关村科技园区",
+	"level": 3,
+	"postalCode": "100190",
+	"areaNumber": "110120"
+}, {
+	"id": 120000,
+	"parentId": 100000,
+	"name": "天津",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "120000"
+}, {
+	"id": 120100,
+	"parentId": 120000,
+	"name": "天津市",
+	"level": 2,
+	"postalCode": "300000",
+	"areaNumber": "120100"
+}, {
+	"id": 120101,
+	"parentId": 120100,
+	"name": "和平区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120101"
+}, {
+	"id": 120102,
+	"parentId": 120100,
+	"name": "河东区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120102"
+}, {
+	"id": 120103,
+	"parentId": 120100,
+	"name": "河西区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120103"
+}, {
+	"id": 120104,
+	"parentId": 120100,
+	"name": "南开区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120104"
+}, {
+	"id": 120105,
+	"parentId": 120100,
+	"name": "河北区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120105"
+}, {
+	"id": 120106,
+	"parentId": 120100,
+	"name": "红桥区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120106"
+}, {
+	"id": 120110,
+	"parentId": 120100,
+	"name": "东丽区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120110"
+}, {
+	"id": 120111,
+	"parentId": 120100,
+	"name": "西青区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120111"
+}, {
+	"id": 120112,
+	"parentId": 120100,
+	"name": "津南区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120112"
+}, {
+	"id": 120113,
+	"parentId": 120100,
+	"name": "北辰区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120113"
+}, {
+	"id": 120114,
+	"parentId": 120100,
+	"name": "武清区",
+	"level": 3,
+	"postalCode": "301700",
+	"areaNumber": "120114"
+}, {
+	"id": 120115,
+	"parentId": 120100,
+	"name": "宝坻区",
+	"level": 3,
+	"postalCode": "301800",
+	"areaNumber": "120115"
+}, {
+	"id": 120116,
+	"parentId": 120100,
+	"name": "滨海新区",
+	"level": 3,
+	"postalCode": "300457",
+	"areaNumber": "120116"
+}, {
+	"id": 120117,
+	"parentId": 120100,
+	"name": "宁河区",
+	"level": 3,
+	"postalCode": "301500",
+	"areaNumber": "120117"
+}, {
+	"id": 120118,
+	"parentId": 120100,
+	"name": "静海区",
+	"level": 3,
+	"postalCode": "301600",
+	"areaNumber": "120118"
+}, {
+	"id": 120119,
+	"parentId": 120100,
+	"name": "蓟州区",
+	"level": 3,
+	"postalCode": "301900",
+	"areaNumber": "120119"
+}, {
+	"id": 120120,
+	"parentId": 120100,
+	"name": "滨海高新区",
+	"level": 3,
+	"postalCode": "300000",
+	"areaNumber": "120120"
+}, {
+	"id": 130000,
+	"parentId": 100000,
+	"name": "河北省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "130000"
+}, {
+	"id": 130100,
+	"parentId": 130000,
+	"name": "石家庄市",
+	"level": 2,
+	"postalCode": "050000",
+	"areaNumber": "130100"
+}, {
+	"id": 130102,
+	"parentId": 130100,
+	"name": "长安区",
+	"level": 3,
+	"postalCode": "050000",
+	"areaNumber": "130102"
+}, {
+	"id": 130104,
+	"parentId": 130100,
+	"name": "桥西区",
+	"level": 3,
+	"postalCode": "050000",
+	"areaNumber": "130104"
+}, {
+	"id": 130105,
+	"parentId": 130100,
+	"name": "新华区",
+	"level": 3,
+	"postalCode": "050000",
+	"areaNumber": "130105"
+}, {
+	"id": 130107,
+	"parentId": 130100,
+	"name": "井陉矿区",
+	"level": 3,
+	"postalCode": "050100",
+	"areaNumber": "130107"
+}, {
+	"id": 130108,
+	"parentId": 130100,
+	"name": "裕华区",
+	"level": 3,
+	"postalCode": "050000",
+	"areaNumber": "130108"
+}, {
+	"id": 130109,
+	"parentId": 130100,
+	"name": "藁城区",
+	"level": 3,
+	"postalCode": "052160",
+	"areaNumber": "130109"
+}, {
+	"id": 130110,
+	"parentId": 130100,
+	"name": "鹿泉区",
+	"level": 3,
+	"postalCode": "050200",
+	"areaNumber": "130110"
+}, {
+	"id": 130111,
+	"parentId": 130100,
+	"name": "栾城区",
+	"level": 3,
+	"postalCode": "051430",
+	"areaNumber": "130111"
+}, {
+	"id": 130121,
+	"parentId": 130100,
+	"name": "井陉县",
+	"level": 3,
+	"postalCode": "050300",
+	"areaNumber": "130121"
+}, {
+	"id": 130123,
+	"parentId": 130100,
+	"name": "正定新区",
+	"level": 3,
+	"postalCode": "050800",
+	"areaNumber": "130123"
+}, {
+	"id": 130125,
+	"parentId": 130100,
+	"name": "行唐县",
+	"level": 3,
+	"postalCode": "050600",
+	"areaNumber": "130125"
+}, {
+	"id": 130126,
+	"parentId": 130100,
+	"name": "灵寿县",
+	"level": 3,
+	"postalCode": "050500",
+	"areaNumber": "130126"
+}, {
+	"id": 130127,
+	"parentId": 130100,
+	"name": "高邑县",
+	"level": 3,
+	"postalCode": "051330",
+	"areaNumber": "130127"
+}, {
+	"id": 130128,
+	"parentId": 130100,
+	"name": "深泽县",
+	"level": 3,
+	"postalCode": "052500",
+	"areaNumber": "130128"
+}, {
+	"id": 130129,
+	"parentId": 130100,
+	"name": "赞皇县",
+	"level": 3,
+	"postalCode": "051230",
+	"areaNumber": "130129"
+}, {
+	"id": 130130,
+	"parentId": 130100,
+	"name": "无极县",
+	"level": 3,
+	"postalCode": "052460",
+	"areaNumber": "130130"
+}, {
+	"id": 130131,
+	"parentId": 130100,
+	"name": "平山县",
+	"level": 3,
+	"postalCode": "050400",
+	"areaNumber": "130131"
+}, {
+	"id": 130132,
+	"parentId": 130100,
+	"name": "元氏县",
+	"level": 3,
+	"postalCode": "051130",
+	"areaNumber": "130132"
+}, {
+	"id": 130133,
+	"parentId": 130100,
+	"name": "赵县",
+	"level": 3,
+	"postalCode": "051530",
+	"areaNumber": "130133"
+}, {
+	"id": 130181,
+	"parentId": 130100,
+	"name": "辛集市",
+	"level": 3,
+	"postalCode": "052360",
+	"areaNumber": "130181"
+}, {
+	"id": 130183,
+	"parentId": 130100,
+	"name": "晋州市",
+	"level": 3,
+	"postalCode": "052200",
+	"areaNumber": "130183"
+}, {
+	"id": 130184,
+	"parentId": 130100,
+	"name": "新乐市",
+	"level": 3,
+	"postalCode": "050700",
+	"areaNumber": "130184"
+}, {
+	"id": 130185,
+	"parentId": 130100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "050000",
+	"areaNumber": "130185"
+}, {
+	"id": 130186,
+	"parentId": 130100,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "052165",
+	"areaNumber": "130186"
+}, {
+	"id": 130200,
+	"parentId": 130000,
+	"name": "唐山市",
+	"level": 2,
+	"postalCode": "063000",
+	"areaNumber": "130200"
+}, {
+	"id": 130202,
+	"parentId": 130200,
+	"name": "路南区",
+	"level": 3,
+	"postalCode": "063000",
+	"areaNumber": "130202"
+}, {
+	"id": 130203,
+	"parentId": 130200,
+	"name": "路北区",
+	"level": 3,
+	"postalCode": "063000",
+	"areaNumber": "130203"
+}, {
+	"id": 130204,
+	"parentId": 130200,
+	"name": "古冶区",
+	"level": 3,
+	"postalCode": "063100",
+	"areaNumber": "130204"
+}, {
+	"id": 130205,
+	"parentId": 130200,
+	"name": "开平区",
+	"level": 3,
+	"postalCode": "063000",
+	"areaNumber": "130205"
+}, {
+	"id": 130207,
+	"parentId": 130200,
+	"name": "丰南区",
+	"level": 3,
+	"postalCode": "063300",
+	"areaNumber": "130207"
+}, {
+	"id": 130208,
+	"parentId": 130200,
+	"name": "丰润区",
+	"level": 3,
+	"postalCode": "063000",
+	"areaNumber": "130208"
+}, {
+	"id": 130209,
+	"parentId": 130200,
+	"name": "曹妃甸区",
+	"level": 3,
+	"postalCode": "063200",
+	"areaNumber": "130209"
+}, {
+	"id": 130223,
+	"parentId": 130200,
+	"name": "滦县",
+	"level": 3,
+	"postalCode": "063700",
+	"areaNumber": "130223"
+}, {
+	"id": 130224,
+	"parentId": 130200,
+	"name": "滦南县",
+	"level": 3,
+	"postalCode": "063500",
+	"areaNumber": "130224"
+}, {
+	"id": 130225,
+	"parentId": 130200,
+	"name": "乐亭县",
+	"level": 3,
+	"postalCode": "063600",
+	"areaNumber": "130225"
+}, {
+	"id": 130227,
+	"parentId": 130200,
+	"name": "迁西县",
+	"level": 3,
+	"postalCode": "064300",
+	"areaNumber": "130227"
+}, {
+	"id": 130229,
+	"parentId": 130200,
+	"name": "玉田县",
+	"level": 3,
+	"postalCode": "064100",
+	"areaNumber": "130229"
+}, {
+	"id": 130281,
+	"parentId": 130200,
+	"name": "遵化市",
+	"level": 3,
+	"postalCode": "064200",
+	"areaNumber": "130281"
+}, {
+	"id": 130283,
+	"parentId": 130200,
+	"name": "迁安市",
+	"level": 3,
+	"postalCode": "064400",
+	"areaNumber": "130283"
+}, {
+	"id": 130300,
+	"parentId": 130000,
+	"name": "秦皇岛市",
+	"level": 2,
+	"postalCode": "066000",
+	"areaNumber": "130300"
+}, {
+	"id": 130302,
+	"parentId": 130300,
+	"name": "海港区",
+	"level": 3,
+	"postalCode": "066000",
+	"areaNumber": "130302"
+}, {
+	"id": 130303,
+	"parentId": 130300,
+	"name": "山海关区",
+	"level": 3,
+	"postalCode": "066200",
+	"areaNumber": "130303"
+}, {
+	"id": 130304,
+	"parentId": 130300,
+	"name": "北戴河区",
+	"level": 3,
+	"postalCode": "066100",
+	"areaNumber": "130304"
+}, {
+	"id": 130306,
+	"parentId": 130300,
+	"name": "抚宁区",
+	"level": 3,
+	"postalCode": "066300",
+	"areaNumber": "130306"
+}, {
+	"id": 130321,
+	"parentId": 130300,
+	"name": "青龙满族自治县",
+	"level": 3,
+	"postalCode": "066500",
+	"areaNumber": "130321"
+}, {
+	"id": 130322,
+	"parentId": 130300,
+	"name": "昌黎县",
+	"level": 3,
+	"postalCode": "066600",
+	"areaNumber": "130322"
+}, {
+	"id": 130324,
+	"parentId": 130300,
+	"name": "卢龙县",
+	"level": 3,
+	"postalCode": "066400",
+	"areaNumber": "130324"
+}, {
+	"id": 130325,
+	"parentId": 130300,
+	"name": "北戴河新区",
+	"level": 3,
+	"postalCode": "066311",
+	"areaNumber": "130325"
+}, {
+	"id": 130400,
+	"parentId": 130000,
+	"name": "邯郸市",
+	"level": 2,
+	"postalCode": "056000",
+	"areaNumber": "130400"
+}, {
+	"id": 130402,
+	"parentId": 130400,
+	"name": "邯山区",
+	"level": 3,
+	"postalCode": "056000",
+	"areaNumber": "130402"
+}, {
+	"id": 130403,
+	"parentId": 130400,
+	"name": "丛台区",
+	"level": 3,
+	"postalCode": "056000",
+	"areaNumber": "130403"
+}, {
+	"id": 130404,
+	"parentId": 130400,
+	"name": "复兴区",
+	"level": 3,
+	"postalCode": "056000",
+	"areaNumber": "130404"
+}, {
+	"id": 130406,
+	"parentId": 130400,
+	"name": "峰峰矿区",
+	"level": 3,
+	"postalCode": "056200",
+	"areaNumber": "130406"
+}, {
+	"id": 130407,
+	"parentId": 130400,
+	"name": "肥乡区",
+	"level": 3,
+	"postalCode": "057550",
+	"areaNumber": "130407"
+}, {
+	"id": 130408,
+	"parentId": 130400,
+	"name": "永年区",
+	"level": 3,
+	"postalCode": "057150",
+	"areaNumber": "130408"
+}, {
+	"id": 130423,
+	"parentId": 130400,
+	"name": "临漳县",
+	"level": 3,
+	"postalCode": "056600",
+	"areaNumber": "130423"
+}, {
+	"id": 130424,
+	"parentId": 130400,
+	"name": "成安县",
+	"level": 3,
+	"postalCode": "056700",
+	"areaNumber": "130424"
+}, {
+	"id": 130425,
+	"parentId": 130400,
+	"name": "大名县",
+	"level": 3,
+	"postalCode": "056900",
+	"areaNumber": "130425"
+}, {
+	"id": 130426,
+	"parentId": 130400,
+	"name": "涉县",
+	"level": 3,
+	"postalCode": "056400",
+	"areaNumber": "130426"
+}, {
+	"id": 130427,
+	"parentId": 130400,
+	"name": "磁县",
+	"level": 3,
+	"postalCode": "056500",
+	"areaNumber": "130427"
+}, {
+	"id": 130430,
+	"parentId": 130400,
+	"name": "邱县",
+	"level": 3,
+	"postalCode": "057450",
+	"areaNumber": "130430"
+}, {
+	"id": 130431,
+	"parentId": 130400,
+	"name": "鸡泽县",
+	"level": 3,
+	"postalCode": "057350",
+	"areaNumber": "130431"
+}, {
+	"id": 130432,
+	"parentId": 130400,
+	"name": "广平县",
+	"level": 3,
+	"postalCode": "057650",
+	"areaNumber": "130432"
+}, {
+	"id": 130433,
+	"parentId": 130400,
+	"name": "馆陶县",
+	"level": 3,
+	"postalCode": "057750",
+	"areaNumber": "130433"
+}, {
+	"id": 130434,
+	"parentId": 130400,
+	"name": "魏县",
+	"level": 3,
+	"postalCode": "056800",
+	"areaNumber": "130434"
+}, {
+	"id": 130435,
+	"parentId": 130400,
+	"name": "曲周县",
+	"level": 3,
+	"postalCode": "057250",
+	"areaNumber": "130435"
+}, {
+	"id": 130481,
+	"parentId": 130400,
+	"name": "武安市",
+	"level": 3,
+	"postalCode": "056300",
+	"areaNumber": "130481"
+}, {
+	"id": 130482,
+	"parentId": 130400,
+	"name": "高新技术产业开发区",
+	"level": 3,
+	"postalCode": "056000",
+	"areaNumber": "130482"
+}, {
+	"id": 130500,
+	"parentId": 130000,
+	"name": "邢台市",
+	"level": 2,
+	"postalCode": "054000",
+	"areaNumber": "130500"
+}, {
+	"id": 130502,
+	"parentId": 130500,
+	"name": "桥东区",
+	"level": 3,
+	"postalCode": "054000",
+	"areaNumber": "130502"
+}, {
+	"id": 130503,
+	"parentId": 130500,
+	"name": "桥西区",
+	"level": 3,
+	"postalCode": "054000",
+	"areaNumber": "130503"
+}, {
+	"id": 130521,
+	"parentId": 130500,
+	"name": "邢台县",
+	"level": 3,
+	"postalCode": "054000",
+	"areaNumber": "130521"
+}, {
+	"id": 130522,
+	"parentId": 130500,
+	"name": "临城县",
+	"level": 3,
+	"postalCode": "054300",
+	"areaNumber": "130522"
+}, {
+	"id": 130523,
+	"parentId": 130500,
+	"name": "内丘县",
+	"level": 3,
+	"postalCode": "054200",
+	"areaNumber": "130523"
+}, {
+	"id": 130524,
+	"parentId": 130500,
+	"name": "柏乡县",
+	"level": 3,
+	"postalCode": "055450",
+	"areaNumber": "130524"
+}, {
+	"id": 130525,
+	"parentId": 130500,
+	"name": "隆尧县",
+	"level": 3,
+	"postalCode": "055350",
+	"areaNumber": "130525"
+}, {
+	"id": 130526,
+	"parentId": 130500,
+	"name": "任县",
+	"level": 3,
+	"postalCode": "055150",
+	"areaNumber": "130526"
+}, {
+	"id": 130527,
+	"parentId": 130500,
+	"name": "南和县",
+	"level": 3,
+	"postalCode": "054400",
+	"areaNumber": "130527"
+}, {
+	"id": 130528,
+	"parentId": 130500,
+	"name": "宁晋县",
+	"level": 3,
+	"postalCode": "055550",
+	"areaNumber": "130528"
+}, {
+	"id": 130529,
+	"parentId": 130500,
+	"name": "巨鹿县",
+	"level": 3,
+	"postalCode": "055250",
+	"areaNumber": "130529"
+}, {
+	"id": 130530,
+	"parentId": 130500,
+	"name": "新河县",
+	"level": 3,
+	"postalCode": "051730",
+	"areaNumber": "130530"
+}, {
+	"id": 130531,
+	"parentId": 130500,
+	"name": "广宗县",
+	"level": 3,
+	"postalCode": "054600",
+	"areaNumber": "130531"
+}, {
+	"id": 130532,
+	"parentId": 130500,
+	"name": "平乡县",
+	"level": 3,
+	"postalCode": "054500",
+	"areaNumber": "130532"
+}, {
+	"id": 130533,
+	"parentId": 130500,
+	"name": "威县",
+	"level": 3,
+	"postalCode": "054700",
+	"areaNumber": "130533"
+}, {
+	"id": 130534,
+	"parentId": 130500,
+	"name": "清河县",
+	"level": 3,
+	"postalCode": "054800",
+	"areaNumber": "130534"
+}, {
+	"id": 130535,
+	"parentId": 130500,
+	"name": "临西县",
+	"level": 3,
+	"postalCode": "054900",
+	"areaNumber": "130535"
+}, {
+	"id": 130581,
+	"parentId": 130500,
+	"name": "南宫市",
+	"level": 3,
+	"postalCode": "051800",
+	"areaNumber": "130581"
+}, {
+	"id": 130582,
+	"parentId": 130500,
+	"name": "沙河市",
+	"level": 3,
+	"postalCode": "054100",
+	"areaNumber": "130582"
+}, {
+	"id": 130600,
+	"parentId": 130000,
+	"name": "保定市",
+	"level": 2,
+	"postalCode": "071000",
+	"areaNumber": "130600"
+}, {
+	"id": 130602,
+	"parentId": 130600,
+	"name": "竞秀区",
+	"level": 3,
+	"postalCode": "071052",
+	"areaNumber": "130602"
+}, {
+	"id": 130606,
+	"parentId": 130600,
+	"name": "莲池区",
+	"level": 3,
+	"postalCode": "071000",
+	"areaNumber": "130606"
+}, {
+	"id": 130607,
+	"parentId": 130600,
+	"name": "满城区",
+	"level": 3,
+	"postalCode": "072150",
+	"areaNumber": "130607"
+}, {
+	"id": 130608,
+	"parentId": 130600,
+	"name": "清苑区",
+	"level": 3,
+	"postalCode": "071100",
+	"areaNumber": "130608"
+}, {
+	"id": 130609,
+	"parentId": 130600,
+	"name": "徐水区",
+	"level": 3,
+	"postalCode": "072550",
+	"areaNumber": "130609"
+}, {
+	"id": 130623,
+	"parentId": 130600,
+	"name": "涞水县",
+	"level": 3,
+	"postalCode": "074100",
+	"areaNumber": "130623"
+}, {
+	"id": 130624,
+	"parentId": 130600,
+	"name": "阜平县",
+	"level": 3,
+	"postalCode": "073200",
+	"areaNumber": "130624"
+}, {
+	"id": 130626,
+	"parentId": 130600,
+	"name": "定兴县",
+	"level": 3,
+	"postalCode": "072650",
+	"areaNumber": "130626"
+}, {
+	"id": 130627,
+	"parentId": 130600,
+	"name": "唐县",
+	"level": 3,
+	"postalCode": "072350",
+	"areaNumber": "130627"
+}, {
+	"id": 130628,
+	"parentId": 130600,
+	"name": "高阳县",
+	"level": 3,
+	"postalCode": "071500",
+	"areaNumber": "130628"
+}, {
+	"id": 130629,
+	"parentId": 130600,
+	"name": "容城县",
+	"level": 3,
+	"postalCode": "071700",
+	"areaNumber": "130629"
+}, {
+	"id": 130630,
+	"parentId": 130600,
+	"name": "涞源县",
+	"level": 3,
+	"postalCode": "074300",
+	"areaNumber": "130630"
+}, {
+	"id": 130631,
+	"parentId": 130600,
+	"name": "望都县",
+	"level": 3,
+	"postalCode": "072450",
+	"areaNumber": "130631"
+}, {
+	"id": 130632,
+	"parentId": 130600,
+	"name": "安新县",
+	"level": 3,
+	"postalCode": "071600",
+	"areaNumber": "130632"
+}, {
+	"id": 130633,
+	"parentId": 130600,
+	"name": "易县",
+	"level": 3,
+	"postalCode": "074200",
+	"areaNumber": "130633"
+}, {
+	"id": 130634,
+	"parentId": 130600,
+	"name": "曲阳县",
+	"level": 3,
+	"postalCode": "073100",
+	"areaNumber": "130634"
+}, {
+	"id": 130635,
+	"parentId": 130600,
+	"name": "蠡县",
+	"level": 3,
+	"postalCode": "071400",
+	"areaNumber": "130635"
+}, {
+	"id": 130636,
+	"parentId": 130600,
+	"name": "顺平县",
+	"level": 3,
+	"postalCode": "072250",
+	"areaNumber": "130636"
+}, {
+	"id": 130637,
+	"parentId": 130600,
+	"name": "博野县",
+	"level": 3,
+	"postalCode": "071300",
+	"areaNumber": "130637"
+}, {
+	"id": 130638,
+	"parentId": 130600,
+	"name": "雄县",
+	"level": 3,
+	"postalCode": "071800",
+	"areaNumber": "130638"
+}, {
+	"id": 130681,
+	"parentId": 130600,
+	"name": "涿州市",
+	"level": 3,
+	"postalCode": "072750",
+	"areaNumber": "130681"
+}, {
+	"id": 130682,
+	"parentId": 130600,
+	"name": "定州市",
+	"level": 3,
+	"postalCode": "073000",
+	"areaNumber": "130682"
+}, {
+	"id": 130683,
+	"parentId": 130600,
+	"name": "安国市",
+	"level": 3,
+	"postalCode": "071200",
+	"areaNumber": "130683"
+}, {
+	"id": 130684,
+	"parentId": 130600,
+	"name": "高碑店市",
+	"level": 3,
+	"postalCode": "074000",
+	"areaNumber": "130684"
+}, {
+	"id": 130685,
+	"parentId": 130600,
+	"name": "雄安新区",
+	"level": 3,
+	"postalCode": "071000",
+	"areaNumber": "130685"
+}, {
+	"id": 130686,
+	"parentId": 130600,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "071000",
+	"areaNumber": "130686"
+}, {
+	"id": 130700,
+	"parentId": 130000,
+	"name": "张家口市",
+	"level": 2,
+	"postalCode": "075000",
+	"areaNumber": "130700"
+}, {
+	"id": 130702,
+	"parentId": 130700,
+	"name": "桥东区",
+	"level": 3,
+	"postalCode": "075000",
+	"areaNumber": "130702"
+}, {
+	"id": 130703,
+	"parentId": 130700,
+	"name": "桥西区",
+	"level": 3,
+	"postalCode": "075000",
+	"areaNumber": "130703"
+}, {
+	"id": 130705,
+	"parentId": 130700,
+	"name": "宣化区",
+	"level": 3,
+	"postalCode": "075000",
+	"areaNumber": "130705"
+}, {
+	"id": 130706,
+	"parentId": 130700,
+	"name": "下花园区",
+	"level": 3,
+	"postalCode": "075300",
+	"areaNumber": "130706"
+}, {
+	"id": 130708,
+	"parentId": 130700,
+	"name": "万全区",
+	"level": 3,
+	"postalCode": "076250",
+	"areaNumber": "130708"
+}, {
+	"id": 130709,
+	"parentId": 130700,
+	"name": "崇礼区",
+	"level": 3,
+	"postalCode": "076350",
+	"areaNumber": "130709"
+}, {
+	"id": 130722,
+	"parentId": 130700,
+	"name": "张北县",
+	"level": 3,
+	"postalCode": "076450",
+	"areaNumber": "130722"
+}, {
+	"id": 130723,
+	"parentId": 130700,
+	"name": "康保县",
+	"level": 3,
+	"postalCode": "076650",
+	"areaNumber": "130723"
+}, {
+	"id": 130724,
+	"parentId": 130700,
+	"name": "沽源县",
+	"level": 3,
+	"postalCode": "076550",
+	"areaNumber": "130724"
+}, {
+	"id": 130725,
+	"parentId": 130700,
+	"name": "尚义县",
+	"level": 3,
+	"postalCode": "076750",
+	"areaNumber": "130725"
+}, {
+	"id": 130726,
+	"parentId": 130700,
+	"name": "蔚县",
+	"level": 3,
+	"postalCode": "075700",
+	"areaNumber": "130726"
+}, {
+	"id": 130727,
+	"parentId": 130700,
+	"name": "阳原县",
+	"level": 3,
+	"postalCode": "075800",
+	"areaNumber": "130727"
+}, {
+	"id": 130728,
+	"parentId": 130700,
+	"name": "怀安县",
+	"level": 3,
+	"postalCode": "076150",
+	"areaNumber": "130728"
+}, {
+	"id": 130730,
+	"parentId": 130700,
+	"name": "怀来县",
+	"level": 3,
+	"postalCode": "075400",
+	"areaNumber": "130730"
+}, {
+	"id": 130731,
+	"parentId": 130700,
+	"name": "涿鹿县",
+	"level": 3,
+	"postalCode": "075600",
+	"areaNumber": "130731"
+}, {
+	"id": 130732,
+	"parentId": 130700,
+	"name": "赤城县",
+	"level": 3,
+	"postalCode": "075500",
+	"areaNumber": "130732"
+}, {
+	"id": 130800,
+	"parentId": 130000,
+	"name": "承德市",
+	"level": 2,
+	"postalCode": "067000",
+	"areaNumber": "130800"
+}, {
+	"id": 130802,
+	"parentId": 130800,
+	"name": "双桥区",
+	"level": 3,
+	"postalCode": "067000",
+	"areaNumber": "130802"
+}, {
+	"id": 130803,
+	"parentId": 130800,
+	"name": "双滦区",
+	"level": 3,
+	"postalCode": "067000",
+	"areaNumber": "130803"
+}, {
+	"id": 130804,
+	"parentId": 130800,
+	"name": "鹰手营子矿区",
+	"level": 3,
+	"postalCode": "067200",
+	"areaNumber": "130804"
+}, {
+	"id": 130821,
+	"parentId": 130800,
+	"name": "承德县",
+	"level": 3,
+	"postalCode": "067400",
+	"areaNumber": "130821"
+}, {
+	"id": 130822,
+	"parentId": 130800,
+	"name": "兴隆县",
+	"level": 3,
+	"postalCode": "067300",
+	"areaNumber": "130822"
+}, {
+	"id": 130824,
+	"parentId": 130800,
+	"name": "滦平县",
+	"level": 3,
+	"postalCode": "068250",
+	"areaNumber": "130824"
+}, {
+	"id": 130825,
+	"parentId": 130800,
+	"name": "隆化县",
+	"level": 3,
+	"postalCode": "068150",
+	"areaNumber": "130825"
+}, {
+	"id": 130826,
+	"parentId": 130800,
+	"name": "丰宁满族自治县",
+	"level": 3,
+	"postalCode": "068350",
+	"areaNumber": "130826"
+}, {
+	"id": 130827,
+	"parentId": 130800,
+	"name": "宽城满族自治县",
+	"level": 3,
+	"postalCode": "067600",
+	"areaNumber": "130827"
+}, {
+	"id": 130828,
+	"parentId": 130800,
+	"name": "围场满族蒙古族自治县",
+	"level": 3,
+	"postalCode": "068450",
+	"areaNumber": "130828"
+}, {
+	"id": 130881,
+	"parentId": 130800,
+	"name": "平泉市",
+	"level": 3,
+	"postalCode": "067500",
+	"areaNumber": "130881"
+}, {
+	"id": 130900,
+	"parentId": 130000,
+	"name": "沧州市",
+	"level": 2,
+	"postalCode": "061000",
+	"areaNumber": "130900"
+}, {
+	"id": 130902,
+	"parentId": 130900,
+	"name": "新华区",
+	"level": 3,
+	"postalCode": "061000",
+	"areaNumber": "130902"
+}, {
+	"id": 130903,
+	"parentId": 130900,
+	"name": "运河区",
+	"level": 3,
+	"postalCode": "061000",
+	"areaNumber": "130903"
+}, {
+	"id": 130921,
+	"parentId": 130900,
+	"name": "沧县",
+	"level": 3,
+	"postalCode": "061000",
+	"areaNumber": "130921"
+}, {
+	"id": 130922,
+	"parentId": 130900,
+	"name": "青县",
+	"level": 3,
+	"postalCode": "062650",
+	"areaNumber": "130922"
+}, {
+	"id": 130923,
+	"parentId": 130900,
+	"name": "东光县",
+	"level": 3,
+	"postalCode": "061600",
+	"areaNumber": "130923"
+}, {
+	"id": 130924,
+	"parentId": 130900,
+	"name": "海兴县",
+	"level": 3,
+	"postalCode": "061200",
+	"areaNumber": "130924"
+}, {
+	"id": 130925,
+	"parentId": 130900,
+	"name": "盐山县",
+	"level": 3,
+	"postalCode": "061300",
+	"areaNumber": "130925"
+}, {
+	"id": 130926,
+	"parentId": 130900,
+	"name": "肃宁县",
+	"level": 3,
+	"postalCode": "062350",
+	"areaNumber": "130926"
+}, {
+	"id": 130927,
+	"parentId": 130900,
+	"name": "南皮县",
+	"level": 3,
+	"postalCode": "061500",
+	"areaNumber": "130927"
+}, {
+	"id": 130928,
+	"parentId": 130900,
+	"name": "吴桥县",
+	"level": 3,
+	"postalCode": "061800",
+	"areaNumber": "130928"
+}, {
+	"id": 130929,
+	"parentId": 130900,
+	"name": "献县",
+	"level": 3,
+	"postalCode": "062250",
+	"areaNumber": "130929"
+}, {
+	"id": 130930,
+	"parentId": 130900,
+	"name": "孟村回族自治县",
+	"level": 3,
+	"postalCode": "061400",
+	"areaNumber": "130930"
+}, {
+	"id": 130981,
+	"parentId": 130900,
+	"name": "泊头市",
+	"level": 3,
+	"postalCode": "062150",
+	"areaNumber": "130981"
+}, {
+	"id": 130982,
+	"parentId": 130900,
+	"name": "任丘市",
+	"level": 3,
+	"postalCode": "062550",
+	"areaNumber": "130982"
+}, {
+	"id": 130983,
+	"parentId": 130900,
+	"name": "黄骅市",
+	"level": 3,
+	"postalCode": "061100",
+	"areaNumber": "130983"
+}, {
+	"id": 130984,
+	"parentId": 130900,
+	"name": "河间市",
+	"level": 3,
+	"postalCode": "062450",
+	"areaNumber": "130984"
+}, {
+	"id": 130985,
+	"parentId": 130900,
+	"name": "渤海新区",
+	"level": 3,
+	"postalCode": "061100",
+	"areaNumber": "130985"
+}, {
+	"id": 130986,
+	"parentId": 130900,
+	"name": "临港经济技术开发区",
+	"level": 3,
+	"postalCode": "061000",
+	"areaNumber": "130986"
+}, {
+	"id": 131000,
+	"parentId": 130000,
+	"name": "廊坊市",
+	"level": 2,
+	"postalCode": "065000",
+	"areaNumber": "131000"
+}, {
+	"id": 131002,
+	"parentId": 131000,
+	"name": "安次区",
+	"level": 3,
+	"postalCode": "065000",
+	"areaNumber": "131002"
+}, {
+	"id": 131003,
+	"parentId": 131000,
+	"name": "广阳区",
+	"level": 3,
+	"postalCode": "065000",
+	"areaNumber": "131003"
+}, {
+	"id": 131022,
+	"parentId": 131000,
+	"name": "固安县",
+	"level": 3,
+	"postalCode": "065500",
+	"areaNumber": "131022"
+}, {
+	"id": 131023,
+	"parentId": 131000,
+	"name": "永清县",
+	"level": 3,
+	"postalCode": "065600",
+	"areaNumber": "131023"
+}, {
+	"id": 131024,
+	"parentId": 131000,
+	"name": "香河县",
+	"level": 3,
+	"postalCode": "065400",
+	"areaNumber": "131024"
+}, {
+	"id": 131025,
+	"parentId": 131000,
+	"name": "大城县",
+	"level": 3,
+	"postalCode": "065900",
+	"areaNumber": "131025"
+}, {
+	"id": 131026,
+	"parentId": 131000,
+	"name": "文安县",
+	"level": 3,
+	"postalCode": "065800",
+	"areaNumber": "131026"
+}, {
+	"id": 131028,
+	"parentId": 131000,
+	"name": "大厂回族自治县",
+	"level": 3,
+	"postalCode": "065300",
+	"areaNumber": "131028"
+}, {
+	"id": 131081,
+	"parentId": 131000,
+	"name": "霸州市",
+	"level": 3,
+	"postalCode": "065700",
+	"areaNumber": "131081"
+}, {
+	"id": 131082,
+	"parentId": 131000,
+	"name": "三河市",
+	"level": 3,
+	"postalCode": "065200",
+	"areaNumber": "131082"
+}, {
+	"id": 131083,
+	"parentId": 131000,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "065001",
+	"areaNumber": "131083"
+}, {
+	"id": 131100,
+	"parentId": 130000,
+	"name": "衡水市",
+	"level": 2,
+	"postalCode": "053000",
+	"areaNumber": "131100"
+}, {
+	"id": 131102,
+	"parentId": 131100,
+	"name": "桃城区",
+	"level": 3,
+	"postalCode": "053000",
+	"areaNumber": "131102"
+}, {
+	"id": 131103,
+	"parentId": 131100,
+	"name": "冀州区",
+	"level": 3,
+	"postalCode": "053200",
+	"areaNumber": "131103"
+}, {
+	"id": 131121,
+	"parentId": 131100,
+	"name": "枣强县",
+	"level": 3,
+	"postalCode": "053100",
+	"areaNumber": "131121"
+}, {
+	"id": 131122,
+	"parentId": 131100,
+	"name": "武邑县",
+	"level": 3,
+	"postalCode": "053400",
+	"areaNumber": "131122"
+}, {
+	"id": 131123,
+	"parentId": 131100,
+	"name": "武强县",
+	"level": 3,
+	"postalCode": "053300",
+	"areaNumber": "131123"
+}, {
+	"id": 131124,
+	"parentId": 131100,
+	"name": "饶阳县",
+	"level": 3,
+	"postalCode": "053900",
+	"areaNumber": "131124"
+}, {
+	"id": 131125,
+	"parentId": 131100,
+	"name": "安平县",
+	"level": 3,
+	"postalCode": "053600",
+	"areaNumber": "131125"
+}, {
+	"id": 131126,
+	"parentId": 131100,
+	"name": "故城县",
+	"level": 3,
+	"postalCode": "253800",
+	"areaNumber": "131126"
+}, {
+	"id": 131127,
+	"parentId": 131100,
+	"name": "景县",
+	"level": 3,
+	"postalCode": "053500",
+	"areaNumber": "131127"
+}, {
+	"id": 131128,
+	"parentId": 131100,
+	"name": "阜城县",
+	"level": 3,
+	"postalCode": "053700",
+	"areaNumber": "131128"
+}, {
+	"id": 131182,
+	"parentId": 131100,
+	"name": "深州市",
+	"level": 3,
+	"postalCode": "053800",
+	"areaNumber": "131182"
+}, {
+	"id": 140000,
+	"parentId": 100000,
+	"name": "山西省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "140000"
+}, {
+	"id": 140100,
+	"parentId": 140000,
+	"name": "太原市",
+	"level": 2,
+	"postalCode": "030000",
+	"areaNumber": "140100"
+}, {
+	"id": 140105,
+	"parentId": 140100,
+	"name": "小店区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140105"
+}, {
+	"id": 140106,
+	"parentId": 140100,
+	"name": "迎泽区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140106"
+}, {
+	"id": 140107,
+	"parentId": 140100,
+	"name": "杏花岭区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140107"
+}, {
+	"id": 140108,
+	"parentId": 140100,
+	"name": "尖草坪区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140108"
+}, {
+	"id": 140109,
+	"parentId": 140100,
+	"name": "万柏林区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140109"
+}, {
+	"id": 140110,
+	"parentId": 140100,
+	"name": "晋源区",
+	"level": 3,
+	"postalCode": "030000",
+	"areaNumber": "140110"
+}, {
+	"id": 140121,
+	"parentId": 140100,
+	"name": "清徐县",
+	"level": 3,
+	"postalCode": "030400",
+	"areaNumber": "140121"
+}, {
+	"id": 140122,
+	"parentId": 140100,
+	"name": "阳曲县",
+	"level": 3,
+	"postalCode": "030100",
+	"areaNumber": "140122"
+}, {
+	"id": 140123,
+	"parentId": 140100,
+	"name": "娄烦县",
+	"level": 3,
+	"postalCode": "030300",
+	"areaNumber": "140123"
+}, {
+	"id": 140181,
+	"parentId": 140100,
+	"name": "古交市",
+	"level": 3,
+	"postalCode": "030200",
+	"areaNumber": "140181"
+}, {
+	"id": 140182,
+	"parentId": 140100,
+	"name": "高新阳曲园区",
+	"level": 3,
+	"postalCode": "030100",
+	"areaNumber": "140182"
+}, {
+	"id": 140183,
+	"parentId": 140100,
+	"name": "高新汾东园区",
+	"level": 3,
+	"postalCode": "030032",
+	"areaNumber": "140183"
+}, {
+	"id": 140184,
+	"parentId": 140100,
+	"name": "高新姚村园区",
+	"level": 3,
+	"postalCode": "030054",
+	"areaNumber": "140184"
+}, {
+	"id": 140200,
+	"parentId": 140000,
+	"name": "大同市",
+	"level": 2,
+	"postalCode": "037000",
+	"areaNumber": "140200"
+}, {
+	"id": 140202,
+	"parentId": 140200,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "037008",
+	"areaNumber": "140202"
+}, {
+	"id": 140203,
+	"parentId": 140200,
+	"name": "矿区",
+	"level": 3,
+	"postalCode": "037003",
+	"areaNumber": "140203"
+}, {
+	"id": 140211,
+	"parentId": 140200,
+	"name": "南郊区",
+	"level": 3,
+	"postalCode": "037001",
+	"areaNumber": "140211"
+}, {
+	"id": 140212,
+	"parentId": 140200,
+	"name": "新荣区",
+	"level": 3,
+	"postalCode": "037002",
+	"areaNumber": "140212"
+}, {
+	"id": 140221,
+	"parentId": 140200,
+	"name": "阳高县",
+	"level": 3,
+	"postalCode": "038100",
+	"areaNumber": "140221"
+}, {
+	"id": 140222,
+	"parentId": 140200,
+	"name": "天镇县",
+	"level": 3,
+	"postalCode": "038200",
+	"areaNumber": "140222"
+}, {
+	"id": 140223,
+	"parentId": 140200,
+	"name": "广灵县",
+	"level": 3,
+	"postalCode": "037500",
+	"areaNumber": "140223"
+}, {
+	"id": 140224,
+	"parentId": 140200,
+	"name": "灵丘县",
+	"level": 3,
+	"postalCode": "034400",
+	"areaNumber": "140224"
+}, {
+	"id": 140225,
+	"parentId": 140200,
+	"name": "浑源县",
+	"level": 3,
+	"postalCode": "037400",
+	"areaNumber": "140225"
+}, {
+	"id": 140226,
+	"parentId": 140200,
+	"name": "左云县",
+	"level": 3,
+	"postalCode": "037100",
+	"areaNumber": "140226"
+}, {
+	"id": 140227,
+	"parentId": 140200,
+	"name": "大同县",
+	"level": 3,
+	"postalCode": "037300",
+	"areaNumber": "140227"
+}, {
+	"id": 140228,
+	"parentId": 140200,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "037000",
+	"areaNumber": "140228"
+}, {
+	"id": 140300,
+	"parentId": 140000,
+	"name": "阳泉市",
+	"level": 2,
+	"postalCode": "045000",
+	"areaNumber": "140300"
+}, {
+	"id": 140302,
+	"parentId": 140300,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "045000",
+	"areaNumber": "140302"
+}, {
+	"id": 140303,
+	"parentId": 140300,
+	"name": "矿区",
+	"level": 3,
+	"postalCode": "045000",
+	"areaNumber": "140303"
+}, {
+	"id": 140311,
+	"parentId": 140300,
+	"name": "郊区",
+	"level": 3,
+	"postalCode": "045000",
+	"areaNumber": "140311"
+}, {
+	"id": 140321,
+	"parentId": 140300,
+	"name": "平定县",
+	"level": 3,
+	"postalCode": "045200",
+	"areaNumber": "140321"
+}, {
+	"id": 140322,
+	"parentId": 140300,
+	"name": "盂县",
+	"level": 3,
+	"postalCode": "045100",
+	"areaNumber": "140322"
+}, {
+	"id": 140400,
+	"parentId": 140000,
+	"name": "长治市",
+	"level": 2,
+	"postalCode": "046000",
+	"areaNumber": "140400"
+}, {
+	"id": 140402,
+	"parentId": 140400,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "046000",
+	"areaNumber": "140402"
+}, {
+	"id": 140411,
+	"parentId": 140400,
+	"name": "郊区",
+	"level": 3,
+	"postalCode": "046000",
+	"areaNumber": "140411"
+}, {
+	"id": 140421,
+	"parentId": 140400,
+	"name": "长治县",
+	"level": 3,
+	"postalCode": "047100",
+	"areaNumber": "140421"
+}, {
+	"id": 140423,
+	"parentId": 140400,
+	"name": "襄垣县",
+	"level": 3,
+	"postalCode": "046200",
+	"areaNumber": "140423"
+}, {
+	"id": 140424,
+	"parentId": 140400,
+	"name": "屯留县",
+	"level": 3,
+	"postalCode": "046100",
+	"areaNumber": "140424"
+}, {
+	"id": 140425,
+	"parentId": 140400,
+	"name": "平顺县",
+	"level": 3,
+	"postalCode": "047400",
+	"areaNumber": "140425"
+}, {
+	"id": 140426,
+	"parentId": 140400,
+	"name": "黎城县",
+	"level": 3,
+	"postalCode": "047600",
+	"areaNumber": "140426"
+}, {
+	"id": 140427,
+	"parentId": 140400,
+	"name": "壶关县",
+	"level": 3,
+	"postalCode": "047300",
+	"areaNumber": "140427"
+}, {
+	"id": 140428,
+	"parentId": 140400,
+	"name": "长子县",
+	"level": 3,
+	"postalCode": "046600",
+	"areaNumber": "140428"
+}, {
+	"id": 140429,
+	"parentId": 140400,
+	"name": "武乡县",
+	"level": 3,
+	"postalCode": "046300",
+	"areaNumber": "140429"
+}, {
+	"id": 140430,
+	"parentId": 140400,
+	"name": "沁县",
+	"level": 3,
+	"postalCode": "046400",
+	"areaNumber": "140430"
+}, {
+	"id": 140431,
+	"parentId": 140400,
+	"name": "沁源县",
+	"level": 3,
+	"postalCode": "046500",
+	"areaNumber": "140431"
+}, {
+	"id": 140481,
+	"parentId": 140400,
+	"name": "潞城市",
+	"level": 3,
+	"postalCode": "047500",
+	"areaNumber": "140481"
+}, {
+	"id": 140500,
+	"parentId": 140000,
+	"name": "晋城市",
+	"level": 2,
+	"postalCode": "048000",
+	"areaNumber": "140500"
+}, {
+	"id": 140502,
+	"parentId": 140500,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "048000",
+	"areaNumber": "140502"
+}, {
+	"id": 140521,
+	"parentId": 140500,
+	"name": "沁水县",
+	"level": 3,
+	"postalCode": "048200",
+	"areaNumber": "140521"
+}, {
+	"id": 140522,
+	"parentId": 140500,
+	"name": "阳城县",
+	"level": 3,
+	"postalCode": "048100",
+	"areaNumber": "140522"
+}, {
+	"id": 140524,
+	"parentId": 140500,
+	"name": "陵川县",
+	"level": 3,
+	"postalCode": "048300",
+	"areaNumber": "140524"
+}, {
+	"id": 140525,
+	"parentId": 140500,
+	"name": "泽州县",
+	"level": 3,
+	"postalCode": "048000",
+	"areaNumber": "140525"
+}, {
+	"id": 140581,
+	"parentId": 140500,
+	"name": "高平市",
+	"level": 3,
+	"postalCode": "048400",
+	"areaNumber": "140581"
+}, {
+	"id": 140582,
+	"parentId": 140500,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "048000",
+	"areaNumber": "140582"
+}, {
+	"id": 140600,
+	"parentId": 140000,
+	"name": "朔州市",
+	"level": 2,
+	"postalCode": "036000",
+	"areaNumber": "140600"
+}, {
+	"id": 140602,
+	"parentId": 140600,
+	"name": "朔城区",
+	"level": 3,
+	"postalCode": "036002",
+	"areaNumber": "140602"
+}, {
+	"id": 140603,
+	"parentId": 140600,
+	"name": "平鲁区",
+	"level": 3,
+	"postalCode": "036800",
+	"areaNumber": "140603"
+}, {
+	"id": 140621,
+	"parentId": 140600,
+	"name": "山阴县",
+	"level": 3,
+	"postalCode": "036900",
+	"areaNumber": "140621"
+}, {
+	"id": 140622,
+	"parentId": 140600,
+	"name": "应县",
+	"level": 3,
+	"postalCode": "037600",
+	"areaNumber": "140622"
+}, {
+	"id": 140623,
+	"parentId": 140600,
+	"name": "右玉县",
+	"level": 3,
+	"postalCode": "037200",
+	"areaNumber": "140623"
+}, {
+	"id": 140624,
+	"parentId": 140600,
+	"name": "怀仁县",
+	"level": 3,
+	"postalCode": "038300",
+	"areaNumber": "140624"
+}, {
+	"id": 140700,
+	"parentId": 140000,
+	"name": "晋中市",
+	"level": 2,
+	"postalCode": "030600",
+	"areaNumber": "140700"
+}, {
+	"id": 140702,
+	"parentId": 140700,
+	"name": "榆次区",
+	"level": 3,
+	"postalCode": "030600",
+	"areaNumber": "140702"
+}, {
+	"id": 140721,
+	"parentId": 140700,
+	"name": "榆社县",
+	"level": 3,
+	"postalCode": "031800",
+	"areaNumber": "140721"
+}, {
+	"id": 140722,
+	"parentId": 140700,
+	"name": "左权县",
+	"level": 3,
+	"postalCode": "032600",
+	"areaNumber": "140722"
+}, {
+	"id": 140723,
+	"parentId": 140700,
+	"name": "和顺县",
+	"level": 3,
+	"postalCode": "032700",
+	"areaNumber": "140723"
+}, {
+	"id": 140724,
+	"parentId": 140700,
+	"name": "昔阳县",
+	"level": 3,
+	"postalCode": "045300",
+	"areaNumber": "140724"
+}, {
+	"id": 140725,
+	"parentId": 140700,
+	"name": "寿阳县",
+	"level": 3,
+	"postalCode": "045400",
+	"areaNumber": "140725"
+}, {
+	"id": 140726,
+	"parentId": 140700,
+	"name": "太谷县",
+	"level": 3,
+	"postalCode": "030800",
+	"areaNumber": "140726"
+}, {
+	"id": 140727,
+	"parentId": 140700,
+	"name": "祁县",
+	"level": 3,
+	"postalCode": "030900",
+	"areaNumber": "140727"
+}, {
+	"id": 140728,
+	"parentId": 140700,
+	"name": "平遥县",
+	"level": 3,
+	"postalCode": "031100",
+	"areaNumber": "140728"
+}, {
+	"id": 140729,
+	"parentId": 140700,
+	"name": "灵石县",
+	"level": 3,
+	"postalCode": "031300",
+	"areaNumber": "140729"
+}, {
+	"id": 140781,
+	"parentId": 140700,
+	"name": "介休市",
+	"level": 3,
+	"postalCode": "032000",
+	"areaNumber": "140781"
+}, {
+	"id": 140800,
+	"parentId": 140000,
+	"name": "运城市",
+	"level": 2,
+	"postalCode": "044000",
+	"areaNumber": "140800"
+}, {
+	"id": 140802,
+	"parentId": 140800,
+	"name": "盐湖区",
+	"level": 3,
+	"postalCode": "044000",
+	"areaNumber": "140802"
+}, {
+	"id": 140821,
+	"parentId": 140800,
+	"name": "临猗县",
+	"level": 3,
+	"postalCode": "044100",
+	"areaNumber": "140821"
+}, {
+	"id": 140822,
+	"parentId": 140800,
+	"name": "万荣县",
+	"level": 3,
+	"postalCode": "044200",
+	"areaNumber": "140822"
+}, {
+	"id": 140823,
+	"parentId": 140800,
+	"name": "闻喜县",
+	"level": 3,
+	"postalCode": "043800",
+	"areaNumber": "140823"
+}, {
+	"id": 140824,
+	"parentId": 140800,
+	"name": "稷山县",
+	"level": 3,
+	"postalCode": "043200",
+	"areaNumber": "140824"
+}, {
+	"id": 140825,
+	"parentId": 140800,
+	"name": "新绛县",
+	"level": 3,
+	"postalCode": "043100",
+	"areaNumber": "140825"
+}, {
+	"id": 140826,
+	"parentId": 140800,
+	"name": "绛县",
+	"level": 3,
+	"postalCode": "043600",
+	"areaNumber": "140826"
+}, {
+	"id": 140827,
+	"parentId": 140800,
+	"name": "垣曲县",
+	"level": 3,
+	"postalCode": "043700",
+	"areaNumber": "140827"
+}, {
+	"id": 140828,
+	"parentId": 140800,
+	"name": "夏县",
+	"level": 3,
+	"postalCode": "044400",
+	"areaNumber": "140828"
+}, {
+	"id": 140829,
+	"parentId": 140800,
+	"name": "平陆县",
+	"level": 3,
+	"postalCode": "044300",
+	"areaNumber": "140829"
+}, {
+	"id": 140830,
+	"parentId": 140800,
+	"name": "芮城县",
+	"level": 3,
+	"postalCode": "044600",
+	"areaNumber": "140830"
+}, {
+	"id": 140881,
+	"parentId": 140800,
+	"name": "永济市",
+	"level": 3,
+	"postalCode": "044500",
+	"areaNumber": "140881"
+}, {
+	"id": 140882,
+	"parentId": 140800,
+	"name": "河津市",
+	"level": 3,
+	"postalCode": "043300",
+	"areaNumber": "140882"
+}, {
+	"id": 140900,
+	"parentId": 140000,
+	"name": "忻州市",
+	"level": 2,
+	"postalCode": "034000",
+	"areaNumber": "140900"
+}, {
+	"id": 140902,
+	"parentId": 140900,
+	"name": "忻府区",
+	"level": 3,
+	"postalCode": "034000",
+	"areaNumber": "140902"
+}, {
+	"id": 140921,
+	"parentId": 140900,
+	"name": "定襄县",
+	"level": 3,
+	"postalCode": "035400",
+	"areaNumber": "140921"
+}, {
+	"id": 140922,
+	"parentId": 140900,
+	"name": "五台县",
+	"level": 3,
+	"postalCode": "035500",
+	"areaNumber": "140922"
+}, {
+	"id": 140923,
+	"parentId": 140900,
+	"name": "代县",
+	"level": 3,
+	"postalCode": "034200",
+	"areaNumber": "140923"
+}, {
+	"id": 140924,
+	"parentId": 140900,
+	"name": "繁峙县",
+	"level": 3,
+	"postalCode": "034300",
+	"areaNumber": "140924"
+}, {
+	"id": 140925,
+	"parentId": 140900,
+	"name": "宁武县",
+	"level": 3,
+	"postalCode": "036000",
+	"areaNumber": "140925"
+}, {
+	"id": 140926,
+	"parentId": 140900,
+	"name": "静乐县",
+	"level": 3,
+	"postalCode": "035100",
+	"areaNumber": "140926"
+}, {
+	"id": 140927,
+	"parentId": 140900,
+	"name": "神池县",
+	"level": 3,
+	"postalCode": "036100",
+	"areaNumber": "140927"
+}, {
+	"id": 140928,
+	"parentId": 140900,
+	"name": "五寨县",
+	"level": 3,
+	"postalCode": "036200",
+	"areaNumber": "140928"
+}, {
+	"id": 140929,
+	"parentId": 140900,
+	"name": "岢岚县",
+	"level": 3,
+	"postalCode": "036300",
+	"areaNumber": "140929"
+}, {
+	"id": 140930,
+	"parentId": 140900,
+	"name": "河曲县",
+	"level": 3,
+	"postalCode": "036500",
+	"areaNumber": "140930"
+}, {
+	"id": 140931,
+	"parentId": 140900,
+	"name": "保德县",
+	"level": 3,
+	"postalCode": "036600",
+	"areaNumber": "140931"
+}, {
+	"id": 140932,
+	"parentId": 140900,
+	"name": "偏关县",
+	"level": 3,
+	"postalCode": "036400",
+	"areaNumber": "140932"
+}, {
+	"id": 140981,
+	"parentId": 140900,
+	"name": "原平市",
+	"level": 3,
+	"postalCode": "034100",
+	"areaNumber": "140981"
+}, {
+	"id": 141000,
+	"parentId": 140000,
+	"name": "临汾市",
+	"level": 2,
+	"postalCode": "041000",
+	"areaNumber": "141000"
+}, {
+	"id": 141002,
+	"parentId": 141000,
+	"name": "尧都区",
+	"level": 3,
+	"postalCode": "041000",
+	"areaNumber": "141002"
+}, {
+	"id": 141021,
+	"parentId": 141000,
+	"name": "曲沃县",
+	"level": 3,
+	"postalCode": "043400",
+	"areaNumber": "141021"
+}, {
+	"id": 141022,
+	"parentId": 141000,
+	"name": "翼城县",
+	"level": 3,
+	"postalCode": "043500",
+	"areaNumber": "141022"
+}, {
+	"id": 141023,
+	"parentId": 141000,
+	"name": "襄汾县",
+	"level": 3,
+	"postalCode": "041500",
+	"areaNumber": "141023"
+}, {
+	"id": 141024,
+	"parentId": 141000,
+	"name": "洪洞县",
+	"level": 3,
+	"postalCode": "031600",
+	"areaNumber": "141024"
+}, {
+	"id": 141025,
+	"parentId": 141000,
+	"name": "古县",
+	"level": 3,
+	"postalCode": "042400",
+	"areaNumber": "141025"
+}, {
+	"id": 141026,
+	"parentId": 141000,
+	"name": "安泽县",
+	"level": 3,
+	"postalCode": "042500",
+	"areaNumber": "141026"
+}, {
+	"id": 141027,
+	"parentId": 141000,
+	"name": "浮山县",
+	"level": 3,
+	"postalCode": "042600",
+	"areaNumber": "141027"
+}, {
+	"id": 141028,
+	"parentId": 141000,
+	"name": "吉县",
+	"level": 3,
+	"postalCode": "042200",
+	"areaNumber": "141028"
+}, {
+	"id": 141029,
+	"parentId": 141000,
+	"name": "乡宁县",
+	"level": 3,
+	"postalCode": "042100",
+	"areaNumber": "141029"
+}, {
+	"id": 141030,
+	"parentId": 141000,
+	"name": "大宁县",
+	"level": 3,
+	"postalCode": "042300",
+	"areaNumber": "141030"
+}, {
+	"id": 141031,
+	"parentId": 141000,
+	"name": "隰县",
+	"level": 3,
+	"postalCode": "041300",
+	"areaNumber": "141031"
+}, {
+	"id": 141032,
+	"parentId": 141000,
+	"name": "永和县",
+	"level": 3,
+	"postalCode": "041400",
+	"areaNumber": "141032"
+}, {
+	"id": 141033,
+	"parentId": 141000,
+	"name": "蒲县",
+	"level": 3,
+	"postalCode": "041200",
+	"areaNumber": "141033"
+}, {
+	"id": 141034,
+	"parentId": 141000,
+	"name": "汾西县",
+	"level": 3,
+	"postalCode": "031500",
+	"areaNumber": "141034"
+}, {
+	"id": 141081,
+	"parentId": 141000,
+	"name": "侯马市",
+	"level": 3,
+	"postalCode": "043000",
+	"areaNumber": "141081"
+}, {
+	"id": 141082,
+	"parentId": 141000,
+	"name": "霍州市",
+	"level": 3,
+	"postalCode": "031400",
+	"areaNumber": "141082"
+}, {
+	"id": 141100,
+	"parentId": 140000,
+	"name": "吕梁市",
+	"level": 2,
+	"postalCode": "033000",
+	"areaNumber": "141100"
+}, {
+	"id": 141102,
+	"parentId": 141100,
+	"name": "离石区",
+	"level": 3,
+	"postalCode": "033000",
+	"areaNumber": "141102"
+}, {
+	"id": 141121,
+	"parentId": 141100,
+	"name": "文水县",
+	"level": 3,
+	"postalCode": "032100",
+	"areaNumber": "141121"
+}, {
+	"id": 141122,
+	"parentId": 141100,
+	"name": "交城县",
+	"level": 3,
+	"postalCode": "030500",
+	"areaNumber": "141122"
+}, {
+	"id": 141123,
+	"parentId": 141100,
+	"name": "兴县",
+	"level": 3,
+	"postalCode": "033600",
+	"areaNumber": "141123"
+}, {
+	"id": 141124,
+	"parentId": 141100,
+	"name": "临县",
+	"level": 3,
+	"postalCode": "033200",
+	"areaNumber": "141124"
+}, {
+	"id": 141125,
+	"parentId": 141100,
+	"name": "柳林县",
+	"level": 3,
+	"postalCode": "033300",
+	"areaNumber": "141125"
+}, {
+	"id": 141126,
+	"parentId": 141100,
+	"name": "石楼县",
+	"level": 3,
+	"postalCode": "032500",
+	"areaNumber": "141126"
+}, {
+	"id": 141127,
+	"parentId": 141100,
+	"name": "岚县",
+	"level": 3,
+	"postalCode": "035200",
+	"areaNumber": "141127"
+}, {
+	"id": 141128,
+	"parentId": 141100,
+	"name": "方山县",
+	"level": 3,
+	"postalCode": "033100",
+	"areaNumber": "141128"
+}, {
+	"id": 141129,
+	"parentId": 141100,
+	"name": "中阳县",
+	"level": 3,
+	"postalCode": "033400",
+	"areaNumber": "141129"
+}, {
+	"id": 141130,
+	"parentId": 141100,
+	"name": "交口县",
+	"level": 3,
+	"postalCode": "032400",
+	"areaNumber": "141130"
+}, {
+	"id": 141181,
+	"parentId": 141100,
+	"name": "孝义市",
+	"level": 3,
+	"postalCode": "032300",
+	"areaNumber": "141181"
+}, {
+	"id": 141182,
+	"parentId": 141100,
+	"name": "汾阳市",
+	"level": 3,
+	"postalCode": "032200",
+	"areaNumber": "141182"
+}, {
+	"id": 150000,
+	"parentId": 100000,
+	"name": "内蒙古自治区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "150000"
+}, {
+	"id": 150100,
+	"parentId": 150000,
+	"name": "呼和浩特市",
+	"level": 2,
+	"postalCode": "010000",
+	"areaNumber": "150100"
+}, {
+	"id": 150102,
+	"parentId": 150100,
+	"name": "新城区",
+	"level": 3,
+	"postalCode": "010000",
+	"areaNumber": "150102"
+}, {
+	"id": 150103,
+	"parentId": 150100,
+	"name": "回民区",
+	"level": 3,
+	"postalCode": "010000",
+	"areaNumber": "150103"
+}, {
+	"id": 150104,
+	"parentId": 150100,
+	"name": "玉泉区",
+	"level": 3,
+	"postalCode": "010000",
+	"areaNumber": "150104"
+}, {
+	"id": 150105,
+	"parentId": 150100,
+	"name": "赛罕区",
+	"level": 3,
+	"postalCode": "010020",
+	"areaNumber": "150105"
+}, {
+	"id": 150121,
+	"parentId": 150100,
+	"name": "土默特左旗",
+	"level": 3,
+	"postalCode": "010100",
+	"areaNumber": "150121"
+}, {
+	"id": 150122,
+	"parentId": 150100,
+	"name": "托克托县",
+	"level": 3,
+	"postalCode": "010200",
+	"areaNumber": "150122"
+}, {
+	"id": 150123,
+	"parentId": 150100,
+	"name": "和林格尔县",
+	"level": 3,
+	"postalCode": "011500",
+	"areaNumber": "150123"
+}, {
+	"id": 150124,
+	"parentId": 150100,
+	"name": "清水河县",
+	"level": 3,
+	"postalCode": "011600",
+	"areaNumber": "150124"
+}, {
+	"id": 150125,
+	"parentId": 150100,
+	"name": "武川县",
+	"level": 3,
+	"postalCode": "011700",
+	"areaNumber": "150125"
+}, {
+	"id": 150200,
+	"parentId": 150000,
+	"name": "包头市",
+	"level": 2,
+	"postalCode": "014000",
+	"areaNumber": "150200"
+}, {
+	"id": 150202,
+	"parentId": 150200,
+	"name": "东河区",
+	"level": 3,
+	"postalCode": "014000",
+	"areaNumber": "150202"
+}, {
+	"id": 150203,
+	"parentId": 150200,
+	"name": "昆都仑区",
+	"level": 3,
+	"postalCode": "014010",
+	"areaNumber": "150203"
+}, {
+	"id": 150204,
+	"parentId": 150200,
+	"name": "青山区",
+	"level": 3,
+	"postalCode": "014000",
+	"areaNumber": "150204"
+}, {
+	"id": 150205,
+	"parentId": 150200,
+	"name": "石拐区",
+	"level": 3,
+	"postalCode": "014070",
+	"areaNumber": "150205"
+}, {
+	"id": 150206,
+	"parentId": 150200,
+	"name": "白云鄂博矿区",
+	"level": 3,
+	"postalCode": "014080",
+	"areaNumber": "150206"
+}, {
+	"id": 150207,
+	"parentId": 150200,
+	"name": "九原区",
+	"level": 3,
+	"postalCode": "014060",
+	"areaNumber": "150207"
+}, {
+	"id": 150221,
+	"parentId": 150200,
+	"name": "土默特右旗",
+	"level": 3,
+	"postalCode": "014100",
+	"areaNumber": "150221"
+}, {
+	"id": 150222,
+	"parentId": 150200,
+	"name": "固阳县",
+	"level": 3,
+	"postalCode": "014200",
+	"areaNumber": "150222"
+}, {
+	"id": 150223,
+	"parentId": 150200,
+	"name": "达尔罕茂明安联合旗",
+	"level": 3,
+	"postalCode": "014500",
+	"areaNumber": "150223"
+}, {
+	"id": 150300,
+	"parentId": 150000,
+	"name": "乌海市",
+	"level": 2,
+	"postalCode": "016000",
+	"areaNumber": "150300"
+}, {
+	"id": 150302,
+	"parentId": 150300,
+	"name": "海勃湾区",
+	"level": 3,
+	"postalCode": "016000",
+	"areaNumber": "150302"
+}, {
+	"id": 150303,
+	"parentId": 150300,
+	"name": "海南区",
+	"level": 3,
+	"postalCode": "016000",
+	"areaNumber": "150303"
+}, {
+	"id": 150304,
+	"parentId": 150300,
+	"name": "乌达区",
+	"level": 3,
+	"postalCode": "016000",
+	"areaNumber": "150304"
+}, {
+	"id": 150400,
+	"parentId": 150000,
+	"name": "赤峰市",
+	"level": 2,
+	"postalCode": "024000",
+	"areaNumber": "150400"
+}, {
+	"id": 150402,
+	"parentId": 150400,
+	"name": "红山区",
+	"level": 3,
+	"postalCode": "024000",
+	"areaNumber": "150402"
+}, {
+	"id": 150403,
+	"parentId": 150400,
+	"name": "元宝山区",
+	"level": 3,
+	"postalCode": "024000",
+	"areaNumber": "150403"
+}, {
+	"id": 150404,
+	"parentId": 150400,
+	"name": "松山区",
+	"level": 3,
+	"postalCode": "024000",
+	"areaNumber": "150404"
+}, {
+	"id": 150421,
+	"parentId": 150400,
+	"name": "阿鲁科尔沁旗",
+	"level": 3,
+	"postalCode": "025500",
+	"areaNumber": "150421"
+}, {
+	"id": 150422,
+	"parentId": 150400,
+	"name": "巴林左旗",
+	"level": 3,
+	"postalCode": "025450",
+	"areaNumber": "150422"
+}, {
+	"id": 150423,
+	"parentId": 150400,
+	"name": "巴林右旗",
+	"level": 3,
+	"postalCode": "025150",
+	"areaNumber": "150423"
+}, {
+	"id": 150424,
+	"parentId": 150400,
+	"name": "林西县",
+	"level": 3,
+	"postalCode": "025250",
+	"areaNumber": "150424"
+}, {
+	"id": 150425,
+	"parentId": 150400,
+	"name": "克什克腾旗",
+	"level": 3,
+	"postalCode": "025350",
+	"areaNumber": "150425"
+}, {
+	"id": 150426,
+	"parentId": 150400,
+	"name": "翁牛特旗",
+	"level": 3,
+	"postalCode": "024500",
+	"areaNumber": "150426"
+}, {
+	"id": 150428,
+	"parentId": 150400,
+	"name": "喀喇沁旗",
+	"level": 3,
+	"postalCode": "024400",
+	"areaNumber": "150428"
+}, {
+	"id": 150429,
+	"parentId": 150400,
+	"name": "宁城县",
+	"level": 3,
+	"postalCode": "024200",
+	"areaNumber": "150429"
+}, {
+	"id": 150430,
+	"parentId": 150400,
+	"name": "敖汉旗",
+	"level": 3,
+	"postalCode": "024300",
+	"areaNumber": "150430"
+}, {
+	"id": 150500,
+	"parentId": 150000,
+	"name": "通辽市",
+	"level": 2,
+	"postalCode": "028000",
+	"areaNumber": "150500"
+}, {
+	"id": 150502,
+	"parentId": 150500,
+	"name": "科尔沁区",
+	"level": 3,
+	"postalCode": "028000",
+	"areaNumber": "150502"
+}, {
+	"id": 150521,
+	"parentId": 150500,
+	"name": "科尔沁左翼中旗",
+	"level": 3,
+	"postalCode": "029300",
+	"areaNumber": "150521"
+}, {
+	"id": 150522,
+	"parentId": 150500,
+	"name": "科尔沁左翼后旗",
+	"level": 3,
+	"postalCode": "028100",
+	"areaNumber": "150522"
+}, {
+	"id": 150523,
+	"parentId": 150500,
+	"name": "开鲁县",
+	"level": 3,
+	"postalCode": "028400",
+	"areaNumber": "150523"
+}, {
+	"id": 150524,
+	"parentId": 150500,
+	"name": "库伦旗",
+	"level": 3,
+	"postalCode": "028200",
+	"areaNumber": "150524"
+}, {
+	"id": 150525,
+	"parentId": 150500,
+	"name": "奈曼旗",
+	"level": 3,
+	"postalCode": "028300",
+	"areaNumber": "150525"
+}, {
+	"id": 150526,
+	"parentId": 150500,
+	"name": "扎鲁特旗",
+	"level": 3,
+	"postalCode": "029100",
+	"areaNumber": "150526"
+}, {
+	"id": 150581,
+	"parentId": 150500,
+	"name": "霍林郭勒市",
+	"level": 3,
+	"postalCode": "029200",
+	"areaNumber": "150581"
+}, {
+	"id": 150600,
+	"parentId": 150000,
+	"name": "鄂尔多斯市",
+	"level": 2,
+	"postalCode": "017000",
+	"areaNumber": "150600"
+}, {
+	"id": 150602,
+	"parentId": 150600,
+	"name": "东胜区",
+	"level": 3,
+	"postalCode": "017000",
+	"areaNumber": "150602"
+}, {
+	"id": 150603,
+	"parentId": 150600,
+	"name": "康巴什区",
+	"level": 3,
+	"postalCode": "017000",
+	"areaNumber": "150603"
+}, {
+	"id": 150621,
+	"parentId": 150600,
+	"name": "达拉特旗",
+	"level": 3,
+	"postalCode": "014300",
+	"areaNumber": "150621"
+}, {
+	"id": 150622,
+	"parentId": 150600,
+	"name": "准格尔旗",
+	"level": 3,
+	"postalCode": "017100",
+	"areaNumber": "150622"
+}, {
+	"id": 150623,
+	"parentId": 150600,
+	"name": "鄂托克前旗",
+	"level": 3,
+	"postalCode": "016200",
+	"areaNumber": "150623"
+}, {
+	"id": 150624,
+	"parentId": 150600,
+	"name": "鄂托克旗",
+	"level": 3,
+	"postalCode": "016100",
+	"areaNumber": "150624"
+}, {
+	"id": 150625,
+	"parentId": 150600,
+	"name": "杭锦旗",
+	"level": 3,
+	"postalCode": "017400",
+	"areaNumber": "150625"
+}, {
+	"id": 150626,
+	"parentId": 150600,
+	"name": "乌审旗",
+	"level": 3,
+	"postalCode": "017300",
+	"areaNumber": "150626"
+}, {
+	"id": 150627,
+	"parentId": 150600,
+	"name": "伊金霍洛旗",
+	"level": 3,
+	"postalCode": "017200",
+	"areaNumber": "150627"
+}, {
+	"id": 150700,
+	"parentId": 150000,
+	"name": "呼伦贝尔市",
+	"level": 2,
+	"postalCode": "021000",
+	"areaNumber": "150700"
+}, {
+	"id": 150702,
+	"parentId": 150700,
+	"name": "海拉尔区",
+	"level": 3,
+	"postalCode": "021000",
+	"areaNumber": "150702"
+}, {
+	"id": 150703,
+	"parentId": 150700,
+	"name": "扎赉诺尔区",
+	"level": 3,
+	"postalCode": "021410",
+	"areaNumber": "150703"
+}, {
+	"id": 150721,
+	"parentId": 150700,
+	"name": "阿荣旗",
+	"level": 3,
+	"postalCode": "162750",
+	"areaNumber": "150721"
+}, {
+	"id": 150722,
+	"parentId": 150700,
+	"name": "莫力达瓦达斡尔族自治旗",
+	"level": 3,
+	"postalCode": "162850",
+	"areaNumber": "150722"
+}, {
+	"id": 150723,
+	"parentId": 150700,
+	"name": "鄂伦春自治旗",
+	"level": 3,
+	"postalCode": "022450",
+	"areaNumber": "150723"
+}, {
+	"id": 150724,
+	"parentId": 150700,
+	"name": "鄂温克族自治旗",
+	"level": 3,
+	"postalCode": "021100",
+	"areaNumber": "150724"
+}, {
+	"id": 150725,
+	"parentId": 150700,
+	"name": "陈巴尔虎旗",
+	"level": 3,
+	"postalCode": "021500",
+	"areaNumber": "150725"
+}, {
+	"id": 150726,
+	"parentId": 150700,
+	"name": "新巴尔虎左旗",
+	"level": 3,
+	"postalCode": "021200",
+	"areaNumber": "150726"
+}, {
+	"id": 150727,
+	"parentId": 150700,
+	"name": "新巴尔虎右旗",
+	"level": 3,
+	"postalCode": "021300",
+	"areaNumber": "150727"
+}, {
+	"id": 150781,
+	"parentId": 150700,
+	"name": "满洲里市",
+	"level": 3,
+	"postalCode": "021400",
+	"areaNumber": "150781"
+}, {
+	"id": 150782,
+	"parentId": 150700,
+	"name": "牙克石市",
+	"level": 3,
+	"postalCode": "022150",
+	"areaNumber": "150782"
+}, {
+	"id": 150783,
+	"parentId": 150700,
+	"name": "扎兰屯市",
+	"level": 3,
+	"postalCode": "162650",
+	"areaNumber": "150783"
+}, {
+	"id": 150784,
+	"parentId": 150700,
+	"name": "额尔古纳市",
+	"level": 3,
+	"postalCode": "022250",
+	"areaNumber": "150784"
+}, {
+	"id": 150785,
+	"parentId": 150700,
+	"name": "根河市",
+	"level": 3,
+	"postalCode": "022350",
+	"areaNumber": "150785"
+}, {
+	"id": 150800,
+	"parentId": 150000,
+	"name": "巴彦淖尔市",
+	"level": 2,
+	"postalCode": "015000",
+	"areaNumber": "150800"
+}, {
+	"id": 150802,
+	"parentId": 150800,
+	"name": "临河区",
+	"level": 3,
+	"postalCode": "015000",
+	"areaNumber": "150802"
+}, {
+	"id": 150821,
+	"parentId": 150800,
+	"name": "五原县",
+	"level": 3,
+	"postalCode": "015100",
+	"areaNumber": "150821"
+}, {
+	"id": 150822,
+	"parentId": 150800,
+	"name": "磴口县",
+	"level": 3,
+	"postalCode": "015200",
+	"areaNumber": "150822"
+}, {
+	"id": 150823,
+	"parentId": 150800,
+	"name": "乌拉特前旗",
+	"level": 3,
+	"postalCode": "014400",
+	"areaNumber": "150823"
+}, {
+	"id": 150824,
+	"parentId": 150800,
+	"name": "乌拉特中旗",
+	"level": 3,
+	"postalCode": "015300",
+	"areaNumber": "150824"
+}, {
+	"id": 150825,
+	"parentId": 150800,
+	"name": "乌拉特后旗",
+	"level": 3,
+	"postalCode": "015500",
+	"areaNumber": "150825"
+}, {
+	"id": 150826,
+	"parentId": 150800,
+	"name": "杭锦后旗",
+	"level": 3,
+	"postalCode": "015400",
+	"areaNumber": "150826"
+}, {
+	"id": 150900,
+	"parentId": 150000,
+	"name": "乌兰察布市",
+	"level": 2,
+	"postalCode": "012000",
+	"areaNumber": "150900"
+}, {
+	"id": 150902,
+	"parentId": 150900,
+	"name": "集宁区",
+	"level": 3,
+	"postalCode": "012000",
+	"areaNumber": "150902"
+}, {
+	"id": 150921,
+	"parentId": 150900,
+	"name": "卓资县",
+	"level": 3,
+	"postalCode": "012300",
+	"areaNumber": "150921"
+}, {
+	"id": 150922,
+	"parentId": 150900,
+	"name": "化德县",
+	"level": 3,
+	"postalCode": "013350",
+	"areaNumber": "150922"
+}, {
+	"id": 150923,
+	"parentId": 150900,
+	"name": "商都县",
+	"level": 3,
+	"postalCode": "013400",
+	"areaNumber": "150923"
+}, {
+	"id": 150924,
+	"parentId": 150900,
+	"name": "兴和县",
+	"level": 3,
+	"postalCode": "013650",
+	"areaNumber": "150924"
+}, {
+	"id": 150925,
+	"parentId": 150900,
+	"name": "凉城县",
+	"level": 3,
+	"postalCode": "013750",
+	"areaNumber": "150925"
+}, {
+	"id": 150926,
+	"parentId": 150900,
+	"name": "察哈尔右翼前旗",
+	"level": 3,
+	"postalCode": "012200",
+	"areaNumber": "150926"
+}, {
+	"id": 150927,
+	"parentId": 150900,
+	"name": "察哈尔右翼中旗",
+	"level": 3,
+	"postalCode": "013500",
+	"areaNumber": "150927"
+}, {
+	"id": 150928,
+	"parentId": 150900,
+	"name": "察哈尔右翼后旗",
+	"level": 3,
+	"postalCode": "012400",
+	"areaNumber": "150928"
+}, {
+	"id": 150929,
+	"parentId": 150900,
+	"name": "四子王旗",
+	"level": 3,
+	"postalCode": "011800",
+	"areaNumber": "150929"
+}, {
+	"id": 150981,
+	"parentId": 150900,
+	"name": "丰镇市",
+	"level": 3,
+	"postalCode": "012100",
+	"areaNumber": "150981"
+}, {
+	"id": 152200,
+	"parentId": 150000,
+	"name": "兴安盟",
+	"level": 2,
+	"postalCode": "137400",
+	"areaNumber": "152200"
+}, {
+	"id": 152201,
+	"parentId": 152200,
+	"name": "乌兰浩特市",
+	"level": 3,
+	"postalCode": "137400",
+	"areaNumber": "152201"
+}, {
+	"id": 152202,
+	"parentId": 152200,
+	"name": "阿尔山市",
+	"level": 3,
+	"postalCode": "137400",
+	"areaNumber": "152202"
+}, {
+	"id": 152221,
+	"parentId": 152200,
+	"name": "科尔沁右翼前旗",
+	"level": 3,
+	"postalCode": "137400",
+	"areaNumber": "152221"
+}, {
+	"id": 152222,
+	"parentId": 152200,
+	"name": "科尔沁右翼中旗",
+	"level": 3,
+	"postalCode": "029400",
+	"areaNumber": "152222"
+}, {
+	"id": 152223,
+	"parentId": 152200,
+	"name": "扎赉特旗",
+	"level": 3,
+	"postalCode": "137600",
+	"areaNumber": "152223"
+}, {
+	"id": 152224,
+	"parentId": 152200,
+	"name": "突泉县",
+	"level": 3,
+	"postalCode": "137500",
+	"areaNumber": "152224"
+}, {
+	"id": 152500,
+	"parentId": 150000,
+	"name": "锡林郭勒盟",
+	"level": 2,
+	"postalCode": "026000",
+	"areaNumber": "152500"
+}, {
+	"id": 152501,
+	"parentId": 152500,
+	"name": "二连浩特市",
+	"level": 3,
+	"postalCode": "012600",
+	"areaNumber": "152501"
+}, {
+	"id": 152502,
+	"parentId": 152500,
+	"name": "锡林浩特市",
+	"level": 3,
+	"postalCode": "026000",
+	"areaNumber": "152502"
+}, {
+	"id": 152522,
+	"parentId": 152500,
+	"name": "阿巴嘎旗",
+	"level": 3,
+	"postalCode": "011400",
+	"areaNumber": "152522"
+}, {
+	"id": 152523,
+	"parentId": 152500,
+	"name": "苏尼特左旗",
+	"level": 3,
+	"postalCode": "011300",
+	"areaNumber": "152523"
+}, {
+	"id": 152524,
+	"parentId": 152500,
+	"name": "苏尼特右旗",
+	"level": 3,
+	"postalCode": "011200",
+	"areaNumber": "152524"
+}, {
+	"id": 152525,
+	"parentId": 152500,
+	"name": "东乌珠穆沁旗",
+	"level": 3,
+	"postalCode": "026300",
+	"areaNumber": "152525"
+}, {
+	"id": 152526,
+	"parentId": 152500,
+	"name": "西乌珠穆沁旗",
+	"level": 3,
+	"postalCode": "026200",
+	"areaNumber": "152526"
+}, {
+	"id": 152527,
+	"parentId": 152500,
+	"name": "太仆寺旗",
+	"level": 3,
+	"postalCode": "027000",
+	"areaNumber": "152527"
+}, {
+	"id": 152528,
+	"parentId": 152500,
+	"name": "镶黄旗",
+	"level": 3,
+	"postalCode": "013250",
+	"areaNumber": "152528"
+}, {
+	"id": 152529,
+	"parentId": 152500,
+	"name": "正镶白旗",
+	"level": 3,
+	"postalCode": "013800",
+	"areaNumber": "152529"
+}, {
+	"id": 152530,
+	"parentId": 152500,
+	"name": "正蓝旗",
+	"level": 3,
+	"postalCode": "027200",
+	"areaNumber": "152530"
+}, {
+	"id": 152531,
+	"parentId": 152500,
+	"name": "多伦县",
+	"level": 3,
+	"postalCode": "027300",
+	"areaNumber": "152531"
+}, {
+	"id": 152900,
+	"parentId": 150000,
+	"name": "阿拉善盟",
+	"level": 2,
+	"postalCode": "750300",
+	"areaNumber": "152900"
+}, {
+	"id": 152921,
+	"parentId": 152900,
+	"name": "阿拉善左旗",
+	"level": 3,
+	"postalCode": "750300",
+	"areaNumber": "152921"
+}, {
+	"id": 152922,
+	"parentId": 152900,
+	"name": "阿拉善右旗",
+	"level": 3,
+	"postalCode": "737300",
+	"areaNumber": "152922"
+}, {
+	"id": 152923,
+	"parentId": 152900,
+	"name": "额济纳旗",
+	"level": 3,
+	"postalCode": "735400",
+	"areaNumber": "152923"
+}, {
+	"id": 210000,
+	"parentId": 100000,
+	"name": "辽宁省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "210000"
+}, {
+	"id": 210100,
+	"parentId": 210000,
+	"name": "沈阳市",
+	"level": 2,
+	"postalCode": "110000",
+	"areaNumber": "210100"
+}, {
+	"id": 210102,
+	"parentId": 210100,
+	"name": "和平区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210102"
+}, {
+	"id": 210103,
+	"parentId": 210100,
+	"name": "沈河区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210103"
+}, {
+	"id": 210104,
+	"parentId": 210100,
+	"name": "大东区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210104"
+}, {
+	"id": 210105,
+	"parentId": 210100,
+	"name": "皇姑区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210105"
+}, {
+	"id": 210106,
+	"parentId": 210100,
+	"name": "铁西区",
+	"level": 3,
+	"postalCode": "110020",
+	"areaNumber": "210106"
+}, {
+	"id": 210111,
+	"parentId": 210100,
+	"name": "苏家屯区",
+	"level": 3,
+	"postalCode": "110101",
+	"areaNumber": "210111"
+}, {
+	"id": 210112,
+	"parentId": 210100,
+	"name": "浑南区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210112"
+}, {
+	"id": 210113,
+	"parentId": 210100,
+	"name": "沈北新区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210113"
+}, {
+	"id": 210114,
+	"parentId": 210100,
+	"name": "于洪区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210114"
+}, {
+	"id": 210115,
+	"parentId": 210100,
+	"name": "辽中区",
+	"level": 3,
+	"postalCode": "110200",
+	"areaNumber": "210115"
+}, {
+	"id": 210123,
+	"parentId": 210100,
+	"name": "康平县",
+	"level": 3,
+	"postalCode": "110500",
+	"areaNumber": "210123"
+}, {
+	"id": 210124,
+	"parentId": 210100,
+	"name": "法库县",
+	"level": 3,
+	"postalCode": "110400",
+	"areaNumber": "210124"
+}, {
+	"id": 210181,
+	"parentId": 210100,
+	"name": "新民市",
+	"level": 3,
+	"postalCode": "110300",
+	"areaNumber": "210181"
+}, {
+	"id": 210182,
+	"parentId": 210100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "110000",
+	"areaNumber": "210182"
+}, {
+	"id": 210200,
+	"parentId": 210000,
+	"name": "大连市",
+	"level": 2,
+	"postalCode": "116000",
+	"areaNumber": "210200"
+}, {
+	"id": 210202,
+	"parentId": 210200,
+	"name": "中山区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210202"
+}, {
+	"id": 210203,
+	"parentId": 210200,
+	"name": "西岗区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210203"
+}, {
+	"id": 210204,
+	"parentId": 210200,
+	"name": "沙河口区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210204"
+}, {
+	"id": 210211,
+	"parentId": 210200,
+	"name": "甘井子区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210211"
+}, {
+	"id": 210212,
+	"parentId": 210200,
+	"name": "旅顺口区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210212"
+}, {
+	"id": 210213,
+	"parentId": 210200,
+	"name": "金州区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210213"
+}, {
+	"id": 210214,
+	"parentId": 210200,
+	"name": "普兰店区",
+	"level": 3,
+	"postalCode": "116200",
+	"areaNumber": "210214"
+}, {
+	"id": 210224,
+	"parentId": 210200,
+	"name": "长海县",
+	"level": 3,
+	"postalCode": "116500",
+	"areaNumber": "210224"
+}, {
+	"id": 210281,
+	"parentId": 210200,
+	"name": "瓦房店市",
+	"level": 3,
+	"postalCode": "116300",
+	"areaNumber": "210281"
+}, {
+	"id": 210283,
+	"parentId": 210200,
+	"name": "庄河市",
+	"level": 3,
+	"postalCode": "116400",
+	"areaNumber": "210283"
+}, {
+	"id": 210284,
+	"parentId": 210200,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210284"
+}, {
+	"id": 210285,
+	"parentId": 210200,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "116000",
+	"areaNumber": "210285"
+}, {
+	"id": 210286,
+	"parentId": 210200,
+	"name": "金普新区",
+	"level": 3,
+	"postalCode": "116100",
+	"areaNumber": "210286"
+}, {
+	"id": 210300,
+	"parentId": 210000,
+	"name": "鞍山市",
+	"level": 2,
+	"postalCode": "114000",
+	"areaNumber": "210300"
+}, {
+	"id": 210302,
+	"parentId": 210300,
+	"name": "铁东区",
+	"level": 3,
+	"postalCode": "114000",
+	"areaNumber": "210302"
+}, {
+	"id": 210303,
+	"parentId": 210300,
+	"name": "铁西区",
+	"level": 3,
+	"postalCode": "114000",
+	"areaNumber": "210303"
+}, {
+	"id": 210304,
+	"parentId": 210300,
+	"name": "立山区",
+	"level": 3,
+	"postalCode": "114031",
+	"areaNumber": "210304"
+}, {
+	"id": 210311,
+	"parentId": 210300,
+	"name": "千山区",
+	"level": 3,
+	"postalCode": "114000",
+	"areaNumber": "210311"
+}, {
+	"id": 210321,
+	"parentId": 210300,
+	"name": "台安县",
+	"level": 3,
+	"postalCode": "114100",
+	"areaNumber": "210321"
+}, {
+	"id": 210323,
+	"parentId": 210300,
+	"name": "岫岩满族自治县",
+	"level": 3,
+	"postalCode": "114300",
+	"areaNumber": "210323"
+}, {
+	"id": 210381,
+	"parentId": 210300,
+	"name": "海城市",
+	"level": 3,
+	"postalCode": "114200",
+	"areaNumber": "210381"
+}, {
+	"id": 210382,
+	"parentId": 210300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "114000",
+	"areaNumber": "210382"
+}, {
+	"id": 210400,
+	"parentId": 210000,
+	"name": "抚顺市",
+	"level": 2,
+	"postalCode": "113000",
+	"areaNumber": "210400"
+}, {
+	"id": 210402,
+	"parentId": 210400,
+	"name": "新抚区",
+	"level": 3,
+	"postalCode": "113000",
+	"areaNumber": "210402"
+}, {
+	"id": 210403,
+	"parentId": 210400,
+	"name": "东洲区",
+	"level": 3,
+	"postalCode": "113000",
+	"areaNumber": "210403"
+}, {
+	"id": 210404,
+	"parentId": 210400,
+	"name": "望花区",
+	"level": 3,
+	"postalCode": "113000",
+	"areaNumber": "210404"
+}, {
+	"id": 210411,
+	"parentId": 210400,
+	"name": "顺城区",
+	"level": 3,
+	"postalCode": "113000",
+	"areaNumber": "210411"
+}, {
+	"id": 210421,
+	"parentId": 210400,
+	"name": "抚顺县",
+	"level": 3,
+	"postalCode": "113100",
+	"areaNumber": "210421"
+}, {
+	"id": 210422,
+	"parentId": 210400,
+	"name": "新宾满族自治县",
+	"level": 3,
+	"postalCode": "113200",
+	"areaNumber": "210422"
+}, {
+	"id": 210423,
+	"parentId": 210400,
+	"name": "清原满族自治县",
+	"level": 3,
+	"postalCode": "113300",
+	"areaNumber": "210423"
+}, {
+	"id": 210500,
+	"parentId": 210000,
+	"name": "本溪市",
+	"level": 2,
+	"postalCode": "117000",
+	"areaNumber": "210500"
+}, {
+	"id": 210502,
+	"parentId": 210500,
+	"name": "平山区",
+	"level": 3,
+	"postalCode": "117000",
+	"areaNumber": "210502"
+}, {
+	"id": 210503,
+	"parentId": 210500,
+	"name": "溪湖区",
+	"level": 3,
+	"postalCode": "117000",
+	"areaNumber": "210503"
+}, {
+	"id": 210504,
+	"parentId": 210500,
+	"name": "明山区",
+	"level": 3,
+	"postalCode": "117000",
+	"areaNumber": "210504"
+}, {
+	"id": 210505,
+	"parentId": 210500,
+	"name": "南芬区",
+	"level": 3,
+	"postalCode": "117000",
+	"areaNumber": "210505"
+}, {
+	"id": 210521,
+	"parentId": 210500,
+	"name": "本溪满族自治县",
+	"level": 3,
+	"postalCode": "117100",
+	"areaNumber": "210521"
+}, {
+	"id": 210522,
+	"parentId": 210500,
+	"name": "桓仁满族自治县",
+	"level": 3,
+	"postalCode": "117200",
+	"areaNumber": "210522"
+}, {
+	"id": 210600,
+	"parentId": 210000,
+	"name": "丹东市",
+	"level": 2,
+	"postalCode": "118000",
+	"areaNumber": "210600"
+}, {
+	"id": 210602,
+	"parentId": 210600,
+	"name": "元宝区",
+	"level": 3,
+	"postalCode": "118000",
+	"areaNumber": "210602"
+}, {
+	"id": 210603,
+	"parentId": 210600,
+	"name": "振兴区",
+	"level": 3,
+	"postalCode": "118000",
+	"areaNumber": "210603"
+}, {
+	"id": 210604,
+	"parentId": 210600,
+	"name": "振安区",
+	"level": 3,
+	"postalCode": "118000",
+	"areaNumber": "210604"
+}, {
+	"id": 210624,
+	"parentId": 210600,
+	"name": "宽甸满族自治县",
+	"level": 3,
+	"postalCode": "118200",
+	"areaNumber": "210624"
+}, {
+	"id": 210681,
+	"parentId": 210600,
+	"name": "东港市",
+	"level": 3,
+	"postalCode": "118300",
+	"areaNumber": "210681"
+}, {
+	"id": 210682,
+	"parentId": 210600,
+	"name": "凤城市",
+	"level": 3,
+	"postalCode": "118100",
+	"areaNumber": "210682"
+}, {
+	"id": 210700,
+	"parentId": 210000,
+	"name": "锦州市",
+	"level": 2,
+	"postalCode": "121000",
+	"areaNumber": "210700"
+}, {
+	"id": 210702,
+	"parentId": 210700,
+	"name": "古塔区",
+	"level": 3,
+	"postalCode": "121000",
+	"areaNumber": "210702"
+}, {
+	"id": 210703,
+	"parentId": 210700,
+	"name": "凌河区",
+	"level": 3,
+	"postalCode": "121000",
+	"areaNumber": "210703"
+}, {
+	"id": 210711,
+	"parentId": 210700,
+	"name": "太和区",
+	"level": 3,
+	"postalCode": "121000",
+	"areaNumber": "210711"
+}, {
+	"id": 210726,
+	"parentId": 210700,
+	"name": "黑山县",
+	"level": 3,
+	"postalCode": "121400",
+	"areaNumber": "210726"
+}, {
+	"id": 210727,
+	"parentId": 210700,
+	"name": "义县",
+	"level": 3,
+	"postalCode": "121100",
+	"areaNumber": "210727"
+}, {
+	"id": 210781,
+	"parentId": 210700,
+	"name": "凌海市",
+	"level": 3,
+	"postalCode": "121200",
+	"areaNumber": "210781"
+}, {
+	"id": 210782,
+	"parentId": 210700,
+	"name": "北镇市",
+	"level": 3,
+	"postalCode": "121300",
+	"areaNumber": "210782"
+}, {
+	"id": 210783,
+	"parentId": 210700,
+	"name": "松山新区",
+	"level": 3,
+	"postalCode": "121221",
+	"areaNumber": "210783"
+}, {
+	"id": 210784,
+	"parentId": 210700,
+	"name": "龙栖湾新区",
+	"level": 3,
+	"postalCode": "121007",
+	"areaNumber": "210784"
+}, {
+	"id": 210785,
+	"parentId": 210700,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "121007",
+	"areaNumber": "210785"
+}, {
+	"id": 210800,
+	"parentId": 210000,
+	"name": "营口市",
+	"level": 2,
+	"postalCode": "115000",
+	"areaNumber": "210800"
+}, {
+	"id": 210802,
+	"parentId": 210800,
+	"name": "站前区",
+	"level": 3,
+	"postalCode": "115000",
+	"areaNumber": "210802"
+}, {
+	"id": 210803,
+	"parentId": 210800,
+	"name": "西市区",
+	"level": 3,
+	"postalCode": "115000",
+	"areaNumber": "210803"
+}, {
+	"id": 210804,
+	"parentId": 210800,
+	"name": "鲅鱼圈区",
+	"level": 3,
+	"postalCode": "115000",
+	"areaNumber": "210804"
+}, {
+	"id": 210811,
+	"parentId": 210800,
+	"name": "老边区",
+	"level": 3,
+	"postalCode": "115000",
+	"areaNumber": "210811"
+}, {
+	"id": 210881,
+	"parentId": 210800,
+	"name": "盖州市",
+	"level": 3,
+	"postalCode": "115200",
+	"areaNumber": "210881"
+}, {
+	"id": 210882,
+	"parentId": 210800,
+	"name": "大石桥市",
+	"level": 3,
+	"postalCode": "115100",
+	"areaNumber": "210882"
+}, {
+	"id": 210900,
+	"parentId": 210000,
+	"name": "阜新市",
+	"level": 2,
+	"postalCode": "123000",
+	"areaNumber": "210900"
+}, {
+	"id": 210902,
+	"parentId": 210900,
+	"name": "海州区",
+	"level": 3,
+	"postalCode": "123000",
+	"areaNumber": "210902"
+}, {
+	"id": 210903,
+	"parentId": 210900,
+	"name": "新邱区",
+	"level": 3,
+	"postalCode": "123000",
+	"areaNumber": "210903"
+}, {
+	"id": 210904,
+	"parentId": 210900,
+	"name": "太平区",
+	"level": 3,
+	"postalCode": "123000",
+	"areaNumber": "210904"
+}, {
+	"id": 210905,
+	"parentId": 210900,
+	"name": "清河门区",
+	"level": 3,
+	"postalCode": "123000",
+	"areaNumber": "210905"
+}, {
+	"id": 210911,
+	"parentId": 210900,
+	"name": "细河区",
+	"level": 3,
+	"postalCode": "123000",
+	"areaNumber": "210911"
+}, {
+	"id": 210921,
+	"parentId": 210900,
+	"name": "阜新蒙古族自治县",
+	"level": 3,
+	"postalCode": "123100",
+	"areaNumber": "210921"
+}, {
+	"id": 210922,
+	"parentId": 210900,
+	"name": "彰武县",
+	"level": 3,
+	"postalCode": "123200",
+	"areaNumber": "210922"
+}, {
+	"id": 211000,
+	"parentId": 210000,
+	"name": "辽阳市",
+	"level": 2,
+	"postalCode": "111000",
+	"areaNumber": "211000"
+}, {
+	"id": 211002,
+	"parentId": 211000,
+	"name": "白塔区",
+	"level": 3,
+	"postalCode": "111000",
+	"areaNumber": "211002"
+}, {
+	"id": 211003,
+	"parentId": 211000,
+	"name": "文圣区",
+	"level": 3,
+	"postalCode": "111000",
+	"areaNumber": "211003"
+}, {
+	"id": 211004,
+	"parentId": 211000,
+	"name": "宏伟区",
+	"level": 3,
+	"postalCode": "111000",
+	"areaNumber": "211004"
+}, {
+	"id": 211005,
+	"parentId": 211000,
+	"name": "弓长岭区",
+	"level": 3,
+	"postalCode": "111000",
+	"areaNumber": "211005"
+}, {
+	"id": 211011,
+	"parentId": 211000,
+	"name": "太子河区",
+	"level": 3,
+	"postalCode": "111000",
+	"areaNumber": "211011"
+}, {
+	"id": 211021,
+	"parentId": 211000,
+	"name": "辽阳县",
+	"level": 3,
+	"postalCode": "111200",
+	"areaNumber": "211021"
+}, {
+	"id": 211081,
+	"parentId": 211000,
+	"name": "灯塔市",
+	"level": 3,
+	"postalCode": "111300",
+	"areaNumber": "211081"
+}, {
+	"id": 211100,
+	"parentId": 210000,
+	"name": "盘锦市",
+	"level": 2,
+	"postalCode": "124000",
+	"areaNumber": "211100"
+}, {
+	"id": 211102,
+	"parentId": 211100,
+	"name": "双台子区",
+	"level": 3,
+	"postalCode": "124000",
+	"areaNumber": "211102"
+}, {
+	"id": 211103,
+	"parentId": 211100,
+	"name": "兴隆台区",
+	"level": 3,
+	"postalCode": "124000",
+	"areaNumber": "211103"
+}, {
+	"id": 211104,
+	"parentId": 211100,
+	"name": "大洼区",
+	"level": 3,
+	"postalCode": "124200",
+	"areaNumber": "211104"
+}, {
+	"id": 211122,
+	"parentId": 211100,
+	"name": "盘山县",
+	"level": 3,
+	"postalCode": "124100",
+	"areaNumber": "211122"
+}, {
+	"id": 211200,
+	"parentId": 210000,
+	"name": "铁岭市",
+	"level": 2,
+	"postalCode": "112000",
+	"areaNumber": "211200"
+}, {
+	"id": 211202,
+	"parentId": 211200,
+	"name": "银州区",
+	"level": 3,
+	"postalCode": "112000",
+	"areaNumber": "211202"
+}, {
+	"id": 211204,
+	"parentId": 211200,
+	"name": "清河区",
+	"level": 3,
+	"postalCode": "112000",
+	"areaNumber": "211204"
+}, {
+	"id": 211221,
+	"parentId": 211200,
+	"name": "铁岭县",
+	"level": 3,
+	"postalCode": "112600",
+	"areaNumber": "211221"
+}, {
+	"id": 211223,
+	"parentId": 211200,
+	"name": "西丰县",
+	"level": 3,
+	"postalCode": "112400",
+	"areaNumber": "211223"
+}, {
+	"id": 211224,
+	"parentId": 211200,
+	"name": "昌图县",
+	"level": 3,
+	"postalCode": "112500",
+	"areaNumber": "211224"
+}, {
+	"id": 211281,
+	"parentId": 211200,
+	"name": "调兵山市",
+	"level": 3,
+	"postalCode": "112700",
+	"areaNumber": "211281"
+}, {
+	"id": 211282,
+	"parentId": 211200,
+	"name": "开原市",
+	"level": 3,
+	"postalCode": "112300",
+	"areaNumber": "211282"
+}, {
+	"id": 211300,
+	"parentId": 210000,
+	"name": "朝阳市",
+	"level": 2,
+	"postalCode": "122000",
+	"areaNumber": "211300"
+}, {
+	"id": 211302,
+	"parentId": 211300,
+	"name": "双塔区",
+	"level": 3,
+	"postalCode": "122000",
+	"areaNumber": "211302"
+}, {
+	"id": 211303,
+	"parentId": 211300,
+	"name": "龙城区",
+	"level": 3,
+	"postalCode": "122000",
+	"areaNumber": "211303"
+}, {
+	"id": 211321,
+	"parentId": 211300,
+	"name": "朝阳县",
+	"level": 3,
+	"postalCode": "122000",
+	"areaNumber": "211321"
+}, {
+	"id": 211322,
+	"parentId": 211300,
+	"name": "建平县",
+	"level": 3,
+	"postalCode": "122400",
+	"areaNumber": "211322"
+}, {
+	"id": 211324,
+	"parentId": 211300,
+	"name": "喀喇沁左翼蒙古族自治县",
+	"level": 3,
+	"postalCode": "122300",
+	"areaNumber": "211324"
+}, {
+	"id": 211381,
+	"parentId": 211300,
+	"name": "北票市",
+	"level": 3,
+	"postalCode": "122100",
+	"areaNumber": "211381"
+}, {
+	"id": 211382,
+	"parentId": 211300,
+	"name": "凌源市",
+	"level": 3,
+	"postalCode": "122500",
+	"areaNumber": "211382"
+}, {
+	"id": 211400,
+	"parentId": 210000,
+	"name": "葫芦岛市",
+	"level": 2,
+	"postalCode": "125000",
+	"areaNumber": "211400"
+}, {
+	"id": 211402,
+	"parentId": 211400,
+	"name": "连山区",
+	"level": 3,
+	"postalCode": "125000",
+	"areaNumber": "211402"
+}, {
+	"id": 211403,
+	"parentId": 211400,
+	"name": "龙港区",
+	"level": 3,
+	"postalCode": "125000",
+	"areaNumber": "211403"
+}, {
+	"id": 211404,
+	"parentId": 211400,
+	"name": "南票区",
+	"level": 3,
+	"postalCode": "125000",
+	"areaNumber": "211404"
+}, {
+	"id": 211421,
+	"parentId": 211400,
+	"name": "绥中县",
+	"level": 3,
+	"postalCode": "125200",
+	"areaNumber": "211421"
+}, {
+	"id": 211422,
+	"parentId": 211400,
+	"name": "建昌县",
+	"level": 3,
+	"postalCode": "125300",
+	"areaNumber": "211422"
+}, {
+	"id": 211481,
+	"parentId": 211400,
+	"name": "兴城市",
+	"level": 3,
+	"postalCode": "125100",
+	"areaNumber": "211481"
+}, {
+	"id": 220000,
+	"parentId": 100000,
+	"name": "吉林省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "220000"
+}, {
+	"id": 220100,
+	"parentId": 220000,
+	"name": "长春市",
+	"level": 2,
+	"postalCode": "130000",
+	"areaNumber": "220100"
+}, {
+	"id": 220102,
+	"parentId": 220100,
+	"name": "南关区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220102"
+}, {
+	"id": 220103,
+	"parentId": 220100,
+	"name": "宽城区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220103"
+}, {
+	"id": 220104,
+	"parentId": 220100,
+	"name": "朝阳区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220104"
+}, {
+	"id": 220105,
+	"parentId": 220100,
+	"name": "二道区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220105"
+}, {
+	"id": 220106,
+	"parentId": 220100,
+	"name": "绿园区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220106"
+}, {
+	"id": 220112,
+	"parentId": 220100,
+	"name": "双阳区",
+	"level": 3,
+	"postalCode": "130600",
+	"areaNumber": "220112"
+}, {
+	"id": 220113,
+	"parentId": 220100,
+	"name": "九台区",
+	"level": 3,
+	"postalCode": "130500",
+	"areaNumber": "220113"
+}, {
+	"id": 220122,
+	"parentId": 220100,
+	"name": "农安县",
+	"level": 3,
+	"postalCode": "130200",
+	"areaNumber": "220122"
+}, {
+	"id": 220182,
+	"parentId": 220100,
+	"name": "榆树市",
+	"level": 3,
+	"postalCode": "130400",
+	"areaNumber": "220182"
+}, {
+	"id": 220183,
+	"parentId": 220100,
+	"name": "德惠市",
+	"level": 3,
+	"postalCode": "130300",
+	"areaNumber": "220183"
+}, {
+	"id": 220184,
+	"parentId": 220100,
+	"name": "长春新区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220184"
+}, {
+	"id": 220185,
+	"parentId": 220100,
+	"name": "高新技术产业开发区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220185"
+}, {
+	"id": 220186,
+	"parentId": 220100,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220186"
+}, {
+	"id": 220187,
+	"parentId": 220100,
+	"name": "汽车产业开发区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220187"
+}, {
+	"id": 220188,
+	"parentId": 220100,
+	"name": "兴隆综合保税区",
+	"level": 3,
+	"postalCode": "130000",
+	"areaNumber": "220188"
+}, {
+	"id": 220200,
+	"parentId": 220000,
+	"name": "吉林市",
+	"level": 2,
+	"postalCode": "132000",
+	"areaNumber": "220200"
+}, {
+	"id": 220202,
+	"parentId": 220200,
+	"name": "昌邑区",
+	"level": 3,
+	"postalCode": "132000",
+	"areaNumber": "220202"
+}, {
+	"id": 220203,
+	"parentId": 220200,
+	"name": "龙潭区",
+	"level": 3,
+	"postalCode": "132000",
+	"areaNumber": "220203"
+}, {
+	"id": 220204,
+	"parentId": 220200,
+	"name": "船营区",
+	"level": 3,
+	"postalCode": "132000",
+	"areaNumber": "220204"
+}, {
+	"id": 220211,
+	"parentId": 220200,
+	"name": "丰满区",
+	"level": 3,
+	"postalCode": "132000",
+	"areaNumber": "220211"
+}, {
+	"id": 220221,
+	"parentId": 220200,
+	"name": "永吉县",
+	"level": 3,
+	"postalCode": "132100",
+	"areaNumber": "220221"
+}, {
+	"id": 220281,
+	"parentId": 220200,
+	"name": "蛟河市",
+	"level": 3,
+	"postalCode": "132500",
+	"areaNumber": "220281"
+}, {
+	"id": 220282,
+	"parentId": 220200,
+	"name": "桦甸市",
+	"level": 3,
+	"postalCode": "132400",
+	"areaNumber": "220282"
+}, {
+	"id": 220283,
+	"parentId": 220200,
+	"name": "舒兰市",
+	"level": 3,
+	"postalCode": "132600",
+	"areaNumber": "220283"
+}, {
+	"id": 220284,
+	"parentId": 220200,
+	"name": "磐石市",
+	"level": 3,
+	"postalCode": "132300",
+	"areaNumber": "220284"
+}, {
+	"id": 220285,
+	"parentId": 220200,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "132000",
+	"areaNumber": "220285"
+}, {
+	"id": 220300,
+	"parentId": 220000,
+	"name": "四平市",
+	"level": 2,
+	"postalCode": "136000",
+	"areaNumber": "220300"
+}, {
+	"id": 220302,
+	"parentId": 220300,
+	"name": "铁西区",
+	"level": 3,
+	"postalCode": "136000",
+	"areaNumber": "220302"
+}, {
+	"id": 220303,
+	"parentId": 220300,
+	"name": "铁东区",
+	"level": 3,
+	"postalCode": "136000",
+	"areaNumber": "220303"
+}, {
+	"id": 220322,
+	"parentId": 220300,
+	"name": "梨树县",
+	"level": 3,
+	"postalCode": "136500",
+	"areaNumber": "220322"
+}, {
+	"id": 220323,
+	"parentId": 220300,
+	"name": "伊通满族自治县",
+	"level": 3,
+	"postalCode": "130700",
+	"areaNumber": "220323"
+}, {
+	"id": 220381,
+	"parentId": 220300,
+	"name": "公主岭市",
+	"level": 3,
+	"postalCode": "136100",
+	"areaNumber": "220381"
+}, {
+	"id": 220382,
+	"parentId": 220300,
+	"name": "双辽市",
+	"level": 3,
+	"postalCode": "136400",
+	"areaNumber": "220382"
+}, {
+	"id": 220400,
+	"parentId": 220000,
+	"name": "辽源市",
+	"level": 2,
+	"postalCode": "136200",
+	"areaNumber": "220400"
+}, {
+	"id": 220402,
+	"parentId": 220400,
+	"name": "龙山区",
+	"level": 3,
+	"postalCode": "136200",
+	"areaNumber": "220402"
+}, {
+	"id": 220403,
+	"parentId": 220400,
+	"name": "西安区",
+	"level": 3,
+	"postalCode": "136200",
+	"areaNumber": "220403"
+}, {
+	"id": 220421,
+	"parentId": 220400,
+	"name": "东丰县",
+	"level": 3,
+	"postalCode": "136300",
+	"areaNumber": "220421"
+}, {
+	"id": 220422,
+	"parentId": 220400,
+	"name": "东辽县",
+	"level": 3,
+	"postalCode": "136600",
+	"areaNumber": "220422"
+}, {
+	"id": 220500,
+	"parentId": 220000,
+	"name": "通化市",
+	"level": 2,
+	"postalCode": "134000",
+	"areaNumber": "220500"
+}, {
+	"id": 220502,
+	"parentId": 220500,
+	"name": "东昌区",
+	"level": 3,
+	"postalCode": "134000",
+	"areaNumber": "220502"
+}, {
+	"id": 220503,
+	"parentId": 220500,
+	"name": "二道江区",
+	"level": 3,
+	"postalCode": "134000",
+	"areaNumber": "220503"
+}, {
+	"id": 220521,
+	"parentId": 220500,
+	"name": "通化县",
+	"level": 3,
+	"postalCode": "134100",
+	"areaNumber": "220521"
+}, {
+	"id": 220523,
+	"parentId": 220500,
+	"name": "辉南县",
+	"level": 3,
+	"postalCode": "135100",
+	"areaNumber": "220523"
+}, {
+	"id": 220524,
+	"parentId": 220500,
+	"name": "柳河县",
+	"level": 3,
+	"postalCode": "135300",
+	"areaNumber": "220524"
+}, {
+	"id": 220581,
+	"parentId": 220500,
+	"name": "梅河口市",
+	"level": 3,
+	"postalCode": "135000",
+	"areaNumber": "220581"
+}, {
+	"id": 220582,
+	"parentId": 220500,
+	"name": "集安市",
+	"level": 3,
+	"postalCode": "134200",
+	"areaNumber": "220582"
+}, {
+	"id": 220600,
+	"parentId": 220000,
+	"name": "白山市",
+	"level": 2,
+	"postalCode": "134300",
+	"areaNumber": "220600"
+}, {
+	"id": 220602,
+	"parentId": 220600,
+	"name": "浑江区",
+	"level": 3,
+	"postalCode": "134300",
+	"areaNumber": "220602"
+}, {
+	"id": 220605,
+	"parentId": 220600,
+	"name": "江源区",
+	"level": 3,
+	"postalCode": "134700",
+	"areaNumber": "220605"
+}, {
+	"id": 220621,
+	"parentId": 220600,
+	"name": "抚松县",
+	"level": 3,
+	"postalCode": "134500",
+	"areaNumber": "220621"
+}, {
+	"id": 220622,
+	"parentId": 220600,
+	"name": "靖宇县",
+	"level": 3,
+	"postalCode": "135200",
+	"areaNumber": "220622"
+}, {
+	"id": 220623,
+	"parentId": 220600,
+	"name": "长白朝鲜族自治县",
+	"level": 3,
+	"postalCode": "134400",
+	"areaNumber": "220623"
+}, {
+	"id": 220681,
+	"parentId": 220600,
+	"name": "临江市",
+	"level": 3,
+	"postalCode": "134600",
+	"areaNumber": "220681"
+}, {
+	"id": 220700,
+	"parentId": 220000,
+	"name": "松原市",
+	"level": 2,
+	"postalCode": "138000",
+	"areaNumber": "220700"
+}, {
+	"id": 220702,
+	"parentId": 220700,
+	"name": "宁江区",
+	"level": 3,
+	"postalCode": "138000",
+	"areaNumber": "220702"
+}, {
+	"id": 220721,
+	"parentId": 220700,
+	"name": "前郭尔罗斯蒙古族自治县",
+	"level": 3,
+	"postalCode": "131100",
+	"areaNumber": "220721"
+}, {
+	"id": 220722,
+	"parentId": 220700,
+	"name": "长岭县",
+	"level": 3,
+	"postalCode": "131500",
+	"areaNumber": "220722"
+}, {
+	"id": 220723,
+	"parentId": 220700,
+	"name": "乾安县",
+	"level": 3,
+	"postalCode": "131400",
+	"areaNumber": "220723"
+}, {
+	"id": 220781,
+	"parentId": 220700,
+	"name": "扶余市",
+	"level": 3,
+	"postalCode": "131200",
+	"areaNumber": "220781"
+}, {
+	"id": 220800,
+	"parentId": 220000,
+	"name": "白城市",
+	"level": 2,
+	"postalCode": "137000",
+	"areaNumber": "220800"
+}, {
+	"id": 220802,
+	"parentId": 220800,
+	"name": "洮北区",
+	"level": 3,
+	"postalCode": "137000",
+	"areaNumber": "220802"
+}, {
+	"id": 220821,
+	"parentId": 220800,
+	"name": "镇赉县",
+	"level": 3,
+	"postalCode": "137300",
+	"areaNumber": "220821"
+}, {
+	"id": 220822,
+	"parentId": 220800,
+	"name": "通榆县",
+	"level": 3,
+	"postalCode": "137200",
+	"areaNumber": "220822"
+}, {
+	"id": 220881,
+	"parentId": 220800,
+	"name": "洮南市",
+	"level": 3,
+	"postalCode": "137100",
+	"areaNumber": "220881"
+}, {
+	"id": 220882,
+	"parentId": 220800,
+	"name": "大安市",
+	"level": 3,
+	"postalCode": "131300",
+	"areaNumber": "220882"
+}, {
+	"id": 222400,
+	"parentId": 220000,
+	"name": "延边朝鲜族自治州",
+	"level": 2,
+	"postalCode": "133000",
+	"areaNumber": "222400"
+}, {
+	"id": 222401,
+	"parentId": 222400,
+	"name": "延吉市",
+	"level": 3,
+	"postalCode": "133000",
+	"areaNumber": "222401"
+}, {
+	"id": 222402,
+	"parentId": 222400,
+	"name": "图们市",
+	"level": 3,
+	"postalCode": "133100",
+	"areaNumber": "222402"
+}, {
+	"id": 222403,
+	"parentId": 222400,
+	"name": "敦化市",
+	"level": 3,
+	"postalCode": "133700",
+	"areaNumber": "222403"
+}, {
+	"id": 222404,
+	"parentId": 222400,
+	"name": "珲春市",
+	"level": 3,
+	"postalCode": "133300",
+	"areaNumber": "222404"
+}, {
+	"id": 222405,
+	"parentId": 222400,
+	"name": "龙井市",
+	"level": 3,
+	"postalCode": "133400",
+	"areaNumber": "222405"
+}, {
+	"id": 222406,
+	"parentId": 222400,
+	"name": "和龙市",
+	"level": 3,
+	"postalCode": "133500",
+	"areaNumber": "222406"
+}, {
+	"id": 222424,
+	"parentId": 222400,
+	"name": "汪清县",
+	"level": 3,
+	"postalCode": "133200",
+	"areaNumber": "222424"
+}, {
+	"id": 222426,
+	"parentId": 222400,
+	"name": "安图县",
+	"level": 3,
+	"postalCode": "133600",
+	"areaNumber": "222426"
+}, {
+	"id": 230000,
+	"parentId": 100000,
+	"name": "黑龙江省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "230000"
+}, {
+	"id": 230100,
+	"parentId": 230000,
+	"name": "哈尔滨市",
+	"level": 2,
+	"postalCode": "150000",
+	"areaNumber": "230100"
+}, {
+	"id": 230102,
+	"parentId": 230100,
+	"name": "道里区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230102"
+}, {
+	"id": 230103,
+	"parentId": 230100,
+	"name": "南岗区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230103"
+}, {
+	"id": 230104,
+	"parentId": 230100,
+	"name": "道外区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230104"
+}, {
+	"id": 230108,
+	"parentId": 230100,
+	"name": "平房区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230108"
+}, {
+	"id": 230109,
+	"parentId": 230100,
+	"name": "松北区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230109"
+}, {
+	"id": 230110,
+	"parentId": 230100,
+	"name": "香坊区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230110"
+}, {
+	"id": 230111,
+	"parentId": 230100,
+	"name": "呼兰区",
+	"level": 3,
+	"postalCode": "150500",
+	"areaNumber": "230111"
+}, {
+	"id": 230112,
+	"parentId": 230100,
+	"name": "阿城区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230112"
+}, {
+	"id": 230113,
+	"parentId": 230100,
+	"name": "双城区",
+	"level": 3,
+	"postalCode": "150100",
+	"areaNumber": "230113"
+}, {
+	"id": 230123,
+	"parentId": 230100,
+	"name": "依兰县",
+	"level": 3,
+	"postalCode": "154800",
+	"areaNumber": "230123"
+}, {
+	"id": 230124,
+	"parentId": 230100,
+	"name": "方正县",
+	"level": 3,
+	"postalCode": "150800",
+	"areaNumber": "230124"
+}, {
+	"id": 230125,
+	"parentId": 230100,
+	"name": "宾县",
+	"level": 3,
+	"postalCode": "150400",
+	"areaNumber": "230125"
+}, {
+	"id": 230126,
+	"parentId": 230100,
+	"name": "巴彦县",
+	"level": 3,
+	"postalCode": "151800",
+	"areaNumber": "230126"
+}, {
+	"id": 230127,
+	"parentId": 230100,
+	"name": "木兰县",
+	"level": 3,
+	"postalCode": "151900",
+	"areaNumber": "230127"
+}, {
+	"id": 230128,
+	"parentId": 230100,
+	"name": "通河县",
+	"level": 3,
+	"postalCode": "150900",
+	"areaNumber": "230128"
+}, {
+	"id": 230129,
+	"parentId": 230100,
+	"name": "延寿县",
+	"level": 3,
+	"postalCode": "150700",
+	"areaNumber": "230129"
+}, {
+	"id": 230183,
+	"parentId": 230100,
+	"name": "尚志市",
+	"level": 3,
+	"postalCode": "150600",
+	"areaNumber": "230183"
+}, {
+	"id": 230184,
+	"parentId": 230100,
+	"name": "五常市",
+	"level": 3,
+	"postalCode": "150200",
+	"areaNumber": "230184"
+}, {
+	"id": 230185,
+	"parentId": 230100,
+	"name": "哈尔滨新区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230185"
+}, {
+	"id": 230186,
+	"parentId": 230100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "150000",
+	"areaNumber": "230186"
+}, {
+	"id": 230200,
+	"parentId": 230000,
+	"name": "齐齐哈尔市",
+	"level": 2,
+	"postalCode": "161000",
+	"areaNumber": "230200"
+}, {
+	"id": 230202,
+	"parentId": 230200,
+	"name": "龙沙区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230202"
+}, {
+	"id": 230203,
+	"parentId": 230200,
+	"name": "建华区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230203"
+}, {
+	"id": 230204,
+	"parentId": 230200,
+	"name": "铁锋区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230204"
+}, {
+	"id": 230205,
+	"parentId": 230200,
+	"name": "昂昂溪区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230205"
+}, {
+	"id": 230206,
+	"parentId": 230200,
+	"name": "富拉尔基区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230206"
+}, {
+	"id": 230207,
+	"parentId": 230200,
+	"name": "碾子山区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230207"
+}, {
+	"id": 230208,
+	"parentId": 230200,
+	"name": "梅里斯达斡尔族区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230208"
+}, {
+	"id": 230221,
+	"parentId": 230200,
+	"name": "龙江县",
+	"level": 3,
+	"postalCode": "161100",
+	"areaNumber": "230221"
+}, {
+	"id": 230223,
+	"parentId": 230200,
+	"name": "依安县",
+	"level": 3,
+	"postalCode": "161500",
+	"areaNumber": "230223"
+}, {
+	"id": 230224,
+	"parentId": 230200,
+	"name": "泰来县",
+	"level": 3,
+	"postalCode": "162400",
+	"areaNumber": "230224"
+}, {
+	"id": 230225,
+	"parentId": 230200,
+	"name": "甘南县",
+	"level": 3,
+	"postalCode": "162100",
+	"areaNumber": "230225"
+}, {
+	"id": 230227,
+	"parentId": 230200,
+	"name": "富裕县",
+	"level": 3,
+	"postalCode": "161200",
+	"areaNumber": "230227"
+}, {
+	"id": 230229,
+	"parentId": 230200,
+	"name": "克山县",
+	"level": 3,
+	"postalCode": "161600",
+	"areaNumber": "230229"
+}, {
+	"id": 230230,
+	"parentId": 230200,
+	"name": "克东县",
+	"level": 3,
+	"postalCode": "164800",
+	"areaNumber": "230230"
+}, {
+	"id": 230231,
+	"parentId": 230200,
+	"name": "拜泉县",
+	"level": 3,
+	"postalCode": "164700",
+	"areaNumber": "230231"
+}, {
+	"id": 230281,
+	"parentId": 230200,
+	"name": "讷河市",
+	"level": 3,
+	"postalCode": "161300",
+	"areaNumber": "230281"
+}, {
+	"id": 230282,
+	"parentId": 230200,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "161000",
+	"areaNumber": "230282"
+}, {
+	"id": 230300,
+	"parentId": 230000,
+	"name": "鸡西市",
+	"level": 2,
+	"postalCode": "158100",
+	"areaNumber": "230300"
+}, {
+	"id": 230302,
+	"parentId": 230300,
+	"name": "鸡冠区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230302"
+}, {
+	"id": 230303,
+	"parentId": 230300,
+	"name": "恒山区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230303"
+}, {
+	"id": 230304,
+	"parentId": 230300,
+	"name": "滴道区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230304"
+}, {
+	"id": 230305,
+	"parentId": 230300,
+	"name": "梨树区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230305"
+}, {
+	"id": 230306,
+	"parentId": 230300,
+	"name": "城子河区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230306"
+}, {
+	"id": 230307,
+	"parentId": 230300,
+	"name": "麻山区",
+	"level": 3,
+	"postalCode": "158100",
+	"areaNumber": "230307"
+}, {
+	"id": 230321,
+	"parentId": 230300,
+	"name": "鸡东县",
+	"level": 3,
+	"postalCode": "158200",
+	"areaNumber": "230321"
+}, {
+	"id": 230381,
+	"parentId": 230300,
+	"name": "虎林市",
+	"level": 3,
+	"postalCode": "158400",
+	"areaNumber": "230381"
+}, {
+	"id": 230382,
+	"parentId": 230300,
+	"name": "密山市",
+	"level": 3,
+	"postalCode": "158300",
+	"areaNumber": "230382"
+}, {
+	"id": 230400,
+	"parentId": 230000,
+	"name": "鹤岗市",
+	"level": 2,
+	"postalCode": "154100",
+	"areaNumber": "230400"
+}, {
+	"id": 230402,
+	"parentId": 230400,
+	"name": "向阳区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230402"
+}, {
+	"id": 230403,
+	"parentId": 230400,
+	"name": "工农区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230403"
+}, {
+	"id": 230404,
+	"parentId": 230400,
+	"name": "南山区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230404"
+}, {
+	"id": 230405,
+	"parentId": 230400,
+	"name": "兴安区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230405"
+}, {
+	"id": 230406,
+	"parentId": 230400,
+	"name": "东山区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230406"
+}, {
+	"id": 230407,
+	"parentId": 230400,
+	"name": "兴山区",
+	"level": 3,
+	"postalCode": "154100",
+	"areaNumber": "230407"
+}, {
+	"id": 230421,
+	"parentId": 230400,
+	"name": "萝北县",
+	"level": 3,
+	"postalCode": "154200",
+	"areaNumber": "230421"
+}, {
+	"id": 230422,
+	"parentId": 230400,
+	"name": "绥滨县",
+	"level": 3,
+	"postalCode": "156200",
+	"areaNumber": "230422"
+}, {
+	"id": 230500,
+	"parentId": 230000,
+	"name": "双鸭山市",
+	"level": 2,
+	"postalCode": "155100",
+	"areaNumber": "230500"
+}, {
+	"id": 230502,
+	"parentId": 230500,
+	"name": "尖山区",
+	"level": 3,
+	"postalCode": "155100",
+	"areaNumber": "230502"
+}, {
+	"id": 230503,
+	"parentId": 230500,
+	"name": "岭东区",
+	"level": 3,
+	"postalCode": "155100",
+	"areaNumber": "230503"
+}, {
+	"id": 230505,
+	"parentId": 230500,
+	"name": "四方台区",
+	"level": 3,
+	"postalCode": "155100",
+	"areaNumber": "230505"
+}, {
+	"id": 230506,
+	"parentId": 230500,
+	"name": "宝山区",
+	"level": 3,
+	"postalCode": "155100",
+	"areaNumber": "230506"
+}, {
+	"id": 230521,
+	"parentId": 230500,
+	"name": "集贤县",
+	"level": 3,
+	"postalCode": "155900",
+	"areaNumber": "230521"
+}, {
+	"id": 230522,
+	"parentId": 230500,
+	"name": "友谊县",
+	"level": 3,
+	"postalCode": "155800",
+	"areaNumber": "230522"
+}, {
+	"id": 230523,
+	"parentId": 230500,
+	"name": "宝清县",
+	"level": 3,
+	"postalCode": "155600",
+	"areaNumber": "230523"
+}, {
+	"id": 230524,
+	"parentId": 230500,
+	"name": "饶河县",
+	"level": 3,
+	"postalCode": "155700",
+	"areaNumber": "230524"
+}, {
+	"id": 230600,
+	"parentId": 230000,
+	"name": "大庆市",
+	"level": 2,
+	"postalCode": "163000",
+	"areaNumber": "230600"
+}, {
+	"id": 230602,
+	"parentId": 230600,
+	"name": "萨尔图区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230602"
+}, {
+	"id": 230603,
+	"parentId": 230600,
+	"name": "龙凤区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230603"
+}, {
+	"id": 230604,
+	"parentId": 230600,
+	"name": "让胡路区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230604"
+}, {
+	"id": 230605,
+	"parentId": 230600,
+	"name": "红岗区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230605"
+}, {
+	"id": 230606,
+	"parentId": 230600,
+	"name": "大同区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230606"
+}, {
+	"id": 230621,
+	"parentId": 230600,
+	"name": "肇州县",
+	"level": 3,
+	"postalCode": "166400",
+	"areaNumber": "230621"
+}, {
+	"id": 230622,
+	"parentId": 230600,
+	"name": "肇源县",
+	"level": 3,
+	"postalCode": "166500",
+	"areaNumber": "230622"
+}, {
+	"id": 230623,
+	"parentId": 230600,
+	"name": "林甸县",
+	"level": 3,
+	"postalCode": "166300",
+	"areaNumber": "230623"
+}, {
+	"id": 230624,
+	"parentId": 230600,
+	"name": "杜尔伯特蒙古族自治县",
+	"level": 3,
+	"postalCode": "166200",
+	"areaNumber": "230624"
+}, {
+	"id": 230625,
+	"parentId": 230600,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "163000",
+	"areaNumber": "230625"
+}, {
+	"id": 230700,
+	"parentId": 230000,
+	"name": "伊春市",
+	"level": 2,
+	"postalCode": "153000",
+	"areaNumber": "230700"
+}, {
+	"id": 230702,
+	"parentId": 230700,
+	"name": "伊春区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230702"
+}, {
+	"id": 230703,
+	"parentId": 230700,
+	"name": "南岔区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230703"
+}, {
+	"id": 230704,
+	"parentId": 230700,
+	"name": "友好区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230704"
+}, {
+	"id": 230705,
+	"parentId": 230700,
+	"name": "西林区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230705"
+}, {
+	"id": 230706,
+	"parentId": 230700,
+	"name": "翠峦区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230706"
+}, {
+	"id": 230707,
+	"parentId": 230700,
+	"name": "新青区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230707"
+}, {
+	"id": 230708,
+	"parentId": 230700,
+	"name": "美溪区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230708"
+}, {
+	"id": 230709,
+	"parentId": 230700,
+	"name": "金山屯区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230709"
+}, {
+	"id": 230710,
+	"parentId": 230700,
+	"name": "五营区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230710"
+}, {
+	"id": 230711,
+	"parentId": 230700,
+	"name": "乌马河区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230711"
+}, {
+	"id": 230712,
+	"parentId": 230700,
+	"name": "汤旺河区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230712"
+}, {
+	"id": 230713,
+	"parentId": 230700,
+	"name": "带岭区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230713"
+}, {
+	"id": 230714,
+	"parentId": 230700,
+	"name": "乌伊岭区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230714"
+}, {
+	"id": 230715,
+	"parentId": 230700,
+	"name": "红星区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230715"
+}, {
+	"id": 230716,
+	"parentId": 230700,
+	"name": "上甘岭区",
+	"level": 3,
+	"postalCode": "153000",
+	"areaNumber": "230716"
+}, {
+	"id": 230722,
+	"parentId": 230700,
+	"name": "嘉荫县",
+	"level": 3,
+	"postalCode": "153200",
+	"areaNumber": "230722"
+}, {
+	"id": 230781,
+	"parentId": 230700,
+	"name": "铁力市",
+	"level": 3,
+	"postalCode": "152500",
+	"areaNumber": "230781"
+}, {
+	"id": 230800,
+	"parentId": 230000,
+	"name": "佳木斯市",
+	"level": 2,
+	"postalCode": "154000",
+	"areaNumber": "230800"
+}, {
+	"id": 230803,
+	"parentId": 230800,
+	"name": "向阳区",
+	"level": 3,
+	"postalCode": "154000",
+	"areaNumber": "230803"
+}, {
+	"id": 230804,
+	"parentId": 230800,
+	"name": "前进区",
+	"level": 3,
+	"postalCode": "154000",
+	"areaNumber": "230804"
+}, {
+	"id": 230805,
+	"parentId": 230800,
+	"name": "东风区",
+	"level": 3,
+	"postalCode": "154000",
+	"areaNumber": "230805"
+}, {
+	"id": 230811,
+	"parentId": 230800,
+	"name": "郊区",
+	"level": 3,
+	"postalCode": "154000",
+	"areaNumber": "230811"
+}, {
+	"id": 230822,
+	"parentId": 230800,
+	"name": "桦南县",
+	"level": 3,
+	"postalCode": "154400",
+	"areaNumber": "230822"
+}, {
+	"id": 230826,
+	"parentId": 230800,
+	"name": "桦川县",
+	"level": 3,
+	"postalCode": "154300",
+	"areaNumber": "230826"
+}, {
+	"id": 230828,
+	"parentId": 230800,
+	"name": "汤原县",
+	"level": 3,
+	"postalCode": "154700",
+	"areaNumber": "230828"
+}, {
+	"id": 230881,
+	"parentId": 230800,
+	"name": "同江市",
+	"level": 3,
+	"postalCode": "156400",
+	"areaNumber": "230881"
+}, {
+	"id": 230882,
+	"parentId": 230800,
+	"name": "富锦市",
+	"level": 3,
+	"postalCode": "156100",
+	"areaNumber": "230882"
+}, {
+	"id": 230883,
+	"parentId": 230800,
+	"name": "抚远市",
+	"level": 3,
+	"postalCode": "156500",
+	"areaNumber": "230883"
+}, {
+	"id": 230900,
+	"parentId": 230000,
+	"name": "七台河市",
+	"level": 2,
+	"postalCode": "154600",
+	"areaNumber": "230900"
+}, {
+	"id": 230902,
+	"parentId": 230900,
+	"name": "新兴区",
+	"level": 3,
+	"postalCode": "154600",
+	"areaNumber": "230902"
+}, {
+	"id": 230903,
+	"parentId": 230900,
+	"name": "桃山区",
+	"level": 3,
+	"postalCode": "154600",
+	"areaNumber": "230903"
+}, {
+	"id": 230904,
+	"parentId": 230900,
+	"name": "茄子河区",
+	"level": 3,
+	"postalCode": "154600",
+	"areaNumber": "230904"
+}, {
+	"id": 230921,
+	"parentId": 230900,
+	"name": "勃利县",
+	"level": 3,
+	"postalCode": "154500",
+	"areaNumber": "230921"
+}, {
+	"id": 231000,
+	"parentId": 230000,
+	"name": "牡丹江市",
+	"level": 2,
+	"postalCode": "157000",
+	"areaNumber": "231000"
+}, {
+	"id": 231002,
+	"parentId": 231000,
+	"name": "东安区",
+	"level": 3,
+	"postalCode": "157000",
+	"areaNumber": "231002"
+}, {
+	"id": 231003,
+	"parentId": 231000,
+	"name": "阳明区",
+	"level": 3,
+	"postalCode": "157000",
+	"areaNumber": "231003"
+}, {
+	"id": 231004,
+	"parentId": 231000,
+	"name": "爱民区",
+	"level": 3,
+	"postalCode": "157000",
+	"areaNumber": "231004"
+}, {
+	"id": 231005,
+	"parentId": 231000,
+	"name": "西安区",
+	"level": 3,
+	"postalCode": "157000",
+	"areaNumber": "231005"
+}, {
+	"id": 231025,
+	"parentId": 231000,
+	"name": "林口县",
+	"level": 3,
+	"postalCode": "157600",
+	"areaNumber": "231025"
+}, {
+	"id": 231081,
+	"parentId": 231000,
+	"name": "绥芬河市",
+	"level": 3,
+	"postalCode": "157300",
+	"areaNumber": "231081"
+}, {
+	"id": 231083,
+	"parentId": 231000,
+	"name": "海林市",
+	"level": 3,
+	"postalCode": "157100",
+	"areaNumber": "231083"
+}, {
+	"id": 231084,
+	"parentId": 231000,
+	"name": "宁安市",
+	"level": 3,
+	"postalCode": "157400",
+	"areaNumber": "231084"
+}, {
+	"id": 231085,
+	"parentId": 231000,
+	"name": "穆棱市",
+	"level": 3,
+	"postalCode": "157500",
+	"areaNumber": "231085"
+}, {
+	"id": 231086,
+	"parentId": 231000,
+	"name": "东宁市",
+	"level": 3,
+	"postalCode": "157200",
+	"areaNumber": "231086"
+}, {
+	"id": 231100,
+	"parentId": 230000,
+	"name": "黑河市",
+	"level": 2,
+	"postalCode": "164300",
+	"areaNumber": "231100"
+}, {
+	"id": 231102,
+	"parentId": 231100,
+	"name": "爱辉区",
+	"level": 3,
+	"postalCode": "164300",
+	"areaNumber": "231102"
+}, {
+	"id": 231121,
+	"parentId": 231100,
+	"name": "嫩江县",
+	"level": 3,
+	"postalCode": "161400",
+	"areaNumber": "231121"
+}, {
+	"id": 231123,
+	"parentId": 231100,
+	"name": "逊克县",
+	"level": 3,
+	"postalCode": "164400",
+	"areaNumber": "231123"
+}, {
+	"id": 231124,
+	"parentId": 231100,
+	"name": "孙吴县",
+	"level": 3,
+	"postalCode": "164200",
+	"areaNumber": "231124"
+}, {
+	"id": 231181,
+	"parentId": 231100,
+	"name": "北安市",
+	"level": 3,
+	"postalCode": "164000",
+	"areaNumber": "231181"
+}, {
+	"id": 231182,
+	"parentId": 231100,
+	"name": "五大连池市",
+	"level": 3,
+	"postalCode": "164100",
+	"areaNumber": "231182"
+}, {
+	"id": 231200,
+	"parentId": 230000,
+	"name": "绥化市",
+	"level": 2,
+	"postalCode": "152000",
+	"areaNumber": "231200"
+}, {
+	"id": 231202,
+	"parentId": 231200,
+	"name": "北林区",
+	"level": 3,
+	"postalCode": "152000",
+	"areaNumber": "231202"
+}, {
+	"id": 231221,
+	"parentId": 231200,
+	"name": "望奎县",
+	"level": 3,
+	"postalCode": "152100",
+	"areaNumber": "231221"
+}, {
+	"id": 231222,
+	"parentId": 231200,
+	"name": "兰西县",
+	"level": 3,
+	"postalCode": "151500",
+	"areaNumber": "231222"
+}, {
+	"id": 231223,
+	"parentId": 231200,
+	"name": "青冈县",
+	"level": 3,
+	"postalCode": "151600",
+	"areaNumber": "231223"
+}, {
+	"id": 231224,
+	"parentId": 231200,
+	"name": "庆安县",
+	"level": 3,
+	"postalCode": "152400",
+	"areaNumber": "231224"
+}, {
+	"id": 231225,
+	"parentId": 231200,
+	"name": "明水县",
+	"level": 3,
+	"postalCode": "151700",
+	"areaNumber": "231225"
+}, {
+	"id": 231226,
+	"parentId": 231200,
+	"name": "绥棱县",
+	"level": 3,
+	"postalCode": "152200",
+	"areaNumber": "231226"
+}, {
+	"id": 231281,
+	"parentId": 231200,
+	"name": "安达市",
+	"level": 3,
+	"postalCode": "151400",
+	"areaNumber": "231281"
+}, {
+	"id": 231282,
+	"parentId": 231200,
+	"name": "肇东市",
+	"level": 3,
+	"postalCode": "151100",
+	"areaNumber": "231282"
+}, {
+	"id": 231283,
+	"parentId": 231200,
+	"name": "海伦市",
+	"level": 3,
+	"postalCode": "152300",
+	"areaNumber": "231283"
+}, {
+	"id": 232700,
+	"parentId": 230000,
+	"name": "大兴安岭地区",
+	"level": 2,
+	"postalCode": "165000",
+	"areaNumber": "232700"
+}, {
+	"id": 232701,
+	"parentId": 232700,
+	"name": "加格达奇区",
+	"level": 3,
+	"postalCode": "165000",
+	"areaNumber": "232701"
+}, {
+	"id": 232702,
+	"parentId": 232700,
+	"name": "新林区",
+	"level": 3,
+	"postalCode": "165010",
+	"areaNumber": "232702"
+}, {
+	"id": 232703,
+	"parentId": 232700,
+	"name": "松岭区",
+	"level": 3,
+	"postalCode": "165020",
+	"areaNumber": "232703"
+}, {
+	"id": 232704,
+	"parentId": 232700,
+	"name": "呼中区",
+	"level": 3,
+	"postalCode": "165030",
+	"areaNumber": "232704"
+}, {
+	"id": 232721,
+	"parentId": 232700,
+	"name": "呼玛县",
+	"level": 3,
+	"postalCode": "165100",
+	"areaNumber": "232721"
+}, {
+	"id": 232722,
+	"parentId": 232700,
+	"name": "塔河县",
+	"level": 3,
+	"postalCode": "165200",
+	"areaNumber": "232722"
+}, {
+	"id": 232723,
+	"parentId": 232700,
+	"name": "漠河县",
+	"level": 3,
+	"postalCode": "165300",
+	"areaNumber": "232723"
+}, {
+	"id": 310000,
+	"parentId": 100000,
+	"name": "上海",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "310000"
+}, {
+	"id": 310100,
+	"parentId": 310000,
+	"name": "上海市",
+	"level": 2,
+	"postalCode": "200000",
+	"areaNumber": "310100"
+}, {
+	"id": 310101,
+	"parentId": 310100,
+	"name": "黄浦区",
+	"level": 3,
+	"postalCode": "200001",
+	"areaNumber": "310101"
+}, {
+	"id": 310104,
+	"parentId": 310100,
+	"name": "徐汇区",
+	"level": 3,
+	"postalCode": "200030",
+	"areaNumber": "310104"
+}, {
+	"id": 310105,
+	"parentId": 310100,
+	"name": "长宁区",
+	"level": 3,
+	"postalCode": "200050",
+	"areaNumber": "310105"
+}, {
+	"id": 310106,
+	"parentId": 310100,
+	"name": "静安区",
+	"level": 3,
+	"postalCode": "200040",
+	"areaNumber": "310106"
+}, {
+	"id": 310107,
+	"parentId": 310100,
+	"name": "普陀区",
+	"level": 3,
+	"postalCode": "200333",
+	"areaNumber": "310107"
+}, {
+	"id": 310109,
+	"parentId": 310100,
+	"name": "虹口区",
+	"level": 3,
+	"postalCode": "200080",
+	"areaNumber": "310109"
+}, {
+	"id": 310110,
+	"parentId": 310100,
+	"name": "杨浦区",
+	"level": 3,
+	"postalCode": "200082",
+	"areaNumber": "310110"
+}, {
+	"id": 310112,
+	"parentId": 310100,
+	"name": "闵行区",
+	"level": 3,
+	"postalCode": "201100",
+	"areaNumber": "310112"
+}, {
+	"id": 310113,
+	"parentId": 310100,
+	"name": "宝山区",
+	"level": 3,
+	"postalCode": "201900",
+	"areaNumber": "310113"
+}, {
+	"id": 310114,
+	"parentId": 310100,
+	"name": "嘉定区",
+	"level": 3,
+	"postalCode": "201800",
+	"areaNumber": "310114"
+}, {
+	"id": 310115,
+	"parentId": 310100,
+	"name": "浦东新区",
+	"level": 3,
+	"postalCode": "200120",
+	"areaNumber": "310115"
+}, {
+	"id": 310116,
+	"parentId": 310100,
+	"name": "金山区",
+	"level": 3,
+	"postalCode": "201500",
+	"areaNumber": "310116"
+}, {
+	"id": 310117,
+	"parentId": 310100,
+	"name": "松江区",
+	"level": 3,
+	"postalCode": "201600",
+	"areaNumber": "310117"
+}, {
+	"id": 310118,
+	"parentId": 310100,
+	"name": "青浦区",
+	"level": 3,
+	"postalCode": "201700",
+	"areaNumber": "310118"
+}, {
+	"id": 310120,
+	"parentId": 310100,
+	"name": "奉贤区",
+	"level": 3,
+	"postalCode": "201400",
+	"areaNumber": "310120"
+}, {
+	"id": 310151,
+	"parentId": 310100,
+	"name": "崇明区",
+	"level": 3,
+	"postalCode": "202150",
+	"areaNumber": "310151"
+}, {
+	"id": 310231,
+	"parentId": 310100,
+	"name": "张江高新区",
+	"level": 3,
+	"postalCode": "201203",
+	"areaNumber": "310231"
+}, {
+	"id": 310232,
+	"parentId": 310100,
+	"name": "紫竹高新区",
+	"level": 3,
+	"postalCode": "200336",
+	"areaNumber": "310232"
+}, {
+	"id": 310233,
+	"parentId": 310100,
+	"name": "漕河泾开发区",
+	"level": 3,
+	"postalCode": "200233",
+	"areaNumber": "310233"
+}, {
+	"id": 320000,
+	"parentId": 100000,
+	"name": "江苏省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "320000"
+}, {
+	"id": 320100,
+	"parentId": 320000,
+	"name": "南京市",
+	"level": 2,
+	"postalCode": "210000",
+	"areaNumber": "320100"
+}, {
+	"id": 320102,
+	"parentId": 320100,
+	"name": "玄武区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320102"
+}, {
+	"id": 320104,
+	"parentId": 320100,
+	"name": "秦淮区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320104"
+}, {
+	"id": 320105,
+	"parentId": 320100,
+	"name": "建邺区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320105"
+}, {
+	"id": 320106,
+	"parentId": 320100,
+	"name": "鼓楼区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320106"
+}, {
+	"id": 320111,
+	"parentId": 320100,
+	"name": "浦口区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320111"
+}, {
+	"id": 320113,
+	"parentId": 320100,
+	"name": "栖霞区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320113"
+}, {
+	"id": 320114,
+	"parentId": 320100,
+	"name": "雨花台区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320114"
+}, {
+	"id": 320115,
+	"parentId": 320100,
+	"name": "江宁区",
+	"level": 3,
+	"postalCode": "211100",
+	"areaNumber": "320115"
+}, {
+	"id": 320116,
+	"parentId": 320100,
+	"name": "六合区",
+	"level": 3,
+	"postalCode": "211500",
+	"areaNumber": "320116"
+}, {
+	"id": 320117,
+	"parentId": 320100,
+	"name": "溧水区",
+	"level": 3,
+	"postalCode": "211200",
+	"areaNumber": "320117"
+}, {
+	"id": 320118,
+	"parentId": 320100,
+	"name": "高淳区",
+	"level": 3,
+	"postalCode": "211300",
+	"areaNumber": "320118"
+}, {
+	"id": 320119,
+	"parentId": 320100,
+	"name": "江北新区",
+	"level": 3,
+	"postalCode": "211500",
+	"areaNumber": "320119"
+}, {
+	"id": 320120,
+	"parentId": 320100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "210000",
+	"areaNumber": "320120"
+}, {
+	"id": 320200,
+	"parentId": 320000,
+	"name": "无锡市",
+	"level": 2,
+	"postalCode": "214000",
+	"areaNumber": "320200"
+}, {
+	"id": 320205,
+	"parentId": 320200,
+	"name": "锡山区",
+	"level": 3,
+	"postalCode": "214000",
+	"areaNumber": "320205"
+}, {
+	"id": 320206,
+	"parentId": 320200,
+	"name": "惠山区",
+	"level": 3,
+	"postalCode": "214000",
+	"areaNumber": "320206"
+}, {
+	"id": 320211,
+	"parentId": 320200,
+	"name": "滨湖区",
+	"level": 3,
+	"postalCode": "214123",
+	"areaNumber": "320211"
+}, {
+	"id": 320213,
+	"parentId": 320200,
+	"name": "梁溪区",
+	"level": 3,
+	"postalCode": "214002",
+	"areaNumber": "320213"
+}, {
+	"id": 320214,
+	"parentId": 320200,
+	"name": "新吴区",
+	"level": 3,
+	"postalCode": "214028",
+	"areaNumber": "320214"
+}, {
+	"id": 320281,
+	"parentId": 320200,
+	"name": "江阴市",
+	"level": 3,
+	"postalCode": "214400",
+	"areaNumber": "320281"
+}, {
+	"id": 320282,
+	"parentId": 320200,
+	"name": "宜兴市",
+	"level": 3,
+	"postalCode": "214200",
+	"areaNumber": "320282"
+}, {
+	"id": 320300,
+	"parentId": 320000,
+	"name": "徐州市",
+	"level": 2,
+	"postalCode": "221000",
+	"areaNumber": "320300"
+}, {
+	"id": 320302,
+	"parentId": 320300,
+	"name": "鼓楼区",
+	"level": 3,
+	"postalCode": "221005",
+	"areaNumber": "320302"
+}, {
+	"id": 320303,
+	"parentId": 320300,
+	"name": "云龙区",
+	"level": 3,
+	"postalCode": "221007",
+	"areaNumber": "320303"
+}, {
+	"id": 320305,
+	"parentId": 320300,
+	"name": "贾汪区",
+	"level": 3,
+	"postalCode": "221003",
+	"areaNumber": "320305"
+}, {
+	"id": 320311,
+	"parentId": 320300,
+	"name": "泉山区",
+	"level": 3,
+	"postalCode": "221006",
+	"areaNumber": "320311"
+}, {
+	"id": 320312,
+	"parentId": 320300,
+	"name": "铜山区",
+	"level": 3,
+	"postalCode": "221106",
+	"areaNumber": "320312"
+}, {
+	"id": 320321,
+	"parentId": 320300,
+	"name": "丰县",
+	"level": 3,
+	"postalCode": "221700",
+	"areaNumber": "320321"
+}, {
+	"id": 320322,
+	"parentId": 320300,
+	"name": "沛县",
+	"level": 3,
+	"postalCode": "221600",
+	"areaNumber": "320322"
+}, {
+	"id": 320324,
+	"parentId": 320300,
+	"name": "睢宁县",
+	"level": 3,
+	"postalCode": "221200",
+	"areaNumber": "320324"
+}, {
+	"id": 320381,
+	"parentId": 320300,
+	"name": "新沂市",
+	"level": 3,
+	"postalCode": "221400",
+	"areaNumber": "320381"
+}, {
+	"id": 320382,
+	"parentId": 320300,
+	"name": "邳州市",
+	"level": 3,
+	"postalCode": "221300",
+	"areaNumber": "320382"
+}, {
+	"id": 320383,
+	"parentId": 320300,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "221000",
+	"areaNumber": "320383"
+}, {
+	"id": 320384,
+	"parentId": 320300,
+	"name": "高新技术产业开发区",
+	"level": 3,
+	"postalCode": "221100",
+	"areaNumber": "320384"
+}, {
+	"id": 320385,
+	"parentId": 320300,
+	"name": "软件园",
+	"level": 3,
+	"postalCode": "221100",
+	"areaNumber": "320385"
+}, {
+	"id": 320400,
+	"parentId": 320000,
+	"name": "常州市",
+	"level": 2,
+	"postalCode": "213000",
+	"areaNumber": "320400"
+}, {
+	"id": 320402,
+	"parentId": 320400,
+	"name": "天宁区",
+	"level": 3,
+	"postalCode": "213000",
+	"areaNumber": "320402"
+}, {
+	"id": 320404,
+	"parentId": 320400,
+	"name": "钟楼区",
+	"level": 3,
+	"postalCode": "213000",
+	"areaNumber": "320404"
+}, {
+	"id": 320411,
+	"parentId": 320400,
+	"name": "新北区",
+	"level": 3,
+	"postalCode": "213022",
+	"areaNumber": "320411"
+}, {
+	"id": 320412,
+	"parentId": 320400,
+	"name": "武进区",
+	"level": 3,
+	"postalCode": "213100",
+	"areaNumber": "320412"
+}, {
+	"id": 320413,
+	"parentId": 320400,
+	"name": "金坛区",
+	"level": 3,
+	"postalCode": "213200",
+	"areaNumber": "320413"
+}, {
+	"id": 320481,
+	"parentId": 320400,
+	"name": "溧阳市",
+	"level": 3,
+	"postalCode": "213300",
+	"areaNumber": "320481"
+}, {
+	"id": 320482,
+	"parentId": 320400,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "213000",
+	"areaNumber": "320482"
+}, {
+	"id": 320500,
+	"parentId": 320000,
+	"name": "苏州市",
+	"level": 2,
+	"postalCode": "215000",
+	"areaNumber": "320500"
+}, {
+	"id": 320505,
+	"parentId": 320500,
+	"name": "虎丘区",
+	"level": 3,
+	"postalCode": "215000",
+	"areaNumber": "320505"
+}, {
+	"id": 320506,
+	"parentId": 320500,
+	"name": "吴中区",
+	"level": 3,
+	"postalCode": "215100",
+	"areaNumber": "320506"
+}, {
+	"id": 320507,
+	"parentId": 320500,
+	"name": "相城区",
+	"level": 3,
+	"postalCode": "215100",
+	"areaNumber": "320507"
+}, {
+	"id": 320508,
+	"parentId": 320500,
+	"name": "姑苏区",
+	"level": 3,
+	"postalCode": "215031",
+	"areaNumber": "320508"
+}, {
+	"id": 320509,
+	"parentId": 320500,
+	"name": "吴江区",
+	"level": 3,
+	"postalCode": "215200",
+	"areaNumber": "320509"
+}, {
+	"id": 320581,
+	"parentId": 320500,
+	"name": "常熟市",
+	"level": 3,
+	"postalCode": "215500",
+	"areaNumber": "320581"
+}, {
+	"id": 320582,
+	"parentId": 320500,
+	"name": "张家港市",
+	"level": 3,
+	"postalCode": "215600",
+	"areaNumber": "320582"
+}, {
+	"id": 320583,
+	"parentId": 320500,
+	"name": "昆山市",
+	"level": 3,
+	"postalCode": "215300",
+	"areaNumber": "320583"
+}, {
+	"id": 320585,
+	"parentId": 320500,
+	"name": "太仓市",
+	"level": 3,
+	"postalCode": "215400",
+	"areaNumber": "320585"
+}, {
+	"id": 320586,
+	"parentId": 320500,
+	"name": "苏州新区",
+	"level": 3,
+	"postalCode": "215010",
+	"areaNumber": "320586"
+}, {
+	"id": 320587,
+	"parentId": 320500,
+	"name": "工业园区",
+	"level": 3,
+	"postalCode": "215000",
+	"areaNumber": "320587"
+}, {
+	"id": 320588,
+	"parentId": 320500,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "215010",
+	"areaNumber": "320588"
+}, {
+	"id": 320600,
+	"parentId": 320000,
+	"name": "南通市",
+	"level": 2,
+	"postalCode": "226000",
+	"areaNumber": "320600"
+}, {
+	"id": 320602,
+	"parentId": 320600,
+	"name": "崇川区",
+	"level": 3,
+	"postalCode": "226000",
+	"areaNumber": "320602"
+}, {
+	"id": 320611,
+	"parentId": 320600,
+	"name": "港闸区",
+	"level": 3,
+	"postalCode": "226000",
+	"areaNumber": "320611"
+}, {
+	"id": 320612,
+	"parentId": 320600,
+	"name": "通州区",
+	"level": 3,
+	"postalCode": "226300",
+	"areaNumber": "320612"
+}, {
+	"id": 320621,
+	"parentId": 320600,
+	"name": "海安县",
+	"level": 3,
+	"postalCode": "226600",
+	"areaNumber": "320621"
+}, {
+	"id": 320623,
+	"parentId": 320600,
+	"name": "如东县",
+	"level": 3,
+	"postalCode": "226400",
+	"areaNumber": "320623"
+}, {
+	"id": 320681,
+	"parentId": 320600,
+	"name": "启东市",
+	"level": 3,
+	"postalCode": "226200",
+	"areaNumber": "320681"
+}, {
+	"id": 320682,
+	"parentId": 320600,
+	"name": "如皋市",
+	"level": 3,
+	"postalCode": "226500",
+	"areaNumber": "320682"
+}, {
+	"id": 320684,
+	"parentId": 320600,
+	"name": "海门市",
+	"level": 3,
+	"postalCode": "226100",
+	"areaNumber": "320684"
+}, {
+	"id": 320685,
+	"parentId": 320600,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "226000",
+	"areaNumber": "320685"
+}, {
+	"id": 320700,
+	"parentId": 320000,
+	"name": "连云港市",
+	"level": 2,
+	"postalCode": "222000",
+	"areaNumber": "320700"
+}, {
+	"id": 320703,
+	"parentId": 320700,
+	"name": "连云区",
+	"level": 3,
+	"postalCode": "222000",
+	"areaNumber": "320703"
+}, {
+	"id": 320706,
+	"parentId": 320700,
+	"name": "海州区",
+	"level": 3,
+	"postalCode": "222000",
+	"areaNumber": "320706"
+}, {
+	"id": 320707,
+	"parentId": 320700,
+	"name": "赣榆区",
+	"level": 3,
+	"postalCode": "222100",
+	"areaNumber": "320707"
+}, {
+	"id": 320722,
+	"parentId": 320700,
+	"name": "东海县",
+	"level": 3,
+	"postalCode": "222300",
+	"areaNumber": "320722"
+}, {
+	"id": 320723,
+	"parentId": 320700,
+	"name": "灌云县",
+	"level": 3,
+	"postalCode": "222200",
+	"areaNumber": "320723"
+}, {
+	"id": 320724,
+	"parentId": 320700,
+	"name": "灌南县",
+	"level": 3,
+	"postalCode": "223500",
+	"areaNumber": "320724"
+}, {
+	"id": 320725,
+	"parentId": 320700,
+	"name": "新海新区",
+	"level": 3,
+	"postalCode": "222006",
+	"areaNumber": "320725"
+}, {
+	"id": 320726,
+	"parentId": 320700,
+	"name": "连云新城",
+	"level": 3,
+	"postalCode": "222000",
+	"areaNumber": "320726"
+}, {
+	"id": 320727,
+	"parentId": 320700,
+	"name": "徐圩新区",
+	"level": 3,
+	"postalCode": "222000",
+	"areaNumber": "320727"
+}, {
+	"id": 320728,
+	"parentId": 320700,
+	"name": "济技术开发区",
+	"level": 3,
+	"postalCode": "222000",
+	"areaNumber": "320728"
+}, {
+	"id": 320800,
+	"parentId": 320000,
+	"name": "淮安市",
+	"level": 2,
+	"postalCode": "223000",
+	"areaNumber": "320800"
+}, {
+	"id": 320803,
+	"parentId": 320800,
+	"name": "淮安区",
+	"level": 3,
+	"postalCode": "223200",
+	"areaNumber": "320803"
+}, {
+	"id": 320804,
+	"parentId": 320800,
+	"name": "淮阴区",
+	"level": 3,
+	"postalCode": "223300",
+	"areaNumber": "320804"
+}, {
+	"id": 320812,
+	"parentId": 320800,
+	"name": "清江浦区",
+	"level": 3,
+	"postalCode": "223001",
+	"areaNumber": "320812"
+}, {
+	"id": 320813,
+	"parentId": 320800,
+	"name": "洪泽区",
+	"level": 3,
+	"postalCode": "223100",
+	"areaNumber": "320813"
+}, {
+	"id": 320826,
+	"parentId": 320800,
+	"name": "涟水县",
+	"level": 3,
+	"postalCode": "223400",
+	"areaNumber": "320826"
+}, {
+	"id": 320830,
+	"parentId": 320800,
+	"name": "盱眙县",
+	"level": 3,
+	"postalCode": "211700",
+	"areaNumber": "320830"
+}, {
+	"id": 320831,
+	"parentId": 320800,
+	"name": "金湖县",
+	"level": 3,
+	"postalCode": "211600",
+	"areaNumber": "320831"
+}, {
+	"id": 320832,
+	"parentId": 320800,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "223005",
+	"areaNumber": "320832"
+}, {
+	"id": 320900,
+	"parentId": 320000,
+	"name": "盐城市",
+	"level": 2,
+	"postalCode": "224000",
+	"areaNumber": "320900"
+}, {
+	"id": 320902,
+	"parentId": 320900,
+	"name": "亭湖区",
+	"level": 3,
+	"postalCode": "224005",
+	"areaNumber": "320902"
+}, {
+	"id": 320903,
+	"parentId": 320900,
+	"name": "盐都区",
+	"level": 3,
+	"postalCode": "224000",
+	"areaNumber": "320903"
+}, {
+	"id": 320904,
+	"parentId": 320900,
+	"name": "大丰区",
+	"level": 3,
+	"postalCode": "224100",
+	"areaNumber": "320904"
+}, {
+	"id": 320921,
+	"parentId": 320900,
+	"name": "响水县",
+	"level": 3,
+	"postalCode": "224600",
+	"areaNumber": "320921"
+}, {
+	"id": 320922,
+	"parentId": 320900,
+	"name": "滨海县",
+	"level": 3,
+	"postalCode": "224500",
+	"areaNumber": "320922"
+}, {
+	"id": 320923,
+	"parentId": 320900,
+	"name": "阜宁县",
+	"level": 3,
+	"postalCode": "224400",
+	"areaNumber": "320923"
+}, {
+	"id": 320924,
+	"parentId": 320900,
+	"name": "射阳县",
+	"level": 3,
+	"postalCode": "224300",
+	"areaNumber": "320924"
+}, {
+	"id": 320925,
+	"parentId": 320900,
+	"name": "建湖县",
+	"level": 3,
+	"postalCode": "224700",
+	"areaNumber": "320925"
+}, {
+	"id": 320981,
+	"parentId": 320900,
+	"name": "东台市",
+	"level": 3,
+	"postalCode": "224200",
+	"areaNumber": "320981"
+}, {
+	"id": 321000,
+	"parentId": 320000,
+	"name": "扬州市",
+	"level": 2,
+	"postalCode": "225000",
+	"areaNumber": "321000"
+}, {
+	"id": 321002,
+	"parentId": 321000,
+	"name": "广陵区",
+	"level": 3,
+	"postalCode": "225000",
+	"areaNumber": "321002"
+}, {
+	"id": 321003,
+	"parentId": 321000,
+	"name": "邗江区",
+	"level": 3,
+	"postalCode": "225100",
+	"areaNumber": "321003"
+}, {
+	"id": 321012,
+	"parentId": 321000,
+	"name": "江都区",
+	"level": 3,
+	"postalCode": "225200",
+	"areaNumber": "321012"
+}, {
+	"id": 321023,
+	"parentId": 321000,
+	"name": "宝应县",
+	"level": 3,
+	"postalCode": "225800",
+	"areaNumber": "321023"
+}, {
+	"id": 321081,
+	"parentId": 321000,
+	"name": "仪征市",
+	"level": 3,
+	"postalCode": "211400",
+	"areaNumber": "321081"
+}, {
+	"id": 321084,
+	"parentId": 321000,
+	"name": "高邮市",
+	"level": 3,
+	"postalCode": "225600",
+	"areaNumber": "321084"
+}, {
+	"id": 321100,
+	"parentId": 320000,
+	"name": "镇江市",
+	"level": 2,
+	"postalCode": "212000",
+	"areaNumber": "321100"
+}, {
+	"id": 321102,
+	"parentId": 321100,
+	"name": "京口区",
+	"level": 3,
+	"postalCode": "212000",
+	"areaNumber": "321102"
+}, {
+	"id": 321111,
+	"parentId": 321100,
+	"name": "润州区",
+	"level": 3,
+	"postalCode": "212000",
+	"areaNumber": "321111"
+}, {
+	"id": 321112,
+	"parentId": 321100,
+	"name": "丹徒区",
+	"level": 3,
+	"postalCode": "212100",
+	"areaNumber": "321112"
+}, {
+	"id": 321181,
+	"parentId": 321100,
+	"name": "丹阳市",
+	"level": 3,
+	"postalCode": "212300",
+	"areaNumber": "321181"
+}, {
+	"id": 321182,
+	"parentId": 321100,
+	"name": "扬中市",
+	"level": 3,
+	"postalCode": "212200",
+	"areaNumber": "321182"
+}, {
+	"id": 321183,
+	"parentId": 321100,
+	"name": "句容市",
+	"level": 3,
+	"postalCode": "212400",
+	"areaNumber": "321183"
+}, {
+	"id": 321184,
+	"parentId": 321100,
+	"name": "镇江新区",
+	"level": 3,
+	"postalCode": "212000",
+	"areaNumber": "321184"
+}, {
+	"id": 321185,
+	"parentId": 321100,
+	"name": "镇江新区",
+	"level": 3,
+	"postalCode": "212000",
+	"areaNumber": "321185"
+}, {
+	"id": 321186,
+	"parentId": 321100,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "212000",
+	"areaNumber": "321186"
+}, {
+	"id": 321200,
+	"parentId": 320000,
+	"name": "泰州市",
+	"level": 2,
+	"postalCode": "225300",
+	"areaNumber": "321200"
+}, {
+	"id": 321202,
+	"parentId": 321200,
+	"name": "海陵区",
+	"level": 3,
+	"postalCode": "225300",
+	"areaNumber": "321202"
+}, {
+	"id": 321203,
+	"parentId": 321200,
+	"name": "高港区",
+	"level": 3,
+	"postalCode": "225300",
+	"areaNumber": "321203"
+}, {
+	"id": 321204,
+	"parentId": 321200,
+	"name": "姜堰区",
+	"level": 3,
+	"postalCode": "225500",
+	"areaNumber": "321204"
+}, {
+	"id": 321281,
+	"parentId": 321200,
+	"name": "兴化市",
+	"level": 3,
+	"postalCode": "225700",
+	"areaNumber": "321281"
+}, {
+	"id": 321282,
+	"parentId": 321200,
+	"name": "靖江市",
+	"level": 3,
+	"postalCode": "214500",
+	"areaNumber": "321282"
+}, {
+	"id": 321283,
+	"parentId": 321200,
+	"name": "泰兴市",
+	"level": 3,
+	"postalCode": "225400",
+	"areaNumber": "321283"
+}, {
+	"id": 321300,
+	"parentId": 320000,
+	"name": "宿迁市",
+	"level": 2,
+	"postalCode": "223800",
+	"areaNumber": "321300"
+}, {
+	"id": 321302,
+	"parentId": 321300,
+	"name": "宿城区",
+	"level": 3,
+	"postalCode": "223800",
+	"areaNumber": "321302"
+}, {
+	"id": 321311,
+	"parentId": 321300,
+	"name": "宿豫区",
+	"level": 3,
+	"postalCode": "223800",
+	"areaNumber": "321311"
+}, {
+	"id": 321322,
+	"parentId": 321300,
+	"name": "沭阳县",
+	"level": 3,
+	"postalCode": "223600",
+	"areaNumber": "321322"
+}, {
+	"id": 321323,
+	"parentId": 321300,
+	"name": "泗阳县",
+	"level": 3,
+	"postalCode": "223700",
+	"areaNumber": "321323"
+}, {
+	"id": 321324,
+	"parentId": 321300,
+	"name": "泗洪县",
+	"level": 3,
+	"postalCode": "223900",
+	"areaNumber": "321324"
+}, {
+	"id": 321325,
+	"parentId": 321300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "223800",
+	"areaNumber": "321325"
+}, {
+	"id": 330000,
+	"parentId": 100000,
+	"name": "浙江省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "330000"
+}, {
+	"id": 330100,
+	"parentId": 330000,
+	"name": "杭州市",
+	"level": 2,
+	"postalCode": "310000",
+	"areaNumber": "330100"
+}, {
+	"id": 330102,
+	"parentId": 330100,
+	"name": "上城区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330102"
+}, {
+	"id": 330103,
+	"parentId": 330100,
+	"name": "下城区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330103"
+}, {
+	"id": 330104,
+	"parentId": 330100,
+	"name": "江干区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330104"
+}, {
+	"id": 330105,
+	"parentId": 330100,
+	"name": "拱墅区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330105"
+}, {
+	"id": 330106,
+	"parentId": 330100,
+	"name": "西湖区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330106"
+}, {
+	"id": 330108,
+	"parentId": 330100,
+	"name": "滨江区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330108"
+}, {
+	"id": 330109,
+	"parentId": 330100,
+	"name": "萧山区",
+	"level": 3,
+	"postalCode": "311200",
+	"areaNumber": "330109"
+}, {
+	"id": 330110,
+	"parentId": 330100,
+	"name": "余杭区",
+	"level": 3,
+	"postalCode": "311100",
+	"areaNumber": "330110"
+}, {
+	"id": 330111,
+	"parentId": 330100,
+	"name": "富阳区",
+	"level": 3,
+	"postalCode": "311400",
+	"areaNumber": "330111"
+}, {
+	"id": 330112,
+	"parentId": 330100,
+	"name": "临安区",
+	"level": 3,
+	"postalCode": "311300",
+	"areaNumber": "330112"
+}, {
+	"id": 330122,
+	"parentId": 330100,
+	"name": "桐庐县",
+	"level": 3,
+	"postalCode": "311500",
+	"areaNumber": "330122"
+}, {
+	"id": 330127,
+	"parentId": 330100,
+	"name": "淳安县",
+	"level": 3,
+	"postalCode": "311700",
+	"areaNumber": "330127"
+}, {
+	"id": 330182,
+	"parentId": 330100,
+	"name": "建德市",
+	"level": 3,
+	"postalCode": "311600",
+	"areaNumber": "330182"
+}, {
+	"id": 330186,
+	"parentId": 330100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "310000",
+	"areaNumber": "330186"
+}, {
+	"id": 330200,
+	"parentId": 330000,
+	"name": "宁波市",
+	"level": 2,
+	"postalCode": "315000",
+	"areaNumber": "330200"
+}, {
+	"id": 330203,
+	"parentId": 330200,
+	"name": "海曙区",
+	"level": 3,
+	"postalCode": "315000",
+	"areaNumber": "330203"
+}, {
+	"id": 330205,
+	"parentId": 330200,
+	"name": "江北区",
+	"level": 3,
+	"postalCode": "315000",
+	"areaNumber": "330205"
+}, {
+	"id": 330206,
+	"parentId": 330200,
+	"name": "北仑区",
+	"level": 3,
+	"postalCode": "315800",
+	"areaNumber": "330206"
+}, {
+	"id": 330211,
+	"parentId": 330200,
+	"name": "镇海区",
+	"level": 3,
+	"postalCode": "315200",
+	"areaNumber": "330211"
+}, {
+	"id": 330212,
+	"parentId": 330200,
+	"name": "鄞州区",
+	"level": 3,
+	"postalCode": "315100",
+	"areaNumber": "330212"
+}, {
+	"id": 330213,
+	"parentId": 330200,
+	"name": "奉化区",
+	"level": 3,
+	"postalCode": "315500",
+	"areaNumber": "330213"
+}, {
+	"id": 330225,
+	"parentId": 330200,
+	"name": "象山县",
+	"level": 3,
+	"postalCode": "315700",
+	"areaNumber": "330225"
+}, {
+	"id": 330226,
+	"parentId": 330200,
+	"name": "宁海县",
+	"level": 3,
+	"postalCode": "315600",
+	"areaNumber": "330226"
+}, {
+	"id": 330281,
+	"parentId": 330200,
+	"name": "余姚市",
+	"level": 3,
+	"postalCode": "315400",
+	"areaNumber": "330281"
+}, {
+	"id": 330282,
+	"parentId": 330200,
+	"name": "慈溪市",
+	"level": 3,
+	"postalCode": "315300",
+	"areaNumber": "330282"
+}, {
+	"id": 330284,
+	"parentId": 330200,
+	"name": "杭州湾新区",
+	"level": 3,
+	"postalCode": "315336",
+	"areaNumber": "330284"
+}, {
+	"id": 330285,
+	"parentId": 330200,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "315000",
+	"areaNumber": "330285"
+}, {
+	"id": 330300,
+	"parentId": 330000,
+	"name": "温州市",
+	"level": 2,
+	"postalCode": "325000",
+	"areaNumber": "330300"
+}, {
+	"id": 330302,
+	"parentId": 330300,
+	"name": "鹿城区",
+	"level": 3,
+	"postalCode": "325000",
+	"areaNumber": "330302"
+}, {
+	"id": 330303,
+	"parentId": 330300,
+	"name": "龙湾区",
+	"level": 3,
+	"postalCode": "325000",
+	"areaNumber": "330303"
+}, {
+	"id": 330304,
+	"parentId": 330300,
+	"name": "瓯海区",
+	"level": 3,
+	"postalCode": "325000",
+	"areaNumber": "330304"
+}, {
+	"id": 330305,
+	"parentId": 330300,
+	"name": "洞头区",
+	"level": 3,
+	"postalCode": "325700",
+	"areaNumber": "330305"
+}, {
+	"id": 330324,
+	"parentId": 330300,
+	"name": "永嘉县",
+	"level": 3,
+	"postalCode": "325100",
+	"areaNumber": "330324"
+}, {
+	"id": 330326,
+	"parentId": 330300,
+	"name": "平阳县",
+	"level": 3,
+	"postalCode": "325400",
+	"areaNumber": "330326"
+}, {
+	"id": 330327,
+	"parentId": 330300,
+	"name": "苍南县",
+	"level": 3,
+	"postalCode": "325800",
+	"areaNumber": "330327"
+}, {
+	"id": 330328,
+	"parentId": 330300,
+	"name": "文成县",
+	"level": 3,
+	"postalCode": "325300",
+	"areaNumber": "330328"
+}, {
+	"id": 330329,
+	"parentId": 330300,
+	"name": "泰顺县",
+	"level": 3,
+	"postalCode": "325500",
+	"areaNumber": "330329"
+}, {
+	"id": 330381,
+	"parentId": 330300,
+	"name": "瑞安市",
+	"level": 3,
+	"postalCode": "325200",
+	"areaNumber": "330381"
+}, {
+	"id": 330382,
+	"parentId": 330300,
+	"name": "乐清市",
+	"level": 3,
+	"postalCode": "325600",
+	"areaNumber": "330382"
+}, {
+	"id": 330400,
+	"parentId": 330000,
+	"name": "嘉兴市",
+	"level": 2,
+	"postalCode": "314000",
+	"areaNumber": "330400"
+}, {
+	"id": 330402,
+	"parentId": 330400,
+	"name": "南湖区",
+	"level": 3,
+	"postalCode": "314051",
+	"areaNumber": "330402"
+}, {
+	"id": 330411,
+	"parentId": 330400,
+	"name": "秀洲区",
+	"level": 3,
+	"postalCode": "314031",
+	"areaNumber": "330411"
+}, {
+	"id": 330421,
+	"parentId": 330400,
+	"name": "嘉善县",
+	"level": 3,
+	"postalCode": "314100",
+	"areaNumber": "330421"
+}, {
+	"id": 330424,
+	"parentId": 330400,
+	"name": "海盐县",
+	"level": 3,
+	"postalCode": "314300",
+	"areaNumber": "330424"
+}, {
+	"id": 330481,
+	"parentId": 330400,
+	"name": "海宁市",
+	"level": 3,
+	"postalCode": "314400",
+	"areaNumber": "330481"
+}, {
+	"id": 330482,
+	"parentId": 330400,
+	"name": "平湖市",
+	"level": 3,
+	"postalCode": "314200",
+	"areaNumber": "330482"
+}, {
+	"id": 330483,
+	"parentId": 330400,
+	"name": "桐乡市",
+	"level": 3,
+	"postalCode": "314500",
+	"areaNumber": "330483"
+}, {
+	"id": 330500,
+	"parentId": 330000,
+	"name": "湖州市",
+	"level": 2,
+	"postalCode": "313000",
+	"areaNumber": "330500"
+}, {
+	"id": 330502,
+	"parentId": 330500,
+	"name": "吴兴区",
+	"level": 3,
+	"postalCode": "313000",
+	"areaNumber": "330502"
+}, {
+	"id": 330503,
+	"parentId": 330500,
+	"name": "南浔区",
+	"level": 3,
+	"postalCode": "313000",
+	"areaNumber": "330503"
+}, {
+	"id": 330521,
+	"parentId": 330500,
+	"name": "德清县",
+	"level": 3,
+	"postalCode": "313200",
+	"areaNumber": "330521"
+}, {
+	"id": 330522,
+	"parentId": 330500,
+	"name": "长兴县",
+	"level": 3,
+	"postalCode": "313100",
+	"areaNumber": "330522"
+}, {
+	"id": 330523,
+	"parentId": 330500,
+	"name": "安吉县",
+	"level": 3,
+	"postalCode": "313300",
+	"areaNumber": "330523"
+}, {
+	"id": 330600,
+	"parentId": 330000,
+	"name": "绍兴市",
+	"level": 2,
+	"postalCode": "312000",
+	"areaNumber": "330600"
+}, {
+	"id": 330602,
+	"parentId": 330600,
+	"name": "越城区",
+	"level": 3,
+	"postalCode": "312000",
+	"areaNumber": "330602"
+}, {
+	"id": 330603,
+	"parentId": 330600,
+	"name": "柯桥区",
+	"level": 3,
+	"postalCode": "312030",
+	"areaNumber": "330603"
+}, {
+	"id": 330604,
+	"parentId": 330600,
+	"name": "上虞区",
+	"level": 3,
+	"postalCode": "312300",
+	"areaNumber": "330604"
+}, {
+	"id": 330624,
+	"parentId": 330600,
+	"name": "新昌县",
+	"level": 3,
+	"postalCode": "312500",
+	"areaNumber": "330624"
+}, {
+	"id": 330681,
+	"parentId": 330600,
+	"name": "诸暨市",
+	"level": 3,
+	"postalCode": "311800",
+	"areaNumber": "330681"
+}, {
+	"id": 330683,
+	"parentId": 330600,
+	"name": "嵊州市",
+	"level": 3,
+	"postalCode": "312400",
+	"areaNumber": "330683"
+}, {
+	"id": 330700,
+	"parentId": 330000,
+	"name": "金华市",
+	"level": 2,
+	"postalCode": "321000",
+	"areaNumber": "330700"
+}, {
+	"id": 330702,
+	"parentId": 330700,
+	"name": "婺城区",
+	"level": 3,
+	"postalCode": "321000",
+	"areaNumber": "330702"
+}, {
+	"id": 330703,
+	"parentId": 330700,
+	"name": "金东区",
+	"level": 3,
+	"postalCode": "321000",
+	"areaNumber": "330703"
+}, {
+	"id": 330723,
+	"parentId": 330700,
+	"name": "武义县",
+	"level": 3,
+	"postalCode": "321200",
+	"areaNumber": "330723"
+}, {
+	"id": 330726,
+	"parentId": 330700,
+	"name": "浦江县",
+	"level": 3,
+	"postalCode": "322200",
+	"areaNumber": "330726"
+}, {
+	"id": 330727,
+	"parentId": 330700,
+	"name": "磐安县",
+	"level": 3,
+	"postalCode": "322300",
+	"areaNumber": "330727"
+}, {
+	"id": 330781,
+	"parentId": 330700,
+	"name": "兰溪市",
+	"level": 3,
+	"postalCode": "321100",
+	"areaNumber": "330781"
+}, {
+	"id": 330782,
+	"parentId": 330700,
+	"name": "义乌市",
+	"level": 3,
+	"postalCode": "322000",
+	"areaNumber": "330782"
+}, {
+	"id": 330783,
+	"parentId": 330700,
+	"name": "东阳市",
+	"level": 3,
+	"postalCode": "322100",
+	"areaNumber": "330783"
+}, {
+	"id": 330784,
+	"parentId": 330700,
+	"name": "永康市",
+	"level": 3,
+	"postalCode": "321300",
+	"areaNumber": "330784"
+}, {
+	"id": 330800,
+	"parentId": 330000,
+	"name": "衢州市",
+	"level": 2,
+	"postalCode": "324000",
+	"areaNumber": "330800"
+}, {
+	"id": 330802,
+	"parentId": 330800,
+	"name": "柯城区",
+	"level": 3,
+	"postalCode": "324000",
+	"areaNumber": "330802"
+}, {
+	"id": 330803,
+	"parentId": 330800,
+	"name": "衢江区",
+	"level": 3,
+	"postalCode": "324000",
+	"areaNumber": "330803"
+}, {
+	"id": 330822,
+	"parentId": 330800,
+	"name": "常山县",
+	"level": 3,
+	"postalCode": "324200",
+	"areaNumber": "330822"
+}, {
+	"id": 330824,
+	"parentId": 330800,
+	"name": "开化县",
+	"level": 3,
+	"postalCode": "324300",
+	"areaNumber": "330824"
+}, {
+	"id": 330825,
+	"parentId": 330800,
+	"name": "龙游县",
+	"level": 3,
+	"postalCode": "324400",
+	"areaNumber": "330825"
+}, {
+	"id": 330881,
+	"parentId": 330800,
+	"name": "江山市",
+	"level": 3,
+	"postalCode": "324100",
+	"areaNumber": "330881"
+}, {
+	"id": 330900,
+	"parentId": 330000,
+	"name": "舟山市",
+	"level": 2,
+	"postalCode": "316000",
+	"areaNumber": "330900"
+}, {
+	"id": 330902,
+	"parentId": 330900,
+	"name": "定海区",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "330902"
+}, {
+	"id": 330903,
+	"parentId": 330900,
+	"name": "普陀区",
+	"level": 3,
+	"postalCode": "316100",
+	"areaNumber": "330903"
+}, {
+	"id": 330921,
+	"parentId": 330900,
+	"name": "岱山县",
+	"level": 3,
+	"postalCode": "316200",
+	"areaNumber": "330921"
+}, {
+	"id": 330922,
+	"parentId": 330900,
+	"name": "嵊泗县",
+	"level": 3,
+	"postalCode": "202450",
+	"areaNumber": "330922"
+}, {
+	"id": 331000,
+	"parentId": 330000,
+	"name": "台州市",
+	"level": 2,
+	"postalCode": "318000",
+	"areaNumber": "331000"
+}, {
+	"id": 331002,
+	"parentId": 331000,
+	"name": "椒江区",
+	"level": 3,
+	"postalCode": "317700",
+	"areaNumber": "331002"
+}, {
+	"id": 331003,
+	"parentId": 331000,
+	"name": "黄岩区",
+	"level": 3,
+	"postalCode": "318020",
+	"areaNumber": "331003"
+}, {
+	"id": 331004,
+	"parentId": 331000,
+	"name": "路桥区",
+	"level": 3,
+	"postalCode": "318000",
+	"areaNumber": "331004"
+}, {
+	"id": 331022,
+	"parentId": 331000,
+	"name": "三门县",
+	"level": 3,
+	"postalCode": "317100",
+	"areaNumber": "331022"
+}, {
+	"id": 331023,
+	"parentId": 331000,
+	"name": "天台县",
+	"level": 3,
+	"postalCode": "317200",
+	"areaNumber": "331023"
+}, {
+	"id": 331024,
+	"parentId": 331000,
+	"name": "仙居县",
+	"level": 3,
+	"postalCode": "317300",
+	"areaNumber": "331024"
+}, {
+	"id": 331081,
+	"parentId": 331000,
+	"name": "温岭市",
+	"level": 3,
+	"postalCode": "317500",
+	"areaNumber": "331081"
+}, {
+	"id": 331082,
+	"parentId": 331000,
+	"name": "临海市",
+	"level": 3,
+	"postalCode": "317000",
+	"areaNumber": "331082"
+}, {
+	"id": 331083,
+	"parentId": 331000,
+	"name": "玉环市",
+	"level": 3,
+	"postalCode": "317600",
+	"areaNumber": "331083"
+}, {
+	"id": 331100,
+	"parentId": 330000,
+	"name": "丽水市",
+	"level": 2,
+	"postalCode": "323000",
+	"areaNumber": "331100"
+}, {
+	"id": 331102,
+	"parentId": 331100,
+	"name": "莲都区",
+	"level": 3,
+	"postalCode": "323000",
+	"areaNumber": "331102"
+}, {
+	"id": 331121,
+	"parentId": 331100,
+	"name": "青田县",
+	"level": 3,
+	"postalCode": "323900",
+	"areaNumber": "331121"
+}, {
+	"id": 331122,
+	"parentId": 331100,
+	"name": "缙云县",
+	"level": 3,
+	"postalCode": "321400",
+	"areaNumber": "331122"
+}, {
+	"id": 331123,
+	"parentId": 331100,
+	"name": "遂昌县",
+	"level": 3,
+	"postalCode": "323300",
+	"areaNumber": "331123"
+}, {
+	"id": 331124,
+	"parentId": 331100,
+	"name": "松阳县",
+	"level": 3,
+	"postalCode": "323400",
+	"areaNumber": "331124"
+}, {
+	"id": 331125,
+	"parentId": 331100,
+	"name": "云和县",
+	"level": 3,
+	"postalCode": "323600",
+	"areaNumber": "331125"
+}, {
+	"id": 331126,
+	"parentId": 331100,
+	"name": "庆元县",
+	"level": 3,
+	"postalCode": "323800",
+	"areaNumber": "331126"
+}, {
+	"id": 331127,
+	"parentId": 331100,
+	"name": "景宁畲族自治县",
+	"level": 3,
+	"postalCode": "323500",
+	"areaNumber": "331127"
+}, {
+	"id": 331181,
+	"parentId": 331100,
+	"name": "龙泉市",
+	"level": 3,
+	"postalCode": "323700",
+	"areaNumber": "331181"
+}, {
+	"id": 331200,
+	"parentId": 330000,
+	"name": "舟山群岛新区",
+	"level": 2,
+	"postalCode": "316000",
+	"areaNumber": "331200"
+}, {
+	"id": 331201,
+	"parentId": 331200,
+	"name": "金塘岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331201"
+}, {
+	"id": 331202,
+	"parentId": 331200,
+	"name": "六横岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331202"
+}, {
+	"id": 331203,
+	"parentId": 331200,
+	"name": "衢山岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331203"
+}, {
+	"id": 331204,
+	"parentId": 331200,
+	"name": "舟山本岛西北部",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331204"
+}, {
+	"id": 331205,
+	"parentId": 331200,
+	"name": "岱山岛西南部",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331205"
+}, {
+	"id": 331206,
+	"parentId": 331200,
+	"name": "泗礁岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331206"
+}, {
+	"id": 331207,
+	"parentId": 331200,
+	"name": "朱家尖岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331207"
+}, {
+	"id": 331208,
+	"parentId": 331200,
+	"name": "洋山岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331208"
+}, {
+	"id": 331209,
+	"parentId": 331200,
+	"name": "长涂岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331209"
+}, {
+	"id": 331210,
+	"parentId": 331200,
+	"name": "虾峙岛",
+	"level": 3,
+	"postalCode": "316000",
+	"areaNumber": "331210"
+}, {
+	"id": 340000,
+	"parentId": 100000,
+	"name": "安徽省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "340000"
+}, {
+	"id": 340100,
+	"parentId": 340000,
+	"name": "合肥市",
+	"level": 2,
+	"postalCode": "230000",
+	"areaNumber": "340100"
+}, {
+	"id": 340102,
+	"parentId": 340100,
+	"name": "瑶海区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340102"
+}, {
+	"id": 340103,
+	"parentId": 340100,
+	"name": "庐阳区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340103"
+}, {
+	"id": 340104,
+	"parentId": 340100,
+	"name": "蜀山区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340104"
+}, {
+	"id": 340111,
+	"parentId": 340100,
+	"name": "包河区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340111"
+}, {
+	"id": 340121,
+	"parentId": 340100,
+	"name": "长丰县",
+	"level": 3,
+	"postalCode": "231100",
+	"areaNumber": "340121"
+}, {
+	"id": 340122,
+	"parentId": 340100,
+	"name": "肥东县",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340122"
+}, {
+	"id": 340123,
+	"parentId": 340100,
+	"name": "肥西县",
+	"level": 3,
+	"postalCode": "231200",
+	"areaNumber": "340123"
+}, {
+	"id": 340124,
+	"parentId": 340100,
+	"name": "庐江县",
+	"level": 3,
+	"postalCode": "231500",
+	"areaNumber": "340124"
+}, {
+	"id": 340181,
+	"parentId": 340100,
+	"name": "巢湖市",
+	"level": 3,
+	"postalCode": "238000",
+	"areaNumber": "340181"
+}, {
+	"id": 340184,
+	"parentId": 340100,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340184"
+}, {
+	"id": 340185,
+	"parentId": 340100,
+	"name": "高新技术开发区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340185"
+}, {
+	"id": 340186,
+	"parentId": 340100,
+	"name": "北城新区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340186"
+}, {
+	"id": 340187,
+	"parentId": 340100,
+	"name": "滨湖新区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340187"
+}, {
+	"id": 340188,
+	"parentId": 340100,
+	"name": "政务文化新区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340188"
+}, {
+	"id": 340189,
+	"parentId": 340100,
+	"name": "新站综合开发试验区",
+	"level": 3,
+	"postalCode": "230000",
+	"areaNumber": "340189"
+}, {
+	"id": 340200,
+	"parentId": 340000,
+	"name": "芜湖市",
+	"level": 2,
+	"postalCode": "241000",
+	"areaNumber": "340200"
+}, {
+	"id": 340202,
+	"parentId": 340200,
+	"name": "镜湖区",
+	"level": 3,
+	"postalCode": "241000",
+	"areaNumber": "340202"
+}, {
+	"id": 340203,
+	"parentId": 340200,
+	"name": "弋江区",
+	"level": 3,
+	"postalCode": "241000",
+	"areaNumber": "340203"
+}, {
+	"id": 340207,
+	"parentId": 340200,
+	"name": "鸠江区",
+	"level": 3,
+	"postalCode": "241000",
+	"areaNumber": "340207"
+}, {
+	"id": 340208,
+	"parentId": 340200,
+	"name": "三山区",
+	"level": 3,
+	"postalCode": "241000",
+	"areaNumber": "340208"
+}, {
+	"id": 340221,
+	"parentId": 340200,
+	"name": "芜湖县",
+	"level": 3,
+	"postalCode": "241100",
+	"areaNumber": "340221"
+}, {
+	"id": 340222,
+	"parentId": 340200,
+	"name": "繁昌县",
+	"level": 3,
+	"postalCode": "241200",
+	"areaNumber": "340222"
+}, {
+	"id": 340223,
+	"parentId": 340200,
+	"name": "南陵县",
+	"level": 3,
+	"postalCode": "242400",
+	"areaNumber": "340223"
+}, {
+	"id": 340225,
+	"parentId": 340200,
+	"name": "无为县",
+	"level": 3,
+	"postalCode": "238300",
+	"areaNumber": "340225"
+}, {
+	"id": 340226,
+	"parentId": 340200,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "241000",
+	"areaNumber": "340226"
+}, {
+	"id": 340300,
+	"parentId": 340000,
+	"name": "蚌埠市",
+	"level": 2,
+	"postalCode": "233000",
+	"areaNumber": "340300"
+}, {
+	"id": 340302,
+	"parentId": 340300,
+	"name": "龙子湖区",
+	"level": 3,
+	"postalCode": "233000",
+	"areaNumber": "340302"
+}, {
+	"id": 340303,
+	"parentId": 340300,
+	"name": "蚌山区",
+	"level": 3,
+	"postalCode": "233000",
+	"areaNumber": "340303"
+}, {
+	"id": 340304,
+	"parentId": 340300,
+	"name": "禹会区",
+	"level": 3,
+	"postalCode": "233000",
+	"areaNumber": "340304"
+}, {
+	"id": 340311,
+	"parentId": 340300,
+	"name": "淮上区",
+	"level": 3,
+	"postalCode": "233000",
+	"areaNumber": "340311"
+}, {
+	"id": 340321,
+	"parentId": 340300,
+	"name": "怀远县",
+	"level": 3,
+	"postalCode": "233400",
+	"areaNumber": "340321"
+}, {
+	"id": 340322,
+	"parentId": 340300,
+	"name": "五河县",
+	"level": 3,
+	"postalCode": "233300",
+	"areaNumber": "340322"
+}, {
+	"id": 340323,
+	"parentId": 340300,
+	"name": "固镇县",
+	"level": 3,
+	"postalCode": "233700",
+	"areaNumber": "340323"
+}, {
+	"id": 340324,
+	"parentId": 340300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "233000",
+	"areaNumber": "340324"
+}, {
+	"id": 340400,
+	"parentId": 340000,
+	"name": "淮南市",
+	"level": 2,
+	"postalCode": "232000",
+	"areaNumber": "340400"
+}, {
+	"id": 340402,
+	"parentId": 340400,
+	"name": "大通区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340402"
+}, {
+	"id": 340403,
+	"parentId": 340400,
+	"name": "田家庵区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340403"
+}, {
+	"id": 340404,
+	"parentId": 340400,
+	"name": "谢家集区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340404"
+}, {
+	"id": 340405,
+	"parentId": 340400,
+	"name": "八公山区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340405"
+}, {
+	"id": 340406,
+	"parentId": 340400,
+	"name": "潘集区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340406"
+}, {
+	"id": 340421,
+	"parentId": 340400,
+	"name": "凤台县",
+	"level": 3,
+	"postalCode": "232100",
+	"areaNumber": "340421"
+}, {
+	"id": 340422,
+	"parentId": 340400,
+	"name": "寿县",
+	"level": 3,
+	"postalCode": "232200",
+	"areaNumber": "340422"
+}, {
+	"id": 340423,
+	"parentId": 340400,
+	"name": "山南新区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340423"
+}, {
+	"id": 340424,
+	"parentId": 340400,
+	"name": "毛集实验区",
+	"level": 3,
+	"postalCode": "232180",
+	"areaNumber": "340424"
+}, {
+	"id": 340425,
+	"parentId": 340400,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "232000",
+	"areaNumber": "340425"
+}, {
+	"id": 340500,
+	"parentId": 340000,
+	"name": "马鞍山市",
+	"level": 2,
+	"postalCode": "243000",
+	"areaNumber": "340500"
+}, {
+	"id": 340503,
+	"parentId": 340500,
+	"name": "花山区",
+	"level": 3,
+	"postalCode": "243000",
+	"areaNumber": "340503"
+}, {
+	"id": 340504,
+	"parentId": 340500,
+	"name": "雨山区",
+	"level": 3,
+	"postalCode": "243000",
+	"areaNumber": "340504"
+}, {
+	"id": 340506,
+	"parentId": 340500,
+	"name": "博望区",
+	"level": 3,
+	"postalCode": "243131",
+	"areaNumber": "340506"
+}, {
+	"id": 340521,
+	"parentId": 340500,
+	"name": "当涂县",
+	"level": 3,
+	"postalCode": "243100",
+	"areaNumber": "340521"
+}, {
+	"id": 340522,
+	"parentId": 340500,
+	"name": "含山县",
+	"level": 3,
+	"postalCode": "238100",
+	"areaNumber": "340522"
+}, {
+	"id": 340523,
+	"parentId": 340500,
+	"name": "和县",
+	"level": 3,
+	"postalCode": "238200",
+	"areaNumber": "340523"
+}, {
+	"id": 340600,
+	"parentId": 340000,
+	"name": "淮北市",
+	"level": 2,
+	"postalCode": "235000",
+	"areaNumber": "340600"
+}, {
+	"id": 340602,
+	"parentId": 340600,
+	"name": "杜集区",
+	"level": 3,
+	"postalCode": "235000",
+	"areaNumber": "340602"
+}, {
+	"id": 340603,
+	"parentId": 340600,
+	"name": "相山区",
+	"level": 3,
+	"postalCode": "235000",
+	"areaNumber": "340603"
+}, {
+	"id": 340604,
+	"parentId": 340600,
+	"name": "烈山区",
+	"level": 3,
+	"postalCode": "235000",
+	"areaNumber": "340604"
+}, {
+	"id": 340621,
+	"parentId": 340600,
+	"name": "濉溪县",
+	"level": 3,
+	"postalCode": "235100",
+	"areaNumber": "340621"
+}, {
+	"id": 340700,
+	"parentId": 340000,
+	"name": "铜陵市",
+	"level": 2,
+	"postalCode": "244000",
+	"areaNumber": "340700"
+}, {
+	"id": 340705,
+	"parentId": 340700,
+	"name": "铜官区",
+	"level": 3,
+	"postalCode": "244000",
+	"areaNumber": "340705"
+}, {
+	"id": 340706,
+	"parentId": 340700,
+	"name": "义安区",
+	"level": 3,
+	"postalCode": "244100",
+	"areaNumber": "340706"
+}, {
+	"id": 340711,
+	"parentId": 340700,
+	"name": "郊区",
+	"level": 3,
+	"postalCode": "244000",
+	"areaNumber": "340711"
+}, {
+	"id": 340722,
+	"parentId": 340700,
+	"name": "枞阳县",
+	"level": 3,
+	"postalCode": "246700",
+	"areaNumber": "340722"
+}, {
+	"id": 340800,
+	"parentId": 340000,
+	"name": "安庆市",
+	"level": 2,
+	"postalCode": "246000",
+	"areaNumber": "340800"
+}, {
+	"id": 340802,
+	"parentId": 340800,
+	"name": "迎江区",
+	"level": 3,
+	"postalCode": "246001",
+	"areaNumber": "340802"
+}, {
+	"id": 340803,
+	"parentId": 340800,
+	"name": "大观区",
+	"level": 3,
+	"postalCode": "246002",
+	"areaNumber": "340803"
+}, {
+	"id": 340811,
+	"parentId": 340800,
+	"name": "宜秀区",
+	"level": 3,
+	"postalCode": "246003",
+	"areaNumber": "340811"
+}, {
+	"id": 340822,
+	"parentId": 340800,
+	"name": "怀宁县",
+	"level": 3,
+	"postalCode": "246100",
+	"areaNumber": "340822"
+}, {
+	"id": 340824,
+	"parentId": 340800,
+	"name": "潜山县",
+	"level": 3,
+	"postalCode": "246300",
+	"areaNumber": "340824"
+}, {
+	"id": 340825,
+	"parentId": 340800,
+	"name": "太湖县",
+	"level": 3,
+	"postalCode": "246400",
+	"areaNumber": "340825"
+}, {
+	"id": 340826,
+	"parentId": 340800,
+	"name": "宿松县",
+	"level": 3,
+	"postalCode": "246500",
+	"areaNumber": "340826"
+}, {
+	"id": 340827,
+	"parentId": 340800,
+	"name": "望江县",
+	"level": 3,
+	"postalCode": "246200",
+	"areaNumber": "340827"
+}, {
+	"id": 340828,
+	"parentId": 340800,
+	"name": "岳西县",
+	"level": 3,
+	"postalCode": "246600",
+	"areaNumber": "340828"
+}, {
+	"id": 340881,
+	"parentId": 340800,
+	"name": "桐城市",
+	"level": 3,
+	"postalCode": "231400",
+	"areaNumber": "340881"
+}, {
+	"id": 341000,
+	"parentId": 340000,
+	"name": "黄山市",
+	"level": 2,
+	"postalCode": "242700",
+	"areaNumber": "341000"
+}, {
+	"id": 341002,
+	"parentId": 341000,
+	"name": "屯溪区",
+	"level": 3,
+	"postalCode": "245000",
+	"areaNumber": "341002"
+}, {
+	"id": 341003,
+	"parentId": 341000,
+	"name": "黄山区",
+	"level": 3,
+	"postalCode": "242700",
+	"areaNumber": "341003"
+}, {
+	"id": 341004,
+	"parentId": 341000,
+	"name": "徽州区",
+	"level": 3,
+	"postalCode": "245061",
+	"areaNumber": "341004"
+}, {
+	"id": 341021,
+	"parentId": 341000,
+	"name": "歙县",
+	"level": 3,
+	"postalCode": "245200",
+	"areaNumber": "341021"
+}, {
+	"id": 341022,
+	"parentId": 341000,
+	"name": "休宁县",
+	"level": 3,
+	"postalCode": "245400",
+	"areaNumber": "341022"
+}, {
+	"id": 341023,
+	"parentId": 341000,
+	"name": "黟县",
+	"level": 3,
+	"postalCode": "245500",
+	"areaNumber": "341023"
+}, {
+	"id": 341024,
+	"parentId": 341000,
+	"name": "祁门县",
+	"level": 3,
+	"postalCode": "245600",
+	"areaNumber": "341024"
+}, {
+	"id": 341100,
+	"parentId": 340000,
+	"name": "滁州市",
+	"level": 2,
+	"postalCode": "239000",
+	"areaNumber": "341100"
+}, {
+	"id": 341102,
+	"parentId": 341100,
+	"name": "琅琊区",
+	"level": 3,
+	"postalCode": "239000",
+	"areaNumber": "341102"
+}, {
+	"id": 341103,
+	"parentId": 341100,
+	"name": "南谯区",
+	"level": 3,
+	"postalCode": "239000",
+	"areaNumber": "341103"
+}, {
+	"id": 341122,
+	"parentId": 341100,
+	"name": "来安县",
+	"level": 3,
+	"postalCode": "239200",
+	"areaNumber": "341122"
+}, {
+	"id": 341124,
+	"parentId": 341100,
+	"name": "全椒县",
+	"level": 3,
+	"postalCode": "239500",
+	"areaNumber": "341124"
+}, {
+	"id": 341125,
+	"parentId": 341100,
+	"name": "定远县",
+	"level": 3,
+	"postalCode": "233200",
+	"areaNumber": "341125"
+}, {
+	"id": 341126,
+	"parentId": 341100,
+	"name": "凤阳县",
+	"level": 3,
+	"postalCode": "233100",
+	"areaNumber": "341126"
+}, {
+	"id": 341181,
+	"parentId": 341100,
+	"name": "天长市",
+	"level": 3,
+	"postalCode": "239300",
+	"areaNumber": "341181"
+}, {
+	"id": 341182,
+	"parentId": 341100,
+	"name": "明光市",
+	"level": 3,
+	"postalCode": "239400",
+	"areaNumber": "341182"
+}, {
+	"id": 341200,
+	"parentId": 340000,
+	"name": "阜阳市",
+	"level": 2,
+	"postalCode": "236000",
+	"areaNumber": "341200"
+}, {
+	"id": 341202,
+	"parentId": 341200,
+	"name": "颍州区",
+	"level": 3,
+	"postalCode": "236000",
+	"areaNumber": "341202"
+}, {
+	"id": 341203,
+	"parentId": 341200,
+	"name": "颍东区",
+	"level": 3,
+	"postalCode": "236000",
+	"areaNumber": "341203"
+}, {
+	"id": 341204,
+	"parentId": 341200,
+	"name": "颍泉区",
+	"level": 3,
+	"postalCode": "236000",
+	"areaNumber": "341204"
+}, {
+	"id": 341221,
+	"parentId": 341200,
+	"name": "临泉县",
+	"level": 3,
+	"postalCode": "236400",
+	"areaNumber": "341221"
+}, {
+	"id": 341222,
+	"parentId": 341200,
+	"name": "太和县",
+	"level": 3,
+	"postalCode": "236600",
+	"areaNumber": "341222"
+}, {
+	"id": 341225,
+	"parentId": 341200,
+	"name": "阜南县",
+	"level": 3,
+	"postalCode": "236300",
+	"areaNumber": "341225"
+}, {
+	"id": 341226,
+	"parentId": 341200,
+	"name": "颍上县",
+	"level": 3,
+	"postalCode": "236200",
+	"areaNumber": "341226"
+}, {
+	"id": 341282,
+	"parentId": 341200,
+	"name": "界首市",
+	"level": 3,
+	"postalCode": "236500",
+	"areaNumber": "341282"
+}, {
+	"id": 341283,
+	"parentId": 341200,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "236000",
+	"areaNumber": "341283"
+}, {
+	"id": 341300,
+	"parentId": 340000,
+	"name": "宿州市",
+	"level": 2,
+	"postalCode": "234000",
+	"areaNumber": "341300"
+}, {
+	"id": 341302,
+	"parentId": 341300,
+	"name": "埇桥区",
+	"level": 3,
+	"postalCode": "234000",
+	"areaNumber": "341302"
+}, {
+	"id": 341321,
+	"parentId": 341300,
+	"name": "砀山县",
+	"level": 3,
+	"postalCode": "235300",
+	"areaNumber": "341321"
+}, {
+	"id": 341322,
+	"parentId": 341300,
+	"name": "萧县",
+	"level": 3,
+	"postalCode": "235200",
+	"areaNumber": "341322"
+}, {
+	"id": 341323,
+	"parentId": 341300,
+	"name": "灵璧县",
+	"level": 3,
+	"postalCode": "234200",
+	"areaNumber": "341323"
+}, {
+	"id": 341324,
+	"parentId": 341300,
+	"name": "泗县",
+	"level": 3,
+	"postalCode": "234300",
+	"areaNumber": "341324"
+}, {
+	"id": 341325,
+	"parentId": 341300,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "234000",
+	"areaNumber": "341325"
+}, {
+	"id": 341500,
+	"parentId": 340000,
+	"name": "六安市",
+	"level": 2,
+	"postalCode": "237000",
+	"areaNumber": "341500"
+}, {
+	"id": 341502,
+	"parentId": 341500,
+	"name": "金安区",
+	"level": 3,
+	"postalCode": "237000",
+	"areaNumber": "341502"
+}, {
+	"id": 341503,
+	"parentId": 341500,
+	"name": "裕安区",
+	"level": 3,
+	"postalCode": "237000",
+	"areaNumber": "341503"
+}, {
+	"id": 341504,
+	"parentId": 341500,
+	"name": "叶集区",
+	"level": 3,
+	"postalCode": "237431",
+	"areaNumber": "341504"
+}, {
+	"id": 341522,
+	"parentId": 341500,
+	"name": "霍邱县",
+	"level": 3,
+	"postalCode": "237400",
+	"areaNumber": "341522"
+}, {
+	"id": 341523,
+	"parentId": 341500,
+	"name": "舒城县",
+	"level": 3,
+	"postalCode": "231300",
+	"areaNumber": "341523"
+}, {
+	"id": 341524,
+	"parentId": 341500,
+	"name": "金寨县",
+	"level": 3,
+	"postalCode": "237300",
+	"areaNumber": "341524"
+}, {
+	"id": 341525,
+	"parentId": 341500,
+	"name": "霍山县",
+	"level": 3,
+	"postalCode": "237200",
+	"areaNumber": "341525"
+}, {
+	"id": 341600,
+	"parentId": 340000,
+	"name": "亳州市",
+	"level": 2,
+	"postalCode": "236000",
+	"areaNumber": "341600"
+}, {
+	"id": 341602,
+	"parentId": 341600,
+	"name": "谯城区",
+	"level": 3,
+	"postalCode": "236800",
+	"areaNumber": "341602"
+}, {
+	"id": 341621,
+	"parentId": 341600,
+	"name": "涡阳县",
+	"level": 3,
+	"postalCode": "233600",
+	"areaNumber": "341621"
+}, {
+	"id": 341622,
+	"parentId": 341600,
+	"name": "蒙城县",
+	"level": 3,
+	"postalCode": "233500",
+	"areaNumber": "341622"
+}, {
+	"id": 341623,
+	"parentId": 341600,
+	"name": "利辛县",
+	"level": 3,
+	"postalCode": "236700",
+	"areaNumber": "341623"
+}, {
+	"id": 341700,
+	"parentId": 340000,
+	"name": "池州市",
+	"level": 2,
+	"postalCode": "247100",
+	"areaNumber": "341700"
+}, {
+	"id": 341702,
+	"parentId": 341700,
+	"name": "贵池区",
+	"level": 3,
+	"postalCode": "247100",
+	"areaNumber": "341702"
+}, {
+	"id": 341721,
+	"parentId": 341700,
+	"name": "东至县",
+	"level": 3,
+	"postalCode": "247200",
+	"areaNumber": "341721"
+}, {
+	"id": 341722,
+	"parentId": 341700,
+	"name": "石台县",
+	"level": 3,
+	"postalCode": "245100",
+	"areaNumber": "341722"
+}, {
+	"id": 341723,
+	"parentId": 341700,
+	"name": "青阳县",
+	"level": 3,
+	"postalCode": "242800",
+	"areaNumber": "341723"
+}, {
+	"id": 341800,
+	"parentId": 340000,
+	"name": "宣城市",
+	"level": 2,
+	"postalCode": "242000",
+	"areaNumber": "341800"
+}, {
+	"id": 341802,
+	"parentId": 341800,
+	"name": "宣州区",
+	"level": 3,
+	"postalCode": "242000",
+	"areaNumber": "341802"
+}, {
+	"id": 341821,
+	"parentId": 341800,
+	"name": "郎溪县",
+	"level": 3,
+	"postalCode": "242100",
+	"areaNumber": "341821"
+}, {
+	"id": 341822,
+	"parentId": 341800,
+	"name": "广德县",
+	"level": 3,
+	"postalCode": "242200",
+	"areaNumber": "341822"
+}, {
+	"id": 341823,
+	"parentId": 341800,
+	"name": "泾县",
+	"level": 3,
+	"postalCode": "242500",
+	"areaNumber": "341823"
+}, {
+	"id": 341824,
+	"parentId": 341800,
+	"name": "绩溪县",
+	"level": 3,
+	"postalCode": "245300",
+	"areaNumber": "341824"
+}, {
+	"id": 341825,
+	"parentId": 341800,
+	"name": "旌德县",
+	"level": 3,
+	"postalCode": "242600",
+	"areaNumber": "341825"
+}, {
+	"id": 341881,
+	"parentId": 341800,
+	"name": "宁国市",
+	"level": 3,
+	"postalCode": "242300",
+	"areaNumber": "341881"
+}, {
+	"id": 350000,
+	"parentId": 100000,
+	"name": "福建省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "350000"
+}, {
+	"id": 350100,
+	"parentId": 350000,
+	"name": "福州市",
+	"level": 2,
+	"postalCode": "350000",
+	"areaNumber": "350100"
+}, {
+	"id": 350102,
+	"parentId": 350100,
+	"name": "鼓楼区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350102"
+}, {
+	"id": 350103,
+	"parentId": 350100,
+	"name": "台江区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350103"
+}, {
+	"id": 350104,
+	"parentId": 350100,
+	"name": "仓山区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350104"
+}, {
+	"id": 350105,
+	"parentId": 350100,
+	"name": "马尾区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350105"
+}, {
+	"id": 350111,
+	"parentId": 350100,
+	"name": "晋安区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350111"
+}, {
+	"id": 350121,
+	"parentId": 350100,
+	"name": "闽侯县",
+	"level": 3,
+	"postalCode": "350100",
+	"areaNumber": "350121"
+}, {
+	"id": 350122,
+	"parentId": 350100,
+	"name": "连江县",
+	"level": 3,
+	"postalCode": "350500",
+	"areaNumber": "350122"
+}, {
+	"id": 350123,
+	"parentId": 350100,
+	"name": "罗源县",
+	"level": 3,
+	"postalCode": "350600",
+	"areaNumber": "350123"
+}, {
+	"id": 350124,
+	"parentId": 350100,
+	"name": "闽清县",
+	"level": 3,
+	"postalCode": "350800",
+	"areaNumber": "350124"
+}, {
+	"id": 350125,
+	"parentId": 350100,
+	"name": "永泰县",
+	"level": 3,
+	"postalCode": "350700",
+	"areaNumber": "350125"
+}, {
+	"id": 350128,
+	"parentId": 350100,
+	"name": "平潭县",
+	"level": 3,
+	"postalCode": "350400",
+	"areaNumber": "350128"
+}, {
+	"id": 350181,
+	"parentId": 350100,
+	"name": "福清市",
+	"level": 3,
+	"postalCode": "350300",
+	"areaNumber": "350181"
+}, {
+	"id": 350182,
+	"parentId": 350100,
+	"name": "长乐区",
+	"level": 3,
+	"postalCode": "350200",
+	"areaNumber": "350182"
+}, {
+	"id": 350183,
+	"parentId": 350100,
+	"name": "福州新区",
+	"level": 3,
+	"postalCode": "350000",
+	"areaNumber": "350183"
+}, {
+	"id": 350200,
+	"parentId": 350000,
+	"name": "厦门市",
+	"level": 2,
+	"postalCode": "361000",
+	"areaNumber": "350200"
+}, {
+	"id": 350203,
+	"parentId": 350200,
+	"name": "思明区",
+	"level": 3,
+	"postalCode": "361000",
+	"areaNumber": "350203"
+}, {
+	"id": 350205,
+	"parentId": 350200,
+	"name": "海沧区",
+	"level": 3,
+	"postalCode": "361000",
+	"areaNumber": "350205"
+}, {
+	"id": 350206,
+	"parentId": 350200,
+	"name": "湖里区",
+	"level": 3,
+	"postalCode": "361000",
+	"areaNumber": "350206"
+}, {
+	"id": 350211,
+	"parentId": 350200,
+	"name": "集美区",
+	"level": 3,
+	"postalCode": "361000",
+	"areaNumber": "350211"
+}, {
+	"id": 350212,
+	"parentId": 350200,
+	"name": "同安区",
+	"level": 3,
+	"postalCode": "361100",
+	"areaNumber": "350212"
+}, {
+	"id": 350213,
+	"parentId": 350200,
+	"name": "翔安区",
+	"level": 3,
+	"postalCode": "361100",
+	"areaNumber": "350213"
+}, {
+	"id": 350300,
+	"parentId": 350000,
+	"name": "莆田市",
+	"level": 2,
+	"postalCode": "351100",
+	"areaNumber": "350300"
+}, {
+	"id": 350302,
+	"parentId": 350300,
+	"name": "城厢区",
+	"level": 3,
+	"postalCode": "351100",
+	"areaNumber": "350302"
+}, {
+	"id": 350303,
+	"parentId": 350300,
+	"name": "涵江区",
+	"level": 3,
+	"postalCode": "351100",
+	"areaNumber": "350303"
+}, {
+	"id": 350304,
+	"parentId": 350300,
+	"name": "荔城区",
+	"level": 3,
+	"postalCode": "351100",
+	"areaNumber": "350304"
+}, {
+	"id": 350305,
+	"parentId": 350300,
+	"name": "秀屿区",
+	"level": 3,
+	"postalCode": "351100",
+	"areaNumber": "350305"
+}, {
+	"id": 350322,
+	"parentId": 350300,
+	"name": "仙游县",
+	"level": 3,
+	"postalCode": "351200",
+	"areaNumber": "350322"
+}, {
+	"id": 350400,
+	"parentId": 350000,
+	"name": "三明市",
+	"level": 2,
+	"postalCode": "365000",
+	"areaNumber": "350400"
+}, {
+	"id": 350402,
+	"parentId": 350400,
+	"name": "梅列区",
+	"level": 3,
+	"postalCode": "365000",
+	"areaNumber": "350402"
+}, {
+	"id": 350403,
+	"parentId": 350400,
+	"name": "三元区",
+	"level": 3,
+	"postalCode": "365000",
+	"areaNumber": "350403"
+}, {
+	"id": 350421,
+	"parentId": 350400,
+	"name": "明溪县",
+	"level": 3,
+	"postalCode": "365200",
+	"areaNumber": "350421"
+}, {
+	"id": 350423,
+	"parentId": 350400,
+	"name": "清流县",
+	"level": 3,
+	"postalCode": "365300",
+	"areaNumber": "350423"
+}, {
+	"id": 350424,
+	"parentId": 350400,
+	"name": "宁化县",
+	"level": 3,
+	"postalCode": "365400",
+	"areaNumber": "350424"
+}, {
+	"id": 350425,
+	"parentId": 350400,
+	"name": "大田县",
+	"level": 3,
+	"postalCode": "366100",
+	"areaNumber": "350425"
+}, {
+	"id": 350426,
+	"parentId": 350400,
+	"name": "尤溪县",
+	"level": 3,
+	"postalCode": "365100",
+	"areaNumber": "350426"
+}, {
+	"id": 350427,
+	"parentId": 350400,
+	"name": "沙县",
+	"level": 3,
+	"postalCode": "365500",
+	"areaNumber": "350427"
+}, {
+	"id": 350428,
+	"parentId": 350400,
+	"name": "将乐县",
+	"level": 3,
+	"postalCode": "353300",
+	"areaNumber": "350428"
+}, {
+	"id": 350429,
+	"parentId": 350400,
+	"name": "泰宁县",
+	"level": 3,
+	"postalCode": "354400",
+	"areaNumber": "350429"
+}, {
+	"id": 350430,
+	"parentId": 350400,
+	"name": "建宁县",
+	"level": 3,
+	"postalCode": "354500",
+	"areaNumber": "350430"
+}, {
+	"id": 350481,
+	"parentId": 350400,
+	"name": "永安市",
+	"level": 3,
+	"postalCode": "366000",
+	"areaNumber": "350481"
+}, {
+	"id": 350500,
+	"parentId": 350000,
+	"name": "泉州市",
+	"level": 2,
+	"postalCode": "362000",
+	"areaNumber": "350500"
+}, {
+	"id": 350502,
+	"parentId": 350500,
+	"name": "鲤城区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350502"
+}, {
+	"id": 350503,
+	"parentId": 350500,
+	"name": "丰泽区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350503"
+}, {
+	"id": 350504,
+	"parentId": 350500,
+	"name": "洛江区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350504"
+}, {
+	"id": 350505,
+	"parentId": 350500,
+	"name": "泉港区",
+	"level": 3,
+	"postalCode": "362800",
+	"areaNumber": "350505"
+}, {
+	"id": 350521,
+	"parentId": 350500,
+	"name": "惠安县",
+	"level": 3,
+	"postalCode": "362100",
+	"areaNumber": "350521"
+}, {
+	"id": 350524,
+	"parentId": 350500,
+	"name": "安溪县",
+	"level": 3,
+	"postalCode": "362400",
+	"areaNumber": "350524"
+}, {
+	"id": 350525,
+	"parentId": 350500,
+	"name": "永春县",
+	"level": 3,
+	"postalCode": "362600",
+	"areaNumber": "350525"
+}, {
+	"id": 350526,
+	"parentId": 350500,
+	"name": "德化县",
+	"level": 3,
+	"postalCode": "362500",
+	"areaNumber": "350526"
+}, {
+	"id": 350527,
+	"parentId": 350500,
+	"name": "金门县",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350527"
+}, {
+	"id": 350581,
+	"parentId": 350500,
+	"name": "石狮市",
+	"level": 3,
+	"postalCode": "362700",
+	"areaNumber": "350581"
+}, {
+	"id": 350582,
+	"parentId": 350500,
+	"name": "晋江市",
+	"level": 3,
+	"postalCode": "362200",
+	"areaNumber": "350582"
+}, {
+	"id": 350583,
+	"parentId": 350500,
+	"name": "南安市",
+	"level": 3,
+	"postalCode": "362300",
+	"areaNumber": "350583"
+}, {
+	"id": 350584,
+	"parentId": 350500,
+	"name": "台商投资区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350584"
+}, {
+	"id": 350585,
+	"parentId": 350500,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350585"
+}, {
+	"id": 350586,
+	"parentId": 350500,
+	"name": "高新技术开发区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350586"
+}, {
+	"id": 350587,
+	"parentId": 350500,
+	"name": "综合保税区",
+	"level": 3,
+	"postalCode": "362000",
+	"areaNumber": "350587"
+}, {
+	"id": 350600,
+	"parentId": 350000,
+	"name": "漳州市",
+	"level": 2,
+	"postalCode": "363000",
+	"areaNumber": "350600"
+}, {
+	"id": 350602,
+	"parentId": 350600,
+	"name": "芗城区",
+	"level": 3,
+	"postalCode": "363000",
+	"areaNumber": "350602"
+}, {
+	"id": 350603,
+	"parentId": 350600,
+	"name": "龙文区",
+	"level": 3,
+	"postalCode": "363000",
+	"areaNumber": "350603"
+}, {
+	"id": 350622,
+	"parentId": 350600,
+	"name": "云霄县",
+	"level": 3,
+	"postalCode": "363300",
+	"areaNumber": "350622"
+}, {
+	"id": 350623,
+	"parentId": 350600,
+	"name": "漳浦县",
+	"level": 3,
+	"postalCode": "363200",
+	"areaNumber": "350623"
+}, {
+	"id": 350624,
+	"parentId": 350600,
+	"name": "诏安县",
+	"level": 3,
+	"postalCode": "363500",
+	"areaNumber": "350624"
+}, {
+	"id": 350625,
+	"parentId": 350600,
+	"name": "长泰县",
+	"level": 3,
+	"postalCode": "363900",
+	"areaNumber": "350625"
+}, {
+	"id": 350626,
+	"parentId": 350600,
+	"name": "东山县",
+	"level": 3,
+	"postalCode": "363400",
+	"areaNumber": "350626"
+}, {
+	"id": 350627,
+	"parentId": 350600,
+	"name": "南靖县",
+	"level": 3,
+	"postalCode": "363600",
+	"areaNumber": "350627"
+}, {
+	"id": 350628,
+	"parentId": 350600,
+	"name": "平和县",
+	"level": 3,
+	"postalCode": "363700",
+	"areaNumber": "350628"
+}, {
+	"id": 350629,
+	"parentId": 350600,
+	"name": "华安县",
+	"level": 3,
+	"postalCode": "363800",
+	"areaNumber": "350629"
+}, {
+	"id": 350681,
+	"parentId": 350600,
+	"name": "龙海市",
+	"level": 3,
+	"postalCode": "363100",
+	"areaNumber": "350681"
+}, {
+	"id": 350700,
+	"parentId": 350000,
+	"name": "南平市",
+	"level": 2,
+	"postalCode": "353000",
+	"areaNumber": "350700"
+}, {
+	"id": 350702,
+	"parentId": 350700,
+	"name": "延平区",
+	"level": 3,
+	"postalCode": "353000",
+	"areaNumber": "350702"
+}, {
+	"id": 350703,
+	"parentId": 350700,
+	"name": "建阳区",
+	"level": 3,
+	"postalCode": "354200",
+	"areaNumber": "350703"
+}, {
+	"id": 350721,
+	"parentId": 350700,
+	"name": "顺昌县",
+	"level": 3,
+	"postalCode": "353200",
+	"areaNumber": "350721"
+}, {
+	"id": 350722,
+	"parentId": 350700,
+	"name": "浦城县",
+	"level": 3,
+	"postalCode": "353400",
+	"areaNumber": "350722"
+}, {
+	"id": 350723,
+	"parentId": 350700,
+	"name": "光泽县",
+	"level": 3,
+	"postalCode": "354100",
+	"areaNumber": "350723"
+}, {
+	"id": 350724,
+	"parentId": 350700,
+	"name": "松溪县",
+	"level": 3,
+	"postalCode": "353500",
+	"areaNumber": "350724"
+}, {
+	"id": 350725,
+	"parentId": 350700,
+	"name": "政和县",
+	"level": 3,
+	"postalCode": "353600",
+	"areaNumber": "350725"
+}, {
+	"id": 350781,
+	"parentId": 350700,
+	"name": "邵武市",
+	"level": 3,
+	"postalCode": "354000",
+	"areaNumber": "350781"
+}, {
+	"id": 350782,
+	"parentId": 350700,
+	"name": "武夷山市",
+	"level": 3,
+	"postalCode": "354300",
+	"areaNumber": "350782"
+}, {
+	"id": 350783,
+	"parentId": 350700,
+	"name": "建瓯市",
+	"level": 3,
+	"postalCode": "353100",
+	"areaNumber": "350783"
+}, {
+	"id": 350800,
+	"parentId": 350000,
+	"name": "龙岩市",
+	"level": 2,
+	"postalCode": "364000",
+	"areaNumber": "350800"
+}, {
+	"id": 350802,
+	"parentId": 350800,
+	"name": "新罗区",
+	"level": 3,
+	"postalCode": "364000",
+	"areaNumber": "350802"
+}, {
+	"id": 350803,
+	"parentId": 350800,
+	"name": "永定区",
+	"level": 3,
+	"postalCode": "364100",
+	"areaNumber": "350803"
+}, {
+	"id": 350821,
+	"parentId": 350800,
+	"name": "长汀县",
+	"level": 3,
+	"postalCode": "366300",
+	"areaNumber": "350821"
+}, {
+	"id": 350823,
+	"parentId": 350800,
+	"name": "上杭县",
+	"level": 3,
+	"postalCode": "364200",
+	"areaNumber": "350823"
+}, {
+	"id": 350824,
+	"parentId": 350800,
+	"name": "武平县",
+	"level": 3,
+	"postalCode": "364300",
+	"areaNumber": "350824"
+}, {
+	"id": 350825,
+	"parentId": 350800,
+	"name": "连城县",
+	"level": 3,
+	"postalCode": "366200",
+	"areaNumber": "350825"
+}, {
+	"id": 350881,
+	"parentId": 350800,
+	"name": "漳平市",
+	"level": 3,
+	"postalCode": "364400",
+	"areaNumber": "350881"
+}, {
+	"id": 350900,
+	"parentId": 350000,
+	"name": "宁德市",
+	"level": 2,
+	"postalCode": "352000",
+	"areaNumber": "350900"
+}, {
+	"id": 350902,
+	"parentId": 350900,
+	"name": "蕉城区",
+	"level": 3,
+	"postalCode": "352000",
+	"areaNumber": "350902"
+}, {
+	"id": 350921,
+	"parentId": 350900,
+	"name": "霞浦县",
+	"level": 3,
+	"postalCode": "355100",
+	"areaNumber": "350921"
+}, {
+	"id": 350922,
+	"parentId": 350900,
+	"name": "古田县",
+	"level": 3,
+	"postalCode": "352200",
+	"areaNumber": "350922"
+}, {
+	"id": 350923,
+	"parentId": 350900,
+	"name": "屏南县",
+	"level": 3,
+	"postalCode": "352300",
+	"areaNumber": "350923"
+}, {
+	"id": 350924,
+	"parentId": 350900,
+	"name": "寿宁县",
+	"level": 3,
+	"postalCode": "355500",
+	"areaNumber": "350924"
+}, {
+	"id": 350925,
+	"parentId": 350900,
+	"name": "周宁县",
+	"level": 3,
+	"postalCode": "355400",
+	"areaNumber": "350925"
+}, {
+	"id": 350926,
+	"parentId": 350900,
+	"name": "柘荣县",
+	"level": 3,
+	"postalCode": "355300",
+	"areaNumber": "350926"
+}, {
+	"id": 350981,
+	"parentId": 350900,
+	"name": "福安市",
+	"level": 3,
+	"postalCode": "355000",
+	"areaNumber": "350981"
+}, {
+	"id": 350982,
+	"parentId": 350900,
+	"name": "福鼎市",
+	"level": 3,
+	"postalCode": "355200",
+	"areaNumber": "350982"
+}, {
+	"id": 350983,
+	"parentId": 350900,
+	"name": "东侨开发区",
+	"level": 3,
+	"postalCode": "352000",
+	"areaNumber": "350983"
+}, {
+	"id": 360000,
+	"parentId": 100000,
+	"name": "江西省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "360000"
+}, {
+	"id": 360100,
+	"parentId": 360000,
+	"name": "南昌市",
+	"level": 2,
+	"postalCode": "330000",
+	"areaNumber": "360100"
+}, {
+	"id": 360102,
+	"parentId": 360100,
+	"name": "东湖区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360102"
+}, {
+	"id": 360103,
+	"parentId": 360100,
+	"name": "西湖区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360103"
+}, {
+	"id": 360104,
+	"parentId": 360100,
+	"name": "青云谱区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360104"
+}, {
+	"id": 360105,
+	"parentId": 360100,
+	"name": "湾里区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360105"
+}, {
+	"id": 360111,
+	"parentId": 360100,
+	"name": "青山湖区",
+	"level": 3,
+	"postalCode": "330029",
+	"areaNumber": "360111"
+}, {
+	"id": 360112,
+	"parentId": 360100,
+	"name": "新建区",
+	"level": 3,
+	"postalCode": "330100",
+	"areaNumber": "360112"
+}, {
+	"id": 360121,
+	"parentId": 360100,
+	"name": "南昌县",
+	"level": 3,
+	"postalCode": "330200",
+	"areaNumber": "360121"
+}, {
+	"id": 360123,
+	"parentId": 360100,
+	"name": "安义县",
+	"level": 3,
+	"postalCode": "330500",
+	"areaNumber": "360123"
+}, {
+	"id": 360124,
+	"parentId": 360100,
+	"name": "进贤县",
+	"level": 3,
+	"postalCode": "331700",
+	"areaNumber": "360124"
+}, {
+	"id": 360125,
+	"parentId": 360100,
+	"name": "红谷滩新区",
+	"level": 3,
+	"postalCode": "330038",
+	"areaNumber": "360125"
+}, {
+	"id": 360126,
+	"parentId": 360100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360126"
+}, {
+	"id": 360127,
+	"parentId": 360100,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "330000",
+	"areaNumber": "360127"
+}, {
+	"id": 360128,
+	"parentId": 360100,
+	"name": "小蓝开发区",
+	"level": 3,
+	"postalCode": "330052",
+	"areaNumber": "360128"
+}, {
+	"id": 360129,
+	"parentId": 360100,
+	"name": "桑海开发区",
+	"level": 3,
+	"postalCode": "330115",
+	"areaNumber": "360129"
+}, {
+	"id": 360130,
+	"parentId": 360100,
+	"name": "望城新区",
+	"level": 3,
+	"postalCode": "330103",
+	"areaNumber": "360130"
+}, {
+	"id": 360131,
+	"parentId": 360100,
+	"name": "赣江新区",
+	"level": 3,
+	"postalCode": "330029",
+	"areaNumber": "360131"
+}, {
+	"id": 360200,
+	"parentId": 360000,
+	"name": "景德镇市",
+	"level": 2,
+	"postalCode": "333000",
+	"areaNumber": "360200"
+}, {
+	"id": 360202,
+	"parentId": 360200,
+	"name": "昌江区",
+	"level": 3,
+	"postalCode": "333000",
+	"areaNumber": "360202"
+}, {
+	"id": 360203,
+	"parentId": 360200,
+	"name": "珠山区",
+	"level": 3,
+	"postalCode": "333000",
+	"areaNumber": "360203"
+}, {
+	"id": 360222,
+	"parentId": 360200,
+	"name": "浮梁县",
+	"level": 3,
+	"postalCode": "333400",
+	"areaNumber": "360222"
+}, {
+	"id": 360281,
+	"parentId": 360200,
+	"name": "乐平市",
+	"level": 3,
+	"postalCode": "333300",
+	"areaNumber": "360281"
+}, {
+	"id": 360300,
+	"parentId": 360000,
+	"name": "萍乡市",
+	"level": 2,
+	"postalCode": "337000",
+	"areaNumber": "360300"
+}, {
+	"id": 360302,
+	"parentId": 360300,
+	"name": "安源区",
+	"level": 3,
+	"postalCode": "337000",
+	"areaNumber": "360302"
+}, {
+	"id": 360313,
+	"parentId": 360300,
+	"name": "湘东区",
+	"level": 3,
+	"postalCode": "337000",
+	"areaNumber": "360313"
+}, {
+	"id": 360321,
+	"parentId": 360300,
+	"name": "莲花县",
+	"level": 3,
+	"postalCode": "337100",
+	"areaNumber": "360321"
+}, {
+	"id": 360322,
+	"parentId": 360300,
+	"name": "上栗县",
+	"level": 3,
+	"postalCode": "337000",
+	"areaNumber": "360322"
+}, {
+	"id": 360323,
+	"parentId": 360300,
+	"name": "芦溪县",
+	"level": 3,
+	"postalCode": "337000",
+	"areaNumber": "360323"
+}, {
+	"id": 360400,
+	"parentId": 360000,
+	"name": "九江市",
+	"level": 2,
+	"postalCode": "332000",
+	"areaNumber": "360400"
+}, {
+	"id": 360402,
+	"parentId": 360400,
+	"name": "濂溪区",
+	"level": 3,
+	"postalCode": "332900",
+	"areaNumber": "360402"
+}, {
+	"id": 360403,
+	"parentId": 360400,
+	"name": "浔阳区",
+	"level": 3,
+	"postalCode": "332000",
+	"areaNumber": "360403"
+}, {
+	"id": 360421,
+	"parentId": 360400,
+	"name": "柴桑区",
+	"level": 3,
+	"postalCode": "332100",
+	"areaNumber": "360421"
+}, {
+	"id": 360423,
+	"parentId": 360400,
+	"name": "武宁县",
+	"level": 3,
+	"postalCode": "332300",
+	"areaNumber": "360423"
+}, {
+	"id": 360424,
+	"parentId": 360400,
+	"name": "修水县",
+	"level": 3,
+	"postalCode": "332400",
+	"areaNumber": "360424"
+}, {
+	"id": 360425,
+	"parentId": 360400,
+	"name": "永修县",
+	"level": 3,
+	"postalCode": "330300",
+	"areaNumber": "360425"
+}, {
+	"id": 360426,
+	"parentId": 360400,
+	"name": "德安县",
+	"level": 3,
+	"postalCode": "330400",
+	"areaNumber": "360426"
+}, {
+	"id": 360428,
+	"parentId": 360400,
+	"name": "都昌县",
+	"level": 3,
+	"postalCode": "332600",
+	"areaNumber": "360428"
+}, {
+	"id": 360429,
+	"parentId": 360400,
+	"name": "湖口县",
+	"level": 3,
+	"postalCode": "332500",
+	"areaNumber": "360429"
+}, {
+	"id": 360430,
+	"parentId": 360400,
+	"name": "彭泽县",
+	"level": 3,
+	"postalCode": "332700",
+	"areaNumber": "360430"
+}, {
+	"id": 360481,
+	"parentId": 360400,
+	"name": "瑞昌市",
+	"level": 3,
+	"postalCode": "332200",
+	"areaNumber": "360481"
+}, {
+	"id": 360482,
+	"parentId": 360400,
+	"name": "共青城市",
+	"level": 3,
+	"postalCode": "332020",
+	"areaNumber": "360482"
+}, {
+	"id": 360483,
+	"parentId": 360400,
+	"name": "庐山市",
+	"level": 3,
+	"postalCode": "332800",
+	"areaNumber": "360483"
+}, {
+	"id": 360484,
+	"parentId": 360400,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "332000",
+	"areaNumber": "360484"
+}, {
+	"id": 360485,
+	"parentId": 360400,
+	"name": "八里湖新区",
+	"level": 3,
+	"postalCode": "332000",
+	"areaNumber": "360485"
+}, {
+	"id": 360486,
+	"parentId": 360400,
+	"name": "庐山风景名胜区",
+	"level": 3,
+	"postalCode": "332800",
+	"areaNumber": "360486"
+}, {
+	"id": 360500,
+	"parentId": 360000,
+	"name": "新余市",
+	"level": 2,
+	"postalCode": "338000",
+	"areaNumber": "360500"
+}, {
+	"id": 360502,
+	"parentId": 360500,
+	"name": "渝水区",
+	"level": 3,
+	"postalCode": "338000",
+	"areaNumber": "360502"
+}, {
+	"id": 360521,
+	"parentId": 360500,
+	"name": "分宜县",
+	"level": 3,
+	"postalCode": "336600",
+	"areaNumber": "360521"
+}, {
+	"id": 360600,
+	"parentId": 360000,
+	"name": "鹰潭市",
+	"level": 2,
+	"postalCode": "335000",
+	"areaNumber": "360600"
+}, {
+	"id": 360602,
+	"parentId": 360600,
+	"name": "月湖区",
+	"level": 3,
+	"postalCode": "335000",
+	"areaNumber": "360602"
+}, {
+	"id": 360622,
+	"parentId": 360600,
+	"name": "余江县",
+	"level": 3,
+	"postalCode": "335200",
+	"areaNumber": "360622"
+}, {
+	"id": 360681,
+	"parentId": 360600,
+	"name": "贵溪市",
+	"level": 3,
+	"postalCode": "335400",
+	"areaNumber": "360681"
+}, {
+	"id": 360682,
+	"parentId": 360600,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "338000",
+	"areaNumber": "360682"
+}, {
+	"id": 360700,
+	"parentId": 360000,
+	"name": "赣州市",
+	"level": 2,
+	"postalCode": "341000",
+	"areaNumber": "360700"
+}, {
+	"id": 360702,
+	"parentId": 360700,
+	"name": "章贡区",
+	"level": 3,
+	"postalCode": "341000",
+	"areaNumber": "360702"
+}, {
+	"id": 360703,
+	"parentId": 360700,
+	"name": "南康区",
+	"level": 3,
+	"postalCode": "341400",
+	"areaNumber": "360703"
+}, {
+	"id": 360704,
+	"parentId": 360700,
+	"name": "赣县区",
+	"level": 3,
+	"postalCode": "341100",
+	"areaNumber": "360704"
+}, {
+	"id": 360722,
+	"parentId": 360700,
+	"name": "信丰县",
+	"level": 3,
+	"postalCode": "341600",
+	"areaNumber": "360722"
+}, {
+	"id": 360723,
+	"parentId": 360700,
+	"name": "大余县",
+	"level": 3,
+	"postalCode": "341500",
+	"areaNumber": "360723"
+}, {
+	"id": 360724,
+	"parentId": 360700,
+	"name": "上犹县",
+	"level": 3,
+	"postalCode": "341200",
+	"areaNumber": "360724"
+}, {
+	"id": 360725,
+	"parentId": 360700,
+	"name": "崇义县",
+	"level": 3,
+	"postalCode": "341300",
+	"areaNumber": "360725"
+}, {
+	"id": 360726,
+	"parentId": 360700,
+	"name": "安远县",
+	"level": 3,
+	"postalCode": "342100",
+	"areaNumber": "360726"
+}, {
+	"id": 360727,
+	"parentId": 360700,
+	"name": "龙南县",
+	"level": 3,
+	"postalCode": "341700",
+	"areaNumber": "360727"
+}, {
+	"id": 360728,
+	"parentId": 360700,
+	"name": "定南县",
+	"level": 3,
+	"postalCode": "341900",
+	"areaNumber": "360728"
+}, {
+	"id": 360729,
+	"parentId": 360700,
+	"name": "全南县",
+	"level": 3,
+	"postalCode": "341800",
+	"areaNumber": "360729"
+}, {
+	"id": 360730,
+	"parentId": 360700,
+	"name": "宁都县",
+	"level": 3,
+	"postalCode": "342800",
+	"areaNumber": "360730"
+}, {
+	"id": 360731,
+	"parentId": 360700,
+	"name": "于都县",
+	"level": 3,
+	"postalCode": "342300",
+	"areaNumber": "360731"
+}, {
+	"id": 360732,
+	"parentId": 360700,
+	"name": "兴国县",
+	"level": 3,
+	"postalCode": "342400",
+	"areaNumber": "360732"
+}, {
+	"id": 360733,
+	"parentId": 360700,
+	"name": "会昌县",
+	"level": 3,
+	"postalCode": "342600",
+	"areaNumber": "360733"
+}, {
+	"id": 360734,
+	"parentId": 360700,
+	"name": "寻乌县",
+	"level": 3,
+	"postalCode": "342200",
+	"areaNumber": "360734"
+}, {
+	"id": 360735,
+	"parentId": 360700,
+	"name": "石城县",
+	"level": 3,
+	"postalCode": "342700",
+	"areaNumber": "360735"
+}, {
+	"id": 360781,
+	"parentId": 360700,
+	"name": "瑞金市",
+	"level": 3,
+	"postalCode": "342500",
+	"areaNumber": "360781"
+}, {
+	"id": 360782,
+	"parentId": 360700,
+	"name": "章康新区",
+	"level": 3,
+	"postalCode": "341000",
+	"areaNumber": "360782"
+}, {
+	"id": 360800,
+	"parentId": 360000,
+	"name": "吉安市",
+	"level": 2,
+	"postalCode": "343000",
+	"areaNumber": "360800"
+}, {
+	"id": 360802,
+	"parentId": 360800,
+	"name": "吉州区",
+	"level": 3,
+	"postalCode": "343000",
+	"areaNumber": "360802"
+}, {
+	"id": 360803,
+	"parentId": 360800,
+	"name": "青原区",
+	"level": 3,
+	"postalCode": "343000",
+	"areaNumber": "360803"
+}, {
+	"id": 360821,
+	"parentId": 360800,
+	"name": "吉安县",
+	"level": 3,
+	"postalCode": "343100",
+	"areaNumber": "360821"
+}, {
+	"id": 360822,
+	"parentId": 360800,
+	"name": "吉水县",
+	"level": 3,
+	"postalCode": "331600",
+	"areaNumber": "360822"
+}, {
+	"id": 360823,
+	"parentId": 360800,
+	"name": "峡江县",
+	"level": 3,
+	"postalCode": "331400",
+	"areaNumber": "360823"
+}, {
+	"id": 360824,
+	"parentId": 360800,
+	"name": "新干县",
+	"level": 3,
+	"postalCode": "331300",
+	"areaNumber": "360824"
+}, {
+	"id": 360825,
+	"parentId": 360800,
+	"name": "永丰县",
+	"level": 3,
+	"postalCode": "331500",
+	"areaNumber": "360825"
+}, {
+	"id": 360826,
+	"parentId": 360800,
+	"name": "泰和县",
+	"level": 3,
+	"postalCode": "343700",
+	"areaNumber": "360826"
+}, {
+	"id": 360827,
+	"parentId": 360800,
+	"name": "遂川县",
+	"level": 3,
+	"postalCode": "343900",
+	"areaNumber": "360827"
+}, {
+	"id": 360828,
+	"parentId": 360800,
+	"name": "万安县",
+	"level": 3,
+	"postalCode": "343800",
+	"areaNumber": "360828"
+}, {
+	"id": 360829,
+	"parentId": 360800,
+	"name": "安福县",
+	"level": 3,
+	"postalCode": "343200",
+	"areaNumber": "360829"
+}, {
+	"id": 360830,
+	"parentId": 360800,
+	"name": "永新县",
+	"level": 3,
+	"postalCode": "343400",
+	"areaNumber": "360830"
+}, {
+	"id": 360881,
+	"parentId": 360800,
+	"name": "井冈山市",
+	"level": 3,
+	"postalCode": "343600",
+	"areaNumber": "360881"
+}, {
+	"id": 360900,
+	"parentId": 360000,
+	"name": "宜春市",
+	"level": 2,
+	"postalCode": "336000",
+	"areaNumber": "360900"
+}, {
+	"id": 360902,
+	"parentId": 360900,
+	"name": "袁州区",
+	"level": 3,
+	"postalCode": "336000",
+	"areaNumber": "360902"
+}, {
+	"id": 360921,
+	"parentId": 360900,
+	"name": "奉新县",
+	"level": 3,
+	"postalCode": "330700",
+	"areaNumber": "360921"
+}, {
+	"id": 360922,
+	"parentId": 360900,
+	"name": "万载县",
+	"level": 3,
+	"postalCode": "336100",
+	"areaNumber": "360922"
+}, {
+	"id": 360923,
+	"parentId": 360900,
+	"name": "上高县",
+	"level": 3,
+	"postalCode": "336400",
+	"areaNumber": "360923"
+}, {
+	"id": 360924,
+	"parentId": 360900,
+	"name": "宜丰县",
+	"level": 3,
+	"postalCode": "336300",
+	"areaNumber": "360924"
+}, {
+	"id": 360925,
+	"parentId": 360900,
+	"name": "靖安县",
+	"level": 3,
+	"postalCode": "330600",
+	"areaNumber": "360925"
+}, {
+	"id": 360926,
+	"parentId": 360900,
+	"name": "铜鼓县",
+	"level": 3,
+	"postalCode": "336200",
+	"areaNumber": "360926"
+}, {
+	"id": 360981,
+	"parentId": 360900,
+	"name": "丰城市",
+	"level": 3,
+	"postalCode": "331100",
+	"areaNumber": "360981"
+}, {
+	"id": 360982,
+	"parentId": 360900,
+	"name": "樟树市",
+	"level": 3,
+	"postalCode": "331200",
+	"areaNumber": "360982"
+}, {
+	"id": 360983,
+	"parentId": 360900,
+	"name": "高安市",
+	"level": 3,
+	"postalCode": "330800",
+	"areaNumber": "360983"
+}, {
+	"id": 361000,
+	"parentId": 360000,
+	"name": "抚州市",
+	"level": 2,
+	"postalCode": "344000",
+	"areaNumber": "361000"
+}, {
+	"id": 361002,
+	"parentId": 361000,
+	"name": "临川区",
+	"level": 3,
+	"postalCode": "344100",
+	"areaNumber": "361002"
+}, {
+	"id": 361003,
+	"parentId": 361000,
+	"name": "东乡区",
+	"level": 3,
+	"postalCode": "331800",
+	"areaNumber": "361003"
+}, {
+	"id": 361021,
+	"parentId": 361000,
+	"name": "南城县",
+	"level": 3,
+	"postalCode": "344700",
+	"areaNumber": "361021"
+}, {
+	"id": 361022,
+	"parentId": 361000,
+	"name": "黎川县",
+	"level": 3,
+	"postalCode": "344600",
+	"areaNumber": "361022"
+}, {
+	"id": 361023,
+	"parentId": 361000,
+	"name": "南丰县",
+	"level": 3,
+	"postalCode": "344500",
+	"areaNumber": "361023"
+}, {
+	"id": 361024,
+	"parentId": 361000,
+	"name": "崇仁县",
+	"level": 3,
+	"postalCode": "344200",
+	"areaNumber": "361024"
+}, {
+	"id": 361025,
+	"parentId": 361000,
+	"name": "乐安县",
+	"level": 3,
+	"postalCode": "344300",
+	"areaNumber": "361025"
+}, {
+	"id": 361026,
+	"parentId": 361000,
+	"name": "宜黄县",
+	"level": 3,
+	"postalCode": "344400",
+	"areaNumber": "361026"
+}, {
+	"id": 361027,
+	"parentId": 361000,
+	"name": "金溪县",
+	"level": 3,
+	"postalCode": "344800",
+	"areaNumber": "361027"
+}, {
+	"id": 361028,
+	"parentId": 361000,
+	"name": "资溪县",
+	"level": 3,
+	"postalCode": "335300",
+	"areaNumber": "361028"
+}, {
+	"id": 361030,
+	"parentId": 361000,
+	"name": "广昌县",
+	"level": 3,
+	"postalCode": "344900",
+	"areaNumber": "361030"
+}, {
+	"id": 361100,
+	"parentId": 360000,
+	"name": "上饶市",
+	"level": 2,
+	"postalCode": "334000",
+	"areaNumber": "361100"
+}, {
+	"id": 361102,
+	"parentId": 361100,
+	"name": "信州区",
+	"level": 3,
+	"postalCode": "334000",
+	"areaNumber": "361102"
+}, {
+	"id": 361103,
+	"parentId": 361100,
+	"name": "广丰区",
+	"level": 3,
+	"postalCode": "334600",
+	"areaNumber": "361103"
+}, {
+	"id": 361121,
+	"parentId": 361100,
+	"name": "上饶县",
+	"level": 3,
+	"postalCode": "334100",
+	"areaNumber": "361121"
+}, {
+	"id": 361123,
+	"parentId": 361100,
+	"name": "玉山县",
+	"level": 3,
+	"postalCode": "334700",
+	"areaNumber": "361123"
+}, {
+	"id": 361124,
+	"parentId": 361100,
+	"name": "铅山县",
+	"level": 3,
+	"postalCode": "334500",
+	"areaNumber": "361124"
+}, {
+	"id": 361125,
+	"parentId": 361100,
+	"name": "横峰县",
+	"level": 3,
+	"postalCode": "334300",
+	"areaNumber": "361125"
+}, {
+	"id": 361126,
+	"parentId": 361100,
+	"name": "弋阳县",
+	"level": 3,
+	"postalCode": "334400",
+	"areaNumber": "361126"
+}, {
+	"id": 361127,
+	"parentId": 361100,
+	"name": "余干县",
+	"level": 3,
+	"postalCode": "335100",
+	"areaNumber": "361127"
+}, {
+	"id": 361128,
+	"parentId": 361100,
+	"name": "鄱阳县",
+	"level": 3,
+	"postalCode": "333100",
+	"areaNumber": "361128"
+}, {
+	"id": 361129,
+	"parentId": 361100,
+	"name": "万年县",
+	"level": 3,
+	"postalCode": "335500",
+	"areaNumber": "361129"
+}, {
+	"id": 361130,
+	"parentId": 361100,
+	"name": "婺源县",
+	"level": 3,
+	"postalCode": "333200",
+	"areaNumber": "361130"
+}, {
+	"id": 361181,
+	"parentId": 361100,
+	"name": "德兴市",
+	"level": 3,
+	"postalCode": "334200",
+	"areaNumber": "361181"
+}, {
+	"id": 370000,
+	"parentId": 100000,
+	"name": "山东省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "370000"
+}, {
+	"id": 370100,
+	"parentId": 370000,
+	"name": "济南市",
+	"level": 2,
+	"postalCode": "250000",
+	"areaNumber": "370100"
+}, {
+	"id": 370102,
+	"parentId": 370100,
+	"name": "历下区",
+	"level": 3,
+	"postalCode": "250014",
+	"areaNumber": "370102"
+}, {
+	"id": 370103,
+	"parentId": 370100,
+	"name": "市中区",
+	"level": 3,
+	"postalCode": "250001",
+	"areaNumber": "370103"
+}, {
+	"id": 370104,
+	"parentId": 370100,
+	"name": "槐荫区",
+	"level": 3,
+	"postalCode": "250117",
+	"areaNumber": "370104"
+}, {
+	"id": 370105,
+	"parentId": 370100,
+	"name": "天桥区",
+	"level": 3,
+	"postalCode": "250031",
+	"areaNumber": "370105"
+}, {
+	"id": 370112,
+	"parentId": 370100,
+	"name": "历城区",
+	"level": 3,
+	"postalCode": "250100",
+	"areaNumber": "370112"
+}, {
+	"id": 370113,
+	"parentId": 370100,
+	"name": "长清区",
+	"level": 3,
+	"postalCode": "250300",
+	"areaNumber": "370113"
+}, {
+	"id": 370114,
+	"parentId": 370100,
+	"name": "章丘区",
+	"level": 3,
+	"postalCode": "250200",
+	"areaNumber": "370114"
+}, {
+	"id": 370124,
+	"parentId": 370100,
+	"name": "平阴县",
+	"level": 3,
+	"postalCode": "250400",
+	"areaNumber": "370124"
+}, {
+	"id": 370125,
+	"parentId": 370100,
+	"name": "济阳县",
+	"level": 3,
+	"postalCode": "251400",
+	"areaNumber": "370125"
+}, {
+	"id": 370126,
+	"parentId": 370100,
+	"name": "商河县",
+	"level": 3,
+	"postalCode": "251600",
+	"areaNumber": "370126"
+}, {
+	"id": 370182,
+	"parentId": 370100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "250000",
+	"areaNumber": "370182"
+}, {
+	"id": 370200,
+	"parentId": 370000,
+	"name": "青岛市",
+	"level": 2,
+	"postalCode": "266000",
+	"areaNumber": "370200"
+}, {
+	"id": 370202,
+	"parentId": 370200,
+	"name": "市南区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370202"
+}, {
+	"id": 370203,
+	"parentId": 370200,
+	"name": "市北区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370203"
+}, {
+	"id": 370211,
+	"parentId": 370200,
+	"name": "黄岛区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370211"
+}, {
+	"id": 370212,
+	"parentId": 370200,
+	"name": "崂山区",
+	"level": 3,
+	"postalCode": "266100",
+	"areaNumber": "370212"
+}, {
+	"id": 370213,
+	"parentId": 370200,
+	"name": "李沧区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370213"
+}, {
+	"id": 370214,
+	"parentId": 370200,
+	"name": "城阳区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370214"
+}, {
+	"id": 370281,
+	"parentId": 370200,
+	"name": "胶州市",
+	"level": 3,
+	"postalCode": "266300",
+	"areaNumber": "370281"
+}, {
+	"id": 370282,
+	"parentId": 370200,
+	"name": "即墨区",
+	"level": 3,
+	"postalCode": "266200",
+	"areaNumber": "370282"
+}, {
+	"id": 370283,
+	"parentId": 370200,
+	"name": "平度市",
+	"level": 3,
+	"postalCode": "266700",
+	"areaNumber": "370283"
+}, {
+	"id": 370285,
+	"parentId": 370200,
+	"name": "莱西市",
+	"level": 3,
+	"postalCode": "266600",
+	"areaNumber": "370285"
+}, {
+	"id": 370286,
+	"parentId": 370200,
+	"name": "西海岸新区",
+	"level": 3,
+	"postalCode": "266500",
+	"areaNumber": "370286"
+}, {
+	"id": 370287,
+	"parentId": 370200,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "266000",
+	"areaNumber": "370287"
+}, {
+	"id": 370300,
+	"parentId": 370000,
+	"name": "淄博市",
+	"level": 2,
+	"postalCode": "255000",
+	"areaNumber": "370300"
+}, {
+	"id": 370302,
+	"parentId": 370300,
+	"name": "淄川区",
+	"level": 3,
+	"postalCode": "255100",
+	"areaNumber": "370302"
+}, {
+	"id": 370303,
+	"parentId": 370300,
+	"name": "张店区",
+	"level": 3,
+	"postalCode": "255000",
+	"areaNumber": "370303"
+}, {
+	"id": 370304,
+	"parentId": 370300,
+	"name": "博山区",
+	"level": 3,
+	"postalCode": "255200",
+	"areaNumber": "370304"
+}, {
+	"id": 370305,
+	"parentId": 370300,
+	"name": "临淄区",
+	"level": 3,
+	"postalCode": "255400",
+	"areaNumber": "370305"
+}, {
+	"id": 370306,
+	"parentId": 370300,
+	"name": "周村区",
+	"level": 3,
+	"postalCode": "255300",
+	"areaNumber": "370306"
+}, {
+	"id": 370321,
+	"parentId": 370300,
+	"name": "桓台县",
+	"level": 3,
+	"postalCode": "256400",
+	"areaNumber": "370321"
+}, {
+	"id": 370322,
+	"parentId": 370300,
+	"name": "高青县",
+	"level": 3,
+	"postalCode": "256300",
+	"areaNumber": "370322"
+}, {
+	"id": 370323,
+	"parentId": 370300,
+	"name": "沂源县",
+	"level": 3,
+	"postalCode": "256100",
+	"areaNumber": "370323"
+}, {
+	"id": 370324,
+	"parentId": 370300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "255000",
+	"areaNumber": "370324"
+}, {
+	"id": 370400,
+	"parentId": 370000,
+	"name": "枣庄市",
+	"level": 2,
+	"postalCode": "277000",
+	"areaNumber": "370400"
+}, {
+	"id": 370402,
+	"parentId": 370400,
+	"name": "市中区",
+	"level": 3,
+	"postalCode": "277000",
+	"areaNumber": "370402"
+}, {
+	"id": 370403,
+	"parentId": 370400,
+	"name": "薛城区",
+	"level": 3,
+	"postalCode": "277000",
+	"areaNumber": "370403"
+}, {
+	"id": 370404,
+	"parentId": 370400,
+	"name": "峄城区",
+	"level": 3,
+	"postalCode": "277300",
+	"areaNumber": "370404"
+}, {
+	"id": 370405,
+	"parentId": 370400,
+	"name": "台儿庄区",
+	"level": 3,
+	"postalCode": "277400",
+	"areaNumber": "370405"
+}, {
+	"id": 370406,
+	"parentId": 370400,
+	"name": "山亭区",
+	"level": 3,
+	"postalCode": "277200",
+	"areaNumber": "370406"
+}, {
+	"id": 370481,
+	"parentId": 370400,
+	"name": "滕州市",
+	"level": 3,
+	"postalCode": "277500",
+	"areaNumber": "370481"
+}, {
+	"id": 370482,
+	"parentId": 370400,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "277800",
+	"areaNumber": "370482"
+}, {
+	"id": 370500,
+	"parentId": 370000,
+	"name": "东营市",
+	"level": 2,
+	"postalCode": "257000",
+	"areaNumber": "370500"
+}, {
+	"id": 370502,
+	"parentId": 370500,
+	"name": "东营区",
+	"level": 3,
+	"postalCode": "257100",
+	"areaNumber": "370502"
+}, {
+	"id": 370503,
+	"parentId": 370500,
+	"name": "河口区",
+	"level": 3,
+	"postalCode": "257200",
+	"areaNumber": "370503"
+}, {
+	"id": 370505,
+	"parentId": 370500,
+	"name": "垦利区",
+	"level": 3,
+	"postalCode": "257500",
+	"areaNumber": "370505"
+}, {
+	"id": 370522,
+	"parentId": 370500,
+	"name": "利津县",
+	"level": 3,
+	"postalCode": "257400",
+	"areaNumber": "370522"
+}, {
+	"id": 370523,
+	"parentId": 370500,
+	"name": "广饶县",
+	"level": 3,
+	"postalCode": "257300",
+	"areaNumber": "370523"
+}, {
+	"id": 370600,
+	"parentId": 370000,
+	"name": "烟台市",
+	"level": 2,
+	"postalCode": "264000",
+	"areaNumber": "370600"
+}, {
+	"id": 370602,
+	"parentId": 370600,
+	"name": "芝罘区",
+	"level": 3,
+	"postalCode": "264000",
+	"areaNumber": "370602"
+}, {
+	"id": 370611,
+	"parentId": 370600,
+	"name": "福山区",
+	"level": 3,
+	"postalCode": "265500",
+	"areaNumber": "370611"
+}, {
+	"id": 370612,
+	"parentId": 370600,
+	"name": "牟平区",
+	"level": 3,
+	"postalCode": "264100",
+	"areaNumber": "370612"
+}, {
+	"id": 370613,
+	"parentId": 370600,
+	"name": "莱山区",
+	"level": 3,
+	"postalCode": "264000",
+	"areaNumber": "370613"
+}, {
+	"id": 370634,
+	"parentId": 370600,
+	"name": "长岛县",
+	"level": 3,
+	"postalCode": "265800",
+	"areaNumber": "370634"
+}, {
+	"id": 370681,
+	"parentId": 370600,
+	"name": "龙口市",
+	"level": 3,
+	"postalCode": "265700",
+	"areaNumber": "370681"
+}, {
+	"id": 370682,
+	"parentId": 370600,
+	"name": "莱阳市",
+	"level": 3,
+	"postalCode": "265200",
+	"areaNumber": "370682"
+}, {
+	"id": 370683,
+	"parentId": 370600,
+	"name": "莱州市",
+	"level": 3,
+	"postalCode": "261400",
+	"areaNumber": "370683"
+}, {
+	"id": 370684,
+	"parentId": 370600,
+	"name": "蓬莱市",
+	"level": 3,
+	"postalCode": "265600",
+	"areaNumber": "370684"
+}, {
+	"id": 370685,
+	"parentId": 370600,
+	"name": "招远市",
+	"level": 3,
+	"postalCode": "265400",
+	"areaNumber": "370685"
+}, {
+	"id": 370686,
+	"parentId": 370600,
+	"name": "栖霞市",
+	"level": 3,
+	"postalCode": "265300",
+	"areaNumber": "370686"
+}, {
+	"id": 370687,
+	"parentId": 370600,
+	"name": "海阳市",
+	"level": 3,
+	"postalCode": "265100",
+	"areaNumber": "370687"
+}, {
+	"id": 370688,
+	"parentId": 370600,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "264003",
+	"areaNumber": "370688"
+}, {
+	"id": 370689,
+	"parentId": 370600,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "264003",
+	"areaNumber": "370689"
+}, {
+	"id": 370700,
+	"parentId": 370000,
+	"name": "潍坊市",
+	"level": 2,
+	"postalCode": "261000",
+	"areaNumber": "370700"
+}, {
+	"id": 370702,
+	"parentId": 370700,
+	"name": "潍城区",
+	"level": 3,
+	"postalCode": "261000",
+	"areaNumber": "370702"
+}, {
+	"id": 370703,
+	"parentId": 370700,
+	"name": "寒亭区",
+	"level": 3,
+	"postalCode": "261100",
+	"areaNumber": "370703"
+}, {
+	"id": 370704,
+	"parentId": 370700,
+	"name": "坊子区",
+	"level": 3,
+	"postalCode": "261200",
+	"areaNumber": "370704"
+}, {
+	"id": 370705,
+	"parentId": 370700,
+	"name": "奎文区",
+	"level": 3,
+	"postalCode": "261000",
+	"areaNumber": "370705"
+}, {
+	"id": 370724,
+	"parentId": 370700,
+	"name": "临朐县",
+	"level": 3,
+	"postalCode": "262600",
+	"areaNumber": "370724"
+}, {
+	"id": 370725,
+	"parentId": 370700,
+	"name": "昌乐县",
+	"level": 3,
+	"postalCode": "262400",
+	"areaNumber": "370725"
+}, {
+	"id": 370781,
+	"parentId": 370700,
+	"name": "青州市",
+	"level": 3,
+	"postalCode": "262500",
+	"areaNumber": "370781"
+}, {
+	"id": 370782,
+	"parentId": 370700,
+	"name": "诸城市",
+	"level": 3,
+	"postalCode": "262200",
+	"areaNumber": "370782"
+}, {
+	"id": 370783,
+	"parentId": 370700,
+	"name": "寿光市",
+	"level": 3,
+	"postalCode": "262700",
+	"areaNumber": "370783"
+}, {
+	"id": 370784,
+	"parentId": 370700,
+	"name": "安丘市",
+	"level": 3,
+	"postalCode": "262100",
+	"areaNumber": "370784"
+}, {
+	"id": 370785,
+	"parentId": 370700,
+	"name": "高密市",
+	"level": 3,
+	"postalCode": "261500",
+	"areaNumber": "370785"
+}, {
+	"id": 370786,
+	"parentId": 370700,
+	"name": "昌邑市",
+	"level": 3,
+	"postalCode": "261300",
+	"areaNumber": "370786"
+}, {
+	"id": 370787,
+	"parentId": 370700,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "261000",
+	"areaNumber": "370787"
+}, {
+	"id": 370800,
+	"parentId": 370000,
+	"name": "济宁市",
+	"level": 2,
+	"postalCode": "272000",
+	"areaNumber": "370800"
+}, {
+	"id": 370811,
+	"parentId": 370800,
+	"name": "任城区",
+	"level": 3,
+	"postalCode": "272000",
+	"areaNumber": "370811"
+}, {
+	"id": 370812,
+	"parentId": 370800,
+	"name": "兖州区",
+	"level": 3,
+	"postalCode": "272000",
+	"areaNumber": "370812"
+}, {
+	"id": 370826,
+	"parentId": 370800,
+	"name": "微山县",
+	"level": 3,
+	"postalCode": "277600",
+	"areaNumber": "370826"
+}, {
+	"id": 370827,
+	"parentId": 370800,
+	"name": "鱼台县",
+	"level": 3,
+	"postalCode": "272300",
+	"areaNumber": "370827"
+}, {
+	"id": 370828,
+	"parentId": 370800,
+	"name": "金乡县",
+	"level": 3,
+	"postalCode": "272200",
+	"areaNumber": "370828"
+}, {
+	"id": 370829,
+	"parentId": 370800,
+	"name": "嘉祥县",
+	"level": 3,
+	"postalCode": "272400",
+	"areaNumber": "370829"
+}, {
+	"id": 370830,
+	"parentId": 370800,
+	"name": "汶上县",
+	"level": 3,
+	"postalCode": "272500",
+	"areaNumber": "370830"
+}, {
+	"id": 370831,
+	"parentId": 370800,
+	"name": "泗水县",
+	"level": 3,
+	"postalCode": "273200",
+	"areaNumber": "370831"
+}, {
+	"id": 370832,
+	"parentId": 370800,
+	"name": "梁山县",
+	"level": 3,
+	"postalCode": "272600",
+	"areaNumber": "370832"
+}, {
+	"id": 370881,
+	"parentId": 370800,
+	"name": "曲阜市",
+	"level": 3,
+	"postalCode": "273100",
+	"areaNumber": "370881"
+}, {
+	"id": 370883,
+	"parentId": 370800,
+	"name": "邹城市",
+	"level": 3,
+	"postalCode": "273500",
+	"areaNumber": "370883"
+}, {
+	"id": 370884,
+	"parentId": 370800,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "272000",
+	"areaNumber": "370884"
+}, {
+	"id": 370900,
+	"parentId": 370000,
+	"name": "泰安市",
+	"level": 2,
+	"postalCode": "271000",
+	"areaNumber": "370900"
+}, {
+	"id": 370902,
+	"parentId": 370900,
+	"name": "泰山区",
+	"level": 3,
+	"postalCode": "271000",
+	"areaNumber": "370902"
+}, {
+	"id": 370911,
+	"parentId": 370900,
+	"name": "岱岳区",
+	"level": 3,
+	"postalCode": "271000",
+	"areaNumber": "370911"
+}, {
+	"id": 370921,
+	"parentId": 370900,
+	"name": "宁阳县",
+	"level": 3,
+	"postalCode": "271400",
+	"areaNumber": "370921"
+}, {
+	"id": 370923,
+	"parentId": 370900,
+	"name": "东平县",
+	"level": 3,
+	"postalCode": "271500",
+	"areaNumber": "370923"
+}, {
+	"id": 370982,
+	"parentId": 370900,
+	"name": "新泰市",
+	"level": 3,
+	"postalCode": "271200",
+	"areaNumber": "370982"
+}, {
+	"id": 370983,
+	"parentId": 370900,
+	"name": "肥城市",
+	"level": 3,
+	"postalCode": "271600",
+	"areaNumber": "370983"
+}, {
+	"id": 371000,
+	"parentId": 370000,
+	"name": "威海市",
+	"level": 2,
+	"postalCode": "264200",
+	"areaNumber": "371000"
+}, {
+	"id": 371002,
+	"parentId": 371000,
+	"name": "环翠区",
+	"level": 3,
+	"postalCode": "264200",
+	"areaNumber": "371002"
+}, {
+	"id": 371003,
+	"parentId": 371000,
+	"name": "文登区",
+	"level": 3,
+	"postalCode": "266440",
+	"areaNumber": "371003"
+}, {
+	"id": 371082,
+	"parentId": 371000,
+	"name": "荣成市",
+	"level": 3,
+	"postalCode": "264300",
+	"areaNumber": "371082"
+}, {
+	"id": 371083,
+	"parentId": 371000,
+	"name": "乳山市",
+	"level": 3,
+	"postalCode": "264500",
+	"areaNumber": "371083"
+}, {
+	"id": 371100,
+	"parentId": 370000,
+	"name": "日照市",
+	"level": 2,
+	"postalCode": "276800",
+	"areaNumber": "371100"
+}, {
+	"id": 371102,
+	"parentId": 371100,
+	"name": "东港区",
+	"level": 3,
+	"postalCode": "276800",
+	"areaNumber": "371102"
+}, {
+	"id": 371103,
+	"parentId": 371100,
+	"name": "岚山区",
+	"level": 3,
+	"postalCode": "276800",
+	"areaNumber": "371103"
+}, {
+	"id": 371121,
+	"parentId": 371100,
+	"name": "五莲县",
+	"level": 3,
+	"postalCode": "262300",
+	"areaNumber": "371121"
+}, {
+	"id": 371122,
+	"parentId": 371100,
+	"name": "莒县",
+	"level": 3,
+	"postalCode": "276500",
+	"areaNumber": "371122"
+}, {
+	"id": 371200,
+	"parentId": 370000,
+	"name": "莱芜市",
+	"level": 2,
+	"postalCode": "271100",
+	"areaNumber": "371200"
+}, {
+	"id": 371202,
+	"parentId": 371200,
+	"name": "莱城区",
+	"level": 3,
+	"postalCode": "271100",
+	"areaNumber": "371202"
+}, {
+	"id": 371203,
+	"parentId": 371200,
+	"name": "钢城区",
+	"level": 3,
+	"postalCode": "271100",
+	"areaNumber": "371203"
+}, {
+	"id": 371300,
+	"parentId": 370000,
+	"name": "临沂市",
+	"level": 2,
+	"postalCode": "276000",
+	"areaNumber": "371300"
+}, {
+	"id": 371302,
+	"parentId": 371300,
+	"name": "兰山区",
+	"level": 3,
+	"postalCode": "276000",
+	"areaNumber": "371302"
+}, {
+	"id": 371311,
+	"parentId": 371300,
+	"name": "罗庄区",
+	"level": 3,
+	"postalCode": "276000",
+	"areaNumber": "371311"
+}, {
+	"id": 371312,
+	"parentId": 371300,
+	"name": "河东区",
+	"level": 3,
+	"postalCode": "276000",
+	"areaNumber": "371312"
+}, {
+	"id": 371321,
+	"parentId": 371300,
+	"name": "沂南县",
+	"level": 3,
+	"postalCode": "276300",
+	"areaNumber": "371321"
+}, {
+	"id": 371322,
+	"parentId": 371300,
+	"name": "郯城县",
+	"level": 3,
+	"postalCode": "276100",
+	"areaNumber": "371322"
+}, {
+	"id": 371323,
+	"parentId": 371300,
+	"name": "沂水县",
+	"level": 3,
+	"postalCode": "276400",
+	"areaNumber": "371323"
+}, {
+	"id": 371324,
+	"parentId": 371300,
+	"name": "兰陵县",
+	"level": 3,
+	"postalCode": "277700",
+	"areaNumber": "371324"
+}, {
+	"id": 371325,
+	"parentId": 371300,
+	"name": "费县",
+	"level": 3,
+	"postalCode": "273400",
+	"areaNumber": "371325"
+}, {
+	"id": 371326,
+	"parentId": 371300,
+	"name": "平邑县",
+	"level": 3,
+	"postalCode": "273300",
+	"areaNumber": "371326"
+}, {
+	"id": 371327,
+	"parentId": 371300,
+	"name": "莒南县",
+	"level": 3,
+	"postalCode": "276600",
+	"areaNumber": "371327"
+}, {
+	"id": 371328,
+	"parentId": 371300,
+	"name": "蒙阴县",
+	"level": 3,
+	"postalCode": "276200",
+	"areaNumber": "371328"
+}, {
+	"id": 371329,
+	"parentId": 371300,
+	"name": "临沭县",
+	"level": 3,
+	"postalCode": "276700",
+	"areaNumber": "371329"
+}, {
+	"id": 371400,
+	"parentId": 370000,
+	"name": "德州市",
+	"level": 2,
+	"postalCode": "253000",
+	"areaNumber": "371400"
+}, {
+	"id": 371402,
+	"parentId": 371400,
+	"name": "德城区",
+	"level": 3,
+	"postalCode": "253000",
+	"areaNumber": "371402"
+}, {
+	"id": 371403,
+	"parentId": 371400,
+	"name": "陵城区",
+	"level": 3,
+	"postalCode": "253500",
+	"areaNumber": "371403"
+}, {
+	"id": 371422,
+	"parentId": 371400,
+	"name": "宁津县",
+	"level": 3,
+	"postalCode": "253400",
+	"areaNumber": "371422"
+}, {
+	"id": 371423,
+	"parentId": 371400,
+	"name": "庆云县",
+	"level": 3,
+	"postalCode": "253700",
+	"areaNumber": "371423"
+}, {
+	"id": 371424,
+	"parentId": 371400,
+	"name": "临邑县",
+	"level": 3,
+	"postalCode": "251500",
+	"areaNumber": "371424"
+}, {
+	"id": 371425,
+	"parentId": 371400,
+	"name": "齐河县",
+	"level": 3,
+	"postalCode": "251100",
+	"areaNumber": "371425"
+}, {
+	"id": 371426,
+	"parentId": 371400,
+	"name": "平原县",
+	"level": 3,
+	"postalCode": "253100",
+	"areaNumber": "371426"
+}, {
+	"id": 371427,
+	"parentId": 371400,
+	"name": "夏津县",
+	"level": 3,
+	"postalCode": "253200",
+	"areaNumber": "371427"
+}, {
+	"id": 371428,
+	"parentId": 371400,
+	"name": "武城县",
+	"level": 3,
+	"postalCode": "253300",
+	"areaNumber": "371428"
+}, {
+	"id": 371481,
+	"parentId": 371400,
+	"name": "乐陵市",
+	"level": 3,
+	"postalCode": "253600",
+	"areaNumber": "371481"
+}, {
+	"id": 371482,
+	"parentId": 371400,
+	"name": "禹城市",
+	"level": 3,
+	"postalCode": "251200",
+	"areaNumber": "371482"
+}, {
+	"id": 371500,
+	"parentId": 370000,
+	"name": "聊城市",
+	"level": 2,
+	"postalCode": "252000",
+	"areaNumber": "371500"
+}, {
+	"id": 371502,
+	"parentId": 371500,
+	"name": "东昌府区",
+	"level": 3,
+	"postalCode": "252000",
+	"areaNumber": "371502"
+}, {
+	"id": 371521,
+	"parentId": 371500,
+	"name": "阳谷县",
+	"level": 3,
+	"postalCode": "252300",
+	"areaNumber": "371521"
+}, {
+	"id": 371522,
+	"parentId": 371500,
+	"name": "莘县",
+	"level": 3,
+	"postalCode": "252400",
+	"areaNumber": "371522"
+}, {
+	"id": 371523,
+	"parentId": 371500,
+	"name": "茌平县",
+	"level": 3,
+	"postalCode": "252100",
+	"areaNumber": "371523"
+}, {
+	"id": 371524,
+	"parentId": 371500,
+	"name": "东阿县",
+	"level": 3,
+	"postalCode": "252200",
+	"areaNumber": "371524"
+}, {
+	"id": 371525,
+	"parentId": 371500,
+	"name": "冠县",
+	"level": 3,
+	"postalCode": "252500",
+	"areaNumber": "371525"
+}, {
+	"id": 371526,
+	"parentId": 371500,
+	"name": "高唐县",
+	"level": 3,
+	"postalCode": "252800",
+	"areaNumber": "371526"
+}, {
+	"id": 371581,
+	"parentId": 371500,
+	"name": "临清市",
+	"level": 3,
+	"postalCode": "252600",
+	"areaNumber": "371581"
+}, {
+	"id": 371600,
+	"parentId": 370000,
+	"name": "滨州市",
+	"level": 2,
+	"postalCode": "256600",
+	"areaNumber": "371600"
+}, {
+	"id": 371602,
+	"parentId": 371600,
+	"name": "滨城区",
+	"level": 3,
+	"postalCode": "256600",
+	"areaNumber": "371602"
+}, {
+	"id": 371603,
+	"parentId": 371600,
+	"name": "沾化区",
+	"level": 3,
+	"postalCode": "256800",
+	"areaNumber": "371603"
+}, {
+	"id": 371621,
+	"parentId": 371600,
+	"name": "惠民县",
+	"level": 3,
+	"postalCode": "251700",
+	"areaNumber": "371621"
+}, {
+	"id": 371622,
+	"parentId": 371600,
+	"name": "阳信县",
+	"level": 3,
+	"postalCode": "251800",
+	"areaNumber": "371622"
+}, {
+	"id": 371623,
+	"parentId": 371600,
+	"name": "无棣县",
+	"level": 3,
+	"postalCode": "251900",
+	"areaNumber": "371623"
+}, {
+	"id": 371625,
+	"parentId": 371600,
+	"name": "博兴县",
+	"level": 3,
+	"postalCode": "256500",
+	"areaNumber": "371625"
+}, {
+	"id": 371626,
+	"parentId": 371600,
+	"name": "邹平县",
+	"level": 3,
+	"postalCode": "256200",
+	"areaNumber": "371626"
+}, {
+	"id": 371627,
+	"parentId": 371600,
+	"name": "北海新区",
+	"level": 3,
+	"postalCode": "256200",
+	"areaNumber": "371627"
+}, {
+	"id": 371700,
+	"parentId": 370000,
+	"name": "菏泽市",
+	"level": 2,
+	"postalCode": "274000",
+	"areaNumber": "371700"
+}, {
+	"id": 371702,
+	"parentId": 371700,
+	"name": "牡丹区",
+	"level": 3,
+	"postalCode": "274000",
+	"areaNumber": "371702"
+}, {
+	"id": 371703,
+	"parentId": 371700,
+	"name": "定陶区",
+	"level": 3,
+	"postalCode": "274100",
+	"areaNumber": "371703"
+}, {
+	"id": 371721,
+	"parentId": 371700,
+	"name": "曹县",
+	"level": 3,
+	"postalCode": "274400",
+	"areaNumber": "371721"
+}, {
+	"id": 371722,
+	"parentId": 371700,
+	"name": "单县",
+	"level": 3,
+	"postalCode": "274300",
+	"areaNumber": "371722"
+}, {
+	"id": 371723,
+	"parentId": 371700,
+	"name": "成武县",
+	"level": 3,
+	"postalCode": "274200",
+	"areaNumber": "371723"
+}, {
+	"id": 371724,
+	"parentId": 371700,
+	"name": "巨野县",
+	"level": 3,
+	"postalCode": "274900",
+	"areaNumber": "371724"
+}, {
+	"id": 371725,
+	"parentId": 371700,
+	"name": "郓城县",
+	"level": 3,
+	"postalCode": "274700",
+	"areaNumber": "371725"
+}, {
+	"id": 371726,
+	"parentId": 371700,
+	"name": "鄄城县",
+	"level": 3,
+	"postalCode": "274600",
+	"areaNumber": "371726"
+}, {
+	"id": 371728,
+	"parentId": 371700,
+	"name": "东明县",
+	"level": 3,
+	"postalCode": "274500",
+	"areaNumber": "371728"
+}, {
+	"id": 410000,
+	"parentId": 100000,
+	"name": "河南省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "410000"
+}, {
+	"id": 410100,
+	"parentId": 410000,
+	"name": "郑州市",
+	"level": 2,
+	"postalCode": "450000",
+	"areaNumber": "410100"
+}, {
+	"id": 410102,
+	"parentId": 410100,
+	"name": "中原区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410102"
+}, {
+	"id": 410103,
+	"parentId": 410100,
+	"name": "二七区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410103"
+}, {
+	"id": 410104,
+	"parentId": 410100,
+	"name": "管城回族区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410104"
+}, {
+	"id": 410105,
+	"parentId": 410100,
+	"name": "金水区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410105"
+}, {
+	"id": 410106,
+	"parentId": 410100,
+	"name": "上街区",
+	"level": 3,
+	"postalCode": "450041",
+	"areaNumber": "410106"
+}, {
+	"id": 410108,
+	"parentId": 410100,
+	"name": "惠济区",
+	"level": 3,
+	"postalCode": "450053",
+	"areaNumber": "410108"
+}, {
+	"id": 410122,
+	"parentId": 410100,
+	"name": "中牟县",
+	"level": 3,
+	"postalCode": "451450",
+	"areaNumber": "410122"
+}, {
+	"id": 410181,
+	"parentId": 410100,
+	"name": "巩义市",
+	"level": 3,
+	"postalCode": "451200",
+	"areaNumber": "410181"
+}, {
+	"id": 410182,
+	"parentId": 410100,
+	"name": "荥阳市",
+	"level": 3,
+	"postalCode": "450100",
+	"areaNumber": "410182"
+}, {
+	"id": 410183,
+	"parentId": 410100,
+	"name": "新密市",
+	"level": 3,
+	"postalCode": "452370",
+	"areaNumber": "410183"
+}, {
+	"id": 410184,
+	"parentId": 410100,
+	"name": "新郑市",
+	"level": 3,
+	"postalCode": "451100",
+	"areaNumber": "410184"
+}, {
+	"id": 410185,
+	"parentId": 410100,
+	"name": "登封市",
+	"level": 3,
+	"postalCode": "452470",
+	"areaNumber": "410185"
+}, {
+	"id": 410186,
+	"parentId": 410100,
+	"name": "郑东新区",
+	"level": 3,
+	"postalCode": "450018",
+	"areaNumber": "410186"
+}, {
+	"id": 410187,
+	"parentId": 410100,
+	"name": "郑汴新区",
+	"level": 3,
+	"postalCode": "451100",
+	"areaNumber": "410187"
+}, {
+	"id": 410188,
+	"parentId": 410100,
+	"name": "高新开发区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410188"
+}, {
+	"id": 410189,
+	"parentId": 410100,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "450000",
+	"areaNumber": "410189"
+}, {
+	"id": 410200,
+	"parentId": 410000,
+	"name": "开封市",
+	"level": 2,
+	"postalCode": "475000",
+	"areaNumber": "410200"
+}, {
+	"id": 410202,
+	"parentId": 410200,
+	"name": "龙亭区",
+	"level": 3,
+	"postalCode": "475000",
+	"areaNumber": "410202"
+}, {
+	"id": 410203,
+	"parentId": 410200,
+	"name": "顺河回族区",
+	"level": 3,
+	"postalCode": "475000",
+	"areaNumber": "410203"
+}, {
+	"id": 410204,
+	"parentId": 410200,
+	"name": "鼓楼区",
+	"level": 3,
+	"postalCode": "475000",
+	"areaNumber": "410204"
+}, {
+	"id": 410205,
+	"parentId": 410200,
+	"name": "禹王台区",
+	"level": 3,
+	"postalCode": "475000",
+	"areaNumber": "410205"
+}, {
+	"id": 410212,
+	"parentId": 410200,
+	"name": "祥符区",
+	"level": 3,
+	"postalCode": "475100",
+	"areaNumber": "410212"
+}, {
+	"id": 410221,
+	"parentId": 410200,
+	"name": "杞县",
+	"level": 3,
+	"postalCode": "475200",
+	"areaNumber": "410221"
+}, {
+	"id": 410222,
+	"parentId": 410200,
+	"name": "通许县",
+	"level": 3,
+	"postalCode": "475400",
+	"areaNumber": "410222"
+}, {
+	"id": 410223,
+	"parentId": 410200,
+	"name": "尉氏县",
+	"level": 3,
+	"postalCode": "475500",
+	"areaNumber": "410223"
+}, {
+	"id": 410225,
+	"parentId": 410200,
+	"name": "兰考县",
+	"level": 3,
+	"postalCode": "475300",
+	"areaNumber": "410225"
+}, {
+	"id": 410226,
+	"parentId": 410200,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "475000",
+	"areaNumber": "410226"
+}, {
+	"id": 410300,
+	"parentId": 410000,
+	"name": "洛阳市",
+	"level": 2,
+	"postalCode": "471000",
+	"areaNumber": "410300"
+}, {
+	"id": 410302,
+	"parentId": 410300,
+	"name": "老城区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410302"
+}, {
+	"id": 410303,
+	"parentId": 410300,
+	"name": "西工区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410303"
+}, {
+	"id": 410304,
+	"parentId": 410300,
+	"name": "瀍河回族区",
+	"level": 3,
+	"postalCode": "471002",
+	"areaNumber": "410304"
+}, {
+	"id": 410305,
+	"parentId": 410300,
+	"name": "涧西区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410305"
+}, {
+	"id": 410306,
+	"parentId": 410300,
+	"name": "吉利区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410306"
+}, {
+	"id": 410311,
+	"parentId": 410300,
+	"name": "洛龙区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410311"
+}, {
+	"id": 410322,
+	"parentId": 410300,
+	"name": "孟津县",
+	"level": 3,
+	"postalCode": "471100",
+	"areaNumber": "410322"
+}, {
+	"id": 410323,
+	"parentId": 410300,
+	"name": "新安县",
+	"level": 3,
+	"postalCode": "471800",
+	"areaNumber": "410323"
+}, {
+	"id": 410324,
+	"parentId": 410300,
+	"name": "栾川县",
+	"level": 3,
+	"postalCode": "471500",
+	"areaNumber": "410324"
+}, {
+	"id": 410325,
+	"parentId": 410300,
+	"name": "嵩县",
+	"level": 3,
+	"postalCode": "471400",
+	"areaNumber": "410325"
+}, {
+	"id": 410326,
+	"parentId": 410300,
+	"name": "汝阳县",
+	"level": 3,
+	"postalCode": "471200",
+	"areaNumber": "410326"
+}, {
+	"id": 410327,
+	"parentId": 410300,
+	"name": "宜阳县",
+	"level": 3,
+	"postalCode": "471600",
+	"areaNumber": "410327"
+}, {
+	"id": 410328,
+	"parentId": 410300,
+	"name": "洛宁县",
+	"level": 3,
+	"postalCode": "471700",
+	"areaNumber": "410328"
+}, {
+	"id": 410329,
+	"parentId": 410300,
+	"name": "伊川县",
+	"level": 3,
+	"postalCode": "471300",
+	"areaNumber": "410329"
+}, {
+	"id": 410381,
+	"parentId": 410300,
+	"name": "偃师市",
+	"level": 3,
+	"postalCode": "471900",
+	"areaNumber": "410381"
+}, {
+	"id": 410382,
+	"parentId": 410300,
+	"name": "洛阳新区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410382"
+}, {
+	"id": 410383,
+	"parentId": 410300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "471000",
+	"areaNumber": "410383"
+}, {
+	"id": 410400,
+	"parentId": 410000,
+	"name": "平顶山市",
+	"level": 2,
+	"postalCode": "467000",
+	"areaNumber": "410400"
+}, {
+	"id": 410402,
+	"parentId": 410400,
+	"name": "新华区",
+	"level": 3,
+	"postalCode": "467000",
+	"areaNumber": "410402"
+}, {
+	"id": 410403,
+	"parentId": 410400,
+	"name": "卫东区",
+	"level": 3,
+	"postalCode": "467000",
+	"areaNumber": "410403"
+}, {
+	"id": 410404,
+	"parentId": 410400,
+	"name": "石龙区",
+	"level": 3,
+	"postalCode": "467000",
+	"areaNumber": "410404"
+}, {
+	"id": 410411,
+	"parentId": 410400,
+	"name": "湛河区",
+	"level": 3,
+	"postalCode": "467000",
+	"areaNumber": "410411"
+}, {
+	"id": 410421,
+	"parentId": 410400,
+	"name": "宝丰县",
+	"level": 3,
+	"postalCode": "467400",
+	"areaNumber": "410421"
+}, {
+	"id": 410422,
+	"parentId": 410400,
+	"name": "叶县",
+	"level": 3,
+	"postalCode": "467200",
+	"areaNumber": "410422"
+}, {
+	"id": 410423,
+	"parentId": 410400,
+	"name": "鲁山县",
+	"level": 3,
+	"postalCode": "467300",
+	"areaNumber": "410423"
+}, {
+	"id": 410425,
+	"parentId": 410400,
+	"name": "郏县",
+	"level": 3,
+	"postalCode": "467100",
+	"areaNumber": "410425"
+}, {
+	"id": 410481,
+	"parentId": 410400,
+	"name": "舞钢市",
+	"level": 3,
+	"postalCode": "462500",
+	"areaNumber": "410481"
+}, {
+	"id": 410482,
+	"parentId": 410400,
+	"name": "汝州市",
+	"level": 3,
+	"postalCode": "467500",
+	"areaNumber": "410482"
+}, {
+	"id": 410500,
+	"parentId": 410000,
+	"name": "安阳市",
+	"level": 2,
+	"postalCode": "455000",
+	"areaNumber": "410500"
+}, {
+	"id": 410502,
+	"parentId": 410500,
+	"name": "文峰区",
+	"level": 3,
+	"postalCode": "455000",
+	"areaNumber": "410502"
+}, {
+	"id": 410503,
+	"parentId": 410500,
+	"name": "北关区",
+	"level": 3,
+	"postalCode": "455000",
+	"areaNumber": "410503"
+}, {
+	"id": 410505,
+	"parentId": 410500,
+	"name": "殷都区",
+	"level": 3,
+	"postalCode": "455000",
+	"areaNumber": "410505"
+}, {
+	"id": 410506,
+	"parentId": 410500,
+	"name": "龙安区",
+	"level": 3,
+	"postalCode": "455000",
+	"areaNumber": "410506"
+}, {
+	"id": 410522,
+	"parentId": 410500,
+	"name": "安阳县",
+	"level": 3,
+	"postalCode": "455100",
+	"areaNumber": "410522"
+}, {
+	"id": 410523,
+	"parentId": 410500,
+	"name": "汤阴县",
+	"level": 3,
+	"postalCode": "456150",
+	"areaNumber": "410523"
+}, {
+	"id": 410526,
+	"parentId": 410500,
+	"name": "滑县",
+	"level": 3,
+	"postalCode": "456400",
+	"areaNumber": "410526"
+}, {
+	"id": 410527,
+	"parentId": 410500,
+	"name": "内黄县",
+	"level": 3,
+	"postalCode": "456300",
+	"areaNumber": "410527"
+}, {
+	"id": 410581,
+	"parentId": 410500,
+	"name": "林州市",
+	"level": 3,
+	"postalCode": "456500",
+	"areaNumber": "410581"
+}, {
+	"id": 410582,
+	"parentId": 410500,
+	"name": "安阳新区",
+	"level": 3,
+	"postalCode": "456500",
+	"areaNumber": "410582"
+}, {
+	"id": 410600,
+	"parentId": 410000,
+	"name": "鹤壁市",
+	"level": 2,
+	"postalCode": "458000",
+	"areaNumber": "410600"
+}, {
+	"id": 410602,
+	"parentId": 410600,
+	"name": "鹤山区",
+	"level": 3,
+	"postalCode": "458000",
+	"areaNumber": "410602"
+}, {
+	"id": 410603,
+	"parentId": 410600,
+	"name": "山城区",
+	"level": 3,
+	"postalCode": "458000",
+	"areaNumber": "410603"
+}, {
+	"id": 410611,
+	"parentId": 410600,
+	"name": "淇滨区",
+	"level": 3,
+	"postalCode": "458000",
+	"areaNumber": "410611"
+}, {
+	"id": 410621,
+	"parentId": 410600,
+	"name": "浚县",
+	"level": 3,
+	"postalCode": "456250",
+	"areaNumber": "410621"
+}, {
+	"id": 410622,
+	"parentId": 410600,
+	"name": "淇县",
+	"level": 3,
+	"postalCode": "456750",
+	"areaNumber": "410622"
+}, {
+	"id": 410700,
+	"parentId": 410000,
+	"name": "新乡市",
+	"level": 2,
+	"postalCode": "453000",
+	"areaNumber": "410700"
+}, {
+	"id": 410702,
+	"parentId": 410700,
+	"name": "红旗区",
+	"level": 3,
+	"postalCode": "453000",
+	"areaNumber": "410702"
+}, {
+	"id": 410703,
+	"parentId": 410700,
+	"name": "卫滨区",
+	"level": 3,
+	"postalCode": "453000",
+	"areaNumber": "410703"
+}, {
+	"id": 410704,
+	"parentId": 410700,
+	"name": "凤泉区",
+	"level": 3,
+	"postalCode": "453011",
+	"areaNumber": "410704"
+}, {
+	"id": 410711,
+	"parentId": 410700,
+	"name": "牧野区",
+	"level": 3,
+	"postalCode": "453002",
+	"areaNumber": "410711"
+}, {
+	"id": 410721,
+	"parentId": 410700,
+	"name": "新乡县",
+	"level": 3,
+	"postalCode": "453700",
+	"areaNumber": "410721"
+}, {
+	"id": 410724,
+	"parentId": 410700,
+	"name": "获嘉县",
+	"level": 3,
+	"postalCode": "453800",
+	"areaNumber": "410724"
+}, {
+	"id": 410725,
+	"parentId": 410700,
+	"name": "原阳县",
+	"level": 3,
+	"postalCode": "453500",
+	"areaNumber": "410725"
+}, {
+	"id": 410726,
+	"parentId": 410700,
+	"name": "延津县",
+	"level": 3,
+	"postalCode": "453200",
+	"areaNumber": "410726"
+}, {
+	"id": 410727,
+	"parentId": 410700,
+	"name": "封丘县",
+	"level": 3,
+	"postalCode": "453300",
+	"areaNumber": "410727"
+}, {
+	"id": 410728,
+	"parentId": 410700,
+	"name": "长垣县",
+	"level": 3,
+	"postalCode": "453400",
+	"areaNumber": "410728"
+}, {
+	"id": 410781,
+	"parentId": 410700,
+	"name": "卫辉市",
+	"level": 3,
+	"postalCode": "453100",
+	"areaNumber": "410781"
+}, {
+	"id": 410782,
+	"parentId": 410700,
+	"name": "辉县市",
+	"level": 3,
+	"postalCode": "453600",
+	"areaNumber": "410782"
+}, {
+	"id": 410800,
+	"parentId": 410000,
+	"name": "焦作市",
+	"level": 2,
+	"postalCode": "454000",
+	"areaNumber": "410800"
+}, {
+	"id": 410802,
+	"parentId": 410800,
+	"name": "解放区",
+	"level": 3,
+	"postalCode": "454150",
+	"areaNumber": "410802"
+}, {
+	"id": 410803,
+	"parentId": 410800,
+	"name": "中站区",
+	"level": 3,
+	"postalCode": "454150",
+	"areaNumber": "410803"
+}, {
+	"id": 410804,
+	"parentId": 410800,
+	"name": "马村区",
+	"level": 3,
+	"postalCode": "454150",
+	"areaNumber": "410804"
+}, {
+	"id": 410811,
+	"parentId": 410800,
+	"name": "山阳区",
+	"level": 3,
+	"postalCode": "454150",
+	"areaNumber": "410811"
+}, {
+	"id": 410821,
+	"parentId": 410800,
+	"name": "修武县",
+	"level": 3,
+	"postalCode": "454350",
+	"areaNumber": "410821"
+}, {
+	"id": 410822,
+	"parentId": 410800,
+	"name": "博爱县",
+	"level": 3,
+	"postalCode": "454450",
+	"areaNumber": "410822"
+}, {
+	"id": 410823,
+	"parentId": 410800,
+	"name": "武陟县",
+	"level": 3,
+	"postalCode": "454950",
+	"areaNumber": "410823"
+}, {
+	"id": 410825,
+	"parentId": 410800,
+	"name": "温县",
+	"level": 3,
+	"postalCode": "454850",
+	"areaNumber": "410825"
+}, {
+	"id": 410882,
+	"parentId": 410800,
+	"name": "沁阳市",
+	"level": 3,
+	"postalCode": "454550",
+	"areaNumber": "410882"
+}, {
+	"id": 410883,
+	"parentId": 410800,
+	"name": "孟州市",
+	"level": 3,
+	"postalCode": "454750",
+	"areaNumber": "410883"
+}, {
+	"id": 410900,
+	"parentId": 410000,
+	"name": "濮阳市",
+	"level": 2,
+	"postalCode": "457000",
+	"areaNumber": "410900"
+}, {
+	"id": 410902,
+	"parentId": 410900,
+	"name": "华龙区",
+	"level": 3,
+	"postalCode": "457001",
+	"areaNumber": "410902"
+}, {
+	"id": 410922,
+	"parentId": 410900,
+	"name": "清丰县",
+	"level": 3,
+	"postalCode": "457300",
+	"areaNumber": "410922"
+}, {
+	"id": 410923,
+	"parentId": 410900,
+	"name": "南乐县",
+	"level": 3,
+	"postalCode": "457400",
+	"areaNumber": "410923"
+}, {
+	"id": 410926,
+	"parentId": 410900,
+	"name": "范县",
+	"level": 3,
+	"postalCode": "457500",
+	"areaNumber": "410926"
+}, {
+	"id": 410927,
+	"parentId": 410900,
+	"name": "台前县",
+	"level": 3,
+	"postalCode": "457600",
+	"areaNumber": "410927"
+}, {
+	"id": 410928,
+	"parentId": 410900,
+	"name": "濮阳县",
+	"level": 3,
+	"postalCode": "457100",
+	"areaNumber": "410928"
+}, {
+	"id": 411000,
+	"parentId": 410000,
+	"name": "许昌市",
+	"level": 2,
+	"postalCode": "461000",
+	"areaNumber": "411000"
+}, {
+	"id": 411002,
+	"parentId": 411000,
+	"name": "魏都区",
+	"level": 3,
+	"postalCode": "461000",
+	"areaNumber": "411002"
+}, {
+	"id": 411003,
+	"parentId": 411000,
+	"name": "建安区",
+	"level": 3,
+	"postalCode": "461100",
+	"areaNumber": "411003"
+}, {
+	"id": 411024,
+	"parentId": 411000,
+	"name": "鄢陵县",
+	"level": 3,
+	"postalCode": "461200",
+	"areaNumber": "411024"
+}, {
+	"id": 411025,
+	"parentId": 411000,
+	"name": "襄城县",
+	"level": 3,
+	"postalCode": "452670",
+	"areaNumber": "411025"
+}, {
+	"id": 411081,
+	"parentId": 411000,
+	"name": "禹州市",
+	"level": 3,
+	"postalCode": "461670",
+	"areaNumber": "411081"
+}, {
+	"id": 411082,
+	"parentId": 411000,
+	"name": "长葛市",
+	"level": 3,
+	"postalCode": "461500",
+	"areaNumber": "411082"
+}, {
+	"id": 411100,
+	"parentId": 410000,
+	"name": "漯河市",
+	"level": 2,
+	"postalCode": "462000",
+	"areaNumber": "411100"
+}, {
+	"id": 411102,
+	"parentId": 411100,
+	"name": "源汇区",
+	"level": 3,
+	"postalCode": "462000",
+	"areaNumber": "411102"
+}, {
+	"id": 411103,
+	"parentId": 411100,
+	"name": "郾城区",
+	"level": 3,
+	"postalCode": "462300",
+	"areaNumber": "411103"
+}, {
+	"id": 411104,
+	"parentId": 411100,
+	"name": "召陵区",
+	"level": 3,
+	"postalCode": "462300",
+	"areaNumber": "411104"
+}, {
+	"id": 411121,
+	"parentId": 411100,
+	"name": "舞阳县",
+	"level": 3,
+	"postalCode": "462400",
+	"areaNumber": "411121"
+}, {
+	"id": 411122,
+	"parentId": 411100,
+	"name": "临颍县",
+	"level": 3,
+	"postalCode": "462600",
+	"areaNumber": "411122"
+}, {
+	"id": 411200,
+	"parentId": 410000,
+	"name": "三门峡市",
+	"level": 2,
+	"postalCode": "472000",
+	"areaNumber": "411200"
+}, {
+	"id": 411202,
+	"parentId": 411200,
+	"name": "湖滨区",
+	"level": 3,
+	"postalCode": "472000",
+	"areaNumber": "411202"
+}, {
+	"id": 411203,
+	"parentId": 411200,
+	"name": "陕州区",
+	"level": 3,
+	"postalCode": "472100",
+	"areaNumber": "411203"
+}, {
+	"id": 411221,
+	"parentId": 411200,
+	"name": "渑池县",
+	"level": 3,
+	"postalCode": "472400",
+	"areaNumber": "411221"
+}, {
+	"id": 411224,
+	"parentId": 411200,
+	"name": "卢氏县",
+	"level": 3,
+	"postalCode": "472200",
+	"areaNumber": "411224"
+}, {
+	"id": 411281,
+	"parentId": 411200,
+	"name": "义马市",
+	"level": 3,
+	"postalCode": "472300",
+	"areaNumber": "411281"
+}, {
+	"id": 411282,
+	"parentId": 411200,
+	"name": "灵宝市",
+	"level": 3,
+	"postalCode": "472500",
+	"areaNumber": "411282"
+}, {
+	"id": 411300,
+	"parentId": 410000,
+	"name": "南阳市",
+	"level": 2,
+	"postalCode": "473000",
+	"areaNumber": "411300"
+}, {
+	"id": 411302,
+	"parentId": 411300,
+	"name": "宛城区",
+	"level": 3,
+	"postalCode": "473000",
+	"areaNumber": "411302"
+}, {
+	"id": 411303,
+	"parentId": 411300,
+	"name": "卧龙区",
+	"level": 3,
+	"postalCode": "473000",
+	"areaNumber": "411303"
+}, {
+	"id": 411321,
+	"parentId": 411300,
+	"name": "南召县",
+	"level": 3,
+	"postalCode": "474650",
+	"areaNumber": "411321"
+}, {
+	"id": 411322,
+	"parentId": 411300,
+	"name": "方城县",
+	"level": 3,
+	"postalCode": "473200",
+	"areaNumber": "411322"
+}, {
+	"id": 411323,
+	"parentId": 411300,
+	"name": "西峡县",
+	"level": 3,
+	"postalCode": "474550",
+	"areaNumber": "411323"
+}, {
+	"id": 411324,
+	"parentId": 411300,
+	"name": "镇平县",
+	"level": 3,
+	"postalCode": "474250",
+	"areaNumber": "411324"
+}, {
+	"id": 411325,
+	"parentId": 411300,
+	"name": "内乡县",
+	"level": 3,
+	"postalCode": "474350",
+	"areaNumber": "411325"
+}, {
+	"id": 411326,
+	"parentId": 411300,
+	"name": "淅川县",
+	"level": 3,
+	"postalCode": "474450",
+	"areaNumber": "411326"
+}, {
+	"id": 411327,
+	"parentId": 411300,
+	"name": "社旗县",
+	"level": 3,
+	"postalCode": "473300",
+	"areaNumber": "411327"
+}, {
+	"id": 411328,
+	"parentId": 411300,
+	"name": "唐河县",
+	"level": 3,
+	"postalCode": "473400",
+	"areaNumber": "411328"
+}, {
+	"id": 411329,
+	"parentId": 411300,
+	"name": "新野县",
+	"level": 3,
+	"postalCode": "473500",
+	"areaNumber": "411329"
+}, {
+	"id": 411330,
+	"parentId": 411300,
+	"name": "桐柏县",
+	"level": 3,
+	"postalCode": "474750",
+	"areaNumber": "411330"
+}, {
+	"id": 411381,
+	"parentId": 411300,
+	"name": "邓州市",
+	"level": 3,
+	"postalCode": "474150",
+	"areaNumber": "411381"
+}, {
+	"id": 411400,
+	"parentId": 410000,
+	"name": "商丘市",
+	"level": 2,
+	"postalCode": "476000",
+	"areaNumber": "411400"
+}, {
+	"id": 411402,
+	"parentId": 411400,
+	"name": "梁园区",
+	"level": 3,
+	"postalCode": "476000",
+	"areaNumber": "411402"
+}, {
+	"id": 411403,
+	"parentId": 411400,
+	"name": "睢阳区",
+	"level": 3,
+	"postalCode": "476000",
+	"areaNumber": "411403"
+}, {
+	"id": 411421,
+	"parentId": 411400,
+	"name": "民权县",
+	"level": 3,
+	"postalCode": "476800",
+	"areaNumber": "411421"
+}, {
+	"id": 411422,
+	"parentId": 411400,
+	"name": "睢县",
+	"level": 3,
+	"postalCode": "476900",
+	"areaNumber": "411422"
+}, {
+	"id": 411423,
+	"parentId": 411400,
+	"name": "宁陵县",
+	"level": 3,
+	"postalCode": "476700",
+	"areaNumber": "411423"
+}, {
+	"id": 411424,
+	"parentId": 411400,
+	"name": "柘城县",
+	"level": 3,
+	"postalCode": "476200",
+	"areaNumber": "411424"
+}, {
+	"id": 411425,
+	"parentId": 411400,
+	"name": "虞城县",
+	"level": 3,
+	"postalCode": "476300",
+	"areaNumber": "411425"
+}, {
+	"id": 411426,
+	"parentId": 411400,
+	"name": "夏邑县",
+	"level": 3,
+	"postalCode": "476400",
+	"areaNumber": "411426"
+}, {
+	"id": 411481,
+	"parentId": 411400,
+	"name": "永城市",
+	"level": 3,
+	"postalCode": "476600",
+	"areaNumber": "411481"
+}, {
+	"id": 411500,
+	"parentId": 410000,
+	"name": "信阳市",
+	"level": 2,
+	"postalCode": "464000",
+	"areaNumber": "411500"
+}, {
+	"id": 411502,
+	"parentId": 411500,
+	"name": "浉河区",
+	"level": 3,
+	"postalCode": "464000",
+	"areaNumber": "411502"
+}, {
+	"id": 411503,
+	"parentId": 411500,
+	"name": "平桥区",
+	"level": 3,
+	"postalCode": "464000",
+	"areaNumber": "411503"
+}, {
+	"id": 411521,
+	"parentId": 411500,
+	"name": "罗山县",
+	"level": 3,
+	"postalCode": "464200",
+	"areaNumber": "411521"
+}, {
+	"id": 411522,
+	"parentId": 411500,
+	"name": "光山县",
+	"level": 3,
+	"postalCode": "465450",
+	"areaNumber": "411522"
+}, {
+	"id": 411523,
+	"parentId": 411500,
+	"name": "新县",
+	"level": 3,
+	"postalCode": "465550",
+	"areaNumber": "411523"
+}, {
+	"id": 411524,
+	"parentId": 411500,
+	"name": "商城县",
+	"level": 3,
+	"postalCode": "465350",
+	"areaNumber": "411524"
+}, {
+	"id": 411525,
+	"parentId": 411500,
+	"name": "固始县",
+	"level": 3,
+	"postalCode": "465200",
+	"areaNumber": "411525"
+}, {
+	"id": 411526,
+	"parentId": 411500,
+	"name": "潢川县",
+	"level": 3,
+	"postalCode": "465150",
+	"areaNumber": "411526"
+}, {
+	"id": 411527,
+	"parentId": 411500,
+	"name": "淮滨县",
+	"level": 3,
+	"postalCode": "464400",
+	"areaNumber": "411527"
+}, {
+	"id": 411528,
+	"parentId": 411500,
+	"name": "息县",
+	"level": 3,
+	"postalCode": "464300",
+	"areaNumber": "411528"
+}, {
+	"id": 411600,
+	"parentId": 410000,
+	"name": "周口市",
+	"level": 2,
+	"postalCode": "466000",
+	"areaNumber": "411600"
+}, {
+	"id": 411602,
+	"parentId": 411600,
+	"name": "川汇区",
+	"level": 3,
+	"postalCode": "466000",
+	"areaNumber": "411602"
+}, {
+	"id": 411621,
+	"parentId": 411600,
+	"name": "扶沟县",
+	"level": 3,
+	"postalCode": "461300",
+	"areaNumber": "411621"
+}, {
+	"id": 411622,
+	"parentId": 411600,
+	"name": "西华县",
+	"level": 3,
+	"postalCode": "466600",
+	"areaNumber": "411622"
+}, {
+	"id": 411623,
+	"parentId": 411600,
+	"name": "商水县",
+	"level": 3,
+	"postalCode": "466100",
+	"areaNumber": "411623"
+}, {
+	"id": 411624,
+	"parentId": 411600,
+	"name": "沈丘县",
+	"level": 3,
+	"postalCode": "466300",
+	"areaNumber": "411624"
+}, {
+	"id": 411625,
+	"parentId": 411600,
+	"name": "郸城县",
+	"level": 3,
+	"postalCode": "477150",
+	"areaNumber": "411625"
+}, {
+	"id": 411626,
+	"parentId": 411600,
+	"name": "淮阳县",
+	"level": 3,
+	"postalCode": "466700",
+	"areaNumber": "411626"
+}, {
+	"id": 411627,
+	"parentId": 411600,
+	"name": "太康县",
+	"level": 3,
+	"postalCode": "475400",
+	"areaNumber": "411627"
+}, {
+	"id": 411628,
+	"parentId": 411600,
+	"name": "鹿邑县",
+	"level": 3,
+	"postalCode": "477200",
+	"areaNumber": "411628"
+}, {
+	"id": 411681,
+	"parentId": 411600,
+	"name": "项城市",
+	"level": 3,
+	"postalCode": "466200",
+	"areaNumber": "411681"
+}, {
+	"id": 411682,
+	"parentId": 411600,
+	"name": "东新区",
+	"level": 3,
+	"postalCode": "466000",
+	"areaNumber": "411682"
+}, {
+	"id": 411683,
+	"parentId": 411600,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "466000",
+	"areaNumber": "411683"
+}, {
+	"id": 411700,
+	"parentId": 410000,
+	"name": "驻马店市",
+	"level": 2,
+	"postalCode": "463000",
+	"areaNumber": "411700"
+}, {
+	"id": 411702,
+	"parentId": 411700,
+	"name": "驿城区",
+	"level": 3,
+	"postalCode": "463000",
+	"areaNumber": "411702"
+}, {
+	"id": 411721,
+	"parentId": 411700,
+	"name": "西平县",
+	"level": 3,
+	"postalCode": "463900",
+	"areaNumber": "411721"
+}, {
+	"id": 411722,
+	"parentId": 411700,
+	"name": "上蔡县",
+	"level": 3,
+	"postalCode": "463800",
+	"areaNumber": "411722"
+}, {
+	"id": 411723,
+	"parentId": 411700,
+	"name": "平舆县",
+	"level": 3,
+	"postalCode": "463400",
+	"areaNumber": "411723"
+}, {
+	"id": 411724,
+	"parentId": 411700,
+	"name": "正阳县",
+	"level": 3,
+	"postalCode": "463600",
+	"areaNumber": "411724"
+}, {
+	"id": 411725,
+	"parentId": 411700,
+	"name": "确山县",
+	"level": 3,
+	"postalCode": "463200",
+	"areaNumber": "411725"
+}, {
+	"id": 411726,
+	"parentId": 411700,
+	"name": "泌阳县",
+	"level": 3,
+	"postalCode": "463700",
+	"areaNumber": "411726"
+}, {
+	"id": 411727,
+	"parentId": 411700,
+	"name": "汝南县",
+	"level": 3,
+	"postalCode": "463300",
+	"areaNumber": "411727"
+}, {
+	"id": 411728,
+	"parentId": 411700,
+	"name": "遂平县",
+	"level": 3,
+	"postalCode": "463100",
+	"areaNumber": "411728"
+}, {
+	"id": 411729,
+	"parentId": 411700,
+	"name": "新蔡县",
+	"level": 3,
+	"postalCode": "463500",
+	"areaNumber": "411729"
+}, {
+	"id": 419001,
+	"parentId": 410000,
+	"name": "济源市",
+	"level": 2,
+	"postalCode": "454650",
+	"areaNumber": "419001"
+}, {
+	"id": 419011,
+	"parentId": 419001,
+	"name": "沁园街道",
+	"level": 3,
+	"postalCode": "459000",
+	"areaNumber": "419011"
+}, {
+	"id": 419012,
+	"parentId": 419001,
+	"name": "济水街道",
+	"level": 3,
+	"postalCode": "459001",
+	"areaNumber": "419012"
+}, {
+	"id": 419013,
+	"parentId": 419001,
+	"name": "北海街道",
+	"level": 3,
+	"postalCode": "459003",
+	"areaNumber": "419013"
+}, {
+	"id": 419014,
+	"parentId": 419001,
+	"name": "天坛街道",
+	"level": 3,
+	"postalCode": "459004",
+	"areaNumber": "419014"
+}, {
+	"id": 419015,
+	"parentId": 419001,
+	"name": "玉泉街道",
+	"level": 3,
+	"postalCode": "459002",
+	"areaNumber": "419015"
+}, {
+	"id": 419016,
+	"parentId": 419001,
+	"name": "克井镇",
+	"level": 3,
+	"postalCode": "459010",
+	"areaNumber": "419016"
+}, {
+	"id": 419017,
+	"parentId": 419001,
+	"name": "五龙口镇",
+	"level": 3,
+	"postalCode": "459011",
+	"areaNumber": "419017"
+}, {
+	"id": 419018,
+	"parentId": 419001,
+	"name": "梨林镇",
+	"level": 3,
+	"postalCode": "459018",
+	"areaNumber": "419018"
+}, {
+	"id": 419019,
+	"parentId": 419001,
+	"name": "轵城镇",
+	"level": 3,
+	"postalCode": "459005",
+	"areaNumber": "419019"
+}, {
+	"id": 419020,
+	"parentId": 419001,
+	"name": "承留镇",
+	"level": 3,
+	"postalCode": "459007",
+	"areaNumber": "419020"
+}, {
+	"id": 419021,
+	"parentId": 419001,
+	"name": "坡头镇",
+	"level": 3,
+	"postalCode": "459016",
+	"areaNumber": "419021"
+}, {
+	"id": 419022,
+	"parentId": 419001,
+	"name": "大峪镇",
+	"level": 3,
+	"postalCode": "459017",
+	"areaNumber": "419022"
+}, {
+	"id": 419023,
+	"parentId": 419001,
+	"name": "邵原镇",
+	"level": 3,
+	"postalCode": "459014",
+	"areaNumber": "419023"
+}, {
+	"id": 419024,
+	"parentId": 419001,
+	"name": "思礼镇",
+	"level": 3,
+	"postalCode": "459006",
+	"areaNumber": "419024"
+}, {
+	"id": 419025,
+	"parentId": 419001,
+	"name": "王屋镇",
+	"level": 3,
+	"postalCode": "459013",
+	"areaNumber": "419025"
+}, {
+	"id": 419026,
+	"parentId": 419001,
+	"name": "下冶镇",
+	"level": 3,
+	"postalCode": "459015",
+	"areaNumber": "419026"
+}, {
+	"id": 420000,
+	"parentId": 100000,
+	"name": "湖北省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "420000"
+}, {
+	"id": 420100,
+	"parentId": 420000,
+	"name": "武汉市",
+	"level": 2,
+	"postalCode": "430000",
+	"areaNumber": "420100"
+}, {
+	"id": 420102,
+	"parentId": 420100,
+	"name": "江岸区",
+	"level": 3,
+	"postalCode": "430014",
+	"areaNumber": "420102"
+}, {
+	"id": 420103,
+	"parentId": 420100,
+	"name": "江汉区",
+	"level": 3,
+	"postalCode": "430000",
+	"areaNumber": "420103"
+}, {
+	"id": 420104,
+	"parentId": 420100,
+	"name": "硚口区",
+	"level": 3,
+	"postalCode": "430000",
+	"areaNumber": "420104"
+}, {
+	"id": 420105,
+	"parentId": 420100,
+	"name": "汉阳区",
+	"level": 3,
+	"postalCode": "430050",
+	"areaNumber": "420105"
+}, {
+	"id": 420106,
+	"parentId": 420100,
+	"name": "武昌区",
+	"level": 3,
+	"postalCode": "430000",
+	"areaNumber": "420106"
+}, {
+	"id": 420107,
+	"parentId": 420100,
+	"name": "青山区",
+	"level": 3,
+	"postalCode": "430080",
+	"areaNumber": "420107"
+}, {
+	"id": 420111,
+	"parentId": 420100,
+	"name": "洪山区",
+	"level": 3,
+	"postalCode": "430070",
+	"areaNumber": "420111"
+}, {
+	"id": 420112,
+	"parentId": 420100,
+	"name": "东西湖区",
+	"level": 3,
+	"postalCode": "430040",
+	"areaNumber": "420112"
+}, {
+	"id": 420113,
+	"parentId": 420100,
+	"name": "汉南区",
+	"level": 3,
+	"postalCode": "430090",
+	"areaNumber": "420113"
+}, {
+	"id": 420114,
+	"parentId": 420100,
+	"name": "蔡甸区",
+	"level": 3,
+	"postalCode": "430100",
+	"areaNumber": "420114"
+}, {
+	"id": 420115,
+	"parentId": 420100,
+	"name": "江夏区",
+	"level": 3,
+	"postalCode": "430200",
+	"areaNumber": "420115"
+}, {
+	"id": 420116,
+	"parentId": 420100,
+	"name": "黄陂区",
+	"level": 3,
+	"postalCode": "432200",
+	"areaNumber": "420116"
+}, {
+	"id": 420117,
+	"parentId": 420100,
+	"name": "新洲区",
+	"level": 3,
+	"postalCode": "431400",
+	"areaNumber": "420117"
+}, {
+	"id": 420118,
+	"parentId": 420100,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "430056",
+	"areaNumber": "420118"
+}, {
+	"id": 420200,
+	"parentId": 420000,
+	"name": "黄石市",
+	"level": 2,
+	"postalCode": "435000",
+	"areaNumber": "420200"
+}, {
+	"id": 420202,
+	"parentId": 420200,
+	"name": "黄石港区",
+	"level": 3,
+	"postalCode": "435000",
+	"areaNumber": "420202"
+}, {
+	"id": 420203,
+	"parentId": 420200,
+	"name": "西塞山区",
+	"level": 3,
+	"postalCode": "435001",
+	"areaNumber": "420203"
+}, {
+	"id": 420204,
+	"parentId": 420200,
+	"name": "下陆区",
+	"level": 3,
+	"postalCode": "435000",
+	"areaNumber": "420204"
+}, {
+	"id": 420205,
+	"parentId": 420200,
+	"name": "铁山区",
+	"level": 3,
+	"postalCode": "435000",
+	"areaNumber": "420205"
+}, {
+	"id": 420222,
+	"parentId": 420200,
+	"name": "阳新县",
+	"level": 3,
+	"postalCode": "435200",
+	"areaNumber": "420222"
+}, {
+	"id": 420281,
+	"parentId": 420200,
+	"name": "大冶市",
+	"level": 3,
+	"postalCode": "435100",
+	"areaNumber": "420281"
+}, {
+	"id": 420282,
+	"parentId": 420200,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "435003",
+	"areaNumber": "420282"
+}, {
+	"id": 420300,
+	"parentId": 420000,
+	"name": "十堰市",
+	"level": 2,
+	"postalCode": "442000",
+	"areaNumber": "420300"
+}, {
+	"id": 420302,
+	"parentId": 420300,
+	"name": "茅箭区",
+	"level": 3,
+	"postalCode": "442000",
+	"areaNumber": "420302"
+}, {
+	"id": 420303,
+	"parentId": 420300,
+	"name": "张湾区",
+	"level": 3,
+	"postalCode": "442000",
+	"areaNumber": "420303"
+}, {
+	"id": 420304,
+	"parentId": 420300,
+	"name": "郧阳区",
+	"level": 3,
+	"postalCode": "442500",
+	"areaNumber": "420304"
+}, {
+	"id": 420322,
+	"parentId": 420300,
+	"name": "郧西县",
+	"level": 3,
+	"postalCode": "442600",
+	"areaNumber": "420322"
+}, {
+	"id": 420323,
+	"parentId": 420300,
+	"name": "竹山县",
+	"level": 3,
+	"postalCode": "442200",
+	"areaNumber": "420323"
+}, {
+	"id": 420324,
+	"parentId": 420300,
+	"name": "竹溪县",
+	"level": 3,
+	"postalCode": "442300",
+	"areaNumber": "420324"
+}, {
+	"id": 420325,
+	"parentId": 420300,
+	"name": "房县",
+	"level": 3,
+	"postalCode": "442100",
+	"areaNumber": "420325"
+}, {
+	"id": 420381,
+	"parentId": 420300,
+	"name": "丹江口市",
+	"level": 3,
+	"postalCode": "442700",
+	"areaNumber": "420381"
+}, {
+	"id": 420500,
+	"parentId": 420000,
+	"name": "宜昌市",
+	"level": 2,
+	"postalCode": "443000",
+	"areaNumber": "420500"
+}, {
+	"id": 420502,
+	"parentId": 420500,
+	"name": "西陵区",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420502"
+}, {
+	"id": 420503,
+	"parentId": 420500,
+	"name": "伍家岗区",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420503"
+}, {
+	"id": 420504,
+	"parentId": 420500,
+	"name": "点军区",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420504"
+}, {
+	"id": 420505,
+	"parentId": 420500,
+	"name": "猇亭区",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420505"
+}, {
+	"id": 420506,
+	"parentId": 420500,
+	"name": "夷陵区",
+	"level": 3,
+	"postalCode": "443100",
+	"areaNumber": "420506"
+}, {
+	"id": 420525,
+	"parentId": 420500,
+	"name": "远安县",
+	"level": 3,
+	"postalCode": "444200",
+	"areaNumber": "420525"
+}, {
+	"id": 420526,
+	"parentId": 420500,
+	"name": "兴山县",
+	"level": 3,
+	"postalCode": "443700",
+	"areaNumber": "420526"
+}, {
+	"id": 420527,
+	"parentId": 420500,
+	"name": "秭归县",
+	"level": 3,
+	"postalCode": "443600",
+	"areaNumber": "420527"
+}, {
+	"id": 420528,
+	"parentId": 420500,
+	"name": "长阳土家族自治县",
+	"level": 3,
+	"postalCode": "443500",
+	"areaNumber": "420528"
+}, {
+	"id": 420529,
+	"parentId": 420500,
+	"name": "五峰土家族自治县",
+	"level": 3,
+	"postalCode": "443400",
+	"areaNumber": "420529"
+}, {
+	"id": 420581,
+	"parentId": 420500,
+	"name": "宜都市",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420581"
+}, {
+	"id": 420582,
+	"parentId": 420500,
+	"name": "当阳市",
+	"level": 3,
+	"postalCode": "444100",
+	"areaNumber": "420582"
+}, {
+	"id": 420583,
+	"parentId": 420500,
+	"name": "枝江市",
+	"level": 3,
+	"postalCode": "443200",
+	"areaNumber": "420583"
+}, {
+	"id": 420584,
+	"parentId": 420500,
+	"name": "宜昌新区",
+	"level": 3,
+	"postalCode": "443000",
+	"areaNumber": "420584"
+}, {
+	"id": 420600,
+	"parentId": 420000,
+	"name": "襄阳市",
+	"level": 2,
+	"postalCode": "441000",
+	"areaNumber": "420600"
+}, {
+	"id": 420602,
+	"parentId": 420600,
+	"name": "襄城区",
+	"level": 3,
+	"postalCode": "441000",
+	"areaNumber": "420602"
+}, {
+	"id": 420606,
+	"parentId": 420600,
+	"name": "樊城区",
+	"level": 3,
+	"postalCode": "441000",
+	"areaNumber": "420606"
+}, {
+	"id": 420607,
+	"parentId": 420600,
+	"name": "襄州区",
+	"level": 3,
+	"postalCode": "441100",
+	"areaNumber": "420607"
+}, {
+	"id": 420624,
+	"parentId": 420600,
+	"name": "南漳县",
+	"level": 3,
+	"postalCode": "441500",
+	"areaNumber": "420624"
+}, {
+	"id": 420625,
+	"parentId": 420600,
+	"name": "谷城县",
+	"level": 3,
+	"postalCode": "441700",
+	"areaNumber": "420625"
+}, {
+	"id": 420626,
+	"parentId": 420600,
+	"name": "保康县",
+	"level": 3,
+	"postalCode": "441600",
+	"areaNumber": "420626"
+}, {
+	"id": 420682,
+	"parentId": 420600,
+	"name": "老河口市",
+	"level": 3,
+	"postalCode": "441800",
+	"areaNumber": "420682"
+}, {
+	"id": 420683,
+	"parentId": 420600,
+	"name": "枣阳市",
+	"level": 3,
+	"postalCode": "441200",
+	"areaNumber": "420683"
+}, {
+	"id": 420684,
+	"parentId": 420600,
+	"name": "宜城市",
+	"level": 3,
+	"postalCode": "441400",
+	"areaNumber": "420684"
+}, {
+	"id": 420685,
+	"parentId": 420600,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "441000",
+	"areaNumber": "420685"
+}, {
+	"id": 420686,
+	"parentId": 420600,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "441000",
+	"areaNumber": "420686"
+}, {
+	"id": 420700,
+	"parentId": 420000,
+	"name": "鄂州市",
+	"level": 2,
+	"postalCode": "436000",
+	"areaNumber": "420700"
+}, {
+	"id": 420702,
+	"parentId": 420700,
+	"name": "梁子湖区",
+	"level": 3,
+	"postalCode": "436000",
+	"areaNumber": "420702"
+}, {
+	"id": 420703,
+	"parentId": 420700,
+	"name": "华容区",
+	"level": 3,
+	"postalCode": "436000",
+	"areaNumber": "420703"
+}, {
+	"id": 420704,
+	"parentId": 420700,
+	"name": "鄂城区",
+	"level": 3,
+	"postalCode": "436000",
+	"areaNumber": "420704"
+}, {
+	"id": 420800,
+	"parentId": 420000,
+	"name": "荆门市",
+	"level": 2,
+	"postalCode": "448000",
+	"areaNumber": "420800"
+}, {
+	"id": 420802,
+	"parentId": 420800,
+	"name": "东宝区",
+	"level": 3,
+	"postalCode": "448000",
+	"areaNumber": "420802"
+}, {
+	"id": 420804,
+	"parentId": 420800,
+	"name": "掇刀区",
+	"level": 3,
+	"postalCode": "448000",
+	"areaNumber": "420804"
+}, {
+	"id": 420821,
+	"parentId": 420800,
+	"name": "京山县",
+	"level": 3,
+	"postalCode": "431800",
+	"areaNumber": "420821"
+}, {
+	"id": 420822,
+	"parentId": 420800,
+	"name": "沙洋县",
+	"level": 3,
+	"postalCode": "448200",
+	"areaNumber": "420822"
+}, {
+	"id": 420881,
+	"parentId": 420800,
+	"name": "钟祥市",
+	"level": 3,
+	"postalCode": "431900",
+	"areaNumber": "420881"
+}, {
+	"id": 420900,
+	"parentId": 420000,
+	"name": "孝感市",
+	"level": 2,
+	"postalCode": "432000",
+	"areaNumber": "420900"
+}, {
+	"id": 420902,
+	"parentId": 420900,
+	"name": "孝南区",
+	"level": 3,
+	"postalCode": "432100",
+	"areaNumber": "420902"
+}, {
+	"id": 420921,
+	"parentId": 420900,
+	"name": "孝昌县",
+	"level": 3,
+	"postalCode": "432900",
+	"areaNumber": "420921"
+}, {
+	"id": 420922,
+	"parentId": 420900,
+	"name": "大悟县",
+	"level": 3,
+	"postalCode": "432800",
+	"areaNumber": "420922"
+}, {
+	"id": 420923,
+	"parentId": 420900,
+	"name": "云梦县",
+	"level": 3,
+	"postalCode": "432500",
+	"areaNumber": "420923"
+}, {
+	"id": 420981,
+	"parentId": 420900,
+	"name": "应城市",
+	"level": 3,
+	"postalCode": "432400",
+	"areaNumber": "420981"
+}, {
+	"id": 420982,
+	"parentId": 420900,
+	"name": "安陆市",
+	"level": 3,
+	"postalCode": "432600",
+	"areaNumber": "420982"
+}, {
+	"id": 420984,
+	"parentId": 420900,
+	"name": "汉川市",
+	"level": 3,
+	"postalCode": "432300",
+	"areaNumber": "420984"
+}, {
+	"id": 421000,
+	"parentId": 420000,
+	"name": "荆州市",
+	"level": 2,
+	"postalCode": "434000",
+	"areaNumber": "421000"
+}, {
+	"id": 421002,
+	"parentId": 421000,
+	"name": "沙市区",
+	"level": 3,
+	"postalCode": "434000",
+	"areaNumber": "421002"
+}, {
+	"id": 421003,
+	"parentId": 421000,
+	"name": "荆州区",
+	"level": 3,
+	"postalCode": "434020",
+	"areaNumber": "421003"
+}, {
+	"id": 421022,
+	"parentId": 421000,
+	"name": "公安县",
+	"level": 3,
+	"postalCode": "434300",
+	"areaNumber": "421022"
+}, {
+	"id": 421023,
+	"parentId": 421000,
+	"name": "监利县",
+	"level": 3,
+	"postalCode": "433300",
+	"areaNumber": "421023"
+}, {
+	"id": 421024,
+	"parentId": 421000,
+	"name": "江陵县",
+	"level": 3,
+	"postalCode": "434100",
+	"areaNumber": "421024"
+}, {
+	"id": 421081,
+	"parentId": 421000,
+	"name": "石首市",
+	"level": 3,
+	"postalCode": "434400",
+	"areaNumber": "421081"
+}, {
+	"id": 421083,
+	"parentId": 421000,
+	"name": "洪湖市",
+	"level": 3,
+	"postalCode": "433200",
+	"areaNumber": "421083"
+}, {
+	"id": 421087,
+	"parentId": 421000,
+	"name": "松滋市",
+	"level": 3,
+	"postalCode": "434200",
+	"areaNumber": "421087"
+}, {
+	"id": 421100,
+	"parentId": 420000,
+	"name": "黄冈市",
+	"level": 2,
+	"postalCode": "438000",
+	"areaNumber": "421100"
+}, {
+	"id": 421102,
+	"parentId": 421100,
+	"name": "黄州区",
+	"level": 3,
+	"postalCode": "438000",
+	"areaNumber": "421102"
+}, {
+	"id": 421121,
+	"parentId": 421100,
+	"name": "团风县",
+	"level": 3,
+	"postalCode": "438000",
+	"areaNumber": "421121"
+}, {
+	"id": 421122,
+	"parentId": 421100,
+	"name": "红安县",
+	"level": 3,
+	"postalCode": "438400",
+	"areaNumber": "421122"
+}, {
+	"id": 421123,
+	"parentId": 421100,
+	"name": "罗田县",
+	"level": 3,
+	"postalCode": "438600",
+	"areaNumber": "421123"
+}, {
+	"id": 421124,
+	"parentId": 421100,
+	"name": "英山县",
+	"level": 3,
+	"postalCode": "438700",
+	"areaNumber": "421124"
+}, {
+	"id": 421125,
+	"parentId": 421100,
+	"name": "浠水县",
+	"level": 3,
+	"postalCode": "438200",
+	"areaNumber": "421125"
+}, {
+	"id": 421126,
+	"parentId": 421100,
+	"name": "蕲春县",
+	"level": 3,
+	"postalCode": "435300",
+	"areaNumber": "421126"
+}, {
+	"id": 421127,
+	"parentId": 421100,
+	"name": "黄梅县",
+	"level": 3,
+	"postalCode": "435500",
+	"areaNumber": "421127"
+}, {
+	"id": 421181,
+	"parentId": 421100,
+	"name": "麻城市",
+	"level": 3,
+	"postalCode": "438300",
+	"areaNumber": "421181"
+}, {
+	"id": 421182,
+	"parentId": 421100,
+	"name": "武穴市",
+	"level": 3,
+	"postalCode": "435400",
+	"areaNumber": "421182"
+}, {
+	"id": 421200,
+	"parentId": 420000,
+	"name": "咸宁市",
+	"level": 2,
+	"postalCode": "437000",
+	"areaNumber": "421200"
+}, {
+	"id": 421202,
+	"parentId": 421200,
+	"name": "咸安区",
+	"level": 3,
+	"postalCode": "437000",
+	"areaNumber": "421202"
+}, {
+	"id": 421221,
+	"parentId": 421200,
+	"name": "嘉鱼县",
+	"level": 3,
+	"postalCode": "437200",
+	"areaNumber": "421221"
+}, {
+	"id": 421222,
+	"parentId": 421200,
+	"name": "通城县",
+	"level": 3,
+	"postalCode": "437400",
+	"areaNumber": "421222"
+}, {
+	"id": 421223,
+	"parentId": 421200,
+	"name": "崇阳县",
+	"level": 3,
+	"postalCode": "437500",
+	"areaNumber": "421223"
+}, {
+	"id": 421224,
+	"parentId": 421200,
+	"name": "通山县",
+	"level": 3,
+	"postalCode": "437600",
+	"areaNumber": "421224"
+}, {
+	"id": 421281,
+	"parentId": 421200,
+	"name": "赤壁市",
+	"level": 3,
+	"postalCode": "437300",
+	"areaNumber": "421281"
+}, {
+	"id": 421300,
+	"parentId": 420000,
+	"name": "随州市",
+	"level": 2,
+	"postalCode": "441300",
+	"areaNumber": "421300"
+}, {
+	"id": 421303,
+	"parentId": 421300,
+	"name": "曾都区",
+	"level": 3,
+	"postalCode": "441300",
+	"areaNumber": "421303"
+}, {
+	"id": 421321,
+	"parentId": 421300,
+	"name": "随县",
+	"level": 3,
+	"postalCode": "441309",
+	"areaNumber": "421321"
+}, {
+	"id": 421381,
+	"parentId": 421300,
+	"name": "广水市",
+	"level": 3,
+	"postalCode": "432700",
+	"areaNumber": "421381"
+}, {
+	"id": 422800,
+	"parentId": 420000,
+	"name": "恩施土家族苗族自治州",
+	"level": 2,
+	"postalCode": "445000",
+	"areaNumber": "422800"
+}, {
+	"id": 422801,
+	"parentId": 422800,
+	"name": "恩施市",
+	"level": 3,
+	"postalCode": "445000",
+	"areaNumber": "422801"
+}, {
+	"id": 422802,
+	"parentId": 422800,
+	"name": "利川市",
+	"level": 3,
+	"postalCode": "445400",
+	"areaNumber": "422802"
+}, {
+	"id": 422822,
+	"parentId": 422800,
+	"name": "建始县",
+	"level": 3,
+	"postalCode": "445300",
+	"areaNumber": "422822"
+}, {
+	"id": 422823,
+	"parentId": 422800,
+	"name": "巴东县",
+	"level": 3,
+	"postalCode": "444300",
+	"areaNumber": "422823"
+}, {
+	"id": 422825,
+	"parentId": 422800,
+	"name": "宣恩县",
+	"level": 3,
+	"postalCode": "445500",
+	"areaNumber": "422825"
+}, {
+	"id": 422826,
+	"parentId": 422800,
+	"name": "咸丰县",
+	"level": 3,
+	"postalCode": "445600",
+	"areaNumber": "422826"
+}, {
+	"id": 422827,
+	"parentId": 422800,
+	"name": "来凤县",
+	"level": 3,
+	"postalCode": "445700",
+	"areaNumber": "422827"
+}, {
+	"id": 422828,
+	"parentId": 422800,
+	"name": "鹤峰县",
+	"level": 3,
+	"postalCode": "445800",
+	"areaNumber": "422828"
+}, {
+	"id": 429004,
+	"parentId": 420000,
+	"name": "仙桃市",
+	"level": 2,
+	"postalCode": "433000",
+	"areaNumber": "429004"
+}, {
+	"id": 429005,
+	"parentId": 420000,
+	"name": "潜江市",
+	"level": 2,
+	"postalCode": "433100",
+	"areaNumber": "429005"
+}, {
+	"id": 429006,
+	"parentId": 420000,
+	"name": "天门市",
+	"level": 2,
+	"postalCode": "431700",
+	"areaNumber": "429006"
+}, {
+	"id": 429021,
+	"parentId": 420000,
+	"name": "神农架林区",
+	"level": 2,
+	"postalCode": "442400",
+	"areaNumber": "429021"
+}, {
+	"id": 429022,
+	"parentId": 429021,
+	"name": "松柏镇",
+	"level": 3,
+	"postalCode": "442499",
+	"areaNumber": "429022"
+}, {
+	"id": 429023,
+	"parentId": 429021,
+	"name": "阳日镇",
+	"level": 3,
+	"postalCode": "442411",
+	"areaNumber": "429023"
+}, {
+	"id": 429024,
+	"parentId": 429021,
+	"name": "木鱼镇",
+	"level": 3,
+	"postalCode": "442421",
+	"areaNumber": "429024"
+}, {
+	"id": 429025,
+	"parentId": 429021,
+	"name": "红坪镇",
+	"level": 3,
+	"postalCode": "442416",
+	"areaNumber": "429025"
+}, {
+	"id": 429026,
+	"parentId": 429021,
+	"name": "新华镇",
+	"level": 3,
+	"postalCode": "442412",
+	"areaNumber": "429026"
+}, {
+	"id": 429027,
+	"parentId": 429021,
+	"name": "大九湖",
+	"level": 3,
+	"postalCode": "442417",
+	"areaNumber": "429027"
+}, {
+	"id": 429028,
+	"parentId": 429021,
+	"name": "宋洛",
+	"level": 3,
+	"postalCode": "442414",
+	"areaNumber": "429028"
+}, {
+	"id": 429029,
+	"parentId": 429021,
+	"name": "下谷坪乡",
+	"level": 3,
+	"postalCode": "442417",
+	"areaNumber": "429029"
+}, {
+	"id": 429401,
+	"parentId": 429004,
+	"name": "沙嘴街道",
+	"level": 3,
+	"postalCode": "433099",
+	"areaNumber": "429401"
+}, {
+	"id": 429402,
+	"parentId": 429004,
+	"name": "干河街道",
+	"level": 3,
+	"postalCode": "433000",
+	"areaNumber": "429402"
+}, {
+	"id": 429403,
+	"parentId": 429004,
+	"name": "龙华山街道",
+	"level": 3,
+	"postalCode": "433099",
+	"areaNumber": "429403"
+}, {
+	"id": 429404,
+	"parentId": 429004,
+	"name": "郑场镇",
+	"level": 3,
+	"postalCode": "433009",
+	"areaNumber": "429404"
+}, {
+	"id": 429405,
+	"parentId": 429004,
+	"name": "毛嘴镇",
+	"level": 3,
+	"postalCode": "433008",
+	"areaNumber": "429405"
+}, {
+	"id": 429406,
+	"parentId": 429004,
+	"name": "豆河镇",
+	"level": 3,
+	"postalCode": "433006",
+	"areaNumber": "429406"
+}, {
+	"id": 429407,
+	"parentId": 429004,
+	"name": "三伏潭镇",
+	"level": 3,
+	"postalCode": "433005",
+	"areaNumber": "429407"
+}, {
+	"id": 429408,
+	"parentId": 429004,
+	"name": "胡场镇",
+	"level": 3,
+	"postalCode": "433004",
+	"areaNumber": "429408"
+}, {
+	"id": 429409,
+	"parentId": 429004,
+	"name": "长埫口镇",
+	"level": 3,
+	"postalCode": "433000",
+	"areaNumber": "429409"
+}, {
+	"id": 429410,
+	"parentId": 429004,
+	"name": "西流河镇",
+	"level": 3,
+	"postalCode": "433023",
+	"areaNumber": "429410"
+}, {
+	"id": 429411,
+	"parentId": 429004,
+	"name": "沙湖镇",
+	"level": 3,
+	"postalCode": "433019",
+	"areaNumber": "429411"
+}, {
+	"id": 429412,
+	"parentId": 429004,
+	"name": "杨林尾镇",
+	"level": 3,
+	"postalCode": "433021",
+	"areaNumber": "429412"
+}, {
+	"id": 429413,
+	"parentId": 429004,
+	"name": "彭场镇",
+	"level": 3,
+	"postalCode": "433018",
+	"areaNumber": "429413"
+}, {
+	"id": 429414,
+	"parentId": 429004,
+	"name": "张沟镇",
+	"level": 3,
+	"postalCode": "433012",
+	"areaNumber": "429414"
+}, {
+	"id": 429415,
+	"parentId": 429004,
+	"name": "郭河镇",
+	"level": 3,
+	"postalCode": "433013",
+	"areaNumber": "429415"
+}, {
+	"id": 429416,
+	"parentId": 429004,
+	"name": "沔城镇",
+	"level": 3,
+	"postalCode": "433014",
+	"areaNumber": "429416"
+}, {
+	"id": 429417,
+	"parentId": 429004,
+	"name": "通海口镇",
+	"level": 3,
+	"postalCode": "433015",
+	"areaNumber": "429417"
+}, {
+	"id": 429418,
+	"parentId": 429004,
+	"name": "陈场镇",
+	"level": 3,
+	"postalCode": "433016",
+	"areaNumber": "429418"
+}, {
+	"id": 429419,
+	"parentId": 429004,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "433000",
+	"areaNumber": "429419"
+}, {
+	"id": 429420,
+	"parentId": 429004,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "433000",
+	"areaNumber": "429420"
+}, {
+	"id": 429421,
+	"parentId": 429004,
+	"name": "工业园区",
+	"level": 3,
+	"postalCode": "433001",
+	"areaNumber": "429421"
+}, {
+	"id": 429422,
+	"parentId": 429004,
+	"name": "九合垸原种场",
+	"level": 3,
+	"postalCode": "433032",
+	"areaNumber": "429422"
+}, {
+	"id": 429423,
+	"parentId": 429004,
+	"name": "沙湖原种场",
+	"level": 3,
+	"postalCode": "433019",
+	"areaNumber": "429423"
+}, {
+	"id": 429424,
+	"parentId": 429004,
+	"name": "排湖渔场",
+	"level": 3,
+	"postalCode": "433025",
+	"areaNumber": "429424"
+}, {
+	"id": 429425,
+	"parentId": 429004,
+	"name": "五湖渔场",
+	"level": 3,
+	"postalCode": "433019",
+	"areaNumber": "429425"
+}, {
+	"id": 429426,
+	"parentId": 429004,
+	"name": "赵西垸林场",
+	"level": 3,
+	"postalCode": "433000",
+	"areaNumber": "429426"
+}, {
+	"id": 429427,
+	"parentId": 429004,
+	"name": "刘家垸林场",
+	"level": 3,
+	"postalCode": "433029",
+	"areaNumber": "429427"
+}, {
+	"id": 429428,
+	"parentId": 429004,
+	"name": "畜禽良种场",
+	"level": 3,
+	"postalCode": "433019",
+	"areaNumber": "429428"
+}, {
+	"id": 429501,
+	"parentId": 429005,
+	"name": "园林",
+	"level": 3,
+	"postalCode": "433199",
+	"areaNumber": "429501"
+}, {
+	"id": 429502,
+	"parentId": 429005,
+	"name": "广华",
+	"level": 3,
+	"postalCode": "433124",
+	"areaNumber": "429502"
+}, {
+	"id": 429503,
+	"parentId": 429005,
+	"name": "杨市",
+	"level": 3,
+	"postalCode": "433133",
+	"areaNumber": "429503"
+}, {
+	"id": 429504,
+	"parentId": 429005,
+	"name": "周矶",
+	"level": 3,
+	"postalCode": "433114",
+	"areaNumber": "429504"
+}, {
+	"id": 429505,
+	"parentId": 429005,
+	"name": "泽口",
+	"level": 3,
+	"postalCode": "433132",
+	"areaNumber": "429505"
+}, {
+	"id": 429506,
+	"parentId": 429005,
+	"name": "泰丰",
+	"level": 3,
+	"postalCode": "433199",
+	"areaNumber": "429506"
+}, {
+	"id": 429507,
+	"parentId": 429005,
+	"name": "高场",
+	"level": 3,
+	"postalCode": "433115",
+	"areaNumber": "429507"
+}, {
+	"id": 429508,
+	"parentId": 429005,
+	"name": "熊口镇",
+	"level": 3,
+	"postalCode": "433136",
+	"areaNumber": "429508"
+}, {
+	"id": 429509,
+	"parentId": 429005,
+	"name": "竹根滩镇",
+	"level": 3,
+	"postalCode": "433131",
+	"areaNumber": "429509"
+}, {
+	"id": 429510,
+	"parentId": 429005,
+	"name": "高石碑镇",
+	"level": 3,
+	"postalCode": "433126",
+	"areaNumber": "429510"
+}, {
+	"id": 429511,
+	"parentId": 429005,
+	"name": "老新镇",
+	"level": 3,
+	"postalCode": "433111",
+	"areaNumber": "429511"
+}, {
+	"id": 429512,
+	"parentId": 429005,
+	"name": "王场镇",
+	"level": 3,
+	"postalCode": "433122",
+	"areaNumber": "429512"
+}, {
+	"id": 429513,
+	"parentId": 429005,
+	"name": "渔洋镇",
+	"level": 3,
+	"postalCode": "433138",
+	"areaNumber": "429513"
+}, {
+	"id": 429514,
+	"parentId": 429005,
+	"name": "龙湾镇",
+	"level": 3,
+	"postalCode": "433139",
+	"areaNumber": "429514"
+}, {
+	"id": 429515,
+	"parentId": 429005,
+	"name": "浩口镇",
+	"level": 3,
+	"postalCode": "433116",
+	"areaNumber": "429515"
+}, {
+	"id": 429516,
+	"parentId": 429005,
+	"name": "积玉口镇",
+	"level": 3,
+	"postalCode": "433128",
+	"areaNumber": "429516"
+}, {
+	"id": 429517,
+	"parentId": 429005,
+	"name": "张金镇",
+	"level": 3,
+	"postalCode": "433140",
+	"areaNumber": "429517"
+}, {
+	"id": 429518,
+	"parentId": 429005,
+	"name": "白鹭湖管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429518"
+}, {
+	"id": 429519,
+	"parentId": 429005,
+	"name": "总口管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429519"
+}, {
+	"id": 429520,
+	"parentId": 429005,
+	"name": "熊口农场管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429520"
+}, {
+	"id": 429521,
+	"parentId": 429005,
+	"name": "运粮湖管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429521"
+}, {
+	"id": 429522,
+	"parentId": 429005,
+	"name": "后湖管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429522"
+}, {
+	"id": 429523,
+	"parentId": 429005,
+	"name": "周矶管理区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429523"
+}, {
+	"id": 429524,
+	"parentId": 429005,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "433100",
+	"areaNumber": "429524"
+}, {
+	"id": 429601,
+	"parentId": 429006,
+	"name": "竟陵街道",
+	"level": 3,
+	"postalCode": "431700",
+	"areaNumber": "429601"
+}, {
+	"id": 429602,
+	"parentId": 429006,
+	"name": "杨林街道",
+	"level": 3,
+	"postalCode": "431732",
+	"areaNumber": "429602"
+}, {
+	"id": 429603,
+	"parentId": 429006,
+	"name": "佛子山镇",
+	"level": 3,
+	"postalCode": "431707",
+	"areaNumber": "429603"
+}, {
+	"id": 429604,
+	"parentId": 429006,
+	"name": "多宝镇",
+	"level": 3,
+	"postalCode": "431722",
+	"areaNumber": "429604"
+}, {
+	"id": 429605,
+	"parentId": 429006,
+	"name": "拖市镇",
+	"level": 3,
+	"postalCode": "43171",
+	"areaNumber": "429605"
+}, {
+	"id": 429606,
+	"parentId": 429006,
+	"name": "张港镇",
+	"level": 3,
+	"postalCode": "431726",
+	"areaNumber": "429606"
+}, {
+	"id": 429607,
+	"parentId": 429006,
+	"name": "蒋场镇",
+	"level": 3,
+	"postalCode": "431716",
+	"areaNumber": "429607"
+}, {
+	"id": 429608,
+	"parentId": 429006,
+	"name": "汪场镇",
+	"level": 3,
+	"postalCode": "431717",
+	"areaNumber": "429608"
+}, {
+	"id": 429609,
+	"parentId": 429006,
+	"name": "渔薪镇",
+	"level": 3,
+	"postalCode": "431709",
+	"areaNumber": "429609"
+}, {
+	"id": 429610,
+	"parentId": 429006,
+	"name": "黄潭镇",
+	"level": 3,
+	"postalCode": "431708",
+	"areaNumber": "429610"
+}, {
+	"id": 429611,
+	"parentId": 429006,
+	"name": "岳口镇",
+	"level": 3,
+	"postalCode": "431702",
+	"areaNumber": "429611"
+}, {
+	"id": 429612,
+	"parentId": 429006,
+	"name": "横林镇",
+	"level": 3,
+	"postalCode": "431720",
+	"areaNumber": "429612"
+}, {
+	"id": 429613,
+	"parentId": 429006,
+	"name": "彭市镇",
+	"level": 3,
+	"postalCode": "431718",
+	"areaNumber": "429613"
+}, {
+	"id": 429614,
+	"parentId": 429006,
+	"name": "麻洋镇",
+	"level": 3,
+	"postalCode": "431727",
+	"areaNumber": "429614"
+}, {
+	"id": 429615,
+	"parentId": 429006,
+	"name": "多祥镇",
+	"level": 3,
+	"postalCode": "431728",
+	"areaNumber": "429615"
+}, {
+	"id": 429616,
+	"parentId": 429006,
+	"name": "干驿镇",
+	"level": 3,
+	"postalCode": "431714",
+	"areaNumber": "429616"
+}, {
+	"id": 429617,
+	"parentId": 429006,
+	"name": "马湾镇",
+	"level": 3,
+	"postalCode": "431715",
+	"areaNumber": "429617"
+}, {
+	"id": 429618,
+	"parentId": 429006,
+	"name": "卢市镇",
+	"level": 3,
+	"postalCode": "431729",
+	"areaNumber": "429618"
+}, {
+	"id": 429619,
+	"parentId": 429006,
+	"name": "小板镇",
+	"level": 3,
+	"postalCode": "431731",
+	"areaNumber": "429619"
+}, {
+	"id": 429620,
+	"parentId": 429006,
+	"name": "九真镇",
+	"level": 3,
+	"postalCode": "431705",
+	"areaNumber": "429620"
+}, {
+	"id": 429621,
+	"parentId": 429006,
+	"name": "皂市镇",
+	"level": 3,
+	"postalCode": "431703",
+	"areaNumber": "429621"
+}, {
+	"id": 429622,
+	"parentId": 429006,
+	"name": "胡市镇",
+	"level": 3,
+	"postalCode": "431713",
+	"areaNumber": "429622"
+}, {
+	"id": 429623,
+	"parentId": 429006,
+	"name": "石河镇",
+	"level": 3,
+	"postalCode": "431706",
+	"areaNumber": "429623"
+}, {
+	"id": 429624,
+	"parentId": 429006,
+	"name": "净潭乡",
+	"level": 3,
+	"postalCode": "431730",
+	"areaNumber": "429624"
+}, {
+	"id": 429625,
+	"parentId": 429006,
+	"name": "蒋湖农场",
+	"level": 3,
+	"postalCode": "431725",
+	"areaNumber": "429625"
+}, {
+	"id": 429626,
+	"parentId": 429006,
+	"name": "白茅湖农场",
+	"level": 3,
+	"postalCode": "431719",
+	"areaNumber": "429626"
+}, {
+	"id": 429627,
+	"parentId": 429006,
+	"name": "沉湖林业科技示范区",
+	"level": 3,
+	"postalCode": "431700",
+	"areaNumber": "429627"
+}, {
+	"id": 429628,
+	"parentId": 429006,
+	"name": "天门工业园",
+	"level": 3,
+	"postalCode": "431700",
+	"areaNumber": "429628"
+}, {
+	"id": 429629,
+	"parentId": 429006,
+	"name": "侨乡街道开发区",
+	"level": 3,
+	"postalCode": "431700",
+	"areaNumber": "429629"
+}, {
+	"id": 430000,
+	"parentId": 100000,
+	"name": "湖南省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "430000"
+}, {
+	"id": 430100,
+	"parentId": 430000,
+	"name": "长沙市",
+	"level": 2,
+	"postalCode": "410000",
+	"areaNumber": "430100"
+}, {
+	"id": 430102,
+	"parentId": 430100,
+	"name": "芙蓉区",
+	"level": 3,
+	"postalCode": "410000",
+	"areaNumber": "430102"
+}, {
+	"id": 430103,
+	"parentId": 430100,
+	"name": "天心区",
+	"level": 3,
+	"postalCode": "410000",
+	"areaNumber": "430103"
+}, {
+	"id": 430104,
+	"parentId": 430100,
+	"name": "岳麓区",
+	"level": 3,
+	"postalCode": "410000",
+	"areaNumber": "430104"
+}, {
+	"id": 430105,
+	"parentId": 430100,
+	"name": "开福区",
+	"level": 3,
+	"postalCode": "410000",
+	"areaNumber": "430105"
+}, {
+	"id": 430111,
+	"parentId": 430100,
+	"name": "雨花区",
+	"level": 3,
+	"postalCode": "410000",
+	"areaNumber": "430111"
+}, {
+	"id": 430112,
+	"parentId": 430100,
+	"name": "望城区",
+	"level": 3,
+	"postalCode": "410200",
+	"areaNumber": "430112"
+}, {
+	"id": 430121,
+	"parentId": 430100,
+	"name": "长沙县",
+	"level": 3,
+	"postalCode": "410100",
+	"areaNumber": "430121"
+}, {
+	"id": 430124,
+	"parentId": 430100,
+	"name": "宁乡市",
+	"level": 3,
+	"postalCode": "410600",
+	"areaNumber": "430124"
+}, {
+	"id": 430181,
+	"parentId": 430100,
+	"name": "浏阳市",
+	"level": 3,
+	"postalCode": "410300",
+	"areaNumber": "430181"
+}, {
+	"id": 430182,
+	"parentId": 430100,
+	"name": "湘江新区",
+	"level": 3,
+	"postalCode": "410005",
+	"areaNumber": "430182"
+}, {
+	"id": 430200,
+	"parentId": 430000,
+	"name": "株洲市",
+	"level": 2,
+	"postalCode": "412000",
+	"areaNumber": "430200"
+}, {
+	"id": 430202,
+	"parentId": 430200,
+	"name": "荷塘区",
+	"level": 3,
+	"postalCode": "412000",
+	"areaNumber": "430202"
+}, {
+	"id": 430203,
+	"parentId": 430200,
+	"name": "芦淞区",
+	"level": 3,
+	"postalCode": "412000",
+	"areaNumber": "430203"
+}, {
+	"id": 430204,
+	"parentId": 430200,
+	"name": "石峰区",
+	"level": 3,
+	"postalCode": "412000",
+	"areaNumber": "430204"
+}, {
+	"id": 430211,
+	"parentId": 430200,
+	"name": "天元区",
+	"level": 3,
+	"postalCode": "412000",
+	"areaNumber": "430211"
+}, {
+	"id": 430221,
+	"parentId": 430200,
+	"name": "株洲县",
+	"level": 3,
+	"postalCode": "412000",
+	"areaNumber": "430221"
+}, {
+	"id": 430223,
+	"parentId": 430200,
+	"name": "攸县",
+	"level": 3,
+	"postalCode": "412300",
+	"areaNumber": "430223"
+}, {
+	"id": 430224,
+	"parentId": 430200,
+	"name": "茶陵县",
+	"level": 3,
+	"postalCode": "412400",
+	"areaNumber": "430224"
+}, {
+	"id": 430225,
+	"parentId": 430200,
+	"name": "炎陵县",
+	"level": 3,
+	"postalCode": "412500",
+	"areaNumber": "430225"
+}, {
+	"id": 430281,
+	"parentId": 430200,
+	"name": "醴陵市",
+	"level": 3,
+	"postalCode": "412200",
+	"areaNumber": "430281"
+}, {
+	"id": 430300,
+	"parentId": 430000,
+	"name": "湘潭市",
+	"level": 2,
+	"postalCode": "411100",
+	"areaNumber": "430300"
+}, {
+	"id": 430302,
+	"parentId": 430300,
+	"name": "雨湖区",
+	"level": 3,
+	"postalCode": "411100",
+	"areaNumber": "430302"
+}, {
+	"id": 430304,
+	"parentId": 430300,
+	"name": "岳塘区",
+	"level": 3,
+	"postalCode": "411100",
+	"areaNumber": "430304"
+}, {
+	"id": 430321,
+	"parentId": 430300,
+	"name": "湘潭县",
+	"level": 3,
+	"postalCode": "411200",
+	"areaNumber": "430321"
+}, {
+	"id": 430381,
+	"parentId": 430300,
+	"name": "湘乡市",
+	"level": 3,
+	"postalCode": "411400",
+	"areaNumber": "430381"
+}, {
+	"id": 430382,
+	"parentId": 430300,
+	"name": "韶山市",
+	"level": 3,
+	"postalCode": "411300",
+	"areaNumber": "430382"
+}, {
+	"id": 430383,
+	"parentId": 430300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "411100",
+	"areaNumber": "430383"
+}, {
+	"id": 430400,
+	"parentId": 430000,
+	"name": "衡阳市",
+	"level": 2,
+	"postalCode": "421000",
+	"areaNumber": "430400"
+}, {
+	"id": 430405,
+	"parentId": 430400,
+	"name": "珠晖区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430405"
+}, {
+	"id": 430406,
+	"parentId": 430400,
+	"name": "雁峰区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430406"
+}, {
+	"id": 430407,
+	"parentId": 430400,
+	"name": "石鼓区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430407"
+}, {
+	"id": 430408,
+	"parentId": 430400,
+	"name": "蒸湘区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430408"
+}, {
+	"id": 430412,
+	"parentId": 430400,
+	"name": "南岳区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430412"
+}, {
+	"id": 430421,
+	"parentId": 430400,
+	"name": "衡阳县",
+	"level": 3,
+	"postalCode": "421200",
+	"areaNumber": "430421"
+}, {
+	"id": 430422,
+	"parentId": 430400,
+	"name": "衡南县",
+	"level": 3,
+	"postalCode": "421100",
+	"areaNumber": "430422"
+}, {
+	"id": 430423,
+	"parentId": 430400,
+	"name": "衡山县",
+	"level": 3,
+	"postalCode": "421300",
+	"areaNumber": "430423"
+}, {
+	"id": 430424,
+	"parentId": 430400,
+	"name": "衡东县",
+	"level": 3,
+	"postalCode": "421400",
+	"areaNumber": "430424"
+}, {
+	"id": 430426,
+	"parentId": 430400,
+	"name": "祁东县",
+	"level": 3,
+	"postalCode": "421600",
+	"areaNumber": "430426"
+}, {
+	"id": 430481,
+	"parentId": 430400,
+	"name": "耒阳市",
+	"level": 3,
+	"postalCode": "421800",
+	"areaNumber": "430481"
+}, {
+	"id": 430482,
+	"parentId": 430400,
+	"name": "常宁市",
+	"level": 3,
+	"postalCode": "421500",
+	"areaNumber": "430482"
+}, {
+	"id": 430483,
+	"parentId": 430400,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "421000",
+	"areaNumber": "430483"
+}, {
+	"id": 430500,
+	"parentId": 430000,
+	"name": "邵阳市",
+	"level": 2,
+	"postalCode": "422000",
+	"areaNumber": "430500"
+}, {
+	"id": 430502,
+	"parentId": 430500,
+	"name": "双清区",
+	"level": 3,
+	"postalCode": "422000",
+	"areaNumber": "430502"
+}, {
+	"id": 430503,
+	"parentId": 430500,
+	"name": "大祥区",
+	"level": 3,
+	"postalCode": "422000",
+	"areaNumber": "430503"
+}, {
+	"id": 430511,
+	"parentId": 430500,
+	"name": "北塔区",
+	"level": 3,
+	"postalCode": "422000",
+	"areaNumber": "430511"
+}, {
+	"id": 430521,
+	"parentId": 430500,
+	"name": "邵东县",
+	"level": 3,
+	"postalCode": "422800",
+	"areaNumber": "430521"
+}, {
+	"id": 430522,
+	"parentId": 430500,
+	"name": "新邵县",
+	"level": 3,
+	"postalCode": "422900",
+	"areaNumber": "430522"
+}, {
+	"id": 430523,
+	"parentId": 430500,
+	"name": "邵阳县",
+	"level": 3,
+	"postalCode": "422100",
+	"areaNumber": "430523"
+}, {
+	"id": 430524,
+	"parentId": 430500,
+	"name": "隆回县",
+	"level": 3,
+	"postalCode": "422200",
+	"areaNumber": "430524"
+}, {
+	"id": 430525,
+	"parentId": 430500,
+	"name": "洞口县",
+	"level": 3,
+	"postalCode": "422300",
+	"areaNumber": "430525"
+}, {
+	"id": 430527,
+	"parentId": 430500,
+	"name": "绥宁县",
+	"level": 3,
+	"postalCode": "422600",
+	"areaNumber": "430527"
+}, {
+	"id": 430528,
+	"parentId": 430500,
+	"name": "新宁县",
+	"level": 3,
+	"postalCode": "422700",
+	"areaNumber": "430528"
+}, {
+	"id": 430529,
+	"parentId": 430500,
+	"name": "城步苗族自治县",
+	"level": 3,
+	"postalCode": "422500",
+	"areaNumber": "430529"
+}, {
+	"id": 430581,
+	"parentId": 430500,
+	"name": "武冈市",
+	"level": 3,
+	"postalCode": "422400",
+	"areaNumber": "430581"
+}, {
+	"id": 430600,
+	"parentId": 430000,
+	"name": "岳阳市",
+	"level": 2,
+	"postalCode": "414000",
+	"areaNumber": "430600"
+}, {
+	"id": 430602,
+	"parentId": 430600,
+	"name": "岳阳楼区",
+	"level": 3,
+	"postalCode": "414000",
+	"areaNumber": "430602"
+}, {
+	"id": 430603,
+	"parentId": 430600,
+	"name": "云溪区",
+	"level": 3,
+	"postalCode": "414000",
+	"areaNumber": "430603"
+}, {
+	"id": 430611,
+	"parentId": 430600,
+	"name": "君山区",
+	"level": 3,
+	"postalCode": "414000",
+	"areaNumber": "430611"
+}, {
+	"id": 430621,
+	"parentId": 430600,
+	"name": "岳阳县",
+	"level": 3,
+	"postalCode": "414100",
+	"areaNumber": "430621"
+}, {
+	"id": 430623,
+	"parentId": 430600,
+	"name": "华容县",
+	"level": 3,
+	"postalCode": "414200",
+	"areaNumber": "430623"
+}, {
+	"id": 430624,
+	"parentId": 430600,
+	"name": "湘阴县",
+	"level": 3,
+	"postalCode": "410500",
+	"areaNumber": "430624"
+}, {
+	"id": 430626,
+	"parentId": 430600,
+	"name": "平江县",
+	"level": 3,
+	"postalCode": "410400",
+	"areaNumber": "430626"
+}, {
+	"id": 430681,
+	"parentId": 430600,
+	"name": "汨罗市",
+	"level": 3,
+	"postalCode": "414400",
+	"areaNumber": "430681"
+}, {
+	"id": 430682,
+	"parentId": 430600,
+	"name": "临湘市",
+	"level": 3,
+	"postalCode": "414300",
+	"areaNumber": "430682"
+}, {
+	"id": 430700,
+	"parentId": 430000,
+	"name": "常德市",
+	"level": 2,
+	"postalCode": "415000",
+	"areaNumber": "430700"
+}, {
+	"id": 430702,
+	"parentId": 430700,
+	"name": "武陵区",
+	"level": 3,
+	"postalCode": "415000",
+	"areaNumber": "430702"
+}, {
+	"id": 430703,
+	"parentId": 430700,
+	"name": "鼎城区",
+	"level": 3,
+	"postalCode": "415100",
+	"areaNumber": "430703"
+}, {
+	"id": 430721,
+	"parentId": 430700,
+	"name": "安乡县",
+	"level": 3,
+	"postalCode": "415600",
+	"areaNumber": "430721"
+}, {
+	"id": 430722,
+	"parentId": 430700,
+	"name": "汉寿县",
+	"level": 3,
+	"postalCode": "415900",
+	"areaNumber": "430722"
+}, {
+	"id": 430723,
+	"parentId": 430700,
+	"name": "澧县",
+	"level": 3,
+	"postalCode": "415500",
+	"areaNumber": "430723"
+}, {
+	"id": 430724,
+	"parentId": 430700,
+	"name": "临澧县",
+	"level": 3,
+	"postalCode": "415200",
+	"areaNumber": "430724"
+}, {
+	"id": 430725,
+	"parentId": 430700,
+	"name": "桃源县",
+	"level": 3,
+	"postalCode": "415700",
+	"areaNumber": "430725"
+}, {
+	"id": 430726,
+	"parentId": 430700,
+	"name": "石门县",
+	"level": 3,
+	"postalCode": "415300",
+	"areaNumber": "430726"
+}, {
+	"id": 430781,
+	"parentId": 430700,
+	"name": "津市市",
+	"level": 3,
+	"postalCode": "415400",
+	"areaNumber": "430781"
+}, {
+	"id": 430800,
+	"parentId": 430000,
+	"name": "张家界市",
+	"level": 2,
+	"postalCode": "427000",
+	"areaNumber": "430800"
+}, {
+	"id": 430802,
+	"parentId": 430800,
+	"name": "永定区",
+	"level": 3,
+	"postalCode": "427000",
+	"areaNumber": "430802"
+}, {
+	"id": 430811,
+	"parentId": 430800,
+	"name": "武陵源区",
+	"level": 3,
+	"postalCode": "427400",
+	"areaNumber": "430811"
+}, {
+	"id": 430821,
+	"parentId": 430800,
+	"name": "慈利县",
+	"level": 3,
+	"postalCode": "427200",
+	"areaNumber": "430821"
+}, {
+	"id": 430822,
+	"parentId": 430800,
+	"name": "桑植县",
+	"level": 3,
+	"postalCode": "427100",
+	"areaNumber": "430822"
+}, {
+	"id": 430900,
+	"parentId": 430000,
+	"name": "益阳市",
+	"level": 2,
+	"postalCode": "413000",
+	"areaNumber": "430900"
+}, {
+	"id": 430902,
+	"parentId": 430900,
+	"name": "资阳区",
+	"level": 3,
+	"postalCode": "413000",
+	"areaNumber": "430902"
+}, {
+	"id": 430903,
+	"parentId": 430900,
+	"name": "赫山区",
+	"level": 3,
+	"postalCode": "413000",
+	"areaNumber": "430903"
+}, {
+	"id": 430921,
+	"parentId": 430900,
+	"name": "南县",
+	"level": 3,
+	"postalCode": "413200",
+	"areaNumber": "430921"
+}, {
+	"id": 430922,
+	"parentId": 430900,
+	"name": "桃江县",
+	"level": 3,
+	"postalCode": "413400",
+	"areaNumber": "430922"
+}, {
+	"id": 430923,
+	"parentId": 430900,
+	"name": "安化县",
+	"level": 3,
+	"postalCode": "413500",
+	"areaNumber": "430923"
+}, {
+	"id": 430981,
+	"parentId": 430900,
+	"name": "沅江市",
+	"level": 3,
+	"postalCode": "413100",
+	"areaNumber": "430981"
+}, {
+	"id": 431000,
+	"parentId": 430000,
+	"name": "郴州市",
+	"level": 2,
+	"postalCode": "423000",
+	"areaNumber": "431000"
+}, {
+	"id": 431002,
+	"parentId": 431000,
+	"name": "北湖区",
+	"level": 3,
+	"postalCode": "423000",
+	"areaNumber": "431002"
+}, {
+	"id": 431003,
+	"parentId": 431000,
+	"name": "苏仙区",
+	"level": 3,
+	"postalCode": "423000",
+	"areaNumber": "431003"
+}, {
+	"id": 431021,
+	"parentId": 431000,
+	"name": "桂阳县",
+	"level": 3,
+	"postalCode": "424400",
+	"areaNumber": "431021"
+}, {
+	"id": 431022,
+	"parentId": 431000,
+	"name": "宜章县",
+	"level": 3,
+	"postalCode": "424200",
+	"areaNumber": "431022"
+}, {
+	"id": 431023,
+	"parentId": 431000,
+	"name": "永兴县",
+	"level": 3,
+	"postalCode": "423300",
+	"areaNumber": "431023"
+}, {
+	"id": 431024,
+	"parentId": 431000,
+	"name": "嘉禾县",
+	"level": 3,
+	"postalCode": "424500",
+	"areaNumber": "431024"
+}, {
+	"id": 431025,
+	"parentId": 431000,
+	"name": "临武县",
+	"level": 3,
+	"postalCode": "424300",
+	"areaNumber": "431025"
+}, {
+	"id": 431026,
+	"parentId": 431000,
+	"name": "汝城县",
+	"level": 3,
+	"postalCode": "424100",
+	"areaNumber": "431026"
+}, {
+	"id": 431027,
+	"parentId": 431000,
+	"name": "桂东县",
+	"level": 3,
+	"postalCode": "423500",
+	"areaNumber": "431027"
+}, {
+	"id": 431028,
+	"parentId": 431000,
+	"name": "安仁县",
+	"level": 3,
+	"postalCode": "423600",
+	"areaNumber": "431028"
+}, {
+	"id": 431081,
+	"parentId": 431000,
+	"name": "资兴市",
+	"level": 3,
+	"postalCode": "423400",
+	"areaNumber": "431081"
+}, {
+	"id": 431100,
+	"parentId": 430000,
+	"name": "永州市",
+	"level": 2,
+	"postalCode": "425000",
+	"areaNumber": "431100"
+}, {
+	"id": 431102,
+	"parentId": 431100,
+	"name": "零陵区",
+	"level": 3,
+	"postalCode": "425000",
+	"areaNumber": "431102"
+}, {
+	"id": 431103,
+	"parentId": 431100,
+	"name": "冷水滩区",
+	"level": 3,
+	"postalCode": "425000",
+	"areaNumber": "431103"
+}, {
+	"id": 431121,
+	"parentId": 431100,
+	"name": "祁阳县",
+	"level": 3,
+	"postalCode": "426100",
+	"areaNumber": "431121"
+}, {
+	"id": 431122,
+	"parentId": 431100,
+	"name": "东安县",
+	"level": 3,
+	"postalCode": "425900",
+	"areaNumber": "431122"
+}, {
+	"id": 431123,
+	"parentId": 431100,
+	"name": "双牌县",
+	"level": 3,
+	"postalCode": "425200",
+	"areaNumber": "431123"
+}, {
+	"id": 431124,
+	"parentId": 431100,
+	"name": "道县",
+	"level": 3,
+	"postalCode": "425300",
+	"areaNumber": "431124"
+}, {
+	"id": 431125,
+	"parentId": 431100,
+	"name": "江永县",
+	"level": 3,
+	"postalCode": "425400",
+	"areaNumber": "431125"
+}, {
+	"id": 431126,
+	"parentId": 431100,
+	"name": "宁远县",
+	"level": 3,
+	"postalCode": "425600",
+	"areaNumber": "431126"
+}, {
+	"id": 431127,
+	"parentId": 431100,
+	"name": "蓝山县",
+	"level": 3,
+	"postalCode": "425800",
+	"areaNumber": "431127"
+}, {
+	"id": 431128,
+	"parentId": 431100,
+	"name": "新田县",
+	"level": 3,
+	"postalCode": "425700",
+	"areaNumber": "431128"
+}, {
+	"id": 431129,
+	"parentId": 431100,
+	"name": "江华瑶族自治县",
+	"level": 3,
+	"postalCode": "425500",
+	"areaNumber": "431129"
+}, {
+	"id": 431200,
+	"parentId": 430000,
+	"name": "怀化市",
+	"level": 2,
+	"postalCode": "418000",
+	"areaNumber": "431200"
+}, {
+	"id": 431202,
+	"parentId": 431200,
+	"name": "鹤城区",
+	"level": 3,
+	"postalCode": "418000",
+	"areaNumber": "431202"
+}, {
+	"id": 431221,
+	"parentId": 431200,
+	"name": "中方县",
+	"level": 3,
+	"postalCode": "418000",
+	"areaNumber": "431221"
+}, {
+	"id": 431222,
+	"parentId": 431200,
+	"name": "沅陵县",
+	"level": 3,
+	"postalCode": "419600",
+	"areaNumber": "431222"
+}, {
+	"id": 431223,
+	"parentId": 431200,
+	"name": "辰溪县",
+	"level": 3,
+	"postalCode": "419500",
+	"areaNumber": "431223"
+}, {
+	"id": 431224,
+	"parentId": 431200,
+	"name": "溆浦县",
+	"level": 3,
+	"postalCode": "419300",
+	"areaNumber": "431224"
+}, {
+	"id": 431225,
+	"parentId": 431200,
+	"name": "会同县",
+	"level": 3,
+	"postalCode": "418300",
+	"areaNumber": "431225"
+}, {
+	"id": 431226,
+	"parentId": 431200,
+	"name": "麻阳苗族自治县",
+	"level": 3,
+	"postalCode": "419400",
+	"areaNumber": "431226"
+}, {
+	"id": 431227,
+	"parentId": 431200,
+	"name": "新晃侗族自治县",
+	"level": 3,
+	"postalCode": "419200",
+	"areaNumber": "431227"
+}, {
+	"id": 431228,
+	"parentId": 431200,
+	"name": "芷江侗族自治县",
+	"level": 3,
+	"postalCode": "419100",
+	"areaNumber": "431228"
+}, {
+	"id": 431229,
+	"parentId": 431200,
+	"name": "靖州苗族侗族自治县",
+	"level": 3,
+	"postalCode": "418400",
+	"areaNumber": "431229"
+}, {
+	"id": 431230,
+	"parentId": 431200,
+	"name": "通道侗族自治县",
+	"level": 3,
+	"postalCode": "418500",
+	"areaNumber": "431230"
+}, {
+	"id": 431281,
+	"parentId": 431200,
+	"name": "洪江市",
+	"level": 3,
+	"postalCode": "418200",
+	"areaNumber": "431281"
+}, {
+	"id": 431300,
+	"parentId": 430000,
+	"name": "娄底市",
+	"level": 2,
+	"postalCode": "417000",
+	"areaNumber": "431300"
+}, {
+	"id": 431302,
+	"parentId": 431300,
+	"name": "娄星区",
+	"level": 3,
+	"postalCode": "417000",
+	"areaNumber": "431302"
+}, {
+	"id": 431321,
+	"parentId": 431300,
+	"name": "双峰县",
+	"level": 3,
+	"postalCode": "417700",
+	"areaNumber": "431321"
+}, {
+	"id": 431322,
+	"parentId": 431300,
+	"name": "新化县",
+	"level": 3,
+	"postalCode": "417600",
+	"areaNumber": "431322"
+}, {
+	"id": 431381,
+	"parentId": 431300,
+	"name": "冷水江市",
+	"level": 3,
+	"postalCode": "417500",
+	"areaNumber": "431381"
+}, {
+	"id": 431382,
+	"parentId": 431300,
+	"name": "涟源市",
+	"level": 3,
+	"postalCode": "417100",
+	"areaNumber": "431382"
+}, {
+	"id": 433100,
+	"parentId": 430000,
+	"name": "湘西土家族苗族自治州",
+	"level": 2,
+	"postalCode": "416000",
+	"areaNumber": "433100"
+}, {
+	"id": 433101,
+	"parentId": 433100,
+	"name": "吉首市",
+	"level": 3,
+	"postalCode": "416000",
+	"areaNumber": "433101"
+}, {
+	"id": 433122,
+	"parentId": 433100,
+	"name": "泸溪县",
+	"level": 3,
+	"postalCode": "416100",
+	"areaNumber": "433122"
+}, {
+	"id": 433123,
+	"parentId": 433100,
+	"name": "凤凰县",
+	"level": 3,
+	"postalCode": "416200",
+	"areaNumber": "433123"
+}, {
+	"id": 433124,
+	"parentId": 433100,
+	"name": "花垣县",
+	"level": 3,
+	"postalCode": "416400",
+	"areaNumber": "433124"
+}, {
+	"id": 433125,
+	"parentId": 433100,
+	"name": "保靖县",
+	"level": 3,
+	"postalCode": "416500",
+	"areaNumber": "433125"
+}, {
+	"id": 433126,
+	"parentId": 433100,
+	"name": "古丈县",
+	"level": 3,
+	"postalCode": "416300",
+	"areaNumber": "433126"
+}, {
+	"id": 433127,
+	"parentId": 433100,
+	"name": "永顺县",
+	"level": 3,
+	"postalCode": "416700",
+	"areaNumber": "433127"
+}, {
+	"id": 433130,
+	"parentId": 433100,
+	"name": "龙山县",
+	"level": 3,
+	"postalCode": "416800",
+	"areaNumber": "433130"
+}, {
+	"id": 440000,
+	"parentId": 100000,
+	"name": "广东省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "440000"
+}, {
+	"id": 440100,
+	"parentId": 440000,
+	"name": "广州市",
+	"level": 2,
+	"postalCode": "510000",
+	"areaNumber": "440100"
+}, {
+	"id": 440103,
+	"parentId": 440100,
+	"name": "荔湾区",
+	"level": 3,
+	"postalCode": "510000",
+	"areaNumber": "440103"
+}, {
+	"id": 440104,
+	"parentId": 440100,
+	"name": "越秀区",
+	"level": 3,
+	"postalCode": "510000",
+	"areaNumber": "440104"
+}, {
+	"id": 440105,
+	"parentId": 440100,
+	"name": "海珠区",
+	"level": 3,
+	"postalCode": "510000",
+	"areaNumber": "440105"
+}, {
+	"id": 440106,
+	"parentId": 440100,
+	"name": "天河区",
+	"level": 3,
+	"postalCode": "510000",
+	"areaNumber": "440106"
+}, {
+	"id": 440111,
+	"parentId": 440100,
+	"name": "白云区",
+	"level": 3,
+	"postalCode": "510000",
+	"areaNumber": "440111"
+}, {
+	"id": 440112,
+	"parentId": 440100,
+	"name": "黄埔区",
+	"level": 3,
+	"postalCode": "510700",
+	"areaNumber": "440112"
+}, {
+	"id": 440113,
+	"parentId": 440100,
+	"name": "番禺区",
+	"level": 3,
+	"postalCode": "511400",
+	"areaNumber": "440113"
+}, {
+	"id": 440114,
+	"parentId": 440100,
+	"name": "花都区",
+	"level": 3,
+	"postalCode": "510800",
+	"areaNumber": "440114"
+}, {
+	"id": 440115,
+	"parentId": 440100,
+	"name": "南沙区",
+	"level": 3,
+	"postalCode": "511458",
+	"areaNumber": "440115"
+}, {
+	"id": 440117,
+	"parentId": 440100,
+	"name": "从化区",
+	"level": 3,
+	"postalCode": "510900",
+	"areaNumber": "440117"
+}, {
+	"id": 440118,
+	"parentId": 440100,
+	"name": "增城区",
+	"level": 3,
+	"postalCode": "511300",
+	"areaNumber": "440118"
+}, {
+	"id": 440200,
+	"parentId": 440000,
+	"name": "韶关市",
+	"level": 2,
+	"postalCode": "512000",
+	"areaNumber": "440200"
+}, {
+	"id": 440203,
+	"parentId": 440200,
+	"name": "武江区",
+	"level": 3,
+	"postalCode": "512000",
+	"areaNumber": "440203"
+}, {
+	"id": 440204,
+	"parentId": 440200,
+	"name": "浈江区",
+	"level": 3,
+	"postalCode": "512000",
+	"areaNumber": "440204"
+}, {
+	"id": 440205,
+	"parentId": 440200,
+	"name": "曲江区",
+	"level": 3,
+	"postalCode": "512100",
+	"areaNumber": "440205"
+}, {
+	"id": 440222,
+	"parentId": 440200,
+	"name": "始兴县",
+	"level": 3,
+	"postalCode": "512500",
+	"areaNumber": "440222"
+}, {
+	"id": 440224,
+	"parentId": 440200,
+	"name": "仁化县",
+	"level": 3,
+	"postalCode": "512300",
+	"areaNumber": "440224"
+}, {
+	"id": 440229,
+	"parentId": 440200,
+	"name": "翁源县",
+	"level": 3,
+	"postalCode": "512600",
+	"areaNumber": "440229"
+}, {
+	"id": 440232,
+	"parentId": 440200,
+	"name": "乳源瑶族自治县",
+	"level": 3,
+	"postalCode": "512600",
+	"areaNumber": "440232"
+}, {
+	"id": 440233,
+	"parentId": 440200,
+	"name": "新丰县",
+	"level": 3,
+	"postalCode": "511100",
+	"areaNumber": "440233"
+}, {
+	"id": 440281,
+	"parentId": 440200,
+	"name": "乐昌市",
+	"level": 3,
+	"postalCode": "512200",
+	"areaNumber": "440281"
+}, {
+	"id": 440282,
+	"parentId": 440200,
+	"name": "南雄市",
+	"level": 3,
+	"postalCode": "512400",
+	"areaNumber": "440282"
+}, {
+	"id": 440300,
+	"parentId": 440000,
+	"name": "深圳市",
+	"level": 2,
+	"postalCode": "518000",
+	"areaNumber": "440300"
+}, {
+	"id": 440303,
+	"parentId": 440300,
+	"name": "罗湖区",
+	"level": 3,
+	"postalCode": "518000",
+	"areaNumber": "440303"
+}, {
+	"id": 440304,
+	"parentId": 440300,
+	"name": "福田区",
+	"level": 3,
+	"postalCode": "518000",
+	"areaNumber": "440304"
+}, {
+	"id": 440305,
+	"parentId": 440300,
+	"name": "南山区",
+	"level": 3,
+	"postalCode": "518000",
+	"areaNumber": "440305"
+}, {
+	"id": 440306,
+	"parentId": 440300,
+	"name": "宝安区",
+	"level": 3,
+	"postalCode": "518100",
+	"areaNumber": "440306"
+}, {
+	"id": 440307,
+	"parentId": 440300,
+	"name": "龙岗区",
+	"level": 3,
+	"postalCode": "518116",
+	"areaNumber": "440307"
+}, {
+	"id": 440308,
+	"parentId": 440300,
+	"name": "盐田区",
+	"level": 3,
+	"postalCode": "518000",
+	"areaNumber": "440308"
+}, {
+	"id": 440309,
+	"parentId": 440300,
+	"name": "龙华区",
+	"level": 3,
+	"postalCode": "518109",
+	"areaNumber": "440309"
+}, {
+	"id": 440310,
+	"parentId": 440300,
+	"name": "坪山区",
+	"level": 3,
+	"postalCode": "518118",
+	"areaNumber": "440310"
+}, {
+	"id": 440311,
+	"parentId": 440300,
+	"name": "光明新区",
+	"level": 3,
+	"postalCode": "518107",
+	"areaNumber": "440311"
+}, {
+	"id": 440312,
+	"parentId": 440300,
+	"name": "大鹏新区",
+	"level": 3,
+	"postalCode": "518116",
+	"areaNumber": "440312"
+}, {
+	"id": 440400,
+	"parentId": 440000,
+	"name": "珠海市",
+	"level": 2,
+	"postalCode": "519000",
+	"areaNumber": "440400"
+}, {
+	"id": 440402,
+	"parentId": 440400,
+	"name": "香洲区",
+	"level": 3,
+	"postalCode": "519000",
+	"areaNumber": "440402"
+}, {
+	"id": 440403,
+	"parentId": 440400,
+	"name": "斗门区",
+	"level": 3,
+	"postalCode": "519100",
+	"areaNumber": "440403"
+}, {
+	"id": 440404,
+	"parentId": 440400,
+	"name": "金湾区",
+	"level": 3,
+	"postalCode": "519090",
+	"areaNumber": "440404"
+}, {
+	"id": 440405,
+	"parentId": 440400,
+	"name": "横琴新区",
+	"level": 3,
+	"postalCode": "519000",
+	"areaNumber": "440405"
+}, {
+	"id": 440406,
+	"parentId": 440400,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "519000",
+	"areaNumber": "440406"
+}, {
+	"id": 440500,
+	"parentId": 440000,
+	"name": "汕头市",
+	"level": 2,
+	"postalCode": "515000",
+	"areaNumber": "440500"
+}, {
+	"id": 440507,
+	"parentId": 440500,
+	"name": "龙湖区",
+	"level": 3,
+	"postalCode": "515000",
+	"areaNumber": "440507"
+}, {
+	"id": 440511,
+	"parentId": 440500,
+	"name": "金平区",
+	"level": 3,
+	"postalCode": "515000",
+	"areaNumber": "440511"
+}, {
+	"id": 440512,
+	"parentId": 440500,
+	"name": "濠江区",
+	"level": 3,
+	"postalCode": "515000",
+	"areaNumber": "440512"
+}, {
+	"id": 440513,
+	"parentId": 440500,
+	"name": "潮阳区",
+	"level": 3,
+	"postalCode": "515100",
+	"areaNumber": "440513"
+}, {
+	"id": 440514,
+	"parentId": 440500,
+	"name": "潮南区",
+	"level": 3,
+	"postalCode": "515100",
+	"areaNumber": "440514"
+}, {
+	"id": 440515,
+	"parentId": 440500,
+	"name": "澄海区",
+	"level": 3,
+	"postalCode": "515800",
+	"areaNumber": "440515"
+}, {
+	"id": 440523,
+	"parentId": 440500,
+	"name": "南澳县",
+	"level": 3,
+	"postalCode": "515900",
+	"areaNumber": "440523"
+}, {
+	"id": 440600,
+	"parentId": 440000,
+	"name": "佛山市",
+	"level": 2,
+	"postalCode": "528000",
+	"areaNumber": "440600"
+}, {
+	"id": 440604,
+	"parentId": 440600,
+	"name": "禅城区",
+	"level": 3,
+	"postalCode": "528000",
+	"areaNumber": "440604"
+}, {
+	"id": 440605,
+	"parentId": 440600,
+	"name": "南海区",
+	"level": 3,
+	"postalCode": "528200",
+	"areaNumber": "440605"
+}, {
+	"id": 440606,
+	"parentId": 440600,
+	"name": "顺德区",
+	"level": 3,
+	"postalCode": "528300",
+	"areaNumber": "440606"
+}, {
+	"id": 440607,
+	"parentId": 440600,
+	"name": "三水区",
+	"level": 3,
+	"postalCode": "528100",
+	"areaNumber": "440607"
+}, {
+	"id": 440608,
+	"parentId": 440600,
+	"name": "高明区",
+	"level": 3,
+	"postalCode": "528500",
+	"areaNumber": "440608"
+}, {
+	"id": 440700,
+	"parentId": 440000,
+	"name": "江门市",
+	"level": 2,
+	"postalCode": "529000",
+	"areaNumber": "440700"
+}, {
+	"id": 440703,
+	"parentId": 440700,
+	"name": "蓬江区",
+	"level": 3,
+	"postalCode": "529000",
+	"areaNumber": "440703"
+}, {
+	"id": 440704,
+	"parentId": 440700,
+	"name": "江海区",
+	"level": 3,
+	"postalCode": "529000",
+	"areaNumber": "440704"
+}, {
+	"id": 440705,
+	"parentId": 440700,
+	"name": "新会区",
+	"level": 3,
+	"postalCode": "529100",
+	"areaNumber": "440705"
+}, {
+	"id": 440781,
+	"parentId": 440700,
+	"name": "台山市",
+	"level": 3,
+	"postalCode": "529200",
+	"areaNumber": "440781"
+}, {
+	"id": 440783,
+	"parentId": 440700,
+	"name": "开平市",
+	"level": 3,
+	"postalCode": "529300",
+	"areaNumber": "440783"
+}, {
+	"id": 440784,
+	"parentId": 440700,
+	"name": "鹤山市",
+	"level": 3,
+	"postalCode": "529700",
+	"areaNumber": "440784"
+}, {
+	"id": 440785,
+	"parentId": 440700,
+	"name": "恩平市",
+	"level": 3,
+	"postalCode": "529400",
+	"areaNumber": "440785"
+}, {
+	"id": 440800,
+	"parentId": 440000,
+	"name": "湛江市",
+	"level": 2,
+	"postalCode": "524000",
+	"areaNumber": "440800"
+}, {
+	"id": 440802,
+	"parentId": 440800,
+	"name": "赤坎区",
+	"level": 3,
+	"postalCode": "524000",
+	"areaNumber": "440802"
+}, {
+	"id": 440803,
+	"parentId": 440800,
+	"name": "霞山区",
+	"level": 3,
+	"postalCode": "524000",
+	"areaNumber": "440803"
+}, {
+	"id": 440804,
+	"parentId": 440800,
+	"name": "坡头区",
+	"level": 3,
+	"postalCode": "524000",
+	"areaNumber": "440804"
+}, {
+	"id": 440811,
+	"parentId": 440800,
+	"name": "麻章区",
+	"level": 3,
+	"postalCode": "524000",
+	"areaNumber": "440811"
+}, {
+	"id": 440823,
+	"parentId": 440800,
+	"name": "遂溪县",
+	"level": 3,
+	"postalCode": "524300",
+	"areaNumber": "440823"
+}, {
+	"id": 440825,
+	"parentId": 440800,
+	"name": "徐闻县",
+	"level": 3,
+	"postalCode": "524100",
+	"areaNumber": "440825"
+}, {
+	"id": 440881,
+	"parentId": 440800,
+	"name": "廉江市",
+	"level": 3,
+	"postalCode": "524400",
+	"areaNumber": "440881"
+}, {
+	"id": 440882,
+	"parentId": 440800,
+	"name": "雷州市",
+	"level": 3,
+	"postalCode": "524200",
+	"areaNumber": "440882"
+}, {
+	"id": 440883,
+	"parentId": 440800,
+	"name": "吴川市",
+	"level": 3,
+	"postalCode": "524500",
+	"areaNumber": "440883"
+}, {
+	"id": 440884,
+	"parentId": 440800,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "524001",
+	"areaNumber": "440884"
+}, {
+	"id": 440900,
+	"parentId": 440000,
+	"name": "茂名市",
+	"level": 2,
+	"postalCode": "525000",
+	"areaNumber": "440900"
+}, {
+	"id": 440902,
+	"parentId": 440900,
+	"name": "茂南区",
+	"level": 3,
+	"postalCode": "525000",
+	"areaNumber": "440902"
+}, {
+	"id": 440904,
+	"parentId": 440900,
+	"name": "电白区",
+	"level": 3,
+	"postalCode": "525400",
+	"areaNumber": "440904"
+}, {
+	"id": 440981,
+	"parentId": 440900,
+	"name": "高州市",
+	"level": 3,
+	"postalCode": "525200",
+	"areaNumber": "440981"
+}, {
+	"id": 440982,
+	"parentId": 440900,
+	"name": "化州市",
+	"level": 3,
+	"postalCode": "525100",
+	"areaNumber": "440982"
+}, {
+	"id": 440983,
+	"parentId": 440900,
+	"name": "信宜市",
+	"level": 3,
+	"postalCode": "525300",
+	"areaNumber": "440983"
+}, {
+	"id": 441200,
+	"parentId": 440000,
+	"name": "肇庆市",
+	"level": 2,
+	"postalCode": "526000",
+	"areaNumber": "441200"
+}, {
+	"id": 441202,
+	"parentId": 441200,
+	"name": "端州区",
+	"level": 3,
+	"postalCode": "526000",
+	"areaNumber": "441202"
+}, {
+	"id": 441203,
+	"parentId": 441200,
+	"name": "鼎湖区",
+	"level": 3,
+	"postalCode": "526000",
+	"areaNumber": "441203"
+}, {
+	"id": 441204,
+	"parentId": 441200,
+	"name": "高要区",
+	"level": 3,
+	"postalCode": "526100",
+	"areaNumber": "441204"
+}, {
+	"id": 441223,
+	"parentId": 441200,
+	"name": "广宁县",
+	"level": 3,
+	"postalCode": "526300",
+	"areaNumber": "441223"
+}, {
+	"id": 441224,
+	"parentId": 441200,
+	"name": "怀集县",
+	"level": 3,
+	"postalCode": "526400",
+	"areaNumber": "441224"
+}, {
+	"id": 441225,
+	"parentId": 441200,
+	"name": "封开县",
+	"level": 3,
+	"postalCode": "526500",
+	"areaNumber": "441225"
+}, {
+	"id": 441226,
+	"parentId": 441200,
+	"name": "德庆县",
+	"level": 3,
+	"postalCode": "526600",
+	"areaNumber": "441226"
+}, {
+	"id": 441284,
+	"parentId": 441200,
+	"name": "四会市",
+	"level": 3,
+	"postalCode": "526200",
+	"areaNumber": "441284"
+}, {
+	"id": 441300,
+	"parentId": 440000,
+	"name": "惠州市",
+	"level": 2,
+	"postalCode": "516000",
+	"areaNumber": "441300"
+}, {
+	"id": 441302,
+	"parentId": 441300,
+	"name": "惠城区",
+	"level": 3,
+	"postalCode": "516000",
+	"areaNumber": "441302"
+}, {
+	"id": 441303,
+	"parentId": 441300,
+	"name": "惠阳区",
+	"level": 3,
+	"postalCode": "516200",
+	"areaNumber": "441303"
+}, {
+	"id": 441322,
+	"parentId": 441300,
+	"name": "博罗县",
+	"level": 3,
+	"postalCode": "516100",
+	"areaNumber": "441322"
+}, {
+	"id": 441323,
+	"parentId": 441300,
+	"name": "惠东县",
+	"level": 3,
+	"postalCode": "516300",
+	"areaNumber": "441323"
+}, {
+	"id": 441324,
+	"parentId": 441300,
+	"name": "龙门县",
+	"level": 3,
+	"postalCode": "516800",
+	"areaNumber": "441324"
+}, {
+	"id": 441325,
+	"parentId": 441300,
+	"name": "大亚湾区",
+	"level": 3,
+	"postalCode": "516000",
+	"areaNumber": "441325"
+}, {
+	"id": 441400,
+	"parentId": 440000,
+	"name": "梅州市",
+	"level": 2,
+	"postalCode": "514000",
+	"areaNumber": "441400"
+}, {
+	"id": 441402,
+	"parentId": 441400,
+	"name": "梅江区",
+	"level": 3,
+	"postalCode": "514000",
+	"areaNumber": "441402"
+}, {
+	"id": 441403,
+	"parentId": 441400,
+	"name": "梅县区",
+	"level": 3,
+	"postalCode": "514787",
+	"areaNumber": "441403"
+}, {
+	"id": 441422,
+	"parentId": 441400,
+	"name": "大埔县",
+	"level": 3,
+	"postalCode": "514200",
+	"areaNumber": "441422"
+}, {
+	"id": 441423,
+	"parentId": 441400,
+	"name": "丰顺县",
+	"level": 3,
+	"postalCode": "514300",
+	"areaNumber": "441423"
+}, {
+	"id": 441424,
+	"parentId": 441400,
+	"name": "五华县",
+	"level": 3,
+	"postalCode": "514400",
+	"areaNumber": "441424"
+}, {
+	"id": 441426,
+	"parentId": 441400,
+	"name": "平远县",
+	"level": 3,
+	"postalCode": "514600",
+	"areaNumber": "441426"
+}, {
+	"id": 441427,
+	"parentId": 441400,
+	"name": "蕉岭县",
+	"level": 3,
+	"postalCode": "514100",
+	"areaNumber": "441427"
+}, {
+	"id": 441481,
+	"parentId": 441400,
+	"name": "兴宁市",
+	"level": 3,
+	"postalCode": "514500",
+	"areaNumber": "441481"
+}, {
+	"id": 441500,
+	"parentId": 440000,
+	"name": "汕尾市",
+	"level": 2,
+	"postalCode": "516600",
+	"areaNumber": "441500"
+}, {
+	"id": 441502,
+	"parentId": 441500,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "516600",
+	"areaNumber": "441502"
+}, {
+	"id": 441521,
+	"parentId": 441500,
+	"name": "海丰县",
+	"level": 3,
+	"postalCode": "516400",
+	"areaNumber": "441521"
+}, {
+	"id": 441523,
+	"parentId": 441500,
+	"name": "陆河县",
+	"level": 3,
+	"postalCode": "516700",
+	"areaNumber": "441523"
+}, {
+	"id": 441581,
+	"parentId": 441500,
+	"name": "陆丰市",
+	"level": 3,
+	"postalCode": "516500",
+	"areaNumber": "441581"
+}, {
+	"id": 441600,
+	"parentId": 440000,
+	"name": "河源市",
+	"level": 2,
+	"postalCode": "517000",
+	"areaNumber": "441600"
+}, {
+	"id": 441602,
+	"parentId": 441600,
+	"name": "源城区",
+	"level": 3,
+	"postalCode": "517000",
+	"areaNumber": "441602"
+}, {
+	"id": 441621,
+	"parentId": 441600,
+	"name": "紫金县",
+	"level": 3,
+	"postalCode": "517400",
+	"areaNumber": "441621"
+}, {
+	"id": 441622,
+	"parentId": 441600,
+	"name": "龙川县",
+	"level": 3,
+	"postalCode": "517300",
+	"areaNumber": "441622"
+}, {
+	"id": 441623,
+	"parentId": 441600,
+	"name": "连平县",
+	"level": 3,
+	"postalCode": "517100",
+	"areaNumber": "441623"
+}, {
+	"id": 441624,
+	"parentId": 441600,
+	"name": "和平县",
+	"level": 3,
+	"postalCode": "517200",
+	"areaNumber": "441624"
+}, {
+	"id": 441625,
+	"parentId": 441600,
+	"name": "东源县",
+	"level": 3,
+	"postalCode": "517500",
+	"areaNumber": "441625"
+}, {
+	"id": 441700,
+	"parentId": 440000,
+	"name": "阳江市",
+	"level": 2,
+	"postalCode": "529500",
+	"areaNumber": "441700"
+}, {
+	"id": 441702,
+	"parentId": 441700,
+	"name": "江城区",
+	"level": 3,
+	"postalCode": "529500",
+	"areaNumber": "441702"
+}, {
+	"id": 441704,
+	"parentId": 441700,
+	"name": "阳东区",
+	"level": 3,
+	"postalCode": "529900",
+	"areaNumber": "441704"
+}, {
+	"id": 441721,
+	"parentId": 441700,
+	"name": "阳西县",
+	"level": 3,
+	"postalCode": "529800",
+	"areaNumber": "441721"
+}, {
+	"id": 441781,
+	"parentId": 441700,
+	"name": "阳春市",
+	"level": 3,
+	"postalCode": "529600",
+	"areaNumber": "441781"
+}, {
+	"id": 441800,
+	"parentId": 440000,
+	"name": "清远市",
+	"level": 2,
+	"postalCode": "511500",
+	"areaNumber": "441800"
+}, {
+	"id": 441802,
+	"parentId": 441800,
+	"name": "清城区",
+	"level": 3,
+	"postalCode": "511500",
+	"areaNumber": "441802"
+}, {
+	"id": 441803,
+	"parentId": 441800,
+	"name": "清新区",
+	"level": 3,
+	"postalCode": "511810",
+	"areaNumber": "441803"
+}, {
+	"id": 441821,
+	"parentId": 441800,
+	"name": "佛冈县",
+	"level": 3,
+	"postalCode": "511600",
+	"areaNumber": "441821"
+}, {
+	"id": 441823,
+	"parentId": 441800,
+	"name": "阳山县",
+	"level": 3,
+	"postalCode": "513100",
+	"areaNumber": "441823"
+}, {
+	"id": 441825,
+	"parentId": 441800,
+	"name": "连山壮族瑶族自治县",
+	"level": 3,
+	"postalCode": "513200",
+	"areaNumber": "441825"
+}, {
+	"id": 441826,
+	"parentId": 441800,
+	"name": "连南瑶族自治县",
+	"level": 3,
+	"postalCode": "513300",
+	"areaNumber": "441826"
+}, {
+	"id": 441881,
+	"parentId": 441800,
+	"name": "英德市",
+	"level": 3,
+	"postalCode": "513000",
+	"areaNumber": "441881"
+}, {
+	"id": 441882,
+	"parentId": 441800,
+	"name": "连州市",
+	"level": 3,
+	"postalCode": "513400",
+	"areaNumber": "441882"
+}, {
+	"id": 441900,
+	"parentId": 440000,
+	"name": "东莞市",
+	"level": 2,
+	"postalCode": "523000",
+	"areaNumber": "441900"
+}, {
+	"id": 441901,
+	"parentId": 441900,
+	"name": "莞城区",
+	"level": 3,
+	"postalCode": "523128",
+	"areaNumber": "441901"
+}, {
+	"id": 441902,
+	"parentId": 441900,
+	"name": "南城区",
+	"level": 3,
+	"postalCode": "523617",
+	"areaNumber": "441902"
+}, {
+	"id": 441903,
+	"parentId": 441900,
+	"name": "东城区",
+	"level": 3,
+	"postalCode": "402560",
+	"areaNumber": "441903"
+}, {
+	"id": 441904,
+	"parentId": 441900,
+	"name": "万江区",
+	"level": 3,
+	"postalCode": "523039",
+	"areaNumber": "441904"
+}, {
+	"id": 441905,
+	"parentId": 441900,
+	"name": "石碣镇",
+	"level": 3,
+	"postalCode": "523290",
+	"areaNumber": "441905"
+}, {
+	"id": 441906,
+	"parentId": 441900,
+	"name": "石龙镇",
+	"level": 3,
+	"postalCode": "523326",
+	"areaNumber": "441906"
+}, {
+	"id": 441907,
+	"parentId": 441900,
+	"name": "茶山镇",
+	"level": 3,
+	"postalCode": "523380",
+	"areaNumber": "441907"
+}, {
+	"id": 441908,
+	"parentId": 441900,
+	"name": "石排镇",
+	"level": 3,
+	"postalCode": "523346",
+	"areaNumber": "441908"
+}, {
+	"id": 441909,
+	"parentId": 441900,
+	"name": "企石镇",
+	"level": 3,
+	"postalCode": "523507",
+	"areaNumber": "441909"
+}, {
+	"id": 441910,
+	"parentId": 441900,
+	"name": "横沥镇",
+	"level": 3,
+	"postalCode": "523471",
+	"areaNumber": "441910"
+}, {
+	"id": 441911,
+	"parentId": 441900,
+	"name": "桥头镇",
+	"level": 3,
+	"postalCode": "523520",
+	"areaNumber": "441911"
+}, {
+	"id": 441912,
+	"parentId": 441900,
+	"name": "谢岗镇",
+	"level": 3,
+	"postalCode": "523592",
+	"areaNumber": "441912"
+}, {
+	"id": 441913,
+	"parentId": 441900,
+	"name": "东坑镇",
+	"level": 3,
+	"postalCode": "523451",
+	"areaNumber": "441913"
+}, {
+	"id": 441914,
+	"parentId": 441900,
+	"name": "常平镇",
+	"level": 3,
+	"postalCode": "523560",
+	"areaNumber": "441914"
+}, {
+	"id": 441915,
+	"parentId": 441900,
+	"name": "寮步镇",
+	"level": 3,
+	"postalCode": "523411",
+	"areaNumber": "441915"
+}, {
+	"id": 441916,
+	"parentId": 441900,
+	"name": "大朗镇",
+	"level": 3,
+	"postalCode": "523770",
+	"areaNumber": "441916"
+}, {
+	"id": 441917,
+	"parentId": 441900,
+	"name": "麻涌镇",
+	"level": 3,
+	"postalCode": "523143",
+	"areaNumber": "441917"
+}, {
+	"id": 441918,
+	"parentId": 441900,
+	"name": "中堂镇",
+	"level": 3,
+	"postalCode": "523233",
+	"areaNumber": "441918"
+}, {
+	"id": 441919,
+	"parentId": 441900,
+	"name": "高埗镇",
+	"level": 3,
+	"postalCode": "523282",
+	"areaNumber": "441919"
+}, {
+	"id": 441920,
+	"parentId": 441900,
+	"name": "樟木头镇",
+	"level": 3,
+	"postalCode": "523619",
+	"areaNumber": "441920"
+}, {
+	"id": 441921,
+	"parentId": 441900,
+	"name": "大岭山镇",
+	"level": 3,
+	"postalCode": "523835",
+	"areaNumber": "441921"
+}, {
+	"id": 441922,
+	"parentId": 441900,
+	"name": "望牛墩镇",
+	"level": 3,
+	"postalCode": "523203",
+	"areaNumber": "441922"
+}, {
+	"id": 441923,
+	"parentId": 441900,
+	"name": "黄江镇",
+	"level": 3,
+	"postalCode": "523755",
+	"areaNumber": "441923"
+}, {
+	"id": 441924,
+	"parentId": 441900,
+	"name": "洪梅镇",
+	"level": 3,
+	"postalCode": "523163",
+	"areaNumber": "441924"
+}, {
+	"id": 441925,
+	"parentId": 441900,
+	"name": "清溪镇",
+	"level": 3,
+	"postalCode": "523660",
+	"areaNumber": "441925"
+}, {
+	"id": 441926,
+	"parentId": 441900,
+	"name": "沙田镇",
+	"level": 3,
+	"postalCode": "523988",
+	"areaNumber": "441926"
+}, {
+	"id": 441927,
+	"parentId": 441900,
+	"name": "道滘镇",
+	"level": 3,
+	"postalCode": "523171",
+	"areaNumber": "441927"
+}, {
+	"id": 441928,
+	"parentId": 441900,
+	"name": "塘厦镇",
+	"level": 3,
+	"postalCode": "523713",
+	"areaNumber": "441928"
+}, {
+	"id": 441929,
+	"parentId": 441900,
+	"name": "虎门镇",
+	"level": 3,
+	"postalCode": "523932",
+	"areaNumber": "441929"
+}, {
+	"id": 441930,
+	"parentId": 441900,
+	"name": "厚街镇",
+	"level": 3,
+	"postalCode": "523960",
+	"areaNumber": "441930"
+}, {
+	"id": 441931,
+	"parentId": 441900,
+	"name": "凤岗镇",
+	"level": 3,
+	"postalCode": "523690",
+	"areaNumber": "441931"
+}, {
+	"id": 441932,
+	"parentId": 441900,
+	"name": "长安镇",
+	"level": 3,
+	"postalCode": "523850",
+	"areaNumber": "441932"
+}, {
+	"id": 441933,
+	"parentId": 441900,
+	"name": "松山湖高新区",
+	"level": 3,
+	"postalCode": "523808",
+	"areaNumber": "441933"
+}, {
+	"id": 442000,
+	"parentId": 440000,
+	"name": "中山市",
+	"level": 2,
+	"postalCode": "528400",
+	"areaNumber": "442000"
+}, {
+	"id": 442001,
+	"parentId": 442000,
+	"name": "石岐区",
+	"level": 3,
+	"postalCode": "528400",
+	"areaNumber": "442001"
+}, {
+	"id": 442002,
+	"parentId": 442000,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "528403",
+	"areaNumber": "442002"
+}, {
+	"id": 442003,
+	"parentId": 442000,
+	"name": "西区",
+	"level": 3,
+	"postalCode": "528400",
+	"areaNumber": "442003"
+}, {
+	"id": 442004,
+	"parentId": 442000,
+	"name": "南区",
+	"level": 3,
+	"postalCode": "528400",
+	"areaNumber": "442004"
+}, {
+	"id": 442005,
+	"parentId": 442000,
+	"name": "五桂山区",
+	"level": 3,
+	"postalCode": "528458",
+	"areaNumber": "442005"
+}, {
+	"id": 442006,
+	"parentId": 442000,
+	"name": "火炬开发区",
+	"level": 3,
+	"postalCode": "528437",
+	"areaNumber": "442006"
+}, {
+	"id": 442007,
+	"parentId": 442000,
+	"name": "黄圃镇",
+	"level": 3,
+	"postalCode": "528429",
+	"areaNumber": "442007"
+}, {
+	"id": 442008,
+	"parentId": 442000,
+	"name": "南头镇",
+	"level": 3,
+	"postalCode": "528421",
+	"areaNumber": "442008"
+}, {
+	"id": 442009,
+	"parentId": 442000,
+	"name": "东凤镇",
+	"level": 3,
+	"postalCode": "528425",
+	"areaNumber": "442009"
+}, {
+	"id": 442010,
+	"parentId": 442000,
+	"name": "阜沙镇",
+	"level": 3,
+	"postalCode": "528434",
+	"areaNumber": "442010"
+}, {
+	"id": 442011,
+	"parentId": 442000,
+	"name": "小榄镇",
+	"level": 3,
+	"postalCode": "528415",
+	"areaNumber": "442011"
+}, {
+	"id": 442012,
+	"parentId": 442000,
+	"name": "东升镇",
+	"level": 3,
+	"postalCode": "528400",
+	"areaNumber": "442012"
+}, {
+	"id": 442013,
+	"parentId": 442000,
+	"name": "古镇镇",
+	"level": 3,
+	"postalCode": "528422",
+	"areaNumber": "442013"
+}, {
+	"id": 442014,
+	"parentId": 442000,
+	"name": "横栏镇",
+	"level": 3,
+	"postalCode": "528478",
+	"areaNumber": "442014"
+}, {
+	"id": 442015,
+	"parentId": 442000,
+	"name": "三角镇",
+	"level": 3,
+	"postalCode": "528422",
+	"areaNumber": "442015"
+}, {
+	"id": 442016,
+	"parentId": 442000,
+	"name": "民众镇",
+	"level": 3,
+	"postalCode": "528441",
+	"areaNumber": "442016"
+}, {
+	"id": 442017,
+	"parentId": 442000,
+	"name": "南朗镇",
+	"level": 3,
+	"postalCode": "528454",
+	"areaNumber": "442017"
+}, {
+	"id": 442018,
+	"parentId": 442000,
+	"name": "港口镇",
+	"level": 3,
+	"postalCode": "528447",
+	"areaNumber": "442018"
+}, {
+	"id": 442019,
+	"parentId": 442000,
+	"name": "大涌镇",
+	"level": 3,
+	"postalCode": "528476",
+	"areaNumber": "442019"
+}, {
+	"id": 442020,
+	"parentId": 442000,
+	"name": "沙溪镇",
+	"level": 3,
+	"postalCode": "528471",
+	"areaNumber": "442020"
+}, {
+	"id": 442021,
+	"parentId": 442000,
+	"name": "三乡镇",
+	"level": 3,
+	"postalCode": "528463",
+	"areaNumber": "442021"
+}, {
+	"id": 442022,
+	"parentId": 442000,
+	"name": "板芙镇",
+	"level": 3,
+	"postalCode": "528459",
+	"areaNumber": "442022"
+}, {
+	"id": 442023,
+	"parentId": 442000,
+	"name": "神湾镇",
+	"level": 3,
+	"postalCode": "528462",
+	"areaNumber": "442023"
+}, {
+	"id": 442024,
+	"parentId": 442000,
+	"name": "坦洲镇",
+	"level": 3,
+	"postalCode": "528467",
+	"areaNumber": "442024"
+}, {
+	"id": 445100,
+	"parentId": 440000,
+	"name": "潮州市",
+	"level": 2,
+	"postalCode": "521000",
+	"areaNumber": "445100"
+}, {
+	"id": 445102,
+	"parentId": 445100,
+	"name": "湘桥区",
+	"level": 3,
+	"postalCode": "521000",
+	"areaNumber": "445102"
+}, {
+	"id": 445103,
+	"parentId": 445100,
+	"name": "潮安区",
+	"level": 3,
+	"postalCode": "515638",
+	"areaNumber": "445103"
+}, {
+	"id": 445122,
+	"parentId": 445100,
+	"name": "饶平县",
+	"level": 3,
+	"postalCode": "515700",
+	"areaNumber": "445122"
+}, {
+	"id": 445200,
+	"parentId": 440000,
+	"name": "揭阳市",
+	"level": 2,
+	"postalCode": "522000",
+	"areaNumber": "445200"
+}, {
+	"id": 445202,
+	"parentId": 445200,
+	"name": "榕城区",
+	"level": 3,
+	"postalCode": "522000",
+	"areaNumber": "445202"
+}, {
+	"id": 445203,
+	"parentId": 445200,
+	"name": "揭东区",
+	"level": 3,
+	"postalCode": "515500",
+	"areaNumber": "445203"
+}, {
+	"id": 445222,
+	"parentId": 445200,
+	"name": "揭西县",
+	"level": 3,
+	"postalCode": "515400",
+	"areaNumber": "445222"
+}, {
+	"id": 445224,
+	"parentId": 445200,
+	"name": "惠来县",
+	"level": 3,
+	"postalCode": "515200",
+	"areaNumber": "445224"
+}, {
+	"id": 445281,
+	"parentId": 445200,
+	"name": "普宁市",
+	"level": 3,
+	"postalCode": "515300",
+	"areaNumber": "445281"
+}, {
+	"id": 445300,
+	"parentId": 440000,
+	"name": "云浮市",
+	"level": 2,
+	"postalCode": "527300",
+	"areaNumber": "445300"
+}, {
+	"id": 445302,
+	"parentId": 445300,
+	"name": "云城区",
+	"level": 3,
+	"postalCode": "527300",
+	"areaNumber": "445302"
+}, {
+	"id": 445303,
+	"parentId": 445300,
+	"name": "云安区",
+	"level": 3,
+	"postalCode": "527500",
+	"areaNumber": "445303"
+}, {
+	"id": 445321,
+	"parentId": 445300,
+	"name": "新兴县",
+	"level": 3,
+	"postalCode": "527400",
+	"areaNumber": "445321"
+}, {
+	"id": 445322,
+	"parentId": 445300,
+	"name": "郁南县",
+	"level": 3,
+	"postalCode": "527100",
+	"areaNumber": "445322"
+}, {
+	"id": 445381,
+	"parentId": 445300,
+	"name": "罗定市",
+	"level": 3,
+	"postalCode": "527200",
+	"areaNumber": "445381"
+}, {
+	"id": 450000,
+	"parentId": 100000,
+	"name": "广西壮族自治区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "450000"
+}, {
+	"id": 450100,
+	"parentId": 450000,
+	"name": "南宁市",
+	"level": 2,
+	"postalCode": "530000",
+	"areaNumber": "450100"
+}, {
+	"id": 450102,
+	"parentId": 450100,
+	"name": "兴宁区",
+	"level": 3,
+	"postalCode": "530000",
+	"areaNumber": "450102"
+}, {
+	"id": 450103,
+	"parentId": 450100,
+	"name": "青秀区",
+	"level": 3,
+	"postalCode": "530000",
+	"areaNumber": "450103"
+}, {
+	"id": 450105,
+	"parentId": 450100,
+	"name": "江南区",
+	"level": 3,
+	"postalCode": "530000",
+	"areaNumber": "450105"
+}, {
+	"id": 450107,
+	"parentId": 450100,
+	"name": "西乡塘区",
+	"level": 3,
+	"postalCode": "530000",
+	"areaNumber": "450107"
+}, {
+	"id": 450108,
+	"parentId": 450100,
+	"name": "良庆区",
+	"level": 3,
+	"postalCode": "530200",
+	"areaNumber": "450108"
+}, {
+	"id": 450109,
+	"parentId": 450100,
+	"name": "邕宁区",
+	"level": 3,
+	"postalCode": "530200",
+	"areaNumber": "450109"
+}, {
+	"id": 450110,
+	"parentId": 450100,
+	"name": "武鸣区",
+	"level": 3,
+	"postalCode": "530100",
+	"areaNumber": "450110"
+}, {
+	"id": 450123,
+	"parentId": 450100,
+	"name": "隆安县",
+	"level": 3,
+	"postalCode": "532700",
+	"areaNumber": "450123"
+}, {
+	"id": 450124,
+	"parentId": 450100,
+	"name": "马山县",
+	"level": 3,
+	"postalCode": "530600",
+	"areaNumber": "450124"
+}, {
+	"id": 450125,
+	"parentId": 450100,
+	"name": "上林县",
+	"level": 3,
+	"postalCode": "530500",
+	"areaNumber": "450125"
+}, {
+	"id": 450126,
+	"parentId": 450100,
+	"name": "宾阳县",
+	"level": 3,
+	"postalCode": "530400",
+	"areaNumber": "450126"
+}, {
+	"id": 450127,
+	"parentId": 450100,
+	"name": "横县",
+	"level": 3,
+	"postalCode": "530300",
+	"areaNumber": "450127"
+}, {
+	"id": 450128,
+	"parentId": 450100,
+	"name": "埌东新区",
+	"level": 3,
+	"postalCode": "530000",
+	"areaNumber": "450128"
+}, {
+	"id": 450200,
+	"parentId": 450000,
+	"name": "柳州市",
+	"level": 2,
+	"postalCode": "545000",
+	"areaNumber": "450200"
+}, {
+	"id": 450202,
+	"parentId": 450200,
+	"name": "城中区",
+	"level": 3,
+	"postalCode": "545000",
+	"areaNumber": "450202"
+}, {
+	"id": 450203,
+	"parentId": 450200,
+	"name": "鱼峰区",
+	"level": 3,
+	"postalCode": "545000",
+	"areaNumber": "450203"
+}, {
+	"id": 450204,
+	"parentId": 450200,
+	"name": "柳南区",
+	"level": 3,
+	"postalCode": "545000",
+	"areaNumber": "450204"
+}, {
+	"id": 450205,
+	"parentId": 450200,
+	"name": "柳北区",
+	"level": 3,
+	"postalCode": "545000",
+	"areaNumber": "450205"
+}, {
+	"id": 450206,
+	"parentId": 450200,
+	"name": "柳江区",
+	"level": 3,
+	"postalCode": "545100",
+	"areaNumber": "450206"
+}, {
+	"id": 450222,
+	"parentId": 450200,
+	"name": "柳城县",
+	"level": 3,
+	"postalCode": "545200",
+	"areaNumber": "450222"
+}, {
+	"id": 450223,
+	"parentId": 450200,
+	"name": "鹿寨县",
+	"level": 3,
+	"postalCode": "545600",
+	"areaNumber": "450223"
+}, {
+	"id": 450224,
+	"parentId": 450200,
+	"name": "融安县",
+	"level": 3,
+	"postalCode": "545400",
+	"areaNumber": "450224"
+}, {
+	"id": 450225,
+	"parentId": 450200,
+	"name": "融水苗族自治县",
+	"level": 3,
+	"postalCode": "545300",
+	"areaNumber": "450225"
+}, {
+	"id": 450226,
+	"parentId": 450200,
+	"name": "三江侗族自治县",
+	"level": 3,
+	"postalCode": "545500",
+	"areaNumber": "450226"
+}, {
+	"id": 450227,
+	"parentId": 450200,
+	"name": "柳东新区",
+	"level": 3,
+	"postalCode": "545000",
+	"areaNumber": "450227"
+}, {
+	"id": 450300,
+	"parentId": 450000,
+	"name": "桂林市",
+	"level": 2,
+	"postalCode": "541000",
+	"areaNumber": "450300"
+}, {
+	"id": 450302,
+	"parentId": 450300,
+	"name": "秀峰区",
+	"level": 3,
+	"postalCode": "541000",
+	"areaNumber": "450302"
+}, {
+	"id": 450303,
+	"parentId": 450300,
+	"name": "叠彩区",
+	"level": 3,
+	"postalCode": "541000",
+	"areaNumber": "450303"
+}, {
+	"id": 450304,
+	"parentId": 450300,
+	"name": "象山区",
+	"level": 3,
+	"postalCode": "541000",
+	"areaNumber": "450304"
+}, {
+	"id": 450305,
+	"parentId": 450300,
+	"name": "七星区",
+	"level": 3,
+	"postalCode": "541000",
+	"areaNumber": "450305"
+}, {
+	"id": 450311,
+	"parentId": 450300,
+	"name": "雁山区",
+	"level": 3,
+	"postalCode": "541000",
+	"areaNumber": "450311"
+}, {
+	"id": 450312,
+	"parentId": 450300,
+	"name": "临桂区",
+	"level": 3,
+	"postalCode": "541100",
+	"areaNumber": "450312"
+}, {
+	"id": 450321,
+	"parentId": 450300,
+	"name": "阳朔县",
+	"level": 3,
+	"postalCode": "541900",
+	"areaNumber": "450321"
+}, {
+	"id": 450323,
+	"parentId": 450300,
+	"name": "灵川县",
+	"level": 3,
+	"postalCode": "541200",
+	"areaNumber": "450323"
+}, {
+	"id": 450324,
+	"parentId": 450300,
+	"name": "全州县",
+	"level": 3,
+	"postalCode": "541500",
+	"areaNumber": "450324"
+}, {
+	"id": 450325,
+	"parentId": 450300,
+	"name": "兴安县",
+	"level": 3,
+	"postalCode": "541300",
+	"areaNumber": "450325"
+}, {
+	"id": 450326,
+	"parentId": 450300,
+	"name": "永福县",
+	"level": 3,
+	"postalCode": "541800",
+	"areaNumber": "450326"
+}, {
+	"id": 450327,
+	"parentId": 450300,
+	"name": "灌阳县",
+	"level": 3,
+	"postalCode": "541600",
+	"areaNumber": "450327"
+}, {
+	"id": 450328,
+	"parentId": 450300,
+	"name": "龙胜各族自治县",
+	"level": 3,
+	"postalCode": "541700",
+	"areaNumber": "450328"
+}, {
+	"id": 450329,
+	"parentId": 450300,
+	"name": "资源县",
+	"level": 3,
+	"postalCode": "541400",
+	"areaNumber": "450329"
+}, {
+	"id": 450330,
+	"parentId": 450300,
+	"name": "平乐县",
+	"level": 3,
+	"postalCode": "542400",
+	"areaNumber": "450330"
+}, {
+	"id": 450331,
+	"parentId": 450300,
+	"name": "荔浦县",
+	"level": 3,
+	"postalCode": "546600",
+	"areaNumber": "450331"
+}, {
+	"id": 450332,
+	"parentId": 450300,
+	"name": "恭城瑶族自治县",
+	"level": 3,
+	"postalCode": "542500",
+	"areaNumber": "450332"
+}, {
+	"id": 450400,
+	"parentId": 450000,
+	"name": "梧州市",
+	"level": 2,
+	"postalCode": "543000",
+	"areaNumber": "450400"
+}, {
+	"id": 450403,
+	"parentId": 450400,
+	"name": "万秀区",
+	"level": 3,
+	"postalCode": "543000",
+	"areaNumber": "450403"
+}, {
+	"id": 450405,
+	"parentId": 450400,
+	"name": "长洲区",
+	"level": 3,
+	"postalCode": "543000",
+	"areaNumber": "450405"
+}, {
+	"id": 450406,
+	"parentId": 450400,
+	"name": "龙圩区",
+	"level": 3,
+	"postalCode": "543002",
+	"areaNumber": "450406"
+}, {
+	"id": 450421,
+	"parentId": 450400,
+	"name": "苍梧县",
+	"level": 3,
+	"postalCode": "543100",
+	"areaNumber": "450421"
+}, {
+	"id": 450422,
+	"parentId": 450400,
+	"name": "藤县",
+	"level": 3,
+	"postalCode": "543300",
+	"areaNumber": "450422"
+}, {
+	"id": 450423,
+	"parentId": 450400,
+	"name": "蒙山县",
+	"level": 3,
+	"postalCode": "546700",
+	"areaNumber": "450423"
+}, {
+	"id": 450481,
+	"parentId": 450400,
+	"name": "岑溪市",
+	"level": 3,
+	"postalCode": "543200",
+	"areaNumber": "450481"
+}, {
+	"id": 450500,
+	"parentId": 450000,
+	"name": "北海市",
+	"level": 2,
+	"postalCode": "536000",
+	"areaNumber": "450500"
+}, {
+	"id": 450502,
+	"parentId": 450500,
+	"name": "海城区",
+	"level": 3,
+	"postalCode": "536000",
+	"areaNumber": "450502"
+}, {
+	"id": 450503,
+	"parentId": 450500,
+	"name": "银海区",
+	"level": 3,
+	"postalCode": "536000",
+	"areaNumber": "450503"
+}, {
+	"id": 450512,
+	"parentId": 450500,
+	"name": "铁山港区",
+	"level": 3,
+	"postalCode": "536000",
+	"areaNumber": "450512"
+}, {
+	"id": 450521,
+	"parentId": 450500,
+	"name": "合浦县",
+	"level": 3,
+	"postalCode": "536100",
+	"areaNumber": "450521"
+}, {
+	"id": 450600,
+	"parentId": 450000,
+	"name": "防城港市",
+	"level": 2,
+	"postalCode": "538000",
+	"areaNumber": "450600"
+}, {
+	"id": 450602,
+	"parentId": 450600,
+	"name": "港口区",
+	"level": 3,
+	"postalCode": "538000",
+	"areaNumber": "450602"
+}, {
+	"id": 450603,
+	"parentId": 450600,
+	"name": "防城区",
+	"level": 3,
+	"postalCode": "538000",
+	"areaNumber": "450603"
+}, {
+	"id": 450621,
+	"parentId": 450600,
+	"name": "上思县",
+	"level": 3,
+	"postalCode": "535500",
+	"areaNumber": "450621"
+}, {
+	"id": 450681,
+	"parentId": 450600,
+	"name": "东兴市",
+	"level": 3,
+	"postalCode": "538100",
+	"areaNumber": "450681"
+}, {
+	"id": 450700,
+	"parentId": 450000,
+	"name": "钦州市",
+	"level": 2,
+	"postalCode": "535000",
+	"areaNumber": "450700"
+}, {
+	"id": 450702,
+	"parentId": 450700,
+	"name": "钦南区",
+	"level": 3,
+	"postalCode": "535000",
+	"areaNumber": "450702"
+}, {
+	"id": 450703,
+	"parentId": 450700,
+	"name": "钦北区",
+	"level": 3,
+	"postalCode": "535000",
+	"areaNumber": "450703"
+}, {
+	"id": 450721,
+	"parentId": 450700,
+	"name": "灵山县",
+	"level": 3,
+	"postalCode": "535400",
+	"areaNumber": "450721"
+}, {
+	"id": 450722,
+	"parentId": 450700,
+	"name": "浦北县",
+	"level": 3,
+	"postalCode": "535300",
+	"areaNumber": "450722"
+}, {
+	"id": 450800,
+	"parentId": 450000,
+	"name": "贵港市",
+	"level": 2,
+	"postalCode": "537100",
+	"areaNumber": "450800"
+}, {
+	"id": 450802,
+	"parentId": 450800,
+	"name": "港北区",
+	"level": 3,
+	"postalCode": "537100",
+	"areaNumber": "450802"
+}, {
+	"id": 450803,
+	"parentId": 450800,
+	"name": "港南区",
+	"level": 3,
+	"postalCode": "537100",
+	"areaNumber": "450803"
+}, {
+	"id": 450804,
+	"parentId": 450800,
+	"name": "覃塘区",
+	"level": 3,
+	"postalCode": "537100",
+	"areaNumber": "450804"
+}, {
+	"id": 450821,
+	"parentId": 450800,
+	"name": "平南县",
+	"level": 3,
+	"postalCode": "537300",
+	"areaNumber": "450821"
+}, {
+	"id": 450881,
+	"parentId": 450800,
+	"name": "桂平市",
+	"level": 3,
+	"postalCode": "537200",
+	"areaNumber": "450881"
+}, {
+	"id": 450900,
+	"parentId": 450000,
+	"name": "玉林市",
+	"level": 2,
+	"postalCode": "537000",
+	"areaNumber": "450900"
+}, {
+	"id": 450902,
+	"parentId": 450900,
+	"name": "玉州区",
+	"level": 3,
+	"postalCode": "537000",
+	"areaNumber": "450902"
+}, {
+	"id": 450903,
+	"parentId": 450900,
+	"name": "福绵区",
+	"level": 3,
+	"postalCode": "537023",
+	"areaNumber": "450903"
+}, {
+	"id": 450921,
+	"parentId": 450900,
+	"name": "容县",
+	"level": 3,
+	"postalCode": "537500",
+	"areaNumber": "450921"
+}, {
+	"id": 450922,
+	"parentId": 450900,
+	"name": "陆川县",
+	"level": 3,
+	"postalCode": "537700",
+	"areaNumber": "450922"
+}, {
+	"id": 450923,
+	"parentId": 450900,
+	"name": "博白县",
+	"level": 3,
+	"postalCode": "537600",
+	"areaNumber": "450923"
+}, {
+	"id": 450924,
+	"parentId": 450900,
+	"name": "兴业县",
+	"level": 3,
+	"postalCode": "537800",
+	"areaNumber": "450924"
+}, {
+	"id": 450981,
+	"parentId": 450900,
+	"name": "北流市",
+	"level": 3,
+	"postalCode": "537400",
+	"areaNumber": "450981"
+}, {
+	"id": 450982,
+	"parentId": 450900,
+	"name": "玉东新区",
+	"level": 3,
+	"postalCode": "537000",
+	"areaNumber": "450982"
+}, {
+	"id": 450983,
+	"parentId": 450900,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "537000",
+	"areaNumber": "450983"
+}, {
+	"id": 451000,
+	"parentId": 450000,
+	"name": "百色市",
+	"level": 2,
+	"postalCode": "533000",
+	"areaNumber": "451000"
+}, {
+	"id": 451002,
+	"parentId": 451000,
+	"name": "右江区",
+	"level": 3,
+	"postalCode": "533000",
+	"areaNumber": "451002"
+}, {
+	"id": 451021,
+	"parentId": 451000,
+	"name": "田阳县",
+	"level": 3,
+	"postalCode": "533600",
+	"areaNumber": "451021"
+}, {
+	"id": 451022,
+	"parentId": 451000,
+	"name": "田东县",
+	"level": 3,
+	"postalCode": "531500",
+	"areaNumber": "451022"
+}, {
+	"id": 451023,
+	"parentId": 451000,
+	"name": "平果县",
+	"level": 3,
+	"postalCode": "531400",
+	"areaNumber": "451023"
+}, {
+	"id": 451024,
+	"parentId": 451000,
+	"name": "德保县",
+	"level": 3,
+	"postalCode": "533700",
+	"areaNumber": "451024"
+}, {
+	"id": 451026,
+	"parentId": 451000,
+	"name": "那坡县",
+	"level": 3,
+	"postalCode": "533900",
+	"areaNumber": "451026"
+}, {
+	"id": 451027,
+	"parentId": 451000,
+	"name": "凌云县",
+	"level": 3,
+	"postalCode": "533100",
+	"areaNumber": "451027"
+}, {
+	"id": 451028,
+	"parentId": 451000,
+	"name": "乐业县",
+	"level": 3,
+	"postalCode": "533200",
+	"areaNumber": "451028"
+}, {
+	"id": 451029,
+	"parentId": 451000,
+	"name": "田林县",
+	"level": 3,
+	"postalCode": "533300",
+	"areaNumber": "451029"
+}, {
+	"id": 451030,
+	"parentId": 451000,
+	"name": "西林县",
+	"level": 3,
+	"postalCode": "533500",
+	"areaNumber": "451030"
+}, {
+	"id": 451031,
+	"parentId": 451000,
+	"name": "隆林各族自治县",
+	"level": 3,
+	"postalCode": "533400",
+	"areaNumber": "451031"
+}, {
+	"id": 451081,
+	"parentId": 451000,
+	"name": "靖西市",
+	"level": 3,
+	"postalCode": "533800",
+	"areaNumber": "451081"
+}, {
+	"id": 451100,
+	"parentId": 450000,
+	"name": "贺州市",
+	"level": 2,
+	"postalCode": "542800",
+	"areaNumber": "451100"
+}, {
+	"id": 451102,
+	"parentId": 451100,
+	"name": "八步区",
+	"level": 3,
+	"postalCode": "542800",
+	"areaNumber": "451102"
+}, {
+	"id": 451103,
+	"parentId": 451100,
+	"name": "平桂区",
+	"level": 3,
+	"postalCode": "542800",
+	"areaNumber": "451103"
+}, {
+	"id": 451121,
+	"parentId": 451100,
+	"name": "昭平县",
+	"level": 3,
+	"postalCode": "546800",
+	"areaNumber": "451121"
+}, {
+	"id": 451122,
+	"parentId": 451100,
+	"name": "钟山县",
+	"level": 3,
+	"postalCode": "542600",
+	"areaNumber": "451122"
+}, {
+	"id": 451123,
+	"parentId": 451100,
+	"name": "富川瑶族自治县",
+	"level": 3,
+	"postalCode": "542700",
+	"areaNumber": "451123"
+}, {
+	"id": 451200,
+	"parentId": 450000,
+	"name": "河池市",
+	"level": 2,
+	"postalCode": "547000",
+	"areaNumber": "451200"
+}, {
+	"id": 451202,
+	"parentId": 451200,
+	"name": "金城江区",
+	"level": 3,
+	"postalCode": "547000",
+	"areaNumber": "451202"
+}, {
+	"id": 451203,
+	"parentId": 451200,
+	"name": "宜州区",
+	"level": 3,
+	"postalCode": "546300",
+	"areaNumber": "451203"
+}, {
+	"id": 451221,
+	"parentId": 451200,
+	"name": "南丹县",
+	"level": 3,
+	"postalCode": "547200",
+	"areaNumber": "451221"
+}, {
+	"id": 451222,
+	"parentId": 451200,
+	"name": "天峨县",
+	"level": 3,
+	"postalCode": "547300",
+	"areaNumber": "451222"
+}, {
+	"id": 451223,
+	"parentId": 451200,
+	"name": "凤山县",
+	"level": 3,
+	"postalCode": "547600",
+	"areaNumber": "451223"
+}, {
+	"id": 451224,
+	"parentId": 451200,
+	"name": "东兰县",
+	"level": 3,
+	"postalCode": "547400",
+	"areaNumber": "451224"
+}, {
+	"id": 451225,
+	"parentId": 451200,
+	"name": "罗城仫佬族自治县",
+	"level": 3,
+	"postalCode": "546499",
+	"areaNumber": "451225"
+}, {
+	"id": 451226,
+	"parentId": 451200,
+	"name": "环江毛南族自治县",
+	"level": 3,
+	"postalCode": "547100",
+	"areaNumber": "451226"
+}, {
+	"id": 451227,
+	"parentId": 451200,
+	"name": "巴马瑶族自治县",
+	"level": 3,
+	"postalCode": "547500",
+	"areaNumber": "451227"
+}, {
+	"id": 451228,
+	"parentId": 451200,
+	"name": "都安瑶族自治县",
+	"level": 3,
+	"postalCode": "530700",
+	"areaNumber": "451228"
+}, {
+	"id": 451229,
+	"parentId": 451200,
+	"name": "大化瑶族自治县",
+	"level": 3,
+	"postalCode": "530800",
+	"areaNumber": "451229"
+}, {
+	"id": 451300,
+	"parentId": 450000,
+	"name": "来宾市",
+	"level": 2,
+	"postalCode": "546100",
+	"areaNumber": "451300"
+}, {
+	"id": 451302,
+	"parentId": 451300,
+	"name": "兴宾区",
+	"level": 3,
+	"postalCode": "546100",
+	"areaNumber": "451302"
+}, {
+	"id": 451321,
+	"parentId": 451300,
+	"name": "忻城县",
+	"level": 3,
+	"postalCode": "546200",
+	"areaNumber": "451321"
+}, {
+	"id": 451322,
+	"parentId": 451300,
+	"name": "象州县",
+	"level": 3,
+	"postalCode": "545800",
+	"areaNumber": "451322"
+}, {
+	"id": 451323,
+	"parentId": 451300,
+	"name": "武宣县",
+	"level": 3,
+	"postalCode": "545900",
+	"areaNumber": "451323"
+}, {
+	"id": 451324,
+	"parentId": 451300,
+	"name": "金秀瑶族自治县",
+	"level": 3,
+	"postalCode": "545700",
+	"areaNumber": "451324"
+}, {
+	"id": 451381,
+	"parentId": 451300,
+	"name": "合山市",
+	"level": 3,
+	"postalCode": "546500",
+	"areaNumber": "451381"
+}, {
+	"id": 451400,
+	"parentId": 450000,
+	"name": "崇左市",
+	"level": 2,
+	"postalCode": "532200",
+	"areaNumber": "451400"
+}, {
+	"id": 451402,
+	"parentId": 451400,
+	"name": "江州区",
+	"level": 3,
+	"postalCode": "532299",
+	"areaNumber": "451402"
+}, {
+	"id": 451421,
+	"parentId": 451400,
+	"name": "扶绥县",
+	"level": 3,
+	"postalCode": "532100",
+	"areaNumber": "451421"
+}, {
+	"id": 451422,
+	"parentId": 451400,
+	"name": "宁明县",
+	"level": 3,
+	"postalCode": "532500",
+	"areaNumber": "451422"
+}, {
+	"id": 451423,
+	"parentId": 451400,
+	"name": "龙州县",
+	"level": 3,
+	"postalCode": "532400",
+	"areaNumber": "451423"
+}, {
+	"id": 451424,
+	"parentId": 451400,
+	"name": "大新县",
+	"level": 3,
+	"postalCode": "532300",
+	"areaNumber": "451424"
+}, {
+	"id": 451425,
+	"parentId": 451400,
+	"name": "天等县",
+	"level": 3,
+	"postalCode": "532800",
+	"areaNumber": "451425"
+}, {
+	"id": 451481,
+	"parentId": 451400,
+	"name": "凭祥市",
+	"level": 3,
+	"postalCode": "532600",
+	"areaNumber": "451481"
+}, {
+	"id": 460000,
+	"parentId": 100000,
+	"name": "海南省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "460000"
+}, {
+	"id": 460100,
+	"parentId": 460000,
+	"name": "海口市",
+	"level": 2,
+	"postalCode": "570000",
+	"areaNumber": "460100"
+}, {
+	"id": 460105,
+	"parentId": 460100,
+	"name": "秀英区",
+	"level": 3,
+	"postalCode": "570300",
+	"areaNumber": "460105"
+}, {
+	"id": 460106,
+	"parentId": 460100,
+	"name": "龙华区",
+	"level": 3,
+	"postalCode": "570100",
+	"areaNumber": "460106"
+}, {
+	"id": 460107,
+	"parentId": 460100,
+	"name": "琼山区",
+	"level": 3,
+	"postalCode": "571199",
+	"areaNumber": "460107"
+}, {
+	"id": 460108,
+	"parentId": 460100,
+	"name": "美兰区",
+	"level": 3,
+	"postalCode": "570203",
+	"areaNumber": "460108"
+}, {
+	"id": 460200,
+	"parentId": 460000,
+	"name": "三亚市",
+	"level": 2,
+	"postalCode": "572000",
+	"areaNumber": "460200"
+}, {
+	"id": 460202,
+	"parentId": 460200,
+	"name": "海棠区",
+	"level": 3,
+	"postalCode": "572000",
+	"areaNumber": "460202"
+}, {
+	"id": 460203,
+	"parentId": 460200,
+	"name": "吉阳区",
+	"level": 3,
+	"postalCode": "572000",
+	"areaNumber": "460203"
+}, {
+	"id": 460204,
+	"parentId": 460200,
+	"name": "天涯区",
+	"level": 3,
+	"postalCode": "572000",
+	"areaNumber": "460204"
+}, {
+	"id": 460205,
+	"parentId": 460200,
+	"name": "崖州区",
+	"level": 3,
+	"postalCode": "572000",
+	"areaNumber": "460205"
+}, {
+	"id": 460300,
+	"parentId": 460000,
+	"name": "三沙市",
+	"level": 2,
+	"postalCode": "573199",
+	"areaNumber": "460300"
+}, {
+	"id": 460321,
+	"parentId": 460300,
+	"name": "西沙群岛",
+	"level": 3,
+	"postalCode": "573199",
+	"areaNumber": "460321"
+}, {
+	"id": 460322,
+	"parentId": 460300,
+	"name": "南沙群岛",
+	"level": 3,
+	"postalCode": "573199",
+	"areaNumber": "460322"
+}, {
+	"id": 460323,
+	"parentId": 460300,
+	"name": "中沙群岛",
+	"level": 3,
+	"postalCode": "573199",
+	"areaNumber": "460323"
+}, {
+	"id": 460400,
+	"parentId": 460000,
+	"name": "儋州市",
+	"level": 2,
+	"postalCode": "571700",
+	"areaNumber": "460400"
+}, {
+	"id": 460401,
+	"parentId": 460400,
+	"name": "洋浦经济开发区",
+	"level": 3,
+	"postalCode": "578001",
+	"areaNumber": "460401"
+}, {
+	"id": 460402,
+	"parentId": 460400,
+	"name": "那大镇",
+	"level": 3,
+	"postalCode": "571799",
+	"areaNumber": "460402"
+}, {
+	"id": 460403,
+	"parentId": 460400,
+	"name": "南丰镇",
+	"level": 3,
+	"postalCode": "571724",
+	"areaNumber": "460403"
+}, {
+	"id": 460404,
+	"parentId": 460400,
+	"name": "雅星镇",
+	"level": 3,
+	"postalCode": "571729",
+	"areaNumber": "460404"
+}, {
+	"id": 460405,
+	"parentId": 460400,
+	"name": "和庆镇",
+	"level": 3,
+	"postalCode": "571721",
+	"areaNumber": "460405"
+}, {
+	"id": 460406,
+	"parentId": 460400,
+	"name": "大成镇",
+	"level": 3,
+	"postalCode": "571736",
+	"areaNumber": "460406"
+}, {
+	"id": 460407,
+	"parentId": 460400,
+	"name": "新州镇",
+	"level": 3,
+	"postalCode": "571749",
+	"areaNumber": "460407"
+}, {
+	"id": 460408,
+	"parentId": 460400,
+	"name": "光村镇",
+	"level": 3,
+	"postalCode": "571752",
+	"areaNumber": "460408"
+}, {
+	"id": 460409,
+	"parentId": 460400,
+	"name": "东成镇",
+	"level": 3,
+	"postalCode": "571763",
+	"areaNumber": "460409"
+}, {
+	"id": 460410,
+	"parentId": 460400,
+	"name": "中和镇",
+	"level": 3,
+	"postalCode": "571747",
+	"areaNumber": "460410"
+}, {
+	"id": 460411,
+	"parentId": 460400,
+	"name": "峨蔓镇",
+	"level": 3,
+	"postalCode": "571745",
+	"areaNumber": "460411"
+}, {
+	"id": 460412,
+	"parentId": 460400,
+	"name": "兰洋镇",
+	"level": 3,
+	"postalCode": "571722",
+	"areaNumber": "460412"
+}, {
+	"id": 460413,
+	"parentId": 460400,
+	"name": "王五镇",
+	"level": 3,
+	"postalCode": "571739",
+	"areaNumber": "460413"
+}, {
+	"id": 460414,
+	"parentId": 460400,
+	"name": "排浦镇",
+	"level": 3,
+	"postalCode": "571741",
+	"areaNumber": "460414"
+}, {
+	"id": 460415,
+	"parentId": 460400,
+	"name": "海头镇",
+	"level": 3,
+	"postalCode": "571732",
+	"areaNumber": "460415"
+}, {
+	"id": 460416,
+	"parentId": 460400,
+	"name": "木棠镇",
+	"level": 3,
+	"postalCode": "571746",
+	"areaNumber": "460416"
+}, {
+	"id": 460417,
+	"parentId": 460400,
+	"name": "白马井镇",
+	"level": 3,
+	"postalCode": "571742",
+	"areaNumber": "460417"
+}, {
+	"id": 460418,
+	"parentId": 460400,
+	"name": "三都镇",
+	"level": 3,
+	"postalCode": "571744",
+	"areaNumber": "460418"
+}, {
+	"id": 460419,
+	"parentId": 460400,
+	"name": "西培农场",
+	"level": 3,
+	"postalCode": "571725",
+	"areaNumber": "460419"
+}, {
+	"id": 460420,
+	"parentId": 460400,
+	"name": "西联农场",
+	"level": 3,
+	"postalCode": "571756",
+	"areaNumber": "460420"
+}, {
+	"id": 460421,
+	"parentId": 460400,
+	"name": "蓝洋农场",
+	"level": 3,
+	"postalCode": "571756",
+	"areaNumber": "460421"
+}, {
+	"id": 460422,
+	"parentId": 460400,
+	"name": "八一农场",
+	"level": 3,
+	"postalCode": "571727",
+	"areaNumber": "460422"
+}, {
+	"id": 460423,
+	"parentId": 460400,
+	"name": "西华农场",
+	"level": 3,
+	"postalCode": "571735",
+	"areaNumber": "460423"
+}, {
+	"id": 460424,
+	"parentId": 460400,
+	"name": "西庆农场",
+	"level": 3,
+	"postalCode": "571738",
+	"areaNumber": "460424"
+}, {
+	"id": 460425,
+	"parentId": 460400,
+	"name": "西流农场",
+	"level": 3,
+	"postalCode": "571758",
+	"areaNumber": "460425"
+}, {
+	"id": 460426,
+	"parentId": 460400,
+	"name": "新盈农场",
+	"level": 3,
+	"postalCode": "571753",
+	"areaNumber": "460426"
+}, {
+	"id": 460427,
+	"parentId": 460400,
+	"name": "龙山农场",
+	"level": 3,
+	"postalCode": "571757",
+	"areaNumber": "460427"
+}, {
+	"id": 460428,
+	"parentId": 460400,
+	"name": "红岭农场",
+	"level": 3,
+	"postalCode": "571733",
+	"areaNumber": "460428"
+}, {
+	"id": 469001,
+	"parentId": 460000,
+	"name": "五指山市",
+	"level": 2,
+	"postalCode": "572200",
+	"areaNumber": "469001"
+}, {
+	"id": 469002,
+	"parentId": 460000,
+	"name": "琼海市",
+	"level": 2,
+	"postalCode": "571400",
+	"areaNumber": "469002"
+}, {
+	"id": 469005,
+	"parentId": 460000,
+	"name": "文昌市",
+	"level": 2,
+	"postalCode": "571300",
+	"areaNumber": "469005"
+}, {
+	"id": 469006,
+	"parentId": 460000,
+	"name": "万宁市",
+	"level": 2,
+	"postalCode": "571500",
+	"areaNumber": "469006"
+}, {
+	"id": 469007,
+	"parentId": 460000,
+	"name": "东方市",
+	"level": 2,
+	"postalCode": "572600",
+	"areaNumber": "469007"
+}, {
+	"id": 469021,
+	"parentId": 460000,
+	"name": "定安县",
+	"level": 2,
+	"postalCode": "571200",
+	"areaNumber": "469021"
+}, {
+	"id": 469022,
+	"parentId": 460000,
+	"name": "屯昌县",
+	"level": 2,
+	"postalCode": "571600",
+	"areaNumber": "469022"
+}, {
+	"id": 469023,
+	"parentId": 460000,
+	"name": "澄迈县",
+	"level": 2,
+	"postalCode": "571900",
+	"areaNumber": "469023"
+}, {
+	"id": 469024,
+	"parentId": 460000,
+	"name": "临高县",
+	"level": 2,
+	"postalCode": "571800",
+	"areaNumber": "469024"
+}, {
+	"id": 469025,
+	"parentId": 460000,
+	"name": "白沙黎族自治县",
+	"level": 2,
+	"postalCode": "572800",
+	"areaNumber": "469025"
+}, {
+	"id": 469026,
+	"parentId": 460000,
+	"name": "昌江黎族自治县",
+	"level": 2,
+	"postalCode": "572700",
+	"areaNumber": "469026"
+}, {
+	"id": 469027,
+	"parentId": 460000,
+	"name": "乐东黎族自治县",
+	"level": 2,
+	"postalCode": "572500",
+	"areaNumber": "469027"
+}, {
+	"id": 469028,
+	"parentId": 460000,
+	"name": "陵水黎族自治县",
+	"level": 2,
+	"postalCode": "572400",
+	"areaNumber": "469028"
+}, {
+	"id": 469029,
+	"parentId": 460000,
+	"name": "保亭黎族苗族自治县",
+	"level": 2,
+	"postalCode": "572300",
+	"areaNumber": "469029"
+}, {
+	"id": 469030,
+	"parentId": 460000,
+	"name": "琼中黎族苗族自治县",
+	"level": 2,
+	"postalCode": "572900",
+	"areaNumber": "469030"
+}, {
+	"id": 469101,
+	"parentId": 469001,
+	"name": "通什镇",
+	"level": 3,
+	"postalCode": "572299",
+	"areaNumber": "469101"
+}, {
+	"id": 469102,
+	"parentId": 469001,
+	"name": "南圣镇",
+	"level": 3,
+	"postalCode": "572219",
+	"areaNumber": "469102"
+}, {
+	"id": 469103,
+	"parentId": 469001,
+	"name": "毛阳镇",
+	"level": 3,
+	"postalCode": "572214",
+	"areaNumber": "469103"
+}, {
+	"id": 469104,
+	"parentId": 469001,
+	"name": "番阳镇",
+	"level": 3,
+	"postalCode": "572213",
+	"areaNumber": "469104"
+}, {
+	"id": 469105,
+	"parentId": 469001,
+	"name": "畅好乡",
+	"level": 3,
+	"postalCode": "572218",
+	"areaNumber": "469105"
+}, {
+	"id": 469106,
+	"parentId": 469001,
+	"name": "毛道乡",
+	"level": 3,
+	"postalCode": "572217",
+	"areaNumber": "469106"
+}, {
+	"id": 469107,
+	"parentId": 469001,
+	"name": "水满乡",
+	"level": 3,
+	"postalCode": "572215",
+	"areaNumber": "469107"
+}, {
+	"id": 469201,
+	"parentId": 469002,
+	"name": "嘉积镇",
+	"level": 3,
+	"postalCode": "571400",
+	"areaNumber": "469201"
+}, {
+	"id": 469202,
+	"parentId": 469002,
+	"name": "万泉镇",
+	"level": 3,
+	"postalCode": "571421",
+	"areaNumber": "469202"
+}, {
+	"id": 469203,
+	"parentId": 469002,
+	"name": "石壁镇",
+	"level": 3,
+	"postalCode": "571400",
+	"areaNumber": "469203"
+}, {
+	"id": 469204,
+	"parentId": 469002,
+	"name": "中原镇",
+	"level": 3,
+	"postalCode": "571447",
+	"areaNumber": "469204"
+}, {
+	"id": 469205,
+	"parentId": 469002,
+	"name": "博鳌镇",
+	"level": 3,
+	"postalCode": "571434",
+	"areaNumber": "469205"
+}, {
+	"id": 469206,
+	"parentId": 469002,
+	"name": "阳江镇",
+	"level": 3,
+	"postalCode": "571441",
+	"areaNumber": "469206"
+}, {
+	"id": 469207,
+	"parentId": 469002,
+	"name": "龙江镇",
+	"level": 3,
+	"postalCode": "571446",
+	"areaNumber": "469207"
+}, {
+	"id": 469208,
+	"parentId": 469002,
+	"name": "潭门镇",
+	"level": 3,
+	"postalCode": "571431",
+	"areaNumber": "469208"
+}, {
+	"id": 469209,
+	"parentId": 469002,
+	"name": "塔洋镇",
+	"level": 3,
+	"postalCode": "571427",
+	"areaNumber": "469209"
+}, {
+	"id": 469210,
+	"parentId": 469002,
+	"name": "长坡镇",
+	"level": 3,
+	"postalCode": "571429",
+	"areaNumber": "469210"
+}, {
+	"id": 469211,
+	"parentId": 469002,
+	"name": "大路镇",
+	"level": 3,
+	"postalCode": "571425",
+	"areaNumber": "469211"
+}, {
+	"id": 469212,
+	"parentId": 469002,
+	"name": "会山镇",
+	"level": 3,
+	"postalCode": "571444",
+	"areaNumber": "469212"
+}, {
+	"id": 469213,
+	"parentId": 469002,
+	"name": "东太农场",
+	"level": 3,
+	"postalCode": "571445",
+	"areaNumber": "469213"
+}, {
+	"id": 469214,
+	"parentId": 469002,
+	"name": "东红农场",
+	"level": 3,
+	"postalCode": "571445",
+	"areaNumber": "469214"
+}, {
+	"id": 469215,
+	"parentId": 469002,
+	"name": "东升农场",
+	"level": 3,
+	"postalCode": "571422",
+	"areaNumber": "469215"
+}, {
+	"id": 469216,
+	"parentId": 469002,
+	"name": "南俸农场",
+	"level": 3,
+	"postalCode": "571448",
+	"areaNumber": "469216"
+}, {
+	"id": 469217,
+	"parentId": 469002,
+	"name": "彬村山华侨农场",
+	"level": 3,
+	"postalCode": "571400",
+	"areaNumber": "469217"
+}, {
+	"id": 469501,
+	"parentId": 469005,
+	"name": "文城镇",
+	"level": 3,
+	"postalCode": "571399",
+	"areaNumber": "469501"
+}, {
+	"id": 469502,
+	"parentId": 469005,
+	"name": "重兴镇",
+	"level": 3,
+	"postalCode": "571344",
+	"areaNumber": "469502"
+}, {
+	"id": 469503,
+	"parentId": 469005,
+	"name": "蓬莱镇",
+	"level": 3,
+	"postalCode": "571345",
+	"areaNumber": "469503"
+}, {
+	"id": 469504,
+	"parentId": 469005,
+	"name": "会文镇",
+	"level": 3,
+	"postalCode": "571343",
+	"areaNumber": "469504"
+}, {
+	"id": 469505,
+	"parentId": 469005,
+	"name": "东路镇",
+	"level": 3,
+	"postalCode": "571348",
+	"areaNumber": "469505"
+}, {
+	"id": 469506,
+	"parentId": 469005,
+	"name": "潭牛镇",
+	"level": 3,
+	"postalCode": "571349",
+	"areaNumber": "469506"
+}, {
+	"id": 469507,
+	"parentId": 469005,
+	"name": "东阁镇",
+	"level": 3,
+	"postalCode": "571336",
+	"areaNumber": "469507"
+}, {
+	"id": 469508,
+	"parentId": 469005,
+	"name": "文教镇",
+	"level": 3,
+	"postalCode": "571335",
+	"areaNumber": "469508"
+}, {
+	"id": 469509,
+	"parentId": 469005,
+	"name": "东郊镇",
+	"level": 3,
+	"postalCode": "571334",
+	"areaNumber": "469509"
+}, {
+	"id": 469510,
+	"parentId": 469005,
+	"name": "龙楼镇",
+	"level": 3,
+	"postalCode": "571333",
+	"areaNumber": "469510"
+}, {
+	"id": 469511,
+	"parentId": 469005,
+	"name": "昌洒镇",
+	"level": 3,
+	"postalCode": "571332",
+	"areaNumber": "469511"
+}, {
+	"id": 469512,
+	"parentId": 469005,
+	"name": "翁田镇",
+	"level": 3,
+	"postalCode": "571328",
+	"areaNumber": "469512"
+}, {
+	"id": 469513,
+	"parentId": 469005,
+	"name": "抱罗镇",
+	"level": 3,
+	"postalCode": "571326",
+	"areaNumber": "469513"
+}, {
+	"id": 469514,
+	"parentId": 469005,
+	"name": "冯坡镇",
+	"level": 3,
+	"postalCode": "571327",
+	"areaNumber": "469514"
+}, {
+	"id": 469515,
+	"parentId": 469005,
+	"name": "锦山镇",
+	"level": 3,
+	"postalCode": "571323",
+	"areaNumber": "469515"
+}, {
+	"id": 469516,
+	"parentId": 469005,
+	"name": "铺前镇",
+	"level": 3,
+	"postalCode": "571322",
+	"areaNumber": "469516"
+}, {
+	"id": 469517,
+	"parentId": 469005,
+	"name": "公坡镇",
+	"level": 3,
+	"postalCode": "571331",
+	"areaNumber": "469517"
+}, {
+	"id": 469518,
+	"parentId": 469005,
+	"name": "迈号镇",
+	"level": 3,
+	"postalCode": "571341",
+	"areaNumber": "469518"
+}, {
+	"id": 469519,
+	"parentId": 469005,
+	"name": "清谰镇",
+	"level": 3,
+	"postalCode": "571300",
+	"areaNumber": "469519"
+}, {
+	"id": 469520,
+	"parentId": 469005,
+	"name": "南阳镇",
+	"level": 3,
+	"postalCode": "571300",
+	"areaNumber": "469520"
+}, {
+	"id": 469521,
+	"parentId": 469005,
+	"name": "新桥镇",
+	"level": 3,
+	"postalCode": "571347",
+	"areaNumber": "469521"
+}, {
+	"id": 469522,
+	"parentId": 469005,
+	"name": "头苑镇",
+	"level": 3,
+	"postalCode": "571338",
+	"areaNumber": "469522"
+}, {
+	"id": 469523,
+	"parentId": 469005,
+	"name": "宝芳乡",
+	"level": 3,
+	"postalCode": "571337",
+	"areaNumber": "469523"
+}, {
+	"id": 469524,
+	"parentId": 469005,
+	"name": "龙马乡",
+	"level": 3,
+	"postalCode": "571329",
+	"areaNumber": "469524"
+}, {
+	"id": 469525,
+	"parentId": 469005,
+	"name": "湖山乡",
+	"level": 3,
+	"postalCode": "571325",
+	"areaNumber": "469525"
+}, {
+	"id": 469526,
+	"parentId": 469005,
+	"name": "东路农场",
+	"level": 3,
+	"postalCode": "571300",
+	"areaNumber": "469526"
+}, {
+	"id": 469527,
+	"parentId": 469005,
+	"name": "南阳农场",
+	"level": 3,
+	"postalCode": "571300",
+	"areaNumber": "469527"
+}, {
+	"id": 469528,
+	"parentId": 469005,
+	"name": "罗豆农场",
+	"level": 3,
+	"postalCode": "571300",
+	"areaNumber": "469528"
+}, {
+	"id": 469601,
+	"parentId": 469006,
+	"name": "万城镇",
+	"level": 3,
+	"postalCode": "571599",
+	"areaNumber": "469601"
+}, {
+	"id": 469602,
+	"parentId": 469006,
+	"name": "龙滚镇",
+	"level": 3,
+	"postalCode": "571521",
+	"areaNumber": "469602"
+}, {
+	"id": 469603,
+	"parentId": 469006,
+	"name": "和乐镇",
+	"level": 3,
+	"postalCode": "571523",
+	"areaNumber": "469603"
+}, {
+	"id": 469604,
+	"parentId": 469006,
+	"name": "后安镇",
+	"level": 3,
+	"postalCode": "571525",
+	"areaNumber": "469604"
+}, {
+	"id": 469605,
+	"parentId": 469006,
+	"name": "大茂镇",
+	"level": 3,
+	"postalCode": "571541",
+	"areaNumber": "469605"
+}, {
+	"id": 469606,
+	"parentId": 469006,
+	"name": "东澳镇",
+	"level": 3,
+	"postalCode": "571528",
+	"areaNumber": "469606"
+}, {
+	"id": 469607,
+	"parentId": 469006,
+	"name": "礼纪镇",
+	"level": 3,
+	"postalCode": "571529",
+	"areaNumber": "469607"
+}, {
+	"id": 469608,
+	"parentId": 469006,
+	"name": "长丰镇",
+	"level": 3,
+	"postalCode": "571535",
+	"areaNumber": "469608"
+}, {
+	"id": 469609,
+	"parentId": 469006,
+	"name": "山根镇",
+	"level": 3,
+	"postalCode": "571522",
+	"areaNumber": "469609"
+}, {
+	"id": 469610,
+	"parentId": 469006,
+	"name": "北大镇",
+	"level": 3,
+	"postalCode": "571539",
+	"areaNumber": "469610"
+}, {
+	"id": 469611,
+	"parentId": 469006,
+	"name": "南桥镇",
+	"level": 3,
+	"postalCode": "571532",
+	"areaNumber": "469611"
+}, {
+	"id": 469612,
+	"parentId": 469006,
+	"name": "三更罗镇",
+	"level": 3,
+	"postalCode": "571536",
+	"areaNumber": "469612"
+}, {
+	"id": 469613,
+	"parentId": 469006,
+	"name": "东岭农场",
+	"level": 3,
+	"postalCode": "571544",
+	"areaNumber": "469613"
+}, {
+	"id": 469614,
+	"parentId": 469006,
+	"name": "南林农场",
+	"level": 3,
+	"postalCode": "571532",
+	"areaNumber": "469614"
+}, {
+	"id": 469615,
+	"parentId": 469006,
+	"name": "东兴农场",
+	"level": 3,
+	"postalCode": "571539",
+	"areaNumber": "469615"
+}, {
+	"id": 469616,
+	"parentId": 469006,
+	"name": "东和农场",
+	"level": 3,
+	"postalCode": "571534",
+	"areaNumber": "469616"
+}, {
+	"id": 469617,
+	"parentId": 469006,
+	"name": "新中农场",
+	"level": 3,
+	"postalCode": "571536",
+	"areaNumber": "469617"
+}, {
+	"id": 469618,
+	"parentId": 469006,
+	"name": "兴隆华侨农场",
+	"level": 3,
+	"postalCode": "571533",
+	"areaNumber": "469618"
+}, {
+	"id": 469701,
+	"parentId": 469007,
+	"name": "八所镇",
+	"level": 3,
+	"postalCode": "572699",
+	"areaNumber": "469701"
+}, {
+	"id": 469702,
+	"parentId": 469007,
+	"name": "东河镇",
+	"level": 3,
+	"postalCode": "572626",
+	"areaNumber": "469702"
+}, {
+	"id": 469703,
+	"parentId": 469007,
+	"name": "大田镇",
+	"level": 3,
+	"postalCode": "572624",
+	"areaNumber": "469703"
+}, {
+	"id": 469704,
+	"parentId": 469007,
+	"name": "感城镇",
+	"level": 3,
+	"postalCode": "572633",
+	"areaNumber": "469704"
+}, {
+	"id": 469705,
+	"parentId": 469007,
+	"name": "板桥镇",
+	"level": 3,
+	"postalCode": "572634",
+	"areaNumber": "469705"
+}, {
+	"id": 469706,
+	"parentId": 469007,
+	"name": "三家镇",
+	"level": 3,
+	"postalCode": "572623",
+	"areaNumber": "469706"
+}, {
+	"id": 469707,
+	"parentId": 469007,
+	"name": "四更镇",
+	"level": 3,
+	"postalCode": "572622",
+	"areaNumber": "469707"
+}, {
+	"id": 469708,
+	"parentId": 469007,
+	"name": "新龙镇",
+	"level": 3,
+	"postalCode": "572632",
+	"areaNumber": "469708"
+}, {
+	"id": 469709,
+	"parentId": 469007,
+	"name": "天安乡",
+	"level": 3,
+	"postalCode": "572626",
+	"areaNumber": "469709"
+}, {
+	"id": 469710,
+	"parentId": 469007,
+	"name": "江边乡",
+	"level": 3,
+	"postalCode": "572628",
+	"areaNumber": "469710"
+}, {
+	"id": 469711,
+	"parentId": 469007,
+	"name": "广坝农场",
+	"level": 3,
+	"postalCode": "572626",
+	"areaNumber": "469711"
+}, {
+	"id": 469712,
+	"parentId": 469007,
+	"name": "东方华侨农场",
+	"level": 3,
+	"postalCode": "572632",
+	"areaNumber": "469712"
+}, {
+	"id": 469801,
+	"parentId": 469021,
+	"name": "定城镇",
+	"level": 3,
+	"postalCode": "571299",
+	"areaNumber": "469801"
+}, {
+	"id": 469802,
+	"parentId": 469021,
+	"name": "新竹镇",
+	"level": 3,
+	"postalCode": "571236",
+	"areaNumber": "469802"
+}, {
+	"id": 469803,
+	"parentId": 469021,
+	"name": "龙湖镇",
+	"level": 3,
+	"postalCode": "571222",
+	"areaNumber": "469803"
+}, {
+	"id": 469804,
+	"parentId": 469021,
+	"name": "雷鸣镇",
+	"level": 3,
+	"postalCode": "571225",
+	"areaNumber": "469804"
+}, {
+	"id": 469805,
+	"parentId": 469021,
+	"name": "龙门镇",
+	"level": 3,
+	"postalCode": "571226",
+	"areaNumber": "469805"
+}, {
+	"id": 469806,
+	"parentId": 469021,
+	"name": "龙河镇",
+	"level": 3,
+	"postalCode": "571231",
+	"areaNumber": "469806"
+}, {
+	"id": 469807,
+	"parentId": 469021,
+	"name": "岭口镇",
+	"level": 3,
+	"postalCode": "571227",
+	"areaNumber": "469807"
+}, {
+	"id": 469808,
+	"parentId": 469021,
+	"name": "翰林镇",
+	"level": 3,
+	"postalCode": "571228",
+	"areaNumber": "469808"
+}, {
+	"id": 469809,
+	"parentId": 469021,
+	"name": "富文镇",
+	"level": 3,
+	"postalCode": "571234",
+	"areaNumber": "469809"
+}, {
+	"id": 469810,
+	"parentId": 469021,
+	"name": "黄竹镇",
+	"level": 3,
+	"postalCode": "571224",
+	"areaNumber": "469810"
+}, {
+	"id": 469811,
+	"parentId": 469021,
+	"name": "金鸡岭农场",
+	"level": 3,
+	"postalCode": "571200",
+	"areaNumber": "469811"
+}, {
+	"id": 469812,
+	"parentId": 469021,
+	"name": "中瑞农场",
+	"level": 3,
+	"postalCode": "571200",
+	"areaNumber": "469812"
+}, {
+	"id": 469813,
+	"parentId": 469021,
+	"name": "南海农场",
+	"level": 3,
+	"postalCode": "571200",
+	"areaNumber": "469813"
+}, {
+	"id": 469814,
+	"parentId": 469021,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "571200",
+	"areaNumber": "469814"
+}, {
+	"id": 469821,
+	"parentId": 469022,
+	"name": "屯城镇",
+	"level": 3,
+	"postalCode": "571699",
+	"areaNumber": "469821"
+}, {
+	"id": 469822,
+	"parentId": 469022,
+	"name": "新兴镇",
+	"level": 3,
+	"postalCode": "571621",
+	"areaNumber": "469822"
+}, {
+	"id": 469823,
+	"parentId": 469022,
+	"name": "枫木镇",
+	"level": 3,
+	"postalCode": "571627",
+	"areaNumber": "469823"
+}, {
+	"id": 469824,
+	"parentId": 469022,
+	"name": "乌坡镇",
+	"level": 3,
+	"postalCode": "571626",
+	"areaNumber": "469824"
+}, {
+	"id": 469825,
+	"parentId": 469022,
+	"name": "南吕镇",
+	"level": 3,
+	"postalCode": "571625",
+	"areaNumber": "469825"
+}, {
+	"id": 469826,
+	"parentId": 469022,
+	"name": "南坤镇",
+	"level": 3,
+	"postalCode": "571632",
+	"areaNumber": "469826"
+}, {
+	"id": 469827,
+	"parentId": 469022,
+	"name": "坡心镇",
+	"level": 3,
+	"postalCode": "571629",
+	"areaNumber": "469827"
+}, {
+	"id": 469828,
+	"parentId": 469022,
+	"name": "西昌镇",
+	"level": 3,
+	"postalCode": "571636",
+	"areaNumber": "469828"
+}, {
+	"id": 469829,
+	"parentId": 469022,
+	"name": "中建农场",
+	"level": 3,
+	"postalCode": "571624",
+	"areaNumber": "469829"
+}, {
+	"id": 469830,
+	"parentId": 469022,
+	"name": "中坤农场",
+	"level": 3,
+	"postalCode": "571600",
+	"areaNumber": "469830"
+}, {
+	"id": 469831,
+	"parentId": 469022,
+	"name": "县城内",
+	"level": 3,
+	"postalCode": "571600",
+	"areaNumber": "469831"
+}, {
+	"id": 469841,
+	"parentId": 469023,
+	"name": "金江镇",
+	"level": 3,
+	"postalCode": "571999",
+	"areaNumber": "469841"
+}, {
+	"id": 469842,
+	"parentId": 469023,
+	"name": "老城镇",
+	"level": 3,
+	"postalCode": "571924",
+	"areaNumber": "469842"
+}, {
+	"id": 469843,
+	"parentId": 469023,
+	"name": "瑞溪镇",
+	"level": 3,
+	"postalCode": "571933",
+	"areaNumber": "469843"
+}, {
+	"id": 469844,
+	"parentId": 469023,
+	"name": "永发镇",
+	"level": 3,
+	"postalCode": "571929",
+	"areaNumber": "469844"
+}, {
+	"id": 469845,
+	"parentId": 469023,
+	"name": "加乐镇",
+	"level": 3,
+	"postalCode": "571938",
+	"areaNumber": "469845"
+}, {
+	"id": 469846,
+	"parentId": 469023,
+	"name": "文儒镇",
+	"level": 3,
+	"postalCode": "571937",
+	"areaNumber": "469846"
+}, {
+	"id": 469847,
+	"parentId": 469023,
+	"name": "中兴镇",
+	"level": 3,
+	"postalCode": "571944",
+	"areaNumber": "469847"
+}, {
+	"id": 469848,
+	"parentId": 469023,
+	"name": "仁兴镇",
+	"level": 3,
+	"postalCode": "571941",
+	"areaNumber": "469848"
+}, {
+	"id": 469849,
+	"parentId": 469023,
+	"name": "福山镇",
+	"level": 3,
+	"postalCode": "571921",
+	"areaNumber": "469849"
+}, {
+	"id": 469850,
+	"parentId": 469023,
+	"name": "桥头镇",
+	"level": 3,
+	"postalCode": "571922",
+	"areaNumber": "469850"
+}, {
+	"id": 469851,
+	"parentId": 469023,
+	"name": "大丰镇",
+	"level": 3,
+	"postalCode": "571926",
+	"areaNumber": "469851"
+}, {
+	"id": 469852,
+	"parentId": 469023,
+	"name": "红光农场",
+	"level": 3,
+	"postalCode": "571921",
+	"areaNumber": "469852"
+}, {
+	"id": 469853,
+	"parentId": 469023,
+	"name": "西达农场",
+	"level": 3,
+	"postalCode": "571941",
+	"areaNumber": "469853"
+}, {
+	"id": 469854,
+	"parentId": 469023,
+	"name": "金安农场",
+	"level": 3,
+	"postalCode": "571932",
+	"areaNumber": "469854"
+}, {
+	"id": 469855,
+	"parentId": 469023,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "571900",
+	"areaNumber": "469855"
+}, {
+	"id": 469861,
+	"parentId": 469024,
+	"name": "临城镇",
+	"level": 3,
+	"postalCode": "571899",
+	"areaNumber": "469861"
+}, {
+	"id": 469862,
+	"parentId": 469024,
+	"name": "波莲镇",
+	"level": 3,
+	"postalCode": "571834",
+	"areaNumber": "469862"
+}, {
+	"id": 469863,
+	"parentId": 469024,
+	"name": "东英镇",
+	"level": 3,
+	"postalCode": "571837",
+	"areaNumber": "469863"
+}, {
+	"id": 469864,
+	"parentId": 469024,
+	"name": "博厚镇",
+	"level": 3,
+	"postalCode": "571821",
+	"areaNumber": "469864"
+}, {
+	"id": 469865,
+	"parentId": 469024,
+	"name": "皇桐镇",
+	"level": 3,
+	"postalCode": "571823",
+	"areaNumber": "469865"
+}, {
+	"id": 469866,
+	"parentId": 469024,
+	"name": "多文镇",
+	"level": 3,
+	"postalCode": "571825",
+	"areaNumber": "469866"
+}, {
+	"id": 469867,
+	"parentId": 469024,
+	"name": "和舍镇",
+	"level": 3,
+	"postalCode": "571831",
+	"areaNumber": "469867"
+}, {
+	"id": 469868,
+	"parentId": 469024,
+	"name": "南宝镇",
+	"level": 3,
+	"postalCode": "571832",
+	"areaNumber": "469868"
+}, {
+	"id": 469869,
+	"parentId": 469024,
+	"name": "新盈镇",
+	"level": 3,
+	"postalCode": "571835",
+	"areaNumber": "469869"
+}, {
+	"id": 469870,
+	"parentId": 469024,
+	"name": "调楼镇",
+	"level": 3,
+	"postalCode": "571836",
+	"areaNumber": "469870"
+}, {
+	"id": 469871,
+	"parentId": 469024,
+	"name": "加来镇",
+	"level": 3,
+	"postalCode": "571833",
+	"areaNumber": "469871"
+}, {
+	"id": 469872,
+	"parentId": 469024,
+	"name": "红华农场",
+	"level": 3,
+	"postalCode": "571825",
+	"areaNumber": "469872"
+}, {
+	"id": 469873,
+	"parentId": 469024,
+	"name": "加来农场",
+	"level": 3,
+	"postalCode": "571833",
+	"areaNumber": "469873"
+}, {
+	"id": 469874,
+	"parentId": 469024,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "571800",
+	"areaNumber": "469874"
+}, {
+	"id": 469881,
+	"parentId": 469025,
+	"name": "牙叉镇",
+	"level": 3,
+	"postalCode": "572800",
+	"areaNumber": "469881"
+}, {
+	"id": 469882,
+	"parentId": 469025,
+	"name": "七坊镇",
+	"level": 3,
+	"postalCode": "572818",
+	"areaNumber": "469882"
+}, {
+	"id": 469883,
+	"parentId": 469025,
+	"name": "邦溪镇",
+	"level": 3,
+	"postalCode": "572821",
+	"areaNumber": "469883"
+}, {
+	"id": 469884,
+	"parentId": 469025,
+	"name": "打安镇",
+	"level": 3,
+	"postalCode": "572828",
+	"areaNumber": "469884"
+}, {
+	"id": 469885,
+	"parentId": 469025,
+	"name": "细水乡",
+	"level": 3,
+	"postalCode": "572811",
+	"areaNumber": "469885"
+}, {
+	"id": 469886,
+	"parentId": 469025,
+	"name": "元门乡",
+	"level": 3,
+	"postalCode": "572813",
+	"areaNumber": "469886"
+}, {
+	"id": 469887,
+	"parentId": 469025,
+	"name": "南开乡",
+	"level": 3,
+	"postalCode": "572814",
+	"areaNumber": "469887"
+}, {
+	"id": 469888,
+	"parentId": 469025,
+	"name": "阜龙乡",
+	"level": 3,
+	"postalCode": "572829",
+	"areaNumber": "469888"
+}, {
+	"id": 469889,
+	"parentId": 469025,
+	"name": "青松乡",
+	"level": 3,
+	"postalCode": "572816",
+	"areaNumber": "469889"
+}, {
+	"id": 469890,
+	"parentId": 469025,
+	"name": "金波乡",
+	"level": 3,
+	"postalCode": "572817",
+	"areaNumber": "469890"
+}, {
+	"id": 469891,
+	"parentId": 469025,
+	"name": "荣邦乡",
+	"level": 3,
+	"postalCode": "572823",
+	"areaNumber": "469891"
+}, {
+	"id": 469892,
+	"parentId": 469025,
+	"name": "白沙农场",
+	"level": 3,
+	"postalCode": "572899",
+	"areaNumber": "469892"
+}, {
+	"id": 469893,
+	"parentId": 469025,
+	"name": "龙江农场",
+	"level": 3,
+	"postalCode": "572818",
+	"areaNumber": "469893"
+}, {
+	"id": 469894,
+	"parentId": 469025,
+	"name": "邦溪农场",
+	"level": 3,
+	"postalCode": "572821",
+	"areaNumber": "469894"
+}, {
+	"id": 469895,
+	"parentId": 469025,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "572800",
+	"areaNumber": "469895"
+}, {
+	"id": 469901,
+	"parentId": 469026,
+	"name": "石碌镇",
+	"level": 3,
+	"postalCode": "572799",
+	"areaNumber": "469901"
+}, {
+	"id": 469902,
+	"parentId": 469026,
+	"name": "叉河镇",
+	"level": 3,
+	"postalCode": "572724",
+	"areaNumber": "469902"
+}, {
+	"id": 469903,
+	"parentId": 469026,
+	"name": "十月田镇",
+	"level": 3,
+	"postalCode": "572726",
+	"areaNumber": "469903"
+}, {
+	"id": 469904,
+	"parentId": 469026,
+	"name": "乌烈镇",
+	"level": 3,
+	"postalCode": "572728",
+	"areaNumber": "469904"
+}, {
+	"id": 469905,
+	"parentId": 469026,
+	"name": "海尾镇",
+	"level": 3,
+	"postalCode": "572732",
+	"areaNumber": "469905"
+}, {
+	"id": 469906,
+	"parentId": 469026,
+	"name": "南罗镇",
+	"level": 3,
+	"postalCode": "572733",
+	"areaNumber": "469906"
+}, {
+	"id": 469907,
+	"parentId": 469026,
+	"name": "太坡镇",
+	"level": 3,
+	"postalCode": "572799",
+	"areaNumber": "469907"
+}, {
+	"id": 469908,
+	"parentId": 469026,
+	"name": "昌化镇",
+	"level": 3,
+	"postalCode": "572731",
+	"areaNumber": "469908"
+}, {
+	"id": 469909,
+	"parentId": 469026,
+	"name": "七叉镇",
+	"level": 3,
+	"postalCode": "572722",
+	"areaNumber": "469909"
+}, {
+	"id": 469910,
+	"parentId": 469026,
+	"name": "保平乡",
+	"level": 3,
+	"postalCode": "572726",
+	"areaNumber": "469910"
+}, {
+	"id": 469911,
+	"parentId": 469026,
+	"name": "昌城乡",
+	"level": 3,
+	"postalCode": "572731",
+	"areaNumber": "469911"
+}, {
+	"id": 469912,
+	"parentId": 469026,
+	"name": "王下乡",
+	"level": 3,
+	"postalCode": "572722",
+	"areaNumber": "469912"
+}, {
+	"id": 469913,
+	"parentId": 469026,
+	"name": "霸王岭林场",
+	"level": 3,
+	"postalCode": "572722",
+	"areaNumber": "469913"
+}, {
+	"id": 469914,
+	"parentId": 469026,
+	"name": "红林农场",
+	"level": 3,
+	"postalCode": "572724",
+	"areaNumber": "469914"
+}, {
+	"id": 469915,
+	"parentId": 469026,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "572700",
+	"areaNumber": "469915"
+}, {
+	"id": 469920,
+	"parentId": 469027,
+	"name": "抱由镇",
+	"level": 3,
+	"postalCode": "572599",
+	"areaNumber": "469920"
+}, {
+	"id": 469921,
+	"parentId": 469027,
+	"name": "万冲镇",
+	"level": 3,
+	"postalCode": "572521",
+	"areaNumber": "469921"
+}, {
+	"id": 469922,
+	"parentId": 469027,
+	"name": "大安镇",
+	"level": 3,
+	"postalCode": "572523",
+	"areaNumber": "469922"
+}, {
+	"id": 469923,
+	"parentId": 469027,
+	"name": "志仲镇",
+	"level": 3,
+	"postalCode": "572524",
+	"areaNumber": "469923"
+}, {
+	"id": 469924,
+	"parentId": 469027,
+	"name": "千家镇",
+	"level": 3,
+	"postalCode": "572531",
+	"areaNumber": "469924"
+}, {
+	"id": 469925,
+	"parentId": 469027,
+	"name": "九所镇",
+	"level": 3,
+	"postalCode": "572533",
+	"areaNumber": "469925"
+}, {
+	"id": 469926,
+	"parentId": 469027,
+	"name": "利国镇",
+	"level": 3,
+	"postalCode": "572534",
+	"areaNumber": "469926"
+}, {
+	"id": 469927,
+	"parentId": 469027,
+	"name": "黄流镇",
+	"level": 3,
+	"postalCode": "572536",
+	"areaNumber": "469927"
+}, {
+	"id": 469928,
+	"parentId": 469027,
+	"name": "佛罗镇",
+	"level": 3,
+	"postalCode": "572541",
+	"areaNumber": "469928"
+}, {
+	"id": 469929,
+	"parentId": 469027,
+	"name": "尖峰镇",
+	"level": 3,
+	"postalCode": "572542",
+	"areaNumber": "469929"
+}, {
+	"id": 469930,
+	"parentId": 469027,
+	"name": "莺歌海镇",
+	"level": 3,
+	"postalCode": "572539",
+	"areaNumber": "469930"
+}, {
+	"id": 469931,
+	"parentId": 469027,
+	"name": "乐中农场",
+	"level": 3,
+	"postalCode": "572522",
+	"areaNumber": "469931"
+}, {
+	"id": 469932,
+	"parentId": 469027,
+	"name": "山荣农场",
+	"level": 3,
+	"postalCode": "572501",
+	"areaNumber": "469932"
+}, {
+	"id": 469933,
+	"parentId": 469027,
+	"name": "乐光农场",
+	"level": 3,
+	"postalCode": "572529",
+	"areaNumber": "469933"
+}, {
+	"id": 469934,
+	"parentId": 469027,
+	"name": "报伦农场",
+	"level": 3,
+	"postalCode": "572543",
+	"areaNumber": "469934"
+}, {
+	"id": 469935,
+	"parentId": 469027,
+	"name": "福报农场",
+	"level": 3,
+	"postalCode": "572532",
+	"areaNumber": "469935"
+}, {
+	"id": 469936,
+	"parentId": 469027,
+	"name": "保国农场",
+	"level": 3,
+	"postalCode": "572525",
+	"areaNumber": "469936"
+}, {
+	"id": 469937,
+	"parentId": 469027,
+	"name": "保显农场",
+	"level": 3,
+	"postalCode": "572526",
+	"areaNumber": "469937"
+}, {
+	"id": 469938,
+	"parentId": 469027,
+	"name": "尖峰岭林业",
+	"level": 3,
+	"postalCode": "572500",
+	"areaNumber": "469938"
+}, {
+	"id": 469939,
+	"parentId": 469027,
+	"name": "莺歌海盐场",
+	"level": 3,
+	"postalCode": "572500",
+	"areaNumber": "469939"
+}, {
+	"id": 469940,
+	"parentId": 469027,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "572500",
+	"areaNumber": "469940"
+}, {
+	"id": 469941,
+	"parentId": 469028,
+	"name": "椰林镇",
+	"level": 3,
+	"postalCode": "572499",
+	"areaNumber": "469941"
+}, {
+	"id": 469942,
+	"parentId": 469028,
+	"name": "光坡镇",
+	"level": 3,
+	"postalCode": "572422",
+	"areaNumber": "469942"
+}, {
+	"id": 469943,
+	"parentId": 469028,
+	"name": "三才镇",
+	"level": 3,
+	"postalCode": "572424",
+	"areaNumber": "469943"
+}, {
+	"id": 469944,
+	"parentId": 469028,
+	"name": "英州镇",
+	"level": 3,
+	"postalCode": "572427",
+	"areaNumber": "469944"
+}, {
+	"id": 469945,
+	"parentId": 469028,
+	"name": "隆广镇",
+	"level": 3,
+	"postalCode": "572429",
+	"areaNumber": "469945"
+}, {
+	"id": 469946,
+	"parentId": 469028,
+	"name": "文罗镇",
+	"level": 3,
+	"postalCode": "572429",
+	"areaNumber": "469946"
+}, {
+	"id": 469947,
+	"parentId": 469028,
+	"name": "本号镇",
+	"level": 3,
+	"postalCode": "572434",
+	"areaNumber": "469947"
+}, {
+	"id": 469948,
+	"parentId": 469028,
+	"name": "新村镇",
+	"level": 3,
+	"postalCode": "572426",
+	"areaNumber": "469948"
+}, {
+	"id": 469949,
+	"parentId": 469028,
+	"name": "黎安镇",
+	"level": 3,
+	"postalCode": "572423",
+	"areaNumber": "469949"
+}, {
+	"id": 469950,
+	"parentId": 469028,
+	"name": "提蒙乡",
+	"level": 3,
+	"postalCode": "572435",
+	"areaNumber": "469950"
+}, {
+	"id": 469951,
+	"parentId": 469028,
+	"name": "群英乡",
+	"level": 3,
+	"postalCode": "572431",
+	"areaNumber": "469951"
+}, {
+	"id": 469952,
+	"parentId": 469028,
+	"name": "岭门农场",
+	"level": 3,
+	"postalCode": "572421",
+	"areaNumber": "469952"
+}, {
+	"id": 469953,
+	"parentId": 469028,
+	"name": "南平农场",
+	"level": 3,
+	"postalCode": "572431",
+	"areaNumber": "469953"
+}, {
+	"id": 469954,
+	"parentId": 469028,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "572400",
+	"areaNumber": "469954"
+}, {
+	"id": 469961,
+	"parentId": 469029,
+	"name": "保城镇",
+	"level": 3,
+	"postalCode": "572399",
+	"areaNumber": "469961"
+}, {
+	"id": 469962,
+	"parentId": 469029,
+	"name": "什玲镇",
+	"level": 3,
+	"postalCode": "572312",
+	"areaNumber": "469962"
+}, {
+	"id": 469963,
+	"parentId": 469029,
+	"name": "加茂镇",
+	"level": 3,
+	"postalCode": "572313",
+	"areaNumber": "469963"
+}, {
+	"id": 469964,
+	"parentId": 469029,
+	"name": "响水镇",
+	"level": 3,
+	"postalCode": "572319",
+	"areaNumber": "469964"
+}, {
+	"id": 469965,
+	"parentId": 469029,
+	"name": "新政镇",
+	"level": 3,
+	"postalCode": "572318",
+	"areaNumber": "469965"
+}, {
+	"id": 469966,
+	"parentId": 469029,
+	"name": "三道镇",
+	"level": 3,
+	"postalCode": "572316",
+	"areaNumber": "469966"
+}, {
+	"id": 469967,
+	"parentId": 469029,
+	"name": "六弓乡",
+	"level": 3,
+	"postalCode": "572314",
+	"areaNumber": "469967"
+}, {
+	"id": 469968,
+	"parentId": 469029,
+	"name": "南林乡",
+	"level": 3,
+	"postalCode": "572317",
+	"areaNumber": "469968"
+}, {
+	"id": 469969,
+	"parentId": 469029,
+	"name": "毛感乡",
+	"level": 3,
+	"postalCode": "572322",
+	"areaNumber": "469969"
+}, {
+	"id": 469970,
+	"parentId": 469029,
+	"name": "新星农场",
+	"level": 3,
+	"postalCode": "572399",
+	"areaNumber": "469970"
+}, {
+	"id": 469971,
+	"parentId": 469029,
+	"name": "金江农场",
+	"level": 3,
+	"postalCode": "572319",
+	"areaNumber": "469971"
+}, {
+	"id": 469972,
+	"parentId": 469029,
+	"name": "三道农场",
+	"level": 3,
+	"postalCode": "572316",
+	"areaNumber": "469972"
+}, {
+	"id": 469981,
+	"parentId": 469030,
+	"name": "营根镇",
+	"level": 3,
+	"postalCode": "572999",
+	"areaNumber": "469981"
+}, {
+	"id": 469982,
+	"parentId": 469030,
+	"name": "湾岭镇",
+	"level": 3,
+	"postalCode": "572912",
+	"areaNumber": "469982"
+}, {
+	"id": 469983,
+	"parentId": 469030,
+	"name": "黎母山镇",
+	"level": 3,
+	"postalCode": "572929",
+	"areaNumber": "469983"
+}, {
+	"id": 469984,
+	"parentId": 469030,
+	"name": "和平镇",
+	"level": 3,
+	"postalCode": "572918",
+	"areaNumber": "469984"
+}, {
+	"id": 469985,
+	"parentId": 469030,
+	"name": "长征镇",
+	"level": 3,
+	"postalCode": "572917",
+	"areaNumber": "469985"
+}, {
+	"id": 469986,
+	"parentId": 469030,
+	"name": "红毛镇",
+	"level": 3,
+	"postalCode": "572933",
+	"areaNumber": "469986"
+}, {
+	"id": 469987,
+	"parentId": 469030,
+	"name": "中平镇",
+	"level": 3,
+	"postalCode": "572915",
+	"areaNumber": "469987"
+}, {
+	"id": 469988,
+	"parentId": 469030,
+	"name": "上安乡",
+	"level": 3,
+	"postalCode": "572919",
+	"areaNumber": "469988"
+}, {
+	"id": 469989,
+	"parentId": 469030,
+	"name": "什运乡",
+	"level": 3,
+	"postalCode": "572923",
+	"areaNumber": "469989"
+}, {
+	"id": 469990,
+	"parentId": 469030,
+	"name": "吊罗山乡",
+	"level": 3,
+	"postalCode": "572921",
+	"areaNumber": "469990"
+}, {
+	"id": 469991,
+	"parentId": 469030,
+	"name": "阳江农场",
+	"level": 3,
+	"postalCode": "572928",
+	"areaNumber": "469991"
+}, {
+	"id": 469992,
+	"parentId": 469030,
+	"name": "乌石农场",
+	"level": 3,
+	"postalCode": "572911",
+	"areaNumber": "469992"
+}, {
+	"id": 469993,
+	"parentId": 469030,
+	"name": "加钗农场",
+	"level": 3,
+	"postalCode": "572925",
+	"areaNumber": "469993"
+}, {
+	"id": 469994,
+	"parentId": 469030,
+	"name": "长征农场",
+	"level": 3,
+	"postalCode": "572917",
+	"areaNumber": "469994"
+}, {
+	"id": 469995,
+	"parentId": 469030,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "572900",
+	"areaNumber": "469995"
+}, {
+	"id": 500000,
+	"parentId": 100000,
+	"name": "重庆",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "500000"
+}, {
+	"id": 500100,
+	"parentId": 500000,
+	"name": "重庆市",
+	"level": 2,
+	"postalCode": "400000",
+	"areaNumber": "500100"
+}, {
+	"id": 500101,
+	"parentId": 500100,
+	"name": "万州区",
+	"level": 3,
+	"postalCode": "404100",
+	"areaNumber": "500101"
+}, {
+	"id": 500102,
+	"parentId": 500100,
+	"name": "涪陵区",
+	"level": 3,
+	"postalCode": "408000",
+	"areaNumber": "500102"
+}, {
+	"id": 500103,
+	"parentId": 500100,
+	"name": "渝中区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500103"
+}, {
+	"id": 500104,
+	"parentId": 500100,
+	"name": "大渡口区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500104"
+}, {
+	"id": 500105,
+	"parentId": 500100,
+	"name": "江北区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500105"
+}, {
+	"id": 500106,
+	"parentId": 500100,
+	"name": "沙坪坝区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500106"
+}, {
+	"id": 500107,
+	"parentId": 500100,
+	"name": "九龙坡区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500107"
+}, {
+	"id": 500108,
+	"parentId": 500100,
+	"name": "南岸区",
+	"level": 3,
+	"postalCode": "400000",
+	"areaNumber": "500108"
+}, {
+	"id": 500109,
+	"parentId": 500100,
+	"name": "北碚区",
+	"level": 3,
+	"postalCode": "400700",
+	"areaNumber": "500109"
+}, {
+	"id": 500110,
+	"parentId": 500100,
+	"name": "綦江区",
+	"level": 3,
+	"postalCode": "400800",
+	"areaNumber": "500110"
+}, {
+	"id": 500111,
+	"parentId": 500100,
+	"name": "大足区",
+	"level": 3,
+	"postalCode": "400900",
+	"areaNumber": "500111"
+}, {
+	"id": 500112,
+	"parentId": 500100,
+	"name": "渝北区",
+	"level": 3,
+	"postalCode": "401120",
+	"areaNumber": "500112"
+}, {
+	"id": 500113,
+	"parentId": 500100,
+	"name": "巴南区",
+	"level": 3,
+	"postalCode": "401320",
+	"areaNumber": "500113"
+}, {
+	"id": 500114,
+	"parentId": 500100,
+	"name": "黔江区",
+	"level": 3,
+	"postalCode": "409000",
+	"areaNumber": "500114"
+}, {
+	"id": 500115,
+	"parentId": 500100,
+	"name": "长寿区",
+	"level": 3,
+	"postalCode": "401220",
+	"areaNumber": "500115"
+}, {
+	"id": 500116,
+	"parentId": 500100,
+	"name": "江津区",
+	"level": 3,
+	"postalCode": "402260",
+	"areaNumber": "500116"
+}, {
+	"id": 500117,
+	"parentId": 500100,
+	"name": "合川区",
+	"level": 3,
+	"postalCode": "401520",
+	"areaNumber": "500117"
+}, {
+	"id": 500118,
+	"parentId": 500100,
+	"name": "永川区",
+	"level": 3,
+	"postalCode": "402160",
+	"areaNumber": "500118"
+}, {
+	"id": 500119,
+	"parentId": 500100,
+	"name": "南川区",
+	"level": 3,
+	"postalCode": "408400",
+	"areaNumber": "500119"
+}, {
+	"id": 500120,
+	"parentId": 500100,
+	"name": "璧山区",
+	"level": 3,
+	"postalCode": "402760",
+	"areaNumber": "500120"
+}, {
+	"id": 500151,
+	"parentId": 500100,
+	"name": "铜梁区",
+	"level": 3,
+	"postalCode": "402560",
+	"areaNumber": "500151"
+}, {
+	"id": 500152,
+	"parentId": 500100,
+	"name": "潼南区",
+	"level": 3,
+	"postalCode": "402660",
+	"areaNumber": "500152"
+}, {
+	"id": 500153,
+	"parentId": 500100,
+	"name": "荣昌区",
+	"level": 3,
+	"postalCode": "402460",
+	"areaNumber": "500153"
+}, {
+	"id": 500154,
+	"parentId": 500100,
+	"name": "开州区",
+	"level": 3,
+	"postalCode": "405400",
+	"areaNumber": "500154"
+}, {
+	"id": 500155,
+	"parentId": 500100,
+	"name": "梁平区",
+	"level": 3,
+	"postalCode": "405200",
+	"areaNumber": "500155"
+}, {
+	"id": 500156,
+	"parentId": 500100,
+	"name": "武隆区",
+	"level": 3,
+	"postalCode": "408500",
+	"areaNumber": "500156"
+}, {
+	"id": 500229,
+	"parentId": 500100,
+	"name": "城口县",
+	"level": 3,
+	"postalCode": "405900",
+	"areaNumber": "500229"
+}, {
+	"id": 500230,
+	"parentId": 500100,
+	"name": "丰都县",
+	"level": 3,
+	"postalCode": "408200",
+	"areaNumber": "500230"
+}, {
+	"id": 500231,
+	"parentId": 500100,
+	"name": "垫江县",
+	"level": 3,
+	"postalCode": "408300",
+	"areaNumber": "500231"
+}, {
+	"id": 500233,
+	"parentId": 500100,
+	"name": "忠县",
+	"level": 3,
+	"postalCode": "404300",
+	"areaNumber": "500233"
+}, {
+	"id": 500235,
+	"parentId": 500100,
+	"name": "云阳县",
+	"level": 3,
+	"postalCode": "404500",
+	"areaNumber": "500235"
+}, {
+	"id": 500236,
+	"parentId": 500100,
+	"name": "奉节县",
+	"level": 3,
+	"postalCode": "404600",
+	"areaNumber": "500236"
+}, {
+	"id": 500237,
+	"parentId": 500100,
+	"name": "巫山县",
+	"level": 3,
+	"postalCode": "404700",
+	"areaNumber": "500237"
+}, {
+	"id": 500238,
+	"parentId": 500100,
+	"name": "巫溪县",
+	"level": 3,
+	"postalCode": "405800",
+	"areaNumber": "500238"
+}, {
+	"id": 500240,
+	"parentId": 500100,
+	"name": "石柱土家族自治县",
+	"level": 3,
+	"postalCode": "409100",
+	"areaNumber": "500240"
+}, {
+	"id": 500241,
+	"parentId": 500100,
+	"name": "秀山土家族苗族自治县",
+	"level": 3,
+	"postalCode": "409900",
+	"areaNumber": "500241"
+}, {
+	"id": 500242,
+	"parentId": 500100,
+	"name": "酉阳土家族苗族自治县",
+	"level": 3,
+	"postalCode": "409800",
+	"areaNumber": "500242"
+}, {
+	"id": 500243,
+	"parentId": 500100,
+	"name": "彭水苗族土家族自治县",
+	"level": 3,
+	"postalCode": "409600",
+	"areaNumber": "500243"
+}, {
+	"id": 500300,
+	"parentId": 500100,
+	"name": "两江新区",
+	"level": 3,
+	"postalCode": "401147",
+	"areaNumber": "500300"
+}, {
+	"id": 500301,
+	"parentId": 500100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "400039",
+	"areaNumber": "500301"
+}, {
+	"id": 500302,
+	"parentId": 500100,
+	"name": "璧山高新区",
+	"level": 3,
+	"postalCode": "402760",
+	"areaNumber": "500302"
+}, {
+	"id": 510000,
+	"parentId": 100000,
+	"name": "四川省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "510000"
+}, {
+	"id": 510100,
+	"parentId": 510000,
+	"name": "成都市",
+	"level": 2,
+	"postalCode": "610000",
+	"areaNumber": "510100"
+}, {
+	"id": 510104,
+	"parentId": 510100,
+	"name": "锦江区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510104"
+}, {
+	"id": 510105,
+	"parentId": 510100,
+	"name": "青羊区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510105"
+}, {
+	"id": 510106,
+	"parentId": 510100,
+	"name": "金牛区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510106"
+}, {
+	"id": 510107,
+	"parentId": 510100,
+	"name": "武侯区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510107"
+}, {
+	"id": 510108,
+	"parentId": 510100,
+	"name": "成华区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510108"
+}, {
+	"id": 510112,
+	"parentId": 510100,
+	"name": "龙泉驿区",
+	"level": 3,
+	"postalCode": "610100",
+	"areaNumber": "510112"
+}, {
+	"id": 510113,
+	"parentId": 510100,
+	"name": "青白江区",
+	"level": 3,
+	"postalCode": "610300",
+	"areaNumber": "510113"
+}, {
+	"id": 510114,
+	"parentId": 510100,
+	"name": "新都区",
+	"level": 3,
+	"postalCode": "610500",
+	"areaNumber": "510114"
+}, {
+	"id": 510115,
+	"parentId": 510100,
+	"name": "温江区",
+	"level": 3,
+	"postalCode": "611130",
+	"areaNumber": "510115"
+}, {
+	"id": 510116,
+	"parentId": 510100,
+	"name": "双流区",
+	"level": 3,
+	"postalCode": "610200",
+	"areaNumber": "510116"
+}, {
+	"id": 510117,
+	"parentId": 510100,
+	"name": "郫都区",
+	"level": 3,
+	"postalCode": "611730",
+	"areaNumber": "510117"
+}, {
+	"id": 510121,
+	"parentId": 510100,
+	"name": "金堂县",
+	"level": 3,
+	"postalCode": "610400",
+	"areaNumber": "510121"
+}, {
+	"id": 510129,
+	"parentId": 510100,
+	"name": "大邑县",
+	"level": 3,
+	"postalCode": "611300",
+	"areaNumber": "510129"
+}, {
+	"id": 510131,
+	"parentId": 510100,
+	"name": "蒲江县",
+	"level": 3,
+	"postalCode": "611600",
+	"areaNumber": "510131"
+}, {
+	"id": 510132,
+	"parentId": 510100,
+	"name": "新津县",
+	"level": 3,
+	"postalCode": "611400",
+	"areaNumber": "510132"
+}, {
+	"id": 510181,
+	"parentId": 510100,
+	"name": "都江堰市",
+	"level": 3,
+	"postalCode": "611800",
+	"areaNumber": "510181"
+}, {
+	"id": 510182,
+	"parentId": 510100,
+	"name": "彭州市",
+	"level": 3,
+	"postalCode": "611900",
+	"areaNumber": "510182"
+}, {
+	"id": 510183,
+	"parentId": 510100,
+	"name": "邛崃市",
+	"level": 3,
+	"postalCode": "611500",
+	"areaNumber": "510183"
+}, {
+	"id": 510184,
+	"parentId": 510100,
+	"name": "崇州市",
+	"level": 3,
+	"postalCode": "611200",
+	"areaNumber": "510184"
+}, {
+	"id": 510185,
+	"parentId": 510100,
+	"name": "简阳市",
+	"level": 3,
+	"postalCode": "641400",
+	"areaNumber": "510185"
+}, {
+	"id": 510186,
+	"parentId": 510100,
+	"name": "天府新区",
+	"level": 3,
+	"postalCode": "610000",
+	"areaNumber": "510186"
+}, {
+	"id": 510187,
+	"parentId": 510100,
+	"name": "高新南区",
+	"level": 3,
+	"postalCode": "610041",
+	"areaNumber": "510187"
+}, {
+	"id": 510188,
+	"parentId": 510100,
+	"name": "高新西区",
+	"level": 3,
+	"postalCode": "611731",
+	"areaNumber": "510188"
+}, {
+	"id": 510300,
+	"parentId": 510000,
+	"name": "自贡市",
+	"level": 2,
+	"postalCode": "643000",
+	"areaNumber": "510300"
+}, {
+	"id": 510302,
+	"parentId": 510300,
+	"name": "自流井区",
+	"level": 3,
+	"postalCode": "643000",
+	"areaNumber": "510302"
+}, {
+	"id": 510303,
+	"parentId": 510300,
+	"name": "贡井区",
+	"level": 3,
+	"postalCode": "643020",
+	"areaNumber": "510303"
+}, {
+	"id": 510304,
+	"parentId": 510300,
+	"name": "大安区",
+	"level": 3,
+	"postalCode": "643010",
+	"areaNumber": "510304"
+}, {
+	"id": 510311,
+	"parentId": 510300,
+	"name": "沿滩区",
+	"level": 3,
+	"postalCode": "643030",
+	"areaNumber": "510311"
+}, {
+	"id": 510321,
+	"parentId": 510300,
+	"name": "荣县",
+	"level": 3,
+	"postalCode": "643100",
+	"areaNumber": "510321"
+}, {
+	"id": 510322,
+	"parentId": 510300,
+	"name": "富顺县",
+	"level": 3,
+	"postalCode": "643200",
+	"areaNumber": "510322"
+}, {
+	"id": 510323,
+	"parentId": 510300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "643000",
+	"areaNumber": "510323"
+}, {
+	"id": 510400,
+	"parentId": 510000,
+	"name": "攀枝花市",
+	"level": 2,
+	"postalCode": "617000",
+	"areaNumber": "510400"
+}, {
+	"id": 510402,
+	"parentId": 510400,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "617000",
+	"areaNumber": "510402"
+}, {
+	"id": 510403,
+	"parentId": 510400,
+	"name": "西区",
+	"level": 3,
+	"postalCode": "617000",
+	"areaNumber": "510403"
+}, {
+	"id": 510411,
+	"parentId": 510400,
+	"name": "仁和区",
+	"level": 3,
+	"postalCode": "617000",
+	"areaNumber": "510411"
+}, {
+	"id": 510421,
+	"parentId": 510400,
+	"name": "米易县",
+	"level": 3,
+	"postalCode": "617200",
+	"areaNumber": "510421"
+}, {
+	"id": 510422,
+	"parentId": 510400,
+	"name": "盐边县",
+	"level": 3,
+	"postalCode": "617100",
+	"areaNumber": "510422"
+}, {
+	"id": 510500,
+	"parentId": 510000,
+	"name": "泸州市",
+	"level": 2,
+	"postalCode": "646000",
+	"areaNumber": "510500"
+}, {
+	"id": 510502,
+	"parentId": 510500,
+	"name": "江阳区",
+	"level": 3,
+	"postalCode": "646000",
+	"areaNumber": "510502"
+}, {
+	"id": 510503,
+	"parentId": 510500,
+	"name": "纳溪区",
+	"level": 3,
+	"postalCode": "646300",
+	"areaNumber": "510503"
+}, {
+	"id": 510504,
+	"parentId": 510500,
+	"name": "龙马潭区",
+	"level": 3,
+	"postalCode": "646000",
+	"areaNumber": "510504"
+}, {
+	"id": 510521,
+	"parentId": 510500,
+	"name": "泸县",
+	"level": 3,
+	"postalCode": "646100",
+	"areaNumber": "510521"
+}, {
+	"id": 510522,
+	"parentId": 510500,
+	"name": "合江县",
+	"level": 3,
+	"postalCode": "646200",
+	"areaNumber": "510522"
+}, {
+	"id": 510524,
+	"parentId": 510500,
+	"name": "叙永县",
+	"level": 3,
+	"postalCode": "646400",
+	"areaNumber": "510524"
+}, {
+	"id": 510525,
+	"parentId": 510500,
+	"name": "古蔺县",
+	"level": 3,
+	"postalCode": "646500",
+	"areaNumber": "510525"
+}, {
+	"id": 510600,
+	"parentId": 510000,
+	"name": "德阳市",
+	"level": 2,
+	"postalCode": "618000",
+	"areaNumber": "510600"
+}, {
+	"id": 510603,
+	"parentId": 510600,
+	"name": "旌阳区",
+	"level": 3,
+	"postalCode": "618000",
+	"areaNumber": "510603"
+}, {
+	"id": 510623,
+	"parentId": 510600,
+	"name": "中江县",
+	"level": 3,
+	"postalCode": "618100",
+	"areaNumber": "510623"
+}, {
+	"id": 510626,
+	"parentId": 510600,
+	"name": "罗江区",
+	"level": 3,
+	"postalCode": "618500",
+	"areaNumber": "510626"
+}, {
+	"id": 510681,
+	"parentId": 510600,
+	"name": "广汉市",
+	"level": 3,
+	"postalCode": "618300",
+	"areaNumber": "510681"
+}, {
+	"id": 510682,
+	"parentId": 510600,
+	"name": "什邡市",
+	"level": 3,
+	"postalCode": "618400",
+	"areaNumber": "510682"
+}, {
+	"id": 510683,
+	"parentId": 510600,
+	"name": "绵竹市",
+	"level": 3,
+	"postalCode": "618200",
+	"areaNumber": "510683"
+}, {
+	"id": 510700,
+	"parentId": 510000,
+	"name": "绵阳市",
+	"level": 2,
+	"postalCode": "621000",
+	"areaNumber": "510700"
+}, {
+	"id": 510703,
+	"parentId": 510700,
+	"name": "涪城区",
+	"level": 3,
+	"postalCode": "621000",
+	"areaNumber": "510703"
+}, {
+	"id": 510704,
+	"parentId": 510700,
+	"name": "游仙区",
+	"level": 3,
+	"postalCode": "621000",
+	"areaNumber": "510704"
+}, {
+	"id": 510705,
+	"parentId": 510700,
+	"name": "安州区",
+	"level": 3,
+	"postalCode": "622650",
+	"areaNumber": "510705"
+}, {
+	"id": 510722,
+	"parentId": 510700,
+	"name": "三台县",
+	"level": 3,
+	"postalCode": "621100",
+	"areaNumber": "510722"
+}, {
+	"id": 510723,
+	"parentId": 510700,
+	"name": "盐亭县",
+	"level": 3,
+	"postalCode": "621600",
+	"areaNumber": "510723"
+}, {
+	"id": 510725,
+	"parentId": 510700,
+	"name": "梓潼县",
+	"level": 3,
+	"postalCode": "622150",
+	"areaNumber": "510725"
+}, {
+	"id": 510726,
+	"parentId": 510700,
+	"name": "北川羌族自治县",
+	"level": 3,
+	"postalCode": "622750",
+	"areaNumber": "510726"
+}, {
+	"id": 510727,
+	"parentId": 510700,
+	"name": "平武县",
+	"level": 3,
+	"postalCode": "622550",
+	"areaNumber": "510727"
+}, {
+	"id": 510781,
+	"parentId": 510700,
+	"name": "江油市",
+	"level": 3,
+	"postalCode": "621700",
+	"areaNumber": "510781"
+}, {
+	"id": 510782,
+	"parentId": 510700,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "621000",
+	"areaNumber": "510782"
+}, {
+	"id": 510783,
+	"parentId": 510700,
+	"name": "经开区",
+	"level": 3,
+	"postalCode": "621000",
+	"areaNumber": "510783"
+}, {
+	"id": 510800,
+	"parentId": 510000,
+	"name": "广元市",
+	"level": 2,
+	"postalCode": "628000",
+	"areaNumber": "510800"
+}, {
+	"id": 510802,
+	"parentId": 510800,
+	"name": "利州区",
+	"level": 3,
+	"postalCode": "628017",
+	"areaNumber": "510802"
+}, {
+	"id": 510811,
+	"parentId": 510800,
+	"name": "昭化区",
+	"level": 3,
+	"postalCode": "628017",
+	"areaNumber": "510811"
+}, {
+	"id": 510812,
+	"parentId": 510800,
+	"name": "朝天区",
+	"level": 3,
+	"postalCode": "628000",
+	"areaNumber": "510812"
+}, {
+	"id": 510821,
+	"parentId": 510800,
+	"name": "旺苍县",
+	"level": 3,
+	"postalCode": "628200",
+	"areaNumber": "510821"
+}, {
+	"id": 510822,
+	"parentId": 510800,
+	"name": "青川县",
+	"level": 3,
+	"postalCode": "628100",
+	"areaNumber": "510822"
+}, {
+	"id": 510823,
+	"parentId": 510800,
+	"name": "剑阁县",
+	"level": 3,
+	"postalCode": "628300",
+	"areaNumber": "510823"
+}, {
+	"id": 510824,
+	"parentId": 510800,
+	"name": "苍溪县",
+	"level": 3,
+	"postalCode": "628400",
+	"areaNumber": "510824"
+}, {
+	"id": 510900,
+	"parentId": 510000,
+	"name": "遂宁市",
+	"level": 2,
+	"postalCode": "629000",
+	"areaNumber": "510900"
+}, {
+	"id": 510903,
+	"parentId": 510900,
+	"name": "船山区",
+	"level": 3,
+	"postalCode": "629000",
+	"areaNumber": "510903"
+}, {
+	"id": 510904,
+	"parentId": 510900,
+	"name": "安居区",
+	"level": 3,
+	"postalCode": "629000",
+	"areaNumber": "510904"
+}, {
+	"id": 510921,
+	"parentId": 510900,
+	"name": "蓬溪县",
+	"level": 3,
+	"postalCode": "629100",
+	"areaNumber": "510921"
+}, {
+	"id": 510922,
+	"parentId": 510900,
+	"name": "射洪县",
+	"level": 3,
+	"postalCode": "629200",
+	"areaNumber": "510922"
+}, {
+	"id": 510923,
+	"parentId": 510900,
+	"name": "大英县",
+	"level": 3,
+	"postalCode": "629300",
+	"areaNumber": "510923"
+}, {
+	"id": 510924,
+	"parentId": 510900,
+	"name": "经济技术开发区",
+	"level": 3,
+	"postalCode": "629000",
+	"areaNumber": "510924"
+}, {
+	"id": 511000,
+	"parentId": 510000,
+	"name": "内江市",
+	"level": 2,
+	"postalCode": "641000",
+	"areaNumber": "511000"
+}, {
+	"id": 511002,
+	"parentId": 511000,
+	"name": "市中区",
+	"level": 3,
+	"postalCode": "641000",
+	"areaNumber": "511002"
+}, {
+	"id": 511011,
+	"parentId": 511000,
+	"name": "东兴区",
+	"level": 3,
+	"postalCode": "641100",
+	"areaNumber": "511011"
+}, {
+	"id": 511024,
+	"parentId": 511000,
+	"name": "威远县",
+	"level": 3,
+	"postalCode": "642450",
+	"areaNumber": "511024"
+}, {
+	"id": 511025,
+	"parentId": 511000,
+	"name": "资中县",
+	"level": 3,
+	"postalCode": "641200",
+	"areaNumber": "511025"
+}, {
+	"id": 511083,
+	"parentId": 511000,
+	"name": "隆昌市",
+	"level": 3,
+	"postalCode": "642150",
+	"areaNumber": "511083"
+}, {
+	"id": 511100,
+	"parentId": 510000,
+	"name": "乐山市",
+	"level": 2,
+	"postalCode": "614000",
+	"areaNumber": "511100"
+}, {
+	"id": 511102,
+	"parentId": 511100,
+	"name": "市中区",
+	"level": 3,
+	"postalCode": "614000",
+	"areaNumber": "511102"
+}, {
+	"id": 511111,
+	"parentId": 511100,
+	"name": "沙湾区",
+	"level": 3,
+	"postalCode": "614900",
+	"areaNumber": "511111"
+}, {
+	"id": 511112,
+	"parentId": 511100,
+	"name": "五通桥区",
+	"level": 3,
+	"postalCode": "614800",
+	"areaNumber": "511112"
+}, {
+	"id": 511113,
+	"parentId": 511100,
+	"name": "金口河区",
+	"level": 3,
+	"postalCode": "614700",
+	"areaNumber": "511113"
+}, {
+	"id": 511123,
+	"parentId": 511100,
+	"name": "犍为县",
+	"level": 3,
+	"postalCode": "614400",
+	"areaNumber": "511123"
+}, {
+	"id": 511124,
+	"parentId": 511100,
+	"name": "井研县",
+	"level": 3,
+	"postalCode": "613100",
+	"areaNumber": "511124"
+}, {
+	"id": 511126,
+	"parentId": 511100,
+	"name": "夹江县",
+	"level": 3,
+	"postalCode": "614100",
+	"areaNumber": "511126"
+}, {
+	"id": 511129,
+	"parentId": 511100,
+	"name": "沐川县",
+	"level": 3,
+	"postalCode": "614500",
+	"areaNumber": "511129"
+}, {
+	"id": 511132,
+	"parentId": 511100,
+	"name": "峨边彝族自治县",
+	"level": 3,
+	"postalCode": "614300",
+	"areaNumber": "511132"
+}, {
+	"id": 511133,
+	"parentId": 511100,
+	"name": "马边彝族自治县",
+	"level": 3,
+	"postalCode": "614600",
+	"areaNumber": "511133"
+}, {
+	"id": 511181,
+	"parentId": 511100,
+	"name": "峨眉山市",
+	"level": 3,
+	"postalCode": "614200",
+	"areaNumber": "511181"
+}, {
+	"id": 511300,
+	"parentId": 510000,
+	"name": "南充市",
+	"level": 2,
+	"postalCode": "637000",
+	"areaNumber": "511300"
+}, {
+	"id": 511302,
+	"parentId": 511300,
+	"name": "顺庆区",
+	"level": 3,
+	"postalCode": "637000",
+	"areaNumber": "511302"
+}, {
+	"id": 511303,
+	"parentId": 511300,
+	"name": "高坪区",
+	"level": 3,
+	"postalCode": "637100",
+	"areaNumber": "511303"
+}, {
+	"id": 511304,
+	"parentId": 511300,
+	"name": "嘉陵区",
+	"level": 3,
+	"postalCode": "637500",
+	"areaNumber": "511304"
+}, {
+	"id": 511321,
+	"parentId": 511300,
+	"name": "南部县",
+	"level": 3,
+	"postalCode": "637300",
+	"areaNumber": "511321"
+}, {
+	"id": 511322,
+	"parentId": 511300,
+	"name": "营山县",
+	"level": 3,
+	"postalCode": "637700",
+	"areaNumber": "511322"
+}, {
+	"id": 511323,
+	"parentId": 511300,
+	"name": "蓬安县",
+	"level": 3,
+	"postalCode": "637800",
+	"areaNumber": "511323"
+}, {
+	"id": 511324,
+	"parentId": 511300,
+	"name": "仪陇县",
+	"level": 3,
+	"postalCode": "637600",
+	"areaNumber": "511324"
+}, {
+	"id": 511325,
+	"parentId": 511300,
+	"name": "西充县",
+	"level": 3,
+	"postalCode": "637200",
+	"areaNumber": "511325"
+}, {
+	"id": 511381,
+	"parentId": 511300,
+	"name": "阆中市",
+	"level": 3,
+	"postalCode": "637400",
+	"areaNumber": "511381"
+}, {
+	"id": 511400,
+	"parentId": 510000,
+	"name": "眉山市",
+	"level": 2,
+	"postalCode": "620000",
+	"areaNumber": "511400"
+}, {
+	"id": 511402,
+	"parentId": 511400,
+	"name": "东坡区",
+	"level": 3,
+	"postalCode": "620000",
+	"areaNumber": "511402"
+}, {
+	"id": 511403,
+	"parentId": 511400,
+	"name": "彭山区",
+	"level": 3,
+	"postalCode": "620860",
+	"areaNumber": "511403"
+}, {
+	"id": 511421,
+	"parentId": 511400,
+	"name": "仁寿县",
+	"level": 3,
+	"postalCode": "620500",
+	"areaNumber": "511421"
+}, {
+	"id": 511423,
+	"parentId": 511400,
+	"name": "洪雅县",
+	"level": 3,
+	"postalCode": "620300",
+	"areaNumber": "511423"
+}, {
+	"id": 511424,
+	"parentId": 511400,
+	"name": "丹棱县",
+	"level": 3,
+	"postalCode": "620200",
+	"areaNumber": "511424"
+}, {
+	"id": 511425,
+	"parentId": 511400,
+	"name": "青神县",
+	"level": 3,
+	"postalCode": "620400",
+	"areaNumber": "511425"
+}, {
+	"id": 511500,
+	"parentId": 510000,
+	"name": "宜宾市",
+	"level": 2,
+	"postalCode": "644000",
+	"areaNumber": "511500"
+}, {
+	"id": 511502,
+	"parentId": 511500,
+	"name": "翠屏区",
+	"level": 3,
+	"postalCode": "644000",
+	"areaNumber": "511502"
+}, {
+	"id": 511503,
+	"parentId": 511500,
+	"name": "南溪区",
+	"level": 3,
+	"postalCode": "644100",
+	"areaNumber": "511503"
+}, {
+	"id": 511521,
+	"parentId": 511500,
+	"name": "宜宾县",
+	"level": 3,
+	"postalCode": "644600",
+	"areaNumber": "511521"
+}, {
+	"id": 511523,
+	"parentId": 511500,
+	"name": "江安县",
+	"level": 3,
+	"postalCode": "644200",
+	"areaNumber": "511523"
+}, {
+	"id": 511524,
+	"parentId": 511500,
+	"name": "长宁县",
+	"level": 3,
+	"postalCode": "644300",
+	"areaNumber": "511524"
+}, {
+	"id": 511525,
+	"parentId": 511500,
+	"name": "高县",
+	"level": 3,
+	"postalCode": "645150",
+	"areaNumber": "511525"
+}, {
+	"id": 511526,
+	"parentId": 511500,
+	"name": "珙县",
+	"level": 3,
+	"postalCode": "644500",
+	"areaNumber": "511526"
+}, {
+	"id": 511527,
+	"parentId": 511500,
+	"name": "筠连县",
+	"level": 3,
+	"postalCode": "645250",
+	"areaNumber": "511527"
+}, {
+	"id": 511528,
+	"parentId": 511500,
+	"name": "兴文县",
+	"level": 3,
+	"postalCode": "644400",
+	"areaNumber": "511528"
+}, {
+	"id": 511529,
+	"parentId": 511500,
+	"name": "屏山县",
+	"level": 3,
+	"postalCode": "645350",
+	"areaNumber": "511529"
+}, {
+	"id": 511600,
+	"parentId": 510000,
+	"name": "广安市",
+	"level": 2,
+	"postalCode": "638000",
+	"areaNumber": "511600"
+}, {
+	"id": 511602,
+	"parentId": 511600,
+	"name": "广安区",
+	"level": 3,
+	"postalCode": "638550",
+	"areaNumber": "511602"
+}, {
+	"id": 511603,
+	"parentId": 511600,
+	"name": "前锋区",
+	"level": 3,
+	"postalCode": "638019",
+	"areaNumber": "511603"
+}, {
+	"id": 511621,
+	"parentId": 511600,
+	"name": "岳池县",
+	"level": 3,
+	"postalCode": "638300",
+	"areaNumber": "511621"
+}, {
+	"id": 511622,
+	"parentId": 511600,
+	"name": "武胜县",
+	"level": 3,
+	"postalCode": "638400",
+	"areaNumber": "511622"
+}, {
+	"id": 511623,
+	"parentId": 511600,
+	"name": "邻水县",
+	"level": 3,
+	"postalCode": "638500",
+	"areaNumber": "511623"
+}, {
+	"id": 511681,
+	"parentId": 511600,
+	"name": "华蓥市",
+	"level": 3,
+	"postalCode": "409800",
+	"areaNumber": "511681"
+}, {
+	"id": 511700,
+	"parentId": 510000,
+	"name": "达州市",
+	"level": 2,
+	"postalCode": "635000",
+	"areaNumber": "511700"
+}, {
+	"id": 511702,
+	"parentId": 511700,
+	"name": "通川区",
+	"level": 3,
+	"postalCode": "635000",
+	"areaNumber": "511702"
+}, {
+	"id": 511703,
+	"parentId": 511700,
+	"name": "达川区",
+	"level": 3,
+	"postalCode": "635000",
+	"areaNumber": "511703"
+}, {
+	"id": 511722,
+	"parentId": 511700,
+	"name": "宣汉县",
+	"level": 3,
+	"postalCode": "636150",
+	"areaNumber": "511722"
+}, {
+	"id": 511723,
+	"parentId": 511700,
+	"name": "开江县",
+	"level": 3,
+	"postalCode": "636250",
+	"areaNumber": "511723"
+}, {
+	"id": 511724,
+	"parentId": 511700,
+	"name": "大竹县",
+	"level": 3,
+	"postalCode": "635100",
+	"areaNumber": "511724"
+}, {
+	"id": 511725,
+	"parentId": 511700,
+	"name": "渠县",
+	"level": 3,
+	"postalCode": "635200",
+	"areaNumber": "511725"
+}, {
+	"id": 511781,
+	"parentId": 511700,
+	"name": "万源市",
+	"level": 3,
+	"postalCode": "636350",
+	"areaNumber": "511781"
+}, {
+	"id": 511800,
+	"parentId": 510000,
+	"name": "雅安市",
+	"level": 2,
+	"postalCode": "625000",
+	"areaNumber": "511800"
+}, {
+	"id": 511802,
+	"parentId": 511800,
+	"name": "雨城区",
+	"level": 3,
+	"postalCode": "625000",
+	"areaNumber": "511802"
+}, {
+	"id": 511803,
+	"parentId": 511800,
+	"name": "名山区",
+	"level": 3,
+	"postalCode": "625100",
+	"areaNumber": "511803"
+}, {
+	"id": 511822,
+	"parentId": 511800,
+	"name": "荥经县",
+	"level": 3,
+	"postalCode": "625200",
+	"areaNumber": "511822"
+}, {
+	"id": 511823,
+	"parentId": 511800,
+	"name": "汉源县",
+	"level": 3,
+	"postalCode": "625300",
+	"areaNumber": "511823"
+}, {
+	"id": 511824,
+	"parentId": 511800,
+	"name": "石棉县",
+	"level": 3,
+	"postalCode": "625400",
+	"areaNumber": "511824"
+}, {
+	"id": 511825,
+	"parentId": 511800,
+	"name": "天全县",
+	"level": 3,
+	"postalCode": "625500",
+	"areaNumber": "511825"
+}, {
+	"id": 511826,
+	"parentId": 511800,
+	"name": "芦山县",
+	"level": 3,
+	"postalCode": "625600",
+	"areaNumber": "511826"
+}, {
+	"id": 511827,
+	"parentId": 511800,
+	"name": "宝兴县",
+	"level": 3,
+	"postalCode": "625700",
+	"areaNumber": "511827"
+}, {
+	"id": 511900,
+	"parentId": 510000,
+	"name": "巴中市",
+	"level": 2,
+	"postalCode": "636600",
+	"areaNumber": "511900"
+}, {
+	"id": 511902,
+	"parentId": 511900,
+	"name": "巴州区",
+	"level": 3,
+	"postalCode": "636600",
+	"areaNumber": "511902"
+}, {
+	"id": 511903,
+	"parentId": 511900,
+	"name": "恩阳区",
+	"level": 3,
+	"postalCode": "636064",
+	"areaNumber": "511903"
+}, {
+	"id": 511921,
+	"parentId": 511900,
+	"name": "通江县",
+	"level": 3,
+	"postalCode": "636700",
+	"areaNumber": "511921"
+}, {
+	"id": 511922,
+	"parentId": 511900,
+	"name": "南江县",
+	"level": 3,
+	"postalCode": "635600",
+	"areaNumber": "511922"
+}, {
+	"id": 511923,
+	"parentId": 511900,
+	"name": "平昌县",
+	"level": 3,
+	"postalCode": "636400",
+	"areaNumber": "511923"
+}, {
+	"id": 512000,
+	"parentId": 510000,
+	"name": "资阳市",
+	"level": 2,
+	"postalCode": "641300",
+	"areaNumber": "512000"
+}, {
+	"id": 512002,
+	"parentId": 512000,
+	"name": "雁江区",
+	"level": 3,
+	"postalCode": "641300",
+	"areaNumber": "512002"
+}, {
+	"id": 512021,
+	"parentId": 512000,
+	"name": "安岳县",
+	"level": 3,
+	"postalCode": "642350",
+	"areaNumber": "512021"
+}, {
+	"id": 512022,
+	"parentId": 512000,
+	"name": "乐至县",
+	"level": 3,
+	"postalCode": "641500",
+	"areaNumber": "512022"
+}, {
+	"id": 513200,
+	"parentId": 510000,
+	"name": "阿坝藏族羌族自治州",
+	"level": 2,
+	"postalCode": "624000",
+	"areaNumber": "513200"
+}, {
+	"id": 513201,
+	"parentId": 513200,
+	"name": "马尔康市",
+	"level": 3,
+	"postalCode": "624000",
+	"areaNumber": "513201"
+}, {
+	"id": 513221,
+	"parentId": 513200,
+	"name": "汶川县",
+	"level": 3,
+	"postalCode": "623000",
+	"areaNumber": "513221"
+}, {
+	"id": 513222,
+	"parentId": 513200,
+	"name": "理县",
+	"level": 3,
+	"postalCode": "623100",
+	"areaNumber": "513222"
+}, {
+	"id": 513223,
+	"parentId": 513200,
+	"name": "茂县",
+	"level": 3,
+	"postalCode": "623200",
+	"areaNumber": "513223"
+}, {
+	"id": 513224,
+	"parentId": 513200,
+	"name": "松潘县",
+	"level": 3,
+	"postalCode": "623300",
+	"areaNumber": "513224"
+}, {
+	"id": 513225,
+	"parentId": 513200,
+	"name": "九寨沟县",
+	"level": 3,
+	"postalCode": "623400",
+	"areaNumber": "513225"
+}, {
+	"id": 513226,
+	"parentId": 513200,
+	"name": "金川县",
+	"level": 3,
+	"postalCode": "624100",
+	"areaNumber": "513226"
+}, {
+	"id": 513227,
+	"parentId": 513200,
+	"name": "小金县",
+	"level": 3,
+	"postalCode": "624200",
+	"areaNumber": "513227"
+}, {
+	"id": 513228,
+	"parentId": 513200,
+	"name": "黑水县",
+	"level": 3,
+	"postalCode": "623500",
+	"areaNumber": "513228"
+}, {
+	"id": 513230,
+	"parentId": 513200,
+	"name": "壤塘县",
+	"level": 3,
+	"postalCode": "624300",
+	"areaNumber": "513230"
+}, {
+	"id": 513231,
+	"parentId": 513200,
+	"name": "阿坝县",
+	"level": 3,
+	"postalCode": "624600",
+	"areaNumber": "513231"
+}, {
+	"id": 513232,
+	"parentId": 513200,
+	"name": "若尔盖县",
+	"level": 3,
+	"postalCode": "624500",
+	"areaNumber": "513232"
+}, {
+	"id": 513233,
+	"parentId": 513200,
+	"name": "红原县",
+	"level": 3,
+	"postalCode": "624400",
+	"areaNumber": "513233"
+}, {
+	"id": 513300,
+	"parentId": 510000,
+	"name": "甘孜藏族自治州",
+	"level": 2,
+	"postalCode": "626000",
+	"areaNumber": "513300"
+}, {
+	"id": 513301,
+	"parentId": 513300,
+	"name": "康定市",
+	"level": 3,
+	"postalCode": "626000",
+	"areaNumber": "513301"
+}, {
+	"id": 513322,
+	"parentId": 513300,
+	"name": "泸定县",
+	"level": 3,
+	"postalCode": "626100",
+	"areaNumber": "513322"
+}, {
+	"id": 513323,
+	"parentId": 513300,
+	"name": "丹巴县",
+	"level": 3,
+	"postalCode": "626300",
+	"areaNumber": "513323"
+}, {
+	"id": 513324,
+	"parentId": 513300,
+	"name": "九龙县",
+	"level": 3,
+	"postalCode": "616200",
+	"areaNumber": "513324"
+}, {
+	"id": 513325,
+	"parentId": 513300,
+	"name": "雅江县",
+	"level": 3,
+	"postalCode": "627450",
+	"areaNumber": "513325"
+}, {
+	"id": 513326,
+	"parentId": 513300,
+	"name": "道孚县",
+	"level": 3,
+	"postalCode": "626400",
+	"areaNumber": "513326"
+}, {
+	"id": 513327,
+	"parentId": 513300,
+	"name": "炉霍县",
+	"level": 3,
+	"postalCode": "626500",
+	"areaNumber": "513327"
+}, {
+	"id": 513328,
+	"parentId": 513300,
+	"name": "甘孜县",
+	"level": 3,
+	"postalCode": "626700",
+	"areaNumber": "513328"
+}, {
+	"id": 513329,
+	"parentId": 513300,
+	"name": "新龙县",
+	"level": 3,
+	"postalCode": "626800",
+	"areaNumber": "513329"
+}, {
+	"id": 513330,
+	"parentId": 513300,
+	"name": "德格县",
+	"level": 3,
+	"postalCode": "627250",
+	"areaNumber": "513330"
+}, {
+	"id": 513331,
+	"parentId": 513300,
+	"name": "白玉县",
+	"level": 3,
+	"postalCode": "627150",
+	"areaNumber": "513331"
+}, {
+	"id": 513332,
+	"parentId": 513300,
+	"name": "石渠县",
+	"level": 3,
+	"postalCode": "627350",
+	"areaNumber": "513332"
+}, {
+	"id": 513333,
+	"parentId": 513300,
+	"name": "色达县",
+	"level": 3,
+	"postalCode": "626600",
+	"areaNumber": "513333"
+}, {
+	"id": 513334,
+	"parentId": 513300,
+	"name": "理塘县",
+	"level": 3,
+	"postalCode": "624300",
+	"areaNumber": "513334"
+}, {
+	"id": 513335,
+	"parentId": 513300,
+	"name": "巴塘县",
+	"level": 3,
+	"postalCode": "627650",
+	"areaNumber": "513335"
+}, {
+	"id": 513336,
+	"parentId": 513300,
+	"name": "乡城县",
+	"level": 3,
+	"postalCode": "627850",
+	"areaNumber": "513336"
+}, {
+	"id": 513337,
+	"parentId": 513300,
+	"name": "稻城县",
+	"level": 3,
+	"postalCode": "627750",
+	"areaNumber": "513337"
+}, {
+	"id": 513338,
+	"parentId": 513300,
+	"name": "得荣县",
+	"level": 3,
+	"postalCode": "627950",
+	"areaNumber": "513338"
+}, {
+	"id": 513400,
+	"parentId": 510000,
+	"name": "凉山彝族自治州",
+	"level": 2,
+	"postalCode": "615000",
+	"areaNumber": "513400"
+}, {
+	"id": 513401,
+	"parentId": 513400,
+	"name": "西昌市",
+	"level": 3,
+	"postalCode": "615000",
+	"areaNumber": "513401"
+}, {
+	"id": 513422,
+	"parentId": 513400,
+	"name": "木里藏族自治县",
+	"level": 3,
+	"postalCode": "615800",
+	"areaNumber": "513422"
+}, {
+	"id": 513423,
+	"parentId": 513400,
+	"name": "盐源县",
+	"level": 3,
+	"postalCode": "615700",
+	"areaNumber": "513423"
+}, {
+	"id": 513424,
+	"parentId": 513400,
+	"name": "德昌县",
+	"level": 3,
+	"postalCode": "615500",
+	"areaNumber": "513424"
+}, {
+	"id": 513425,
+	"parentId": 513400,
+	"name": "会理县",
+	"level": 3,
+	"postalCode": "615100",
+	"areaNumber": "513425"
+}, {
+	"id": 513426,
+	"parentId": 513400,
+	"name": "会东县",
+	"level": 3,
+	"postalCode": "615200",
+	"areaNumber": "513426"
+}, {
+	"id": 513427,
+	"parentId": 513400,
+	"name": "宁南县",
+	"level": 3,
+	"postalCode": "615400",
+	"areaNumber": "513427"
+}, {
+	"id": 513428,
+	"parentId": 513400,
+	"name": "普格县",
+	"level": 3,
+	"postalCode": "615300",
+	"areaNumber": "513428"
+}, {
+	"id": 513429,
+	"parentId": 513400,
+	"name": "布拖县",
+	"level": 3,
+	"postalCode": "615350",
+	"areaNumber": "513429"
+}, {
+	"id": 513430,
+	"parentId": 513400,
+	"name": "金阳县",
+	"level": 3,
+	"postalCode": "616250",
+	"areaNumber": "513430"
+}, {
+	"id": 513431,
+	"parentId": 513400,
+	"name": "昭觉县",
+	"level": 3,
+	"postalCode": "616150",
+	"areaNumber": "513431"
+}, {
+	"id": 513432,
+	"parentId": 513400,
+	"name": "喜德县",
+	"level": 3,
+	"postalCode": "616750",
+	"areaNumber": "513432"
+}, {
+	"id": 513433,
+	"parentId": 513400,
+	"name": "冕宁县",
+	"level": 3,
+	"postalCode": "615600",
+	"areaNumber": "513433"
+}, {
+	"id": 513434,
+	"parentId": 513400,
+	"name": "越西县",
+	"level": 3,
+	"postalCode": "616650",
+	"areaNumber": "513434"
+}, {
+	"id": 513435,
+	"parentId": 513400,
+	"name": "甘洛县",
+	"level": 3,
+	"postalCode": "616850",
+	"areaNumber": "513435"
+}, {
+	"id": 513436,
+	"parentId": 513400,
+	"name": "美姑县",
+	"level": 3,
+	"postalCode": "616450",
+	"areaNumber": "513436"
+}, {
+	"id": 513437,
+	"parentId": 513400,
+	"name": "雷波县",
+	"level": 3,
+	"postalCode": "616550",
+	"areaNumber": "513437"
+}, {
+	"id": 520000,
+	"parentId": 100000,
+	"name": "贵州省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "520000"
+}, {
+	"id": 520100,
+	"parentId": 520000,
+	"name": "贵阳市",
+	"level": 2,
+	"postalCode": "550000",
+	"areaNumber": "520100"
+}, {
+	"id": 520102,
+	"parentId": 520100,
+	"name": "南明区",
+	"level": 3,
+	"postalCode": "550000",
+	"areaNumber": "520102"
+}, {
+	"id": 520103,
+	"parentId": 520100,
+	"name": "云岩区",
+	"level": 3,
+	"postalCode": "550000",
+	"areaNumber": "520103"
+}, {
+	"id": 520111,
+	"parentId": 520100,
+	"name": "花溪区",
+	"level": 3,
+	"postalCode": "550000",
+	"areaNumber": "520111"
+}, {
+	"id": 520112,
+	"parentId": 520100,
+	"name": "乌当区",
+	"level": 3,
+	"postalCode": "550000",
+	"areaNumber": "520112"
+}, {
+	"id": 520113,
+	"parentId": 520100,
+	"name": "白云区",
+	"level": 3,
+	"postalCode": "550000",
+	"areaNumber": "520113"
+}, {
+	"id": 520115,
+	"parentId": 520100,
+	"name": "观山湖区",
+	"level": 3,
+	"postalCode": "550009",
+	"areaNumber": "520115"
+}, {
+	"id": 520121,
+	"parentId": 520100,
+	"name": "开阳县",
+	"level": 3,
+	"postalCode": "550300",
+	"areaNumber": "520121"
+}, {
+	"id": 520122,
+	"parentId": 520100,
+	"name": "息烽县",
+	"level": 3,
+	"postalCode": "551100",
+	"areaNumber": "520122"
+}, {
+	"id": 520123,
+	"parentId": 520100,
+	"name": "修文县",
+	"level": 3,
+	"postalCode": "550200",
+	"areaNumber": "520123"
+}, {
+	"id": 520181,
+	"parentId": 520100,
+	"name": "清镇市",
+	"level": 3,
+	"postalCode": "551400",
+	"areaNumber": "520181"
+}, {
+	"id": 520182,
+	"parentId": 520100,
+	"name": "贵安新区",
+	"level": 3,
+	"postalCode": "550003",
+	"areaNumber": "520182"
+}, {
+	"id": 520183,
+	"parentId": 520100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "550003",
+	"areaNumber": "520183"
+}, {
+	"id": 520200,
+	"parentId": 520000,
+	"name": "六盘水市",
+	"level": 2,
+	"postalCode": "553000",
+	"areaNumber": "520200"
+}, {
+	"id": 520201,
+	"parentId": 520200,
+	"name": "钟山区",
+	"level": 3,
+	"postalCode": "553000",
+	"areaNumber": "520201"
+}, {
+	"id": 520203,
+	"parentId": 520200,
+	"name": "六枝特区",
+	"level": 3,
+	"postalCode": "553400",
+	"areaNumber": "520203"
+}, {
+	"id": 520221,
+	"parentId": 520200,
+	"name": "水城县",
+	"level": 3,
+	"postalCode": "553600",
+	"areaNumber": "520221"
+}, {
+	"id": 520281,
+	"parentId": 520200,
+	"name": "盘州市",
+	"level": 3,
+	"postalCode": "553500",
+	"areaNumber": "520281"
+}, {
+	"id": 520300,
+	"parentId": 520000,
+	"name": "遵义市",
+	"level": 2,
+	"postalCode": "563000",
+	"areaNumber": "520300"
+}, {
+	"id": 520302,
+	"parentId": 520300,
+	"name": "红花岗区",
+	"level": 3,
+	"postalCode": "563000",
+	"areaNumber": "520302"
+}, {
+	"id": 520303,
+	"parentId": 520300,
+	"name": "汇川区",
+	"level": 3,
+	"postalCode": "563000",
+	"areaNumber": "520303"
+}, {
+	"id": 520304,
+	"parentId": 520300,
+	"name": "播州区",
+	"level": 3,
+	"postalCode": "563100",
+	"areaNumber": "520304"
+}, {
+	"id": 520322,
+	"parentId": 520300,
+	"name": "桐梓县",
+	"level": 3,
+	"postalCode": "563200",
+	"areaNumber": "520322"
+}, {
+	"id": 520323,
+	"parentId": 520300,
+	"name": "绥阳县",
+	"level": 3,
+	"postalCode": "563300",
+	"areaNumber": "520323"
+}, {
+	"id": 520324,
+	"parentId": 520300,
+	"name": "正安县",
+	"level": 3,
+	"postalCode": "563400",
+	"areaNumber": "520324"
+}, {
+	"id": 520325,
+	"parentId": 520300,
+	"name": "道真仡佬族苗族自治县",
+	"level": 3,
+	"postalCode": "563500",
+	"areaNumber": "520325"
+}, {
+	"id": 520326,
+	"parentId": 520300,
+	"name": "务川仡佬族苗族自治县",
+	"level": 3,
+	"postalCode": "564300",
+	"areaNumber": "520326"
+}, {
+	"id": 520327,
+	"parentId": 520300,
+	"name": "凤冈县",
+	"level": 3,
+	"postalCode": "564200",
+	"areaNumber": "520327"
+}, {
+	"id": 520328,
+	"parentId": 520300,
+	"name": "湄潭县",
+	"level": 3,
+	"postalCode": "564100",
+	"areaNumber": "520328"
+}, {
+	"id": 520329,
+	"parentId": 520300,
+	"name": "余庆县",
+	"level": 3,
+	"postalCode": "564400",
+	"areaNumber": "520329"
+}, {
+	"id": 520330,
+	"parentId": 520300,
+	"name": "习水县",
+	"level": 3,
+	"postalCode": "564600",
+	"areaNumber": "520330"
+}, {
+	"id": 520381,
+	"parentId": 520300,
+	"name": "赤水市",
+	"level": 3,
+	"postalCode": "564700",
+	"areaNumber": "520381"
+}, {
+	"id": 520382,
+	"parentId": 520300,
+	"name": "仁怀市",
+	"level": 3,
+	"postalCode": "564500",
+	"areaNumber": "520382"
+}, {
+	"id": 520400,
+	"parentId": 520000,
+	"name": "安顺市",
+	"level": 2,
+	"postalCode": "561000",
+	"areaNumber": "520400"
+}, {
+	"id": 520402,
+	"parentId": 520400,
+	"name": "西秀区",
+	"level": 3,
+	"postalCode": "561000",
+	"areaNumber": "520402"
+}, {
+	"id": 520403,
+	"parentId": 520400,
+	"name": "平坝区",
+	"level": 3,
+	"postalCode": "561100",
+	"areaNumber": "520403"
+}, {
+	"id": 520422,
+	"parentId": 520400,
+	"name": "普定县",
+	"level": 3,
+	"postalCode": "562100",
+	"areaNumber": "520422"
+}, {
+	"id": 520423,
+	"parentId": 520400,
+	"name": "镇宁布依族苗族自治县",
+	"level": 3,
+	"postalCode": "561200",
+	"areaNumber": "520423"
+}, {
+	"id": 520424,
+	"parentId": 520400,
+	"name": "关岭布依族苗族自治县",
+	"level": 3,
+	"postalCode": "561300",
+	"areaNumber": "520424"
+}, {
+	"id": 520425,
+	"parentId": 520400,
+	"name": "紫云苗族布依族自治县",
+	"level": 3,
+	"postalCode": "550800",
+	"areaNumber": "520425"
+}, {
+	"id": 520500,
+	"parentId": 520000,
+	"name": "毕节市",
+	"level": 2,
+	"postalCode": "551700",
+	"areaNumber": "520500"
+}, {
+	"id": 520502,
+	"parentId": 520500,
+	"name": "七星关区",
+	"level": 3,
+	"postalCode": "551700",
+	"areaNumber": "520502"
+}, {
+	"id": 520521,
+	"parentId": 520500,
+	"name": "大方县",
+	"level": 3,
+	"postalCode": "551600",
+	"areaNumber": "520521"
+}, {
+	"id": 520522,
+	"parentId": 520500,
+	"name": "黔西县",
+	"level": 3,
+	"postalCode": "551500",
+	"areaNumber": "520522"
+}, {
+	"id": 520523,
+	"parentId": 520500,
+	"name": "金沙县",
+	"level": 3,
+	"postalCode": "551800",
+	"areaNumber": "520523"
+}, {
+	"id": 520524,
+	"parentId": 520500,
+	"name": "织金县",
+	"level": 3,
+	"postalCode": "552100",
+	"areaNumber": "520524"
+}, {
+	"id": 520525,
+	"parentId": 520500,
+	"name": "纳雍县",
+	"level": 3,
+	"postalCode": "553300",
+	"areaNumber": "520525"
+}, {
+	"id": 520526,
+	"parentId": 520500,
+	"name": "威宁彝族回族苗族自治县",
+	"level": 3,
+	"postalCode": "553100",
+	"areaNumber": "520526"
+}, {
+	"id": 520527,
+	"parentId": 520500,
+	"name": "赫章县",
+	"level": 3,
+	"postalCode": "553200",
+	"areaNumber": "520527"
+}, {
+	"id": 520600,
+	"parentId": 520000,
+	"name": "铜仁市",
+	"level": 2,
+	"postalCode": "554300",
+	"areaNumber": "520600"
+}, {
+	"id": 520602,
+	"parentId": 520600,
+	"name": "碧江区",
+	"level": 3,
+	"postalCode": "554300",
+	"areaNumber": "520602"
+}, {
+	"id": 520603,
+	"parentId": 520600,
+	"name": "万山区",
+	"level": 3,
+	"postalCode": "554200",
+	"areaNumber": "520603"
+}, {
+	"id": 520621,
+	"parentId": 520600,
+	"name": "江口县",
+	"level": 3,
+	"postalCode": "554400",
+	"areaNumber": "520621"
+}, {
+	"id": 520622,
+	"parentId": 520600,
+	"name": "玉屏侗族自治县",
+	"level": 3,
+	"postalCode": "554004",
+	"areaNumber": "520622"
+}, {
+	"id": 520623,
+	"parentId": 520600,
+	"name": "石阡县",
+	"level": 3,
+	"postalCode": "555100",
+	"areaNumber": "520623"
+}, {
+	"id": 520624,
+	"parentId": 520600,
+	"name": "思南县",
+	"level": 3,
+	"postalCode": "565100",
+	"areaNumber": "520624"
+}, {
+	"id": 520625,
+	"parentId": 520600,
+	"name": "印江土家族苗族自治县",
+	"level": 3,
+	"postalCode": "555200",
+	"areaNumber": "520625"
+}, {
+	"id": 520626,
+	"parentId": 520600,
+	"name": "德江县",
+	"level": 3,
+	"postalCode": "565200",
+	"areaNumber": "520626"
+}, {
+	"id": 520627,
+	"parentId": 520600,
+	"name": "沿河土家族自治县",
+	"level": 3,
+	"postalCode": "565300",
+	"areaNumber": "520627"
+}, {
+	"id": 520628,
+	"parentId": 520600,
+	"name": "松桃苗族自治县",
+	"level": 3,
+	"postalCode": "554100",
+	"areaNumber": "520628"
+}, {
+	"id": 522300,
+	"parentId": 520000,
+	"name": "黔西南布依族苗族自治州",
+	"level": 2,
+	"postalCode": "562400",
+	"areaNumber": "522300"
+}, {
+	"id": 522301,
+	"parentId": 522300,
+	"name": "兴义市 ",
+	"level": 3,
+	"postalCode": "562400",
+	"areaNumber": "522301"
+}, {
+	"id": 522322,
+	"parentId": 522300,
+	"name": "兴仁县",
+	"level": 3,
+	"postalCode": "562300",
+	"areaNumber": "522322"
+}, {
+	"id": 522323,
+	"parentId": 522300,
+	"name": "普安县",
+	"level": 3,
+	"postalCode": "561500",
+	"areaNumber": "522323"
+}, {
+	"id": 522324,
+	"parentId": 522300,
+	"name": "晴隆县",
+	"level": 3,
+	"postalCode": "561400",
+	"areaNumber": "522324"
+}, {
+	"id": 522325,
+	"parentId": 522300,
+	"name": "贞丰县",
+	"level": 3,
+	"postalCode": "562200",
+	"areaNumber": "522325"
+}, {
+	"id": 522326,
+	"parentId": 522300,
+	"name": "望谟县",
+	"level": 3,
+	"postalCode": "552300",
+	"areaNumber": "522326"
+}, {
+	"id": 522327,
+	"parentId": 522300,
+	"name": "册亨县",
+	"level": 3,
+	"postalCode": "552200",
+	"areaNumber": "522327"
+}, {
+	"id": 522328,
+	"parentId": 522300,
+	"name": "安龙县",
+	"level": 3,
+	"postalCode": "552400",
+	"areaNumber": "522328"
+}, {
+	"id": 522600,
+	"parentId": 520000,
+	"name": "黔东南苗族侗族自治州",
+	"level": 2,
+	"postalCode": "556000",
+	"areaNumber": "522600"
+}, {
+	"id": 522601,
+	"parentId": 522600,
+	"name": "凯里市",
+	"level": 3,
+	"postalCode": "556000",
+	"areaNumber": "522601"
+}, {
+	"id": 522622,
+	"parentId": 522600,
+	"name": "黄平县",
+	"level": 3,
+	"postalCode": "556100",
+	"areaNumber": "522622"
+}, {
+	"id": 522623,
+	"parentId": 522600,
+	"name": "施秉县",
+	"level": 3,
+	"postalCode": "556200",
+	"areaNumber": "522623"
+}, {
+	"id": 522624,
+	"parentId": 522600,
+	"name": "三穗县",
+	"level": 3,
+	"postalCode": "556500",
+	"areaNumber": "522624"
+}, {
+	"id": 522625,
+	"parentId": 522600,
+	"name": "镇远县",
+	"level": 3,
+	"postalCode": "557700",
+	"areaNumber": "522625"
+}, {
+	"id": 522626,
+	"parentId": 522600,
+	"name": "岑巩县",
+	"level": 3,
+	"postalCode": "557800",
+	"areaNumber": "522626"
+}, {
+	"id": 522627,
+	"parentId": 522600,
+	"name": "天柱县",
+	"level": 3,
+	"postalCode": "556600",
+	"areaNumber": "522627"
+}, {
+	"id": 522628,
+	"parentId": 522600,
+	"name": "锦屏县",
+	"level": 3,
+	"postalCode": "556700",
+	"areaNumber": "522628"
+}, {
+	"id": 522629,
+	"parentId": 522600,
+	"name": "剑河县",
+	"level": 3,
+	"postalCode": "556400",
+	"areaNumber": "522629"
+}, {
+	"id": 522630,
+	"parentId": 522600,
+	"name": "台江县",
+	"level": 3,
+	"postalCode": "556300",
+	"areaNumber": "522630"
+}, {
+	"id": 522631,
+	"parentId": 522600,
+	"name": "黎平县",
+	"level": 3,
+	"postalCode": "557300",
+	"areaNumber": "522631"
+}, {
+	"id": 522632,
+	"parentId": 522600,
+	"name": "榕江县",
+	"level": 3,
+	"postalCode": "557200",
+	"areaNumber": "522632"
+}, {
+	"id": 522633,
+	"parentId": 522600,
+	"name": "从江县",
+	"level": 3,
+	"postalCode": "557400",
+	"areaNumber": "522633"
+}, {
+	"id": 522634,
+	"parentId": 522600,
+	"name": "雷山县",
+	"level": 3,
+	"postalCode": "557100",
+	"areaNumber": "522634"
+}, {
+	"id": 522635,
+	"parentId": 522600,
+	"name": "麻江县",
+	"level": 3,
+	"postalCode": "557600",
+	"areaNumber": "522635"
+}, {
+	"id": 522636,
+	"parentId": 522600,
+	"name": "丹寨县",
+	"level": 3,
+	"postalCode": "557500",
+	"areaNumber": "522636"
+}, {
+	"id": 522700,
+	"parentId": 520000,
+	"name": "黔南布依族苗族自治州",
+	"level": 2,
+	"postalCode": "558000",
+	"areaNumber": "522700"
+}, {
+	"id": 522701,
+	"parentId": 522700,
+	"name": "都匀市",
+	"level": 3,
+	"postalCode": "558000",
+	"areaNumber": "522701"
+}, {
+	"id": 522702,
+	"parentId": 522700,
+	"name": "福泉市",
+	"level": 3,
+	"postalCode": "550500",
+	"areaNumber": "522702"
+}, {
+	"id": 522722,
+	"parentId": 522700,
+	"name": "荔波县",
+	"level": 3,
+	"postalCode": "558400",
+	"areaNumber": "522722"
+}, {
+	"id": 522723,
+	"parentId": 522700,
+	"name": "贵定县",
+	"level": 3,
+	"postalCode": "551300",
+	"areaNumber": "522723"
+}, {
+	"id": 522725,
+	"parentId": 522700,
+	"name": "瓮安县",
+	"level": 3,
+	"postalCode": "550400",
+	"areaNumber": "522725"
+}, {
+	"id": 522726,
+	"parentId": 522700,
+	"name": "独山县",
+	"level": 3,
+	"postalCode": "558200",
+	"areaNumber": "522726"
+}, {
+	"id": 522727,
+	"parentId": 522700,
+	"name": "平塘县",
+	"level": 3,
+	"postalCode": "558300",
+	"areaNumber": "522727"
+}, {
+	"id": 522728,
+	"parentId": 522700,
+	"name": "罗甸县",
+	"level": 3,
+	"postalCode": "550100",
+	"areaNumber": "522728"
+}, {
+	"id": 522729,
+	"parentId": 522700,
+	"name": "长顺县",
+	"level": 3,
+	"postalCode": "550700",
+	"areaNumber": "522729"
+}, {
+	"id": 522730,
+	"parentId": 522700,
+	"name": "龙里县",
+	"level": 3,
+	"postalCode": "551200",
+	"areaNumber": "522730"
+}, {
+	"id": 522731,
+	"parentId": 522700,
+	"name": "惠水县",
+	"level": 3,
+	"postalCode": "550600",
+	"areaNumber": "522731"
+}, {
+	"id": 522732,
+	"parentId": 522700,
+	"name": "三都水族自治县",
+	"level": 3,
+	"postalCode": "558100",
+	"areaNumber": "522732"
+}, {
+	"id": 530000,
+	"parentId": 100000,
+	"name": "云南省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "530000"
+}, {
+	"id": 530100,
+	"parentId": 530000,
+	"name": "昆明市",
+	"level": 2,
+	"postalCode": "650000",
+	"areaNumber": "530100"
+}, {
+	"id": 530102,
+	"parentId": 530100,
+	"name": "五华区",
+	"level": 3,
+	"postalCode": "650000",
+	"areaNumber": "530102"
+}, {
+	"id": 530103,
+	"parentId": 530100,
+	"name": "盘龙区",
+	"level": 3,
+	"postalCode": "650000",
+	"areaNumber": "530103"
+}, {
+	"id": 530111,
+	"parentId": 530100,
+	"name": "官渡区",
+	"level": 3,
+	"postalCode": "650200",
+	"areaNumber": "530111"
+}, {
+	"id": 530112,
+	"parentId": 530100,
+	"name": "西山区",
+	"level": 3,
+	"postalCode": "650100",
+	"areaNumber": "530112"
+}, {
+	"id": 530113,
+	"parentId": 530100,
+	"name": "东川区",
+	"level": 3,
+	"postalCode": "654100",
+	"areaNumber": "530113"
+}, {
+	"id": 530114,
+	"parentId": 530100,
+	"name": "呈贡区",
+	"level": 3,
+	"postalCode": "650500",
+	"areaNumber": "530114"
+}, {
+	"id": 530115,
+	"parentId": 530100,
+	"name": "晋宁区",
+	"level": 3,
+	"postalCode": "650600",
+	"areaNumber": "530115"
+}, {
+	"id": 530124,
+	"parentId": 530100,
+	"name": "富民县",
+	"level": 3,
+	"postalCode": "650400",
+	"areaNumber": "530124"
+}, {
+	"id": 530125,
+	"parentId": 530100,
+	"name": "宜良县",
+	"level": 3,
+	"postalCode": "652100",
+	"areaNumber": "530125"
+}, {
+	"id": 530126,
+	"parentId": 530100,
+	"name": "石林彝族自治县",
+	"level": 3,
+	"postalCode": "652200",
+	"areaNumber": "530126"
+}, {
+	"id": 530127,
+	"parentId": 530100,
+	"name": "嵩明县",
+	"level": 3,
+	"postalCode": "651700",
+	"areaNumber": "530127"
+}, {
+	"id": 530128,
+	"parentId": 530100,
+	"name": "禄劝彝族苗族自治县",
+	"level": 3,
+	"postalCode": "651500",
+	"areaNumber": "530128"
+}, {
+	"id": 530129,
+	"parentId": 530100,
+	"name": "寻甸回族彝族自治县 ",
+	"level": 3,
+	"postalCode": "655200",
+	"areaNumber": "530129"
+}, {
+	"id": 530181,
+	"parentId": 530100,
+	"name": "安宁市",
+	"level": 3,
+	"postalCode": "650300",
+	"areaNumber": "530181"
+}, {
+	"id": 530182,
+	"parentId": 530100,
+	"name": "滇中新区",
+	"level": 3,
+	"postalCode": "650000",
+	"areaNumber": "530182"
+}, {
+	"id": 530183,
+	"parentId": 530100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "650000",
+	"areaNumber": "530183"
+}, {
+	"id": 530300,
+	"parentId": 530000,
+	"name": "曲靖市",
+	"level": 2,
+	"postalCode": "655000",
+	"areaNumber": "530300"
+}, {
+	"id": 530302,
+	"parentId": 530300,
+	"name": "麒麟区",
+	"level": 3,
+	"postalCode": "655000",
+	"areaNumber": "530302"
+}, {
+	"id": 530303,
+	"parentId": 530300,
+	"name": "沾益区",
+	"level": 3,
+	"postalCode": "655331",
+	"areaNumber": "530303"
+}, {
+	"id": 530321,
+	"parentId": 530300,
+	"name": "马龙县",
+	"level": 3,
+	"postalCode": "655100",
+	"areaNumber": "530321"
+}, {
+	"id": 530322,
+	"parentId": 530300,
+	"name": "陆良县",
+	"level": 3,
+	"postalCode": "655600",
+	"areaNumber": "530322"
+}, {
+	"id": 530323,
+	"parentId": 530300,
+	"name": "师宗县",
+	"level": 3,
+	"postalCode": "655700",
+	"areaNumber": "530323"
+}, {
+	"id": 530324,
+	"parentId": 530300,
+	"name": "罗平县",
+	"level": 3,
+	"postalCode": "655800",
+	"areaNumber": "530324"
+}, {
+	"id": 530325,
+	"parentId": 530300,
+	"name": "富源县",
+	"level": 3,
+	"postalCode": "655500",
+	"areaNumber": "530325"
+}, {
+	"id": 530326,
+	"parentId": 530300,
+	"name": "会泽县",
+	"level": 3,
+	"postalCode": "654200",
+	"areaNumber": "530326"
+}, {
+	"id": 530381,
+	"parentId": 530300,
+	"name": "宣威市",
+	"level": 3,
+	"postalCode": "655400",
+	"areaNumber": "530381"
+}, {
+	"id": 530400,
+	"parentId": 530000,
+	"name": "玉溪市",
+	"level": 2,
+	"postalCode": "653100",
+	"areaNumber": "530400"
+}, {
+	"id": 530402,
+	"parentId": 530400,
+	"name": "红塔区",
+	"level": 3,
+	"postalCode": "653100",
+	"areaNumber": "530402"
+}, {
+	"id": 530403,
+	"parentId": 530400,
+	"name": "江川区",
+	"level": 3,
+	"postalCode": "652600",
+	"areaNumber": "530403"
+}, {
+	"id": 530422,
+	"parentId": 530400,
+	"name": "澄江县",
+	"level": 3,
+	"postalCode": "652500",
+	"areaNumber": "530422"
+}, {
+	"id": 530423,
+	"parentId": 530400,
+	"name": "通海县",
+	"level": 3,
+	"postalCode": "652700",
+	"areaNumber": "530423"
+}, {
+	"id": 530424,
+	"parentId": 530400,
+	"name": "华宁县",
+	"level": 3,
+	"postalCode": "652800",
+	"areaNumber": "530424"
+}, {
+	"id": 530425,
+	"parentId": 530400,
+	"name": "易门县",
+	"level": 3,
+	"postalCode": "651100",
+	"areaNumber": "530425"
+}, {
+	"id": 530426,
+	"parentId": 530400,
+	"name": "峨山彝族自治县",
+	"level": 3,
+	"postalCode": "653200",
+	"areaNumber": "530426"
+}, {
+	"id": 530427,
+	"parentId": 530400,
+	"name": "新平彝族傣族自治县",
+	"level": 3,
+	"postalCode": "653400",
+	"areaNumber": "530427"
+}, {
+	"id": 530428,
+	"parentId": 530400,
+	"name": "元江哈尼族彝族傣族自治县",
+	"level": 3,
+	"postalCode": "653300",
+	"areaNumber": "530428"
+}, {
+	"id": 530500,
+	"parentId": 530000,
+	"name": "保山市",
+	"level": 2,
+	"postalCode": "678000",
+	"areaNumber": "530500"
+}, {
+	"id": 530502,
+	"parentId": 530500,
+	"name": "隆阳区",
+	"level": 3,
+	"postalCode": "678000",
+	"areaNumber": "530502"
+}, {
+	"id": 530521,
+	"parentId": 530500,
+	"name": "施甸县",
+	"level": 3,
+	"postalCode": "678200",
+	"areaNumber": "530521"
+}, {
+	"id": 530523,
+	"parentId": 530500,
+	"name": "龙陵县",
+	"level": 3,
+	"postalCode": "678300",
+	"areaNumber": "530523"
+}, {
+	"id": 530524,
+	"parentId": 530500,
+	"name": "昌宁县",
+	"level": 3,
+	"postalCode": "678100",
+	"areaNumber": "530524"
+}, {
+	"id": 530581,
+	"parentId": 530500,
+	"name": "腾冲市",
+	"level": 3,
+	"postalCode": "679100",
+	"areaNumber": "530581"
+}, {
+	"id": 530600,
+	"parentId": 530000,
+	"name": "昭通市",
+	"level": 2,
+	"postalCode": "657000",
+	"areaNumber": "530600"
+}, {
+	"id": 530602,
+	"parentId": 530600,
+	"name": "昭阳区",
+	"level": 3,
+	"postalCode": "657000",
+	"areaNumber": "530602"
+}, {
+	"id": 530621,
+	"parentId": 530600,
+	"name": "鲁甸县",
+	"level": 3,
+	"postalCode": "657100",
+	"areaNumber": "530621"
+}, {
+	"id": 530622,
+	"parentId": 530600,
+	"name": "巧家县",
+	"level": 3,
+	"postalCode": "654600",
+	"areaNumber": "530622"
+}, {
+	"id": 530623,
+	"parentId": 530600,
+	"name": "盐津县",
+	"level": 3,
+	"postalCode": "657500",
+	"areaNumber": "530623"
+}, {
+	"id": 530624,
+	"parentId": 530600,
+	"name": "大关县",
+	"level": 3,
+	"postalCode": "657400",
+	"areaNumber": "530624"
+}, {
+	"id": 530625,
+	"parentId": 530600,
+	"name": "永善县",
+	"level": 3,
+	"postalCode": "657300",
+	"areaNumber": "530625"
+}, {
+	"id": 530626,
+	"parentId": 530600,
+	"name": "绥江县",
+	"level": 3,
+	"postalCode": "657700",
+	"areaNumber": "530626"
+}, {
+	"id": 530627,
+	"parentId": 530600,
+	"name": "镇雄县",
+	"level": 3,
+	"postalCode": "657200",
+	"areaNumber": "530627"
+}, {
+	"id": 530628,
+	"parentId": 530600,
+	"name": "彝良县",
+	"level": 3,
+	"postalCode": "657600",
+	"areaNumber": "530628"
+}, {
+	"id": 530629,
+	"parentId": 530600,
+	"name": "威信县",
+	"level": 3,
+	"postalCode": "657900",
+	"areaNumber": "530629"
+}, {
+	"id": 530630,
+	"parentId": 530600,
+	"name": "水富县",
+	"level": 3,
+	"postalCode": "657800",
+	"areaNumber": "530630"
+}, {
+	"id": 530700,
+	"parentId": 530000,
+	"name": "丽江市",
+	"level": 2,
+	"postalCode": "674100",
+	"areaNumber": "530700"
+}, {
+	"id": 530702,
+	"parentId": 530700,
+	"name": "古城区",
+	"level": 3,
+	"postalCode": "674100",
+	"areaNumber": "530702"
+}, {
+	"id": 530721,
+	"parentId": 530700,
+	"name": "玉龙纳西族自治县",
+	"level": 3,
+	"postalCode": "674100",
+	"areaNumber": "530721"
+}, {
+	"id": 530722,
+	"parentId": 530700,
+	"name": "永胜县",
+	"level": 3,
+	"postalCode": "674200",
+	"areaNumber": "530722"
+}, {
+	"id": 530723,
+	"parentId": 530700,
+	"name": "华坪县",
+	"level": 3,
+	"postalCode": "674800",
+	"areaNumber": "530723"
+}, {
+	"id": 530724,
+	"parentId": 530700,
+	"name": "宁蒗彝族自治县",
+	"level": 3,
+	"postalCode": "674300",
+	"areaNumber": "530724"
+}, {
+	"id": 530800,
+	"parentId": 530000,
+	"name": "普洱市",
+	"level": 2,
+	"postalCode": "665000",
+	"areaNumber": "530800"
+}, {
+	"id": 530802,
+	"parentId": 530800,
+	"name": "思茅区",
+	"level": 3,
+	"postalCode": "665000",
+	"areaNumber": "530802"
+}, {
+	"id": 530821,
+	"parentId": 530800,
+	"name": "宁洱哈尼族彝族自治县",
+	"level": 3,
+	"postalCode": "665100",
+	"areaNumber": "530821"
+}, {
+	"id": 530822,
+	"parentId": 530800,
+	"name": "墨江哈尼族自治县",
+	"level": 3,
+	"postalCode": "654800",
+	"areaNumber": "530822"
+}, {
+	"id": 530823,
+	"parentId": 530800,
+	"name": "景东彝族自治县",
+	"level": 3,
+	"postalCode": "676200",
+	"areaNumber": "530823"
+}, {
+	"id": 530824,
+	"parentId": 530800,
+	"name": "景谷傣族彝族自治县",
+	"level": 3,
+	"postalCode": "666400",
+	"areaNumber": "530824"
+}, {
+	"id": 530825,
+	"parentId": 530800,
+	"name": "镇沅彝族哈尼族拉祜族自治县",
+	"level": 3,
+	"postalCode": "666500",
+	"areaNumber": "530825"
+}, {
+	"id": 530826,
+	"parentId": 530800,
+	"name": "江城哈尼族彝族自治县",
+	"level": 3,
+	"postalCode": "665900",
+	"areaNumber": "530826"
+}, {
+	"id": 530827,
+	"parentId": 530800,
+	"name": "孟连傣族拉祜族佤族自治县",
+	"level": 3,
+	"postalCode": "665800",
+	"areaNumber": "530827"
+}, {
+	"id": 530828,
+	"parentId": 530800,
+	"name": "澜沧拉祜族自治县",
+	"level": 3,
+	"postalCode": "665600",
+	"areaNumber": "530828"
+}, {
+	"id": 530829,
+	"parentId": 530800,
+	"name": "西盟佤族自治县",
+	"level": 3,
+	"postalCode": "665700",
+	"areaNumber": "530829"
+}, {
+	"id": 530900,
+	"parentId": 530000,
+	"name": "临沧市",
+	"level": 2,
+	"postalCode": "677000",
+	"areaNumber": "530900"
+}, {
+	"id": 530902,
+	"parentId": 530900,
+	"name": "临翔区",
+	"level": 3,
+	"postalCode": "677000",
+	"areaNumber": "530902"
+}, {
+	"id": 530921,
+	"parentId": 530900,
+	"name": "凤庆县",
+	"level": 3,
+	"postalCode": "675900",
+	"areaNumber": "530921"
+}, {
+	"id": 530922,
+	"parentId": 530900,
+	"name": "云县",
+	"level": 3,
+	"postalCode": "675800",
+	"areaNumber": "530922"
+}, {
+	"id": 530923,
+	"parentId": 530900,
+	"name": "永德县",
+	"level": 3,
+	"postalCode": "677600",
+	"areaNumber": "530923"
+}, {
+	"id": 530924,
+	"parentId": 530900,
+	"name": "镇康县",
+	"level": 3,
+	"postalCode": "677700",
+	"areaNumber": "530924"
+}, {
+	"id": 530925,
+	"parentId": 530900,
+	"name": "双江拉祜族佤族布朗族傣族自治县",
+	"level": 3,
+	"postalCode": "677300",
+	"areaNumber": "530925"
+}, {
+	"id": 530926,
+	"parentId": 530900,
+	"name": "耿马傣族佤族自治县",
+	"level": 3,
+	"postalCode": "677500",
+	"areaNumber": "530926"
+}, {
+	"id": 530927,
+	"parentId": 530900,
+	"name": "沧源佤族自治县",
+	"level": 3,
+	"postalCode": "677400",
+	"areaNumber": "530927"
+}, {
+	"id": 532300,
+	"parentId": 530000,
+	"name": "楚雄彝族自治州",
+	"level": 2,
+	"postalCode": "675000",
+	"areaNumber": "532300"
+}, {
+	"id": 532301,
+	"parentId": 532300,
+	"name": "楚雄市",
+	"level": 3,
+	"postalCode": "675000",
+	"areaNumber": "532301"
+}, {
+	"id": 532322,
+	"parentId": 532300,
+	"name": "双柏县",
+	"level": 3,
+	"postalCode": "675100",
+	"areaNumber": "532322"
+}, {
+	"id": 532323,
+	"parentId": 532300,
+	"name": "牟定县",
+	"level": 3,
+	"postalCode": "675500",
+	"areaNumber": "532323"
+}, {
+	"id": 532324,
+	"parentId": 532300,
+	"name": "南华县",
+	"level": 3,
+	"postalCode": "675200",
+	"areaNumber": "532324"
+}, {
+	"id": 532325,
+	"parentId": 532300,
+	"name": "姚安县",
+	"level": 3,
+	"postalCode": "675300",
+	"areaNumber": "532325"
+}, {
+	"id": 532326,
+	"parentId": 532300,
+	"name": "大姚县",
+	"level": 3,
+	"postalCode": "675400",
+	"areaNumber": "532326"
+}, {
+	"id": 532327,
+	"parentId": 532300,
+	"name": "永仁县",
+	"level": 3,
+	"postalCode": "651400",
+	"areaNumber": "532327"
+}, {
+	"id": 532328,
+	"parentId": 532300,
+	"name": "元谋县",
+	"level": 3,
+	"postalCode": "651300",
+	"areaNumber": "532328"
+}, {
+	"id": 532329,
+	"parentId": 532300,
+	"name": "武定县",
+	"level": 3,
+	"postalCode": "651600",
+	"areaNumber": "532329"
+}, {
+	"id": 532331,
+	"parentId": 532300,
+	"name": "禄丰县",
+	"level": 3,
+	"postalCode": "651200",
+	"areaNumber": "532331"
+}, {
+	"id": 532500,
+	"parentId": 530000,
+	"name": "红河哈尼族彝族自治州",
+	"level": 2,
+	"postalCode": "661400",
+	"areaNumber": "532500"
+}, {
+	"id": 532501,
+	"parentId": 532500,
+	"name": "个旧市",
+	"level": 3,
+	"postalCode": "661000",
+	"areaNumber": "532501"
+}, {
+	"id": 532502,
+	"parentId": 532500,
+	"name": "开远市",
+	"level": 3,
+	"postalCode": "661600",
+	"areaNumber": "532502"
+}, {
+	"id": 532503,
+	"parentId": 532500,
+	"name": "蒙自市",
+	"level": 3,
+	"postalCode": "661101",
+	"areaNumber": "532503"
+}, {
+	"id": 532504,
+	"parentId": 532500,
+	"name": "弥勒市",
+	"level": 3,
+	"postalCode": "652300",
+	"areaNumber": "532504"
+}, {
+	"id": 532523,
+	"parentId": 532500,
+	"name": "屏边苗族自治县",
+	"level": 3,
+	"postalCode": "661200",
+	"areaNumber": "532523"
+}, {
+	"id": 532524,
+	"parentId": 532500,
+	"name": "建水县",
+	"level": 3,
+	"postalCode": "654300",
+	"areaNumber": "532524"
+}, {
+	"id": 532525,
+	"parentId": 532500,
+	"name": "石屏县",
+	"level": 3,
+	"postalCode": "662200",
+	"areaNumber": "532525"
+}, {
+	"id": 532527,
+	"parentId": 532500,
+	"name": "泸西县",
+	"level": 3,
+	"postalCode": "652400",
+	"areaNumber": "532527"
+}, {
+	"id": 532528,
+	"parentId": 532500,
+	"name": "元阳县",
+	"level": 3,
+	"postalCode": "662400",
+	"areaNumber": "532528"
+}, {
+	"id": 532529,
+	"parentId": 532500,
+	"name": "红河县",
+	"level": 3,
+	"postalCode": "654400",
+	"areaNumber": "532529"
+}, {
+	"id": 532530,
+	"parentId": 532500,
+	"name": "金平苗族瑶族傣族自治县",
+	"level": 3,
+	"postalCode": "661500",
+	"areaNumber": "532530"
+}, {
+	"id": 532531,
+	"parentId": 532500,
+	"name": "绿春县",
+	"level": 3,
+	"postalCode": "662500",
+	"areaNumber": "532531"
+}, {
+	"id": 532532,
+	"parentId": 532500,
+	"name": "河口瑶族自治县",
+	"level": 3,
+	"postalCode": "661300",
+	"areaNumber": "532532"
+}, {
+	"id": 532600,
+	"parentId": 530000,
+	"name": "文山壮族苗族自治州",
+	"level": 2,
+	"postalCode": "663000",
+	"areaNumber": "532600"
+}, {
+	"id": 532601,
+	"parentId": 532600,
+	"name": "文山市",
+	"level": 3,
+	"postalCode": "663000",
+	"areaNumber": "532601"
+}, {
+	"id": 532622,
+	"parentId": 532600,
+	"name": "砚山县",
+	"level": 3,
+	"postalCode": "663100",
+	"areaNumber": "532622"
+}, {
+	"id": 532623,
+	"parentId": 532600,
+	"name": "西畴县",
+	"level": 3,
+	"postalCode": "663500",
+	"areaNumber": "532623"
+}, {
+	"id": 532624,
+	"parentId": 532600,
+	"name": "麻栗坡县",
+	"level": 3,
+	"postalCode": "663600",
+	"areaNumber": "532624"
+}, {
+	"id": 532625,
+	"parentId": 532600,
+	"name": "马关县",
+	"level": 3,
+	"postalCode": "663700",
+	"areaNumber": "532625"
+}, {
+	"id": 532626,
+	"parentId": 532600,
+	"name": "丘北县",
+	"level": 3,
+	"postalCode": "663200",
+	"areaNumber": "532626"
+}, {
+	"id": 532627,
+	"parentId": 532600,
+	"name": "广南县",
+	"level": 3,
+	"postalCode": "663300",
+	"areaNumber": "532627"
+}, {
+	"id": 532628,
+	"parentId": 532600,
+	"name": "富宁县",
+	"level": 3,
+	"postalCode": "663400",
+	"areaNumber": "532628"
+}, {
+	"id": 532800,
+	"parentId": 530000,
+	"name": "西双版纳傣族自治州",
+	"level": 2,
+	"postalCode": "666100",
+	"areaNumber": "532800"
+}, {
+	"id": 532801,
+	"parentId": 532800,
+	"name": "景洪市",
+	"level": 3,
+	"postalCode": "666100",
+	"areaNumber": "532801"
+}, {
+	"id": 532822,
+	"parentId": 532800,
+	"name": "勐海县",
+	"level": 3,
+	"postalCode": "666200",
+	"areaNumber": "532822"
+}, {
+	"id": 532823,
+	"parentId": 532800,
+	"name": "勐腊县",
+	"level": 3,
+	"postalCode": "666300",
+	"areaNumber": "532823"
+}, {
+	"id": 532900,
+	"parentId": 530000,
+	"name": "大理白族自治州",
+	"level": 2,
+	"postalCode": "671000",
+	"areaNumber": "532900"
+}, {
+	"id": 532901,
+	"parentId": 532900,
+	"name": "大理市",
+	"level": 3,
+	"postalCode": "671000",
+	"areaNumber": "532901"
+}, {
+	"id": 532922,
+	"parentId": 532900,
+	"name": "漾濞彝族自治县",
+	"level": 3,
+	"postalCode": "672500",
+	"areaNumber": "532922"
+}, {
+	"id": 532923,
+	"parentId": 532900,
+	"name": "祥云县",
+	"level": 3,
+	"postalCode": "672100",
+	"areaNumber": "532923"
+}, {
+	"id": 532924,
+	"parentId": 532900,
+	"name": "宾川县",
+	"level": 3,
+	"postalCode": "671600",
+	"areaNumber": "532924"
+}, {
+	"id": 532925,
+	"parentId": 532900,
+	"name": "弥渡县",
+	"level": 3,
+	"postalCode": "675600",
+	"areaNumber": "532925"
+}, {
+	"id": 532926,
+	"parentId": 532900,
+	"name": "南涧彝族自治县",
+	"level": 3,
+	"postalCode": "675700",
+	"areaNumber": "532926"
+}, {
+	"id": 532927,
+	"parentId": 532900,
+	"name": "巍山彝族回族自治县",
+	"level": 3,
+	"postalCode": "672400",
+	"areaNumber": "532927"
+}, {
+	"id": 532928,
+	"parentId": 532900,
+	"name": "永平县",
+	"level": 3,
+	"postalCode": "672600",
+	"areaNumber": "532928"
+}, {
+	"id": 532929,
+	"parentId": 532900,
+	"name": "云龙县",
+	"level": 3,
+	"postalCode": "672700",
+	"areaNumber": "532929"
+}, {
+	"id": 532930,
+	"parentId": 532900,
+	"name": "洱源县",
+	"level": 3,
+	"postalCode": "671200",
+	"areaNumber": "532930"
+}, {
+	"id": 532931,
+	"parentId": 532900,
+	"name": "剑川县",
+	"level": 3,
+	"postalCode": "671300",
+	"areaNumber": "532931"
+}, {
+	"id": 532932,
+	"parentId": 532900,
+	"name": "鹤庆县",
+	"level": 3,
+	"postalCode": "671500",
+	"areaNumber": "532932"
+}, {
+	"id": 533100,
+	"parentId": 530000,
+	"name": "德宏傣族景颇族自治州",
+	"level": 2,
+	"postalCode": "678400",
+	"areaNumber": "533100"
+}, {
+	"id": 533102,
+	"parentId": 533100,
+	"name": "瑞丽市",
+	"level": 3,
+	"postalCode": "678600",
+	"areaNumber": "533102"
+}, {
+	"id": 533103,
+	"parentId": 533100,
+	"name": "芒市",
+	"level": 3,
+	"postalCode": "678400",
+	"areaNumber": "533103"
+}, {
+	"id": 533122,
+	"parentId": 533100,
+	"name": "梁河县",
+	"level": 3,
+	"postalCode": "679200",
+	"areaNumber": "533122"
+}, {
+	"id": 533123,
+	"parentId": 533100,
+	"name": "盈江县",
+	"level": 3,
+	"postalCode": "679300",
+	"areaNumber": "533123"
+}, {
+	"id": 533124,
+	"parentId": 533100,
+	"name": "陇川县",
+	"level": 3,
+	"postalCode": "678700",
+	"areaNumber": "533124"
+}, {
+	"id": 533300,
+	"parentId": 530000,
+	"name": "怒江傈僳族自治州",
+	"level": 2,
+	"postalCode": "673100",
+	"areaNumber": "533300"
+}, {
+	"id": 533301,
+	"parentId": 533300,
+	"name": "泸水市",
+	"level": 3,
+	"postalCode": "673200",
+	"areaNumber": "533301"
+}, {
+	"id": 533323,
+	"parentId": 533300,
+	"name": "福贡县",
+	"level": 3,
+	"postalCode": "673400",
+	"areaNumber": "533323"
+}, {
+	"id": 533324,
+	"parentId": 533300,
+	"name": "贡山独龙族怒族自治县",
+	"level": 3,
+	"postalCode": "673500",
+	"areaNumber": "533324"
+}, {
+	"id": 533325,
+	"parentId": 533300,
+	"name": "兰坪白族普米族自治县",
+	"level": 3,
+	"postalCode": "671400",
+	"areaNumber": "533325"
+}, {
+	"id": 533400,
+	"parentId": 530000,
+	"name": "迪庆藏族自治州",
+	"level": 2,
+	"postalCode": "674400",
+	"areaNumber": "533400"
+}, {
+	"id": 533401,
+	"parentId": 533400,
+	"name": "香格里拉市",
+	"level": 3,
+	"postalCode": "674400",
+	"areaNumber": "533401"
+}, {
+	"id": 533422,
+	"parentId": 533400,
+	"name": "德钦县",
+	"level": 3,
+	"postalCode": "674500",
+	"areaNumber": "533422"
+}, {
+	"id": 533423,
+	"parentId": 533400,
+	"name": "维西傈僳族自治县",
+	"level": 3,
+	"postalCode": "674600",
+	"areaNumber": "533423"
+}, {
+	"id": 540000,
+	"parentId": 100000,
+	"name": "西藏自治区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "540000"
+}, {
+	"id": 540100,
+	"parentId": 540000,
+	"name": "拉萨市",
+	"level": 2,
+	"postalCode": "850000",
+	"areaNumber": "540100"
+}, {
+	"id": 540102,
+	"parentId": 540100,
+	"name": "城关区",
+	"level": 3,
+	"postalCode": "850000",
+	"areaNumber": "540102"
+}, {
+	"id": 540103,
+	"parentId": 540100,
+	"name": "堆龙德庆区",
+	"level": 3,
+	"postalCode": "851400",
+	"areaNumber": "540103"
+}, {
+	"id": 540121,
+	"parentId": 540100,
+	"name": "林周县",
+	"level": 3,
+	"postalCode": "851600",
+	"areaNumber": "540121"
+}, {
+	"id": 540122,
+	"parentId": 540100,
+	"name": "当雄县",
+	"level": 3,
+	"postalCode": "851500",
+	"areaNumber": "540122"
+}, {
+	"id": 540123,
+	"parentId": 540100,
+	"name": "尼木县",
+	"level": 3,
+	"postalCode": "851600",
+	"areaNumber": "540123"
+}, {
+	"id": 540124,
+	"parentId": 540100,
+	"name": "曲水县",
+	"level": 3,
+	"postalCode": "850600",
+	"areaNumber": "540124"
+}, {
+	"id": 540126,
+	"parentId": 540100,
+	"name": "达孜区",
+	"level": 3,
+	"postalCode": "850100",
+	"areaNumber": "540126"
+}, {
+	"id": 540127,
+	"parentId": 540100,
+	"name": "墨竹工卡县",
+	"level": 3,
+	"postalCode": "850200",
+	"areaNumber": "540127"
+}, {
+	"id": 540200,
+	"parentId": 540000,
+	"name": "日喀则市",
+	"level": 2,
+	"postalCode": "857000",
+	"areaNumber": "540200"
+}, {
+	"id": 540202,
+	"parentId": 540200,
+	"name": "桑珠孜区",
+	"level": 3,
+	"postalCode": "857000",
+	"areaNumber": "540202"
+}, {
+	"id": 540221,
+	"parentId": 540200,
+	"name": "南木林县",
+	"level": 3,
+	"postalCode": "857100",
+	"areaNumber": "540221"
+}, {
+	"id": 540222,
+	"parentId": 540200,
+	"name": "江孜县",
+	"level": 3,
+	"postalCode": "857400",
+	"areaNumber": "540222"
+}, {
+	"id": 540223,
+	"parentId": 540200,
+	"name": "定日县",
+	"level": 3,
+	"postalCode": "858200",
+	"areaNumber": "540223"
+}, {
+	"id": 540224,
+	"parentId": 540200,
+	"name": "萨迦县",
+	"level": 3,
+	"postalCode": "857800",
+	"areaNumber": "540224"
+}, {
+	"id": 540225,
+	"parentId": 540200,
+	"name": "拉孜县",
+	"level": 3,
+	"postalCode": "858100",
+	"areaNumber": "540225"
+}, {
+	"id": 540226,
+	"parentId": 540200,
+	"name": "昂仁县",
+	"level": 3,
+	"postalCode": "858500",
+	"areaNumber": "540226"
+}, {
+	"id": 540227,
+	"parentId": 540200,
+	"name": "谢通门县",
+	"level": 3,
+	"postalCode": "858900",
+	"areaNumber": "540227"
+}, {
+	"id": 540228,
+	"parentId": 540200,
+	"name": "白朗县",
+	"level": 3,
+	"postalCode": "857300",
+	"areaNumber": "540228"
+}, {
+	"id": 540229,
+	"parentId": 540200,
+	"name": "仁布县",
+	"level": 3,
+	"postalCode": "857200",
+	"areaNumber": "540229"
+}, {
+	"id": 540230,
+	"parentId": 540200,
+	"name": "康马县",
+	"level": 3,
+	"postalCode": "857500",
+	"areaNumber": "540230"
+}, {
+	"id": 540231,
+	"parentId": 540200,
+	"name": "定结县",
+	"level": 3,
+	"postalCode": "857900",
+	"areaNumber": "540231"
+}, {
+	"id": 540232,
+	"parentId": 540200,
+	"name": "仲巴县",
+	"level": 3,
+	"postalCode": "858800",
+	"areaNumber": "540232"
+}, {
+	"id": 540233,
+	"parentId": 540200,
+	"name": "亚东县",
+	"level": 3,
+	"postalCode": "857600",
+	"areaNumber": "540233"
+}, {
+	"id": 540234,
+	"parentId": 540200,
+	"name": "吉隆县",
+	"level": 3,
+	"postalCode": "858700",
+	"areaNumber": "540234"
+}, {
+	"id": 540235,
+	"parentId": 540200,
+	"name": "聂拉木县",
+	"level": 3,
+	"postalCode": "858300",
+	"areaNumber": "540235"
+}, {
+	"id": 540236,
+	"parentId": 540200,
+	"name": "萨嘎县",
+	"level": 3,
+	"postalCode": "857800",
+	"areaNumber": "540236"
+}, {
+	"id": 540237,
+	"parentId": 540200,
+	"name": "岗巴县",
+	"level": 3,
+	"postalCode": "857700",
+	"areaNumber": "540237"
+}, {
+	"id": 540300,
+	"parentId": 540000,
+	"name": "昌都市",
+	"level": 2,
+	"postalCode": "854000",
+	"areaNumber": "540300"
+}, {
+	"id": 540302,
+	"parentId": 540300,
+	"name": "卡若区",
+	"level": 3,
+	"postalCode": "854000",
+	"areaNumber": "540302"
+}, {
+	"id": 540321,
+	"parentId": 540300,
+	"name": "江达县",
+	"level": 3,
+	"postalCode": "854100",
+	"areaNumber": "540321"
+}, {
+	"id": 540322,
+	"parentId": 540300,
+	"name": "贡觉县",
+	"level": 3,
+	"postalCode": "854200",
+	"areaNumber": "540322"
+}, {
+	"id": 540323,
+	"parentId": 540300,
+	"name": "类乌齐县",
+	"level": 3,
+	"postalCode": "855600",
+	"areaNumber": "540323"
+}, {
+	"id": 540324,
+	"parentId": 540300,
+	"name": "丁青县",
+	"level": 3,
+	"postalCode": "855700",
+	"areaNumber": "540324"
+}, {
+	"id": 540325,
+	"parentId": 540300,
+	"name": "察雅县",
+	"level": 3,
+	"postalCode": "854300",
+	"areaNumber": "540325"
+}, {
+	"id": 540326,
+	"parentId": 540300,
+	"name": "八宿县",
+	"level": 3,
+	"postalCode": "854600",
+	"areaNumber": "540326"
+}, {
+	"id": 540327,
+	"parentId": 540300,
+	"name": "左贡县",
+	"level": 3,
+	"postalCode": "854400",
+	"areaNumber": "540327"
+}, {
+	"id": 540328,
+	"parentId": 540300,
+	"name": "芒康县",
+	"level": 3,
+	"postalCode": "854500",
+	"areaNumber": "540328"
+}, {
+	"id": 540329,
+	"parentId": 540300,
+	"name": "洛隆县",
+	"level": 3,
+	"postalCode": "855400",
+	"areaNumber": "540329"
+}, {
+	"id": 540330,
+	"parentId": 540300,
+	"name": "边坝县",
+	"level": 3,
+	"postalCode": "855500",
+	"areaNumber": "540330"
+}, {
+	"id": 540400,
+	"parentId": 540000,
+	"name": "林芝市",
+	"level": 2,
+	"postalCode": "860000",
+	"areaNumber": "540400"
+}, {
+	"id": 540402,
+	"parentId": 540400,
+	"name": "巴宜区",
+	"level": 3,
+	"postalCode": "860100",
+	"areaNumber": "540402"
+}, {
+	"id": 540421,
+	"parentId": 540400,
+	"name": "工布江达县",
+	"level": 3,
+	"postalCode": "860200",
+	"areaNumber": "540421"
+}, {
+	"id": 540422,
+	"parentId": 540400,
+	"name": "米林县",
+	"level": 3,
+	"postalCode": "860500",
+	"areaNumber": "540422"
+}, {
+	"id": 540423,
+	"parentId": 540400,
+	"name": "墨脱县",
+	"level": 3,
+	"postalCode": "860700",
+	"areaNumber": "540423"
+}, {
+	"id": 540424,
+	"parentId": 540400,
+	"name": "波密县",
+	"level": 3,
+	"postalCode": "860300",
+	"areaNumber": "540424"
+}, {
+	"id": 540425,
+	"parentId": 540400,
+	"name": "察隅县",
+	"level": 3,
+	"postalCode": "860600",
+	"areaNumber": "540425"
+}, {
+	"id": 540426,
+	"parentId": 540400,
+	"name": "朗县",
+	"level": 3,
+	"postalCode": "860400",
+	"areaNumber": "540426"
+}, {
+	"id": 540500,
+	"parentId": 540000,
+	"name": "山南市",
+	"level": 2,
+	"postalCode": "856000",
+	"areaNumber": "540500"
+}, {
+	"id": 540502,
+	"parentId": 540500,
+	"name": "乃东区",
+	"level": 3,
+	"postalCode": "856100",
+	"areaNumber": "540502"
+}, {
+	"id": 540521,
+	"parentId": 540500,
+	"name": "扎囊县",
+	"level": 3,
+	"postalCode": "850800",
+	"areaNumber": "540521"
+}, {
+	"id": 540522,
+	"parentId": 540500,
+	"name": "贡嘎县",
+	"level": 3,
+	"postalCode": "850700",
+	"areaNumber": "540522"
+}, {
+	"id": 540523,
+	"parentId": 540500,
+	"name": "桑日县",
+	"level": 3,
+	"postalCode": "856200",
+	"areaNumber": "540523"
+}, {
+	"id": 540524,
+	"parentId": 540500,
+	"name": "琼结县",
+	"level": 3,
+	"postalCode": "856800",
+	"areaNumber": "540524"
+}, {
+	"id": 540525,
+	"parentId": 540500,
+	"name": "曲松县",
+	"level": 3,
+	"postalCode": "856300",
+	"areaNumber": "540525"
+}, {
+	"id": 540526,
+	"parentId": 540500,
+	"name": "措美县",
+	"level": 3,
+	"postalCode": "856900",
+	"areaNumber": "540526"
+}, {
+	"id": 540527,
+	"parentId": 540500,
+	"name": "洛扎县",
+	"level": 3,
+	"postalCode": "851200",
+	"areaNumber": "540527"
+}, {
+	"id": 540528,
+	"parentId": 540500,
+	"name": "加查县",
+	"level": 3,
+	"postalCode": "856400",
+	"areaNumber": "540528"
+}, {
+	"id": 540529,
+	"parentId": 540500,
+	"name": "隆子县",
+	"level": 3,
+	"postalCode": "856600",
+	"areaNumber": "540529"
+}, {
+	"id": 540530,
+	"parentId": 540500,
+	"name": "错那县",
+	"level": 3,
+	"postalCode": "856700",
+	"areaNumber": "540530"
+}, {
+	"id": 540531,
+	"parentId": 540500,
+	"name": "浪卡子县",
+	"level": 3,
+	"postalCode": "851100",
+	"areaNumber": "540531"
+}, {
+	"id": 542400,
+	"parentId": 540000,
+	"name": "那曲市",
+	"level": 2,
+	"postalCode": "852000",
+	"areaNumber": "542400"
+}, {
+	"id": 542421,
+	"parentId": 542400,
+	"name": "色尼区",
+	"level": 3,
+	"postalCode": "852000",
+	"areaNumber": "542421"
+}, {
+	"id": 542422,
+	"parentId": 542400,
+	"name": "嘉黎县",
+	"level": 3,
+	"postalCode": "852400",
+	"areaNumber": "542422"
+}, {
+	"id": 542423,
+	"parentId": 542400,
+	"name": "比如县",
+	"level": 3,
+	"postalCode": "852300",
+	"areaNumber": "542423"
+}, {
+	"id": 542424,
+	"parentId": 542400,
+	"name": "聂荣县",
+	"level": 3,
+	"postalCode": "853500",
+	"areaNumber": "542424"
+}, {
+	"id": 542425,
+	"parentId": 542400,
+	"name": "安多县",
+	"level": 3,
+	"postalCode": "853400",
+	"areaNumber": "542425"
+}, {
+	"id": 542426,
+	"parentId": 542400,
+	"name": "申扎县",
+	"level": 3,
+	"postalCode": "853100",
+	"areaNumber": "542426"
+}, {
+	"id": 542427,
+	"parentId": 542400,
+	"name": "索县",
+	"level": 3,
+	"postalCode": "852200",
+	"areaNumber": "542427"
+}, {
+	"id": 542428,
+	"parentId": 542400,
+	"name": "班戈县",
+	"level": 3,
+	"postalCode": "852500",
+	"areaNumber": "542428"
+}, {
+	"id": 542429,
+	"parentId": 542400,
+	"name": "巴青县",
+	"level": 3,
+	"postalCode": "852100",
+	"areaNumber": "542429"
+}, {
+	"id": 542430,
+	"parentId": 542400,
+	"name": "尼玛县",
+	"level": 3,
+	"postalCode": "853200",
+	"areaNumber": "542430"
+}, {
+	"id": 542431,
+	"parentId": 542400,
+	"name": "双湖县",
+	"level": 3,
+	"postalCode": "852600",
+	"areaNumber": "542431"
+}, {
+	"id": 542500,
+	"parentId": 540000,
+	"name": "阿里地区",
+	"level": 2,
+	"postalCode": "859000",
+	"areaNumber": "542500"
+}, {
+	"id": 542521,
+	"parentId": 542500,
+	"name": "普兰县",
+	"level": 3,
+	"postalCode": "859500",
+	"areaNumber": "542521"
+}, {
+	"id": 542522,
+	"parentId": 542500,
+	"name": "札达县",
+	"level": 3,
+	"postalCode": "859600",
+	"areaNumber": "542522"
+}, {
+	"id": 542523,
+	"parentId": 542500,
+	"name": "噶尔县",
+	"level": 3,
+	"postalCode": "859000",
+	"areaNumber": "542523"
+}, {
+	"id": 542524,
+	"parentId": 542500,
+	"name": "日土县",
+	"level": 3,
+	"postalCode": "859700",
+	"areaNumber": "542524"
+}, {
+	"id": 542525,
+	"parentId": 542500,
+	"name": "革吉县",
+	"level": 3,
+	"postalCode": "859100",
+	"areaNumber": "542525"
+}, {
+	"id": 542526,
+	"parentId": 542500,
+	"name": "改则县",
+	"level": 3,
+	"postalCode": "859200",
+	"areaNumber": "542526"
+}, {
+	"id": 542527,
+	"parentId": 542500,
+	"name": "措勤县",
+	"level": 3,
+	"postalCode": "859300",
+	"areaNumber": "542527"
+}, {
+	"id": 610000,
+	"parentId": 100000,
+	"name": "陕西省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "610000"
+}, {
+	"id": 610100,
+	"parentId": 610000,
+	"name": "西安市",
+	"level": 2,
+	"postalCode": "710000",
+	"areaNumber": "610100"
+}, {
+	"id": 610102,
+	"parentId": 610100,
+	"name": "新城区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610102"
+}, {
+	"id": 610103,
+	"parentId": 610100,
+	"name": "碑林区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610103"
+}, {
+	"id": 610104,
+	"parentId": 610100,
+	"name": "莲湖区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610104"
+}, {
+	"id": 610111,
+	"parentId": 610100,
+	"name": "灞桥区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610111"
+}, {
+	"id": 610112,
+	"parentId": 610100,
+	"name": "未央区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610112"
+}, {
+	"id": 610113,
+	"parentId": 610100,
+	"name": "雁塔区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610113"
+}, {
+	"id": 610114,
+	"parentId": 610100,
+	"name": "阎良区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610114"
+}, {
+	"id": 610115,
+	"parentId": 610100,
+	"name": "临潼区",
+	"level": 3,
+	"postalCode": "710600",
+	"areaNumber": "610115"
+}, {
+	"id": 610116,
+	"parentId": 610100,
+	"name": "长安区",
+	"level": 3,
+	"postalCode": "710100",
+	"areaNumber": "610116"
+}, {
+	"id": 610117,
+	"parentId": 610100,
+	"name": "高陵区",
+	"level": 3,
+	"postalCode": "710200",
+	"areaNumber": "610117"
+}, {
+	"id": 610118,
+	"parentId": 610100,
+	"name": "鄠邑区",
+	"level": 3,
+	"postalCode": "710300",
+	"areaNumber": "610118"
+}, {
+	"id": 610122,
+	"parentId": 610100,
+	"name": "蓝田县",
+	"level": 3,
+	"postalCode": "710500",
+	"areaNumber": "610122"
+}, {
+	"id": 610124,
+	"parentId": 610100,
+	"name": "周至县",
+	"level": 3,
+	"postalCode": "710400",
+	"areaNumber": "610124"
+}, {
+	"id": 610125,
+	"parentId": 610100,
+	"name": "西咸新区",
+	"level": 3,
+	"postalCode": "712000",
+	"areaNumber": "610125"
+}, {
+	"id": 610127,
+	"parentId": 610100,
+	"name": "曲江新区",
+	"level": 3,
+	"postalCode": "710061",
+	"areaNumber": "610127"
+}, {
+	"id": 610128,
+	"parentId": 610100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "710000",
+	"areaNumber": "610128"
+}, {
+	"id": 610200,
+	"parentId": 610000,
+	"name": "铜川市",
+	"level": 2,
+	"postalCode": "727000",
+	"areaNumber": "610200"
+}, {
+	"id": 610202,
+	"parentId": 610200,
+	"name": "王益区",
+	"level": 3,
+	"postalCode": "727000",
+	"areaNumber": "610202"
+}, {
+	"id": 610203,
+	"parentId": 610200,
+	"name": "印台区",
+	"level": 3,
+	"postalCode": "727007",
+	"areaNumber": "610203"
+}, {
+	"id": 610204,
+	"parentId": 610200,
+	"name": "耀州区",
+	"level": 3,
+	"postalCode": "727100",
+	"areaNumber": "610204"
+}, {
+	"id": 610222,
+	"parentId": 610200,
+	"name": "宜君县",
+	"level": 3,
+	"postalCode": "727200",
+	"areaNumber": "610222"
+}, {
+	"id": 610300,
+	"parentId": 610000,
+	"name": "宝鸡市",
+	"level": 2,
+	"postalCode": "721000",
+	"areaNumber": "610300"
+}, {
+	"id": 610302,
+	"parentId": 610300,
+	"name": "渭滨区",
+	"level": 3,
+	"postalCode": "721000",
+	"areaNumber": "610302"
+}, {
+	"id": 610303,
+	"parentId": 610300,
+	"name": "金台区",
+	"level": 3,
+	"postalCode": "721000",
+	"areaNumber": "610303"
+}, {
+	"id": 610304,
+	"parentId": 610300,
+	"name": "陈仓区",
+	"level": 3,
+	"postalCode": "721300",
+	"areaNumber": "610304"
+}, {
+	"id": 610322,
+	"parentId": 610300,
+	"name": "凤翔县",
+	"level": 3,
+	"postalCode": "721400",
+	"areaNumber": "610322"
+}, {
+	"id": 610323,
+	"parentId": 610300,
+	"name": "岐山县",
+	"level": 3,
+	"postalCode": "722400",
+	"areaNumber": "610323"
+}, {
+	"id": 610324,
+	"parentId": 610300,
+	"name": "扶风县",
+	"level": 3,
+	"postalCode": "722200",
+	"areaNumber": "610324"
+}, {
+	"id": 610326,
+	"parentId": 610300,
+	"name": "眉县",
+	"level": 3,
+	"postalCode": "722300",
+	"areaNumber": "610326"
+}, {
+	"id": 610327,
+	"parentId": 610300,
+	"name": "陇县",
+	"level": 3,
+	"postalCode": "721200",
+	"areaNumber": "610327"
+}, {
+	"id": 610328,
+	"parentId": 610300,
+	"name": "千阳县",
+	"level": 3,
+	"postalCode": "721100",
+	"areaNumber": "610328"
+}, {
+	"id": 610329,
+	"parentId": 610300,
+	"name": "麟游县",
+	"level": 3,
+	"postalCode": "721500",
+	"areaNumber": "610329"
+}, {
+	"id": 610330,
+	"parentId": 610300,
+	"name": "凤县",
+	"level": 3,
+	"postalCode": "721700",
+	"areaNumber": "610330"
+}, {
+	"id": 610331,
+	"parentId": 610300,
+	"name": "太白县",
+	"level": 3,
+	"postalCode": "721600",
+	"areaNumber": "610331"
+}, {
+	"id": 610332,
+	"parentId": 610300,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "721013",
+	"areaNumber": "610332"
+}, {
+	"id": 610400,
+	"parentId": 610000,
+	"name": "咸阳市",
+	"level": 2,
+	"postalCode": "712000",
+	"areaNumber": "610400"
+}, {
+	"id": 610402,
+	"parentId": 610400,
+	"name": "秦都区",
+	"level": 3,
+	"postalCode": "712000",
+	"areaNumber": "610402"
+}, {
+	"id": 610403,
+	"parentId": 610400,
+	"name": "杨陵区",
+	"level": 3,
+	"postalCode": "712100",
+	"areaNumber": "610403"
+}, {
+	"id": 610404,
+	"parentId": 610400,
+	"name": "渭城区",
+	"level": 3,
+	"postalCode": "712000",
+	"areaNumber": "610404"
+}, {
+	"id": 610422,
+	"parentId": 610400,
+	"name": "三原县",
+	"level": 3,
+	"postalCode": "713800",
+	"areaNumber": "610422"
+}, {
+	"id": 610423,
+	"parentId": 610400,
+	"name": "泾阳县",
+	"level": 3,
+	"postalCode": "713700",
+	"areaNumber": "610423"
+}, {
+	"id": 610424,
+	"parentId": 610400,
+	"name": "乾县",
+	"level": 3,
+	"postalCode": "713300",
+	"areaNumber": "610424"
+}, {
+	"id": 610425,
+	"parentId": 610400,
+	"name": "礼泉县",
+	"level": 3,
+	"postalCode": "713200",
+	"areaNumber": "610425"
+}, {
+	"id": 610426,
+	"parentId": 610400,
+	"name": "永寿县",
+	"level": 3,
+	"postalCode": "713400",
+	"areaNumber": "610426"
+}, {
+	"id": 610427,
+	"parentId": 610400,
+	"name": "彬县",
+	"level": 3,
+	"postalCode": "713500",
+	"areaNumber": "610427"
+}, {
+	"id": 610428,
+	"parentId": 610400,
+	"name": "长武县",
+	"level": 3,
+	"postalCode": "713600",
+	"areaNumber": "610428"
+}, {
+	"id": 610429,
+	"parentId": 610400,
+	"name": "旬邑县",
+	"level": 3,
+	"postalCode": "711300",
+	"areaNumber": "610429"
+}, {
+	"id": 610430,
+	"parentId": 610400,
+	"name": "淳化县",
+	"level": 3,
+	"postalCode": "711200",
+	"areaNumber": "610430"
+}, {
+	"id": 610431,
+	"parentId": 610400,
+	"name": "武功县",
+	"level": 3,
+	"postalCode": "712200",
+	"areaNumber": "610431"
+}, {
+	"id": 610481,
+	"parentId": 610400,
+	"name": "兴平市",
+	"level": 3,
+	"postalCode": "713100",
+	"areaNumber": "610481"
+}, {
+	"id": 610482,
+	"parentId": 610400,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "712000",
+	"areaNumber": "610482"
+}, {
+	"id": 610500,
+	"parentId": 610000,
+	"name": "渭南市",
+	"level": 2,
+	"postalCode": "714000",
+	"areaNumber": "610500"
+}, {
+	"id": 610502,
+	"parentId": 610500,
+	"name": "临渭区",
+	"level": 3,
+	"postalCode": "714000",
+	"areaNumber": "610502"
+}, {
+	"id": 610503,
+	"parentId": 610500,
+	"name": "华州区",
+	"level": 3,
+	"postalCode": "714100",
+	"areaNumber": "610503"
+}, {
+	"id": 610522,
+	"parentId": 610500,
+	"name": "潼关县",
+	"level": 3,
+	"postalCode": "714300",
+	"areaNumber": "610522"
+}, {
+	"id": 610523,
+	"parentId": 610500,
+	"name": "大荔县",
+	"level": 3,
+	"postalCode": "715100",
+	"areaNumber": "610523"
+}, {
+	"id": 610524,
+	"parentId": 610500,
+	"name": "合阳县",
+	"level": 3,
+	"postalCode": "715300",
+	"areaNumber": "610524"
+}, {
+	"id": 610525,
+	"parentId": 610500,
+	"name": "澄城县",
+	"level": 3,
+	"postalCode": "715200",
+	"areaNumber": "610525"
+}, {
+	"id": 610526,
+	"parentId": 610500,
+	"name": "蒲城县",
+	"level": 3,
+	"postalCode": "715500",
+	"areaNumber": "610526"
+}, {
+	"id": 610527,
+	"parentId": 610500,
+	"name": "白水县",
+	"level": 3,
+	"postalCode": "715600",
+	"areaNumber": "610527"
+}, {
+	"id": 610528,
+	"parentId": 610500,
+	"name": "富平县",
+	"level": 3,
+	"postalCode": "711700",
+	"areaNumber": "610528"
+}, {
+	"id": 610581,
+	"parentId": 610500,
+	"name": "韩城市",
+	"level": 3,
+	"postalCode": "715400",
+	"areaNumber": "610581"
+}, {
+	"id": 610582,
+	"parentId": 610500,
+	"name": "华阴市",
+	"level": 3,
+	"postalCode": "714200",
+	"areaNumber": "610582"
+}, {
+	"id": 610600,
+	"parentId": 610000,
+	"name": "延安市",
+	"level": 2,
+	"postalCode": "716000",
+	"areaNumber": "610600"
+}, {
+	"id": 610602,
+	"parentId": 610600,
+	"name": "宝塔区",
+	"level": 3,
+	"postalCode": "716000",
+	"areaNumber": "610602"
+}, {
+	"id": 610603,
+	"parentId": 610600,
+	"name": "安塞区",
+	"level": 3,
+	"postalCode": "717400",
+	"areaNumber": "610603"
+}, {
+	"id": 610621,
+	"parentId": 610600,
+	"name": "延长县",
+	"level": 3,
+	"postalCode": "717100",
+	"areaNumber": "610621"
+}, {
+	"id": 610622,
+	"parentId": 610600,
+	"name": "延川县",
+	"level": 3,
+	"postalCode": "717200",
+	"areaNumber": "610622"
+}, {
+	"id": 610623,
+	"parentId": 610600,
+	"name": "子长县",
+	"level": 3,
+	"postalCode": "717300",
+	"areaNumber": "610623"
+}, {
+	"id": 610625,
+	"parentId": 610600,
+	"name": "志丹县",
+	"level": 3,
+	"postalCode": "717500",
+	"areaNumber": "610625"
+}, {
+	"id": 610626,
+	"parentId": 610600,
+	"name": "吴起县",
+	"level": 3,
+	"postalCode": "717600",
+	"areaNumber": "610626"
+}, {
+	"id": 610627,
+	"parentId": 610600,
+	"name": "甘泉县",
+	"level": 3,
+	"postalCode": "716100",
+	"areaNumber": "610627"
+}, {
+	"id": 610628,
+	"parentId": 610600,
+	"name": "富县",
+	"level": 3,
+	"postalCode": "727500",
+	"areaNumber": "610628"
+}, {
+	"id": 610629,
+	"parentId": 610600,
+	"name": "洛川县",
+	"level": 3,
+	"postalCode": "727400",
+	"areaNumber": "610629"
+}, {
+	"id": 610630,
+	"parentId": 610600,
+	"name": "宜川县",
+	"level": 3,
+	"postalCode": "716200",
+	"areaNumber": "610630"
+}, {
+	"id": 610631,
+	"parentId": 610600,
+	"name": "黄龙县",
+	"level": 3,
+	"postalCode": "715700",
+	"areaNumber": "610631"
+}, {
+	"id": 610632,
+	"parentId": 610600,
+	"name": "黄陵县",
+	"level": 3,
+	"postalCode": "727300",
+	"areaNumber": "610632"
+}, {
+	"id": 610700,
+	"parentId": 610000,
+	"name": "汉中市",
+	"level": 2,
+	"postalCode": "723000",
+	"areaNumber": "610700"
+}, {
+	"id": 610702,
+	"parentId": 610700,
+	"name": "汉台区",
+	"level": 3,
+	"postalCode": "723000",
+	"areaNumber": "610702"
+}, {
+	"id": 610721,
+	"parentId": 610700,
+	"name": "南郑区",
+	"level": 3,
+	"postalCode": "723100",
+	"areaNumber": "610721"
+}, {
+	"id": 610722,
+	"parentId": 610700,
+	"name": "城固县",
+	"level": 3,
+	"postalCode": "723200",
+	"areaNumber": "610722"
+}, {
+	"id": 610723,
+	"parentId": 610700,
+	"name": "洋县",
+	"level": 3,
+	"postalCode": "723300",
+	"areaNumber": "610723"
+}, {
+	"id": 610724,
+	"parentId": 610700,
+	"name": "西乡县",
+	"level": 3,
+	"postalCode": "723500",
+	"areaNumber": "610724"
+}, {
+	"id": 610725,
+	"parentId": 610700,
+	"name": "勉县",
+	"level": 3,
+	"postalCode": "724200",
+	"areaNumber": "610725"
+}, {
+	"id": 610726,
+	"parentId": 610700,
+	"name": "宁强县",
+	"level": 3,
+	"postalCode": "724400",
+	"areaNumber": "610726"
+}, {
+	"id": 610727,
+	"parentId": 610700,
+	"name": "略阳县",
+	"level": 3,
+	"postalCode": "724300",
+	"areaNumber": "610727"
+}, {
+	"id": 610728,
+	"parentId": 610700,
+	"name": "镇巴县",
+	"level": 3,
+	"postalCode": "723600",
+	"areaNumber": "610728"
+}, {
+	"id": 610729,
+	"parentId": 610700,
+	"name": "留坝县",
+	"level": 3,
+	"postalCode": "724100",
+	"areaNumber": "610729"
+}, {
+	"id": 610730,
+	"parentId": 610700,
+	"name": "佛坪县",
+	"level": 3,
+	"postalCode": "723400",
+	"areaNumber": "610730"
+}, {
+	"id": 610800,
+	"parentId": 610000,
+	"name": "榆林市",
+	"level": 2,
+	"postalCode": "719000",
+	"areaNumber": "610800"
+}, {
+	"id": 610802,
+	"parentId": 610800,
+	"name": "榆阳区",
+	"level": 3,
+	"postalCode": "719000",
+	"areaNumber": "610802"
+}, {
+	"id": 610803,
+	"parentId": 610800,
+	"name": "横山区",
+	"level": 3,
+	"postalCode": "719200",
+	"areaNumber": "610803"
+}, {
+	"id": 610822,
+	"parentId": 610800,
+	"name": "府谷县",
+	"level": 3,
+	"postalCode": "719400",
+	"areaNumber": "610822"
+}, {
+	"id": 610824,
+	"parentId": 610800,
+	"name": "靖边县",
+	"level": 3,
+	"postalCode": "718500",
+	"areaNumber": "610824"
+}, {
+	"id": 610825,
+	"parentId": 610800,
+	"name": "定边县",
+	"level": 3,
+	"postalCode": "718600",
+	"areaNumber": "610825"
+}, {
+	"id": 610826,
+	"parentId": 610800,
+	"name": "绥德县",
+	"level": 3,
+	"postalCode": "718000",
+	"areaNumber": "610826"
+}, {
+	"id": 610827,
+	"parentId": 610800,
+	"name": "米脂县",
+	"level": 3,
+	"postalCode": "718100",
+	"areaNumber": "610827"
+}, {
+	"id": 610828,
+	"parentId": 610800,
+	"name": "佳县",
+	"level": 3,
+	"postalCode": "719200",
+	"areaNumber": "610828"
+}, {
+	"id": 610829,
+	"parentId": 610800,
+	"name": "吴堡县",
+	"level": 3,
+	"postalCode": "718200",
+	"areaNumber": "610829"
+}, {
+	"id": 610830,
+	"parentId": 610800,
+	"name": "清涧县",
+	"level": 3,
+	"postalCode": "718300",
+	"areaNumber": "610830"
+}, {
+	"id": 610831,
+	"parentId": 610800,
+	"name": "子洲县",
+	"level": 3,
+	"postalCode": "718400",
+	"areaNumber": "610831"
+}, {
+	"id": 610881,
+	"parentId": 610800,
+	"name": "神木市",
+	"level": 3,
+	"postalCode": "719300",
+	"areaNumber": "610881"
+}, {
+	"id": 610900,
+	"parentId": 610000,
+	"name": "安康市",
+	"level": 2,
+	"postalCode": "725000",
+	"areaNumber": "610900"
+}, {
+	"id": 610902,
+	"parentId": 610900,
+	"name": "汉滨区",
+	"level": 3,
+	"postalCode": "725000",
+	"areaNumber": "610902"
+}, {
+	"id": 610921,
+	"parentId": 610900,
+	"name": "汉阴县",
+	"level": 3,
+	"postalCode": "725100",
+	"areaNumber": "610921"
+}, {
+	"id": 610922,
+	"parentId": 610900,
+	"name": "石泉县",
+	"level": 3,
+	"postalCode": "725200",
+	"areaNumber": "610922"
+}, {
+	"id": 610923,
+	"parentId": 610900,
+	"name": "宁陕县",
+	"level": 3,
+	"postalCode": "711600",
+	"areaNumber": "610923"
+}, {
+	"id": 610924,
+	"parentId": 610900,
+	"name": "紫阳县",
+	"level": 3,
+	"postalCode": "725300",
+	"areaNumber": "610924"
+}, {
+	"id": 610925,
+	"parentId": 610900,
+	"name": "岚皋县",
+	"level": 3,
+	"postalCode": "725400",
+	"areaNumber": "610925"
+}, {
+	"id": 610926,
+	"parentId": 610900,
+	"name": "平利县",
+	"level": 3,
+	"postalCode": "725500",
+	"areaNumber": "610926"
+}, {
+	"id": 610927,
+	"parentId": 610900,
+	"name": "镇坪县",
+	"level": 3,
+	"postalCode": "725600",
+	"areaNumber": "610927"
+}, {
+	"id": 610928,
+	"parentId": 610900,
+	"name": "旬阳县",
+	"level": 3,
+	"postalCode": "725700",
+	"areaNumber": "610928"
+}, {
+	"id": 610929,
+	"parentId": 610900,
+	"name": "白河县",
+	"level": 3,
+	"postalCode": "725800",
+	"areaNumber": "610929"
+}, {
+	"id": 611000,
+	"parentId": 610000,
+	"name": "商洛市",
+	"level": 2,
+	"postalCode": "726000",
+	"areaNumber": "611000"
+}, {
+	"id": 611002,
+	"parentId": 611000,
+	"name": "商州区",
+	"level": 3,
+	"postalCode": "726000",
+	"areaNumber": "611002"
+}, {
+	"id": 611021,
+	"parentId": 611000,
+	"name": "洛南县",
+	"level": 3,
+	"postalCode": "726100",
+	"areaNumber": "611021"
+}, {
+	"id": 611022,
+	"parentId": 611000,
+	"name": "丹凤县",
+	"level": 3,
+	"postalCode": "726200",
+	"areaNumber": "611022"
+}, {
+	"id": 611023,
+	"parentId": 611000,
+	"name": "商南县",
+	"level": 3,
+	"postalCode": "726300",
+	"areaNumber": "611023"
+}, {
+	"id": 611024,
+	"parentId": 611000,
+	"name": "山阳县",
+	"level": 3,
+	"postalCode": "726400",
+	"areaNumber": "611024"
+}, {
+	"id": 611025,
+	"parentId": 611000,
+	"name": "镇安县",
+	"level": 3,
+	"postalCode": "711500",
+	"areaNumber": "611025"
+}, {
+	"id": 611026,
+	"parentId": 611000,
+	"name": "柞水县",
+	"level": 3,
+	"postalCode": "711400",
+	"areaNumber": "611026"
+}, {
+	"id": 620000,
+	"parentId": 100000,
+	"name": "甘肃省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "620000"
+}, {
+	"id": 620100,
+	"parentId": 620000,
+	"name": "兰州市",
+	"level": 2,
+	"postalCode": "730000",
+	"areaNumber": "620100"
+}, {
+	"id": 620102,
+	"parentId": 620100,
+	"name": "城关区",
+	"level": 3,
+	"postalCode": "730030",
+	"areaNumber": "620102"
+}, {
+	"id": 620103,
+	"parentId": 620100,
+	"name": "七里河区",
+	"level": 3,
+	"postalCode": "730050",
+	"areaNumber": "620103"
+}, {
+	"id": 620104,
+	"parentId": 620100,
+	"name": "西固区",
+	"level": 3,
+	"postalCode": "730060",
+	"areaNumber": "620104"
+}, {
+	"id": 620105,
+	"parentId": 620100,
+	"name": "安宁区",
+	"level": 3,
+	"postalCode": "730070",
+	"areaNumber": "620105"
+}, {
+	"id": 620111,
+	"parentId": 620100,
+	"name": "红古区",
+	"level": 3,
+	"postalCode": "730080",
+	"areaNumber": "620111"
+}, {
+	"id": 620121,
+	"parentId": 620100,
+	"name": "永登县",
+	"level": 3,
+	"postalCode": "730300",
+	"areaNumber": "620121"
+}, {
+	"id": 620122,
+	"parentId": 620100,
+	"name": "皋兰县",
+	"level": 3,
+	"postalCode": "730200",
+	"areaNumber": "620122"
+}, {
+	"id": 620123,
+	"parentId": 620100,
+	"name": "榆中县",
+	"level": 3,
+	"postalCode": "730100",
+	"areaNumber": "620123"
+}, {
+	"id": 620124,
+	"parentId": 620100,
+	"name": "兰州新区",
+	"level": 3,
+	"postalCode": "730000",
+	"areaNumber": "620124"
+}, {
+	"id": 620125,
+	"parentId": 620100,
+	"name": "高新区",
+	"level": 3,
+	"postalCode": "730000",
+	"areaNumber": "620125"
+}, {
+	"id": 620126,
+	"parentId": 620100,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "730000",
+	"areaNumber": "620126"
+}, {
+	"id": 620200,
+	"parentId": 620000,
+	"name": "嘉峪关市",
+	"level": 2,
+	"postalCode": "735100",
+	"areaNumber": "620200"
+}, {
+	"id": 620201,
+	"parentId": 620200,
+	"name": "雄关区",
+	"level": 3,
+	"postalCode": "735100",
+	"areaNumber": "620201"
+}, {
+	"id": 620202,
+	"parentId": 620200,
+	"name": "长城区",
+	"level": 3,
+	"postalCode": "735106",
+	"areaNumber": "620202"
+}, {
+	"id": 620203,
+	"parentId": 620200,
+	"name": "镜铁区",
+	"level": 3,
+	"postalCode": "735100",
+	"areaNumber": "620203"
+}, {
+	"id": 620300,
+	"parentId": 620000,
+	"name": "金昌市",
+	"level": 2,
+	"postalCode": "737100",
+	"areaNumber": "620300"
+}, {
+	"id": 620302,
+	"parentId": 620300,
+	"name": "金川区",
+	"level": 3,
+	"postalCode": "737100",
+	"areaNumber": "620302"
+}, {
+	"id": 620321,
+	"parentId": 620300,
+	"name": "永昌县",
+	"level": 3,
+	"postalCode": "737200",
+	"areaNumber": "620321"
+}, {
+	"id": 620400,
+	"parentId": 620000,
+	"name": "白银市",
+	"level": 2,
+	"postalCode": "730900",
+	"areaNumber": "620400"
+}, {
+	"id": 620402,
+	"parentId": 620400,
+	"name": "白银区",
+	"level": 3,
+	"postalCode": "730900",
+	"areaNumber": "620402"
+}, {
+	"id": 620403,
+	"parentId": 620400,
+	"name": "平川区",
+	"level": 3,
+	"postalCode": "730913",
+	"areaNumber": "620403"
+}, {
+	"id": 620421,
+	"parentId": 620400,
+	"name": "靖远县",
+	"level": 3,
+	"postalCode": "730600",
+	"areaNumber": "620421"
+}, {
+	"id": 620422,
+	"parentId": 620400,
+	"name": "会宁县",
+	"level": 3,
+	"postalCode": "730700",
+	"areaNumber": "620422"
+}, {
+	"id": 620423,
+	"parentId": 620400,
+	"name": "景泰县",
+	"level": 3,
+	"postalCode": "730400",
+	"areaNumber": "620423"
+}, {
+	"id": 620500,
+	"parentId": 620000,
+	"name": "天水市",
+	"level": 2,
+	"postalCode": "741000",
+	"areaNumber": "620500"
+}, {
+	"id": 620502,
+	"parentId": 620500,
+	"name": "秦州区",
+	"level": 3,
+	"postalCode": "741000",
+	"areaNumber": "620502"
+}, {
+	"id": 620503,
+	"parentId": 620500,
+	"name": "麦积区",
+	"level": 3,
+	"postalCode": "741020",
+	"areaNumber": "620503"
+}, {
+	"id": 620521,
+	"parentId": 620500,
+	"name": "清水县",
+	"level": 3,
+	"postalCode": "741400",
+	"areaNumber": "620521"
+}, {
+	"id": 620522,
+	"parentId": 620500,
+	"name": "秦安县",
+	"level": 3,
+	"postalCode": "741600",
+	"areaNumber": "620522"
+}, {
+	"id": 620523,
+	"parentId": 620500,
+	"name": "甘谷县",
+	"level": 3,
+	"postalCode": "741200",
+	"areaNumber": "620523"
+}, {
+	"id": 620524,
+	"parentId": 620500,
+	"name": "武山县",
+	"level": 3,
+	"postalCode": "741300",
+	"areaNumber": "620524"
+}, {
+	"id": 620525,
+	"parentId": 620500,
+	"name": "张家川回族自治县",
+	"level": 3,
+	"postalCode": "741500",
+	"areaNumber": "620525"
+}, {
+	"id": 620600,
+	"parentId": 620000,
+	"name": "武威市",
+	"level": 2,
+	"postalCode": "733000",
+	"areaNumber": "620600"
+}, {
+	"id": 620602,
+	"parentId": 620600,
+	"name": "凉州区",
+	"level": 3,
+	"postalCode": "733000",
+	"areaNumber": "620602"
+}, {
+	"id": 620621,
+	"parentId": 620600,
+	"name": "民勤县",
+	"level": 3,
+	"postalCode": "733300",
+	"areaNumber": "620621"
+}, {
+	"id": 620622,
+	"parentId": 620600,
+	"name": "古浪县",
+	"level": 3,
+	"postalCode": "733100",
+	"areaNumber": "620622"
+}, {
+	"id": 620623,
+	"parentId": 620600,
+	"name": "天祝藏族自治县",
+	"level": 3,
+	"postalCode": "733200",
+	"areaNumber": "620623"
+}, {
+	"id": 620700,
+	"parentId": 620000,
+	"name": "张掖市",
+	"level": 2,
+	"postalCode": "734000",
+	"areaNumber": "620700"
+}, {
+	"id": 620702,
+	"parentId": 620700,
+	"name": "甘州区",
+	"level": 3,
+	"postalCode": "734000",
+	"areaNumber": "620702"
+}, {
+	"id": 620721,
+	"parentId": 620700,
+	"name": "肃南裕固族自治县",
+	"level": 3,
+	"postalCode": "734400",
+	"areaNumber": "620721"
+}, {
+	"id": 620722,
+	"parentId": 620700,
+	"name": "民乐县",
+	"level": 3,
+	"postalCode": "734500",
+	"areaNumber": "620722"
+}, {
+	"id": 620723,
+	"parentId": 620700,
+	"name": "临泽县",
+	"level": 3,
+	"postalCode": "734200",
+	"areaNumber": "620723"
+}, {
+	"id": 620724,
+	"parentId": 620700,
+	"name": "高台县",
+	"level": 3,
+	"postalCode": "734300",
+	"areaNumber": "620724"
+}, {
+	"id": 620725,
+	"parentId": 620700,
+	"name": "山丹县",
+	"level": 3,
+	"postalCode": "734100",
+	"areaNumber": "620725"
+}, {
+	"id": 620800,
+	"parentId": 620000,
+	"name": "平凉市",
+	"level": 2,
+	"postalCode": "744000",
+	"areaNumber": "620800"
+}, {
+	"id": 620802,
+	"parentId": 620800,
+	"name": "崆峒区",
+	"level": 3,
+	"postalCode": "744000",
+	"areaNumber": "620802"
+}, {
+	"id": 620821,
+	"parentId": 620800,
+	"name": "泾川县",
+	"level": 3,
+	"postalCode": "744300",
+	"areaNumber": "620821"
+}, {
+	"id": 620822,
+	"parentId": 620800,
+	"name": "灵台县",
+	"level": 3,
+	"postalCode": "744400",
+	"areaNumber": "620822"
+}, {
+	"id": 620823,
+	"parentId": 620800,
+	"name": "崇信县",
+	"level": 3,
+	"postalCode": "744200",
+	"areaNumber": "620823"
+}, {
+	"id": 620824,
+	"parentId": 620800,
+	"name": "华亭县",
+	"level": 3,
+	"postalCode": "744100",
+	"areaNumber": "620824"
+}, {
+	"id": 620825,
+	"parentId": 620800,
+	"name": "庄浪县",
+	"level": 3,
+	"postalCode": "744600",
+	"areaNumber": "620825"
+}, {
+	"id": 620826,
+	"parentId": 620800,
+	"name": "静宁县",
+	"level": 3,
+	"postalCode": "743400",
+	"areaNumber": "620826"
+}, {
+	"id": 620900,
+	"parentId": 620000,
+	"name": "酒泉市",
+	"level": 2,
+	"postalCode": "735000",
+	"areaNumber": "620900"
+}, {
+	"id": 620902,
+	"parentId": 620900,
+	"name": "肃州区",
+	"level": 3,
+	"postalCode": "735000",
+	"areaNumber": "620902"
+}, {
+	"id": 620921,
+	"parentId": 620900,
+	"name": "金塔县",
+	"level": 3,
+	"postalCode": "735300",
+	"areaNumber": "620921"
+}, {
+	"id": 620922,
+	"parentId": 620900,
+	"name": "瓜州县",
+	"level": 3,
+	"postalCode": "736100",
+	"areaNumber": "620922"
+}, {
+	"id": 620923,
+	"parentId": 620900,
+	"name": "肃北蒙古族自治县",
+	"level": 3,
+	"postalCode": "736300",
+	"areaNumber": "620923"
+}, {
+	"id": 620924,
+	"parentId": 620900,
+	"name": "阿克塞哈萨克族自治县",
+	"level": 3,
+	"postalCode": "736400",
+	"areaNumber": "620924"
+}, {
+	"id": 620981,
+	"parentId": 620900,
+	"name": "玉门市",
+	"level": 3,
+	"postalCode": "735200",
+	"areaNumber": "620981"
+}, {
+	"id": 620982,
+	"parentId": 620900,
+	"name": "敦煌市",
+	"level": 3,
+	"postalCode": "736200",
+	"areaNumber": "620982"
+}, {
+	"id": 621000,
+	"parentId": 620000,
+	"name": "庆阳市",
+	"level": 2,
+	"postalCode": "745000",
+	"areaNumber": "621000"
+}, {
+	"id": 621002,
+	"parentId": 621000,
+	"name": "西峰区",
+	"level": 3,
+	"postalCode": "745000",
+	"areaNumber": "621002"
+}, {
+	"id": 621021,
+	"parentId": 621000,
+	"name": "庆城县",
+	"level": 3,
+	"postalCode": "745100",
+	"areaNumber": "621021"
+}, {
+	"id": 621022,
+	"parentId": 621000,
+	"name": "环县",
+	"level": 3,
+	"postalCode": "745700",
+	"areaNumber": "621022"
+}, {
+	"id": 621023,
+	"parentId": 621000,
+	"name": "华池县",
+	"level": 3,
+	"postalCode": "745600",
+	"areaNumber": "621023"
+}, {
+	"id": 621024,
+	"parentId": 621000,
+	"name": "合水县",
+	"level": 3,
+	"postalCode": "745400",
+	"areaNumber": "621024"
+}, {
+	"id": 621025,
+	"parentId": 621000,
+	"name": "正宁县",
+	"level": 3,
+	"postalCode": "745300",
+	"areaNumber": "621025"
+}, {
+	"id": 621026,
+	"parentId": 621000,
+	"name": "宁县",
+	"level": 3,
+	"postalCode": "745200",
+	"areaNumber": "621026"
+}, {
+	"id": 621027,
+	"parentId": 621000,
+	"name": "镇原县",
+	"level": 3,
+	"postalCode": "744500",
+	"areaNumber": "621027"
+}, {
+	"id": 621100,
+	"parentId": 620000,
+	"name": "定西市",
+	"level": 2,
+	"postalCode": "743000",
+	"areaNumber": "621100"
+}, {
+	"id": 621102,
+	"parentId": 621100,
+	"name": "安定区",
+	"level": 3,
+	"postalCode": "744300",
+	"areaNumber": "621102"
+}, {
+	"id": 621121,
+	"parentId": 621100,
+	"name": "通渭县",
+	"level": 3,
+	"postalCode": "743300",
+	"areaNumber": "621121"
+}, {
+	"id": 621122,
+	"parentId": 621100,
+	"name": "陇西县",
+	"level": 3,
+	"postalCode": "748100",
+	"areaNumber": "621122"
+}, {
+	"id": 621123,
+	"parentId": 621100,
+	"name": "渭源县",
+	"level": 3,
+	"postalCode": "748200",
+	"areaNumber": "621123"
+}, {
+	"id": 621124,
+	"parentId": 621100,
+	"name": "临洮县",
+	"level": 3,
+	"postalCode": "730500",
+	"areaNumber": "621124"
+}, {
+	"id": 621125,
+	"parentId": 621100,
+	"name": "漳县",
+	"level": 3,
+	"postalCode": "748300",
+	"areaNumber": "621125"
+}, {
+	"id": 621126,
+	"parentId": 621100,
+	"name": "岷县",
+	"level": 3,
+	"postalCode": "748400",
+	"areaNumber": "621126"
+}, {
+	"id": 621200,
+	"parentId": 620000,
+	"name": "陇南市",
+	"level": 2,
+	"postalCode": "742500",
+	"areaNumber": "621200"
+}, {
+	"id": 621202,
+	"parentId": 621200,
+	"name": "武都区",
+	"level": 3,
+	"postalCode": "746000",
+	"areaNumber": "621202"
+}, {
+	"id": 621221,
+	"parentId": 621200,
+	"name": "成县",
+	"level": 3,
+	"postalCode": "742500",
+	"areaNumber": "621221"
+}, {
+	"id": 621222,
+	"parentId": 621200,
+	"name": "文县",
+	"level": 3,
+	"postalCode": "746400",
+	"areaNumber": "621222"
+}, {
+	"id": 621223,
+	"parentId": 621200,
+	"name": "宕昌县",
+	"level": 3,
+	"postalCode": "748500",
+	"areaNumber": "621223"
+}, {
+	"id": 621224,
+	"parentId": 621200,
+	"name": "康县",
+	"level": 3,
+	"postalCode": "746500",
+	"areaNumber": "621224"
+}, {
+	"id": 621225,
+	"parentId": 621200,
+	"name": "西和县",
+	"level": 3,
+	"postalCode": "742100",
+	"areaNumber": "621225"
+}, {
+	"id": 621226,
+	"parentId": 621200,
+	"name": "礼县",
+	"level": 3,
+	"postalCode": "742200",
+	"areaNumber": "621226"
+}, {
+	"id": 621227,
+	"parentId": 621200,
+	"name": "徽县",
+	"level": 3,
+	"postalCode": "742300",
+	"areaNumber": "621227"
+}, {
+	"id": 621228,
+	"parentId": 621200,
+	"name": "两当县",
+	"level": 3,
+	"postalCode": "742400",
+	"areaNumber": "621228"
+}, {
+	"id": 622900,
+	"parentId": 620000,
+	"name": "临夏回族自治州",
+	"level": 2,
+	"postalCode": "731100",
+	"areaNumber": "622900"
+}, {
+	"id": 622901,
+	"parentId": 622900,
+	"name": "临夏市",
+	"level": 3,
+	"postalCode": "731100",
+	"areaNumber": "622901"
+}, {
+	"id": 622921,
+	"parentId": 622900,
+	"name": "临夏县",
+	"level": 3,
+	"postalCode": "731800",
+	"areaNumber": "622921"
+}, {
+	"id": 622922,
+	"parentId": 622900,
+	"name": "康乐县",
+	"level": 3,
+	"postalCode": "731500",
+	"areaNumber": "622922"
+}, {
+	"id": 622923,
+	"parentId": 622900,
+	"name": "永靖县",
+	"level": 3,
+	"postalCode": "731600",
+	"areaNumber": "622923"
+}, {
+	"id": 622924,
+	"parentId": 622900,
+	"name": "广河县",
+	"level": 3,
+	"postalCode": "731300",
+	"areaNumber": "622924"
+}, {
+	"id": 622925,
+	"parentId": 622900,
+	"name": "和政县",
+	"level": 3,
+	"postalCode": "731200",
+	"areaNumber": "622925"
+}, {
+	"id": 622926,
+	"parentId": 622900,
+	"name": "东乡族自治县",
+	"level": 3,
+	"postalCode": "731400",
+	"areaNumber": "622926"
+}, {
+	"id": 622927,
+	"parentId": 622900,
+	"name": "积石山保安族东乡族撒拉族自治县",
+	"level": 3,
+	"postalCode": "731700",
+	"areaNumber": "622927"
+}, {
+	"id": 623000,
+	"parentId": 620000,
+	"name": "甘南藏族自治州",
+	"level": 2,
+	"postalCode": "747000",
+	"areaNumber": "623000"
+}, {
+	"id": 623001,
+	"parentId": 623000,
+	"name": "合作市",
+	"level": 3,
+	"postalCode": "747000",
+	"areaNumber": "623001"
+}, {
+	"id": 623021,
+	"parentId": 623000,
+	"name": "临潭县",
+	"level": 3,
+	"postalCode": "747500",
+	"areaNumber": "623021"
+}, {
+	"id": 623022,
+	"parentId": 623000,
+	"name": "卓尼县",
+	"level": 3,
+	"postalCode": "747600",
+	"areaNumber": "623022"
+}, {
+	"id": 623023,
+	"parentId": 623000,
+	"name": "舟曲县",
+	"level": 3,
+	"postalCode": "746300",
+	"areaNumber": "623023"
+}, {
+	"id": 623024,
+	"parentId": 623000,
+	"name": "迭部县",
+	"level": 3,
+	"postalCode": "747400",
+	"areaNumber": "623024"
+}, {
+	"id": 623025,
+	"parentId": 623000,
+	"name": "玛曲县",
+	"level": 3,
+	"postalCode": "747300",
+	"areaNumber": "623025"
+}, {
+	"id": 623026,
+	"parentId": 623000,
+	"name": "碌曲县",
+	"level": 3,
+	"postalCode": "747200",
+	"areaNumber": "623026"
+}, {
+	"id": 623027,
+	"parentId": 623000,
+	"name": "夏河县",
+	"level": 3,
+	"postalCode": "747100",
+	"areaNumber": "623027"
+}, {
+	"id": 630000,
+	"parentId": 100000,
+	"name": "青海省",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "630000"
+}, {
+	"id": 630100,
+	"parentId": 630000,
+	"name": "西宁市",
+	"level": 2,
+	"postalCode": "810000",
+	"areaNumber": "630100"
+}, {
+	"id": 630102,
+	"parentId": 630100,
+	"name": "城东区",
+	"level": 3,
+	"postalCode": "810000",
+	"areaNumber": "630102"
+}, {
+	"id": 630103,
+	"parentId": 630100,
+	"name": "城中区",
+	"level": 3,
+	"postalCode": "810000",
+	"areaNumber": "630103"
+}, {
+	"id": 630104,
+	"parentId": 630100,
+	"name": "城西区",
+	"level": 3,
+	"postalCode": "810000",
+	"areaNumber": "630104"
+}, {
+	"id": 630105,
+	"parentId": 630100,
+	"name": "城北区",
+	"level": 3,
+	"postalCode": "810000",
+	"areaNumber": "630105"
+}, {
+	"id": 630121,
+	"parentId": 630100,
+	"name": "大通回族土族自治县",
+	"level": 3,
+	"postalCode": "810100",
+	"areaNumber": "630121"
+}, {
+	"id": 630122,
+	"parentId": 630100,
+	"name": "湟中县",
+	"level": 3,
+	"postalCode": "811600",
+	"areaNumber": "630122"
+}, {
+	"id": 630123,
+	"parentId": 630100,
+	"name": "湟源县",
+	"level": 3,
+	"postalCode": "812100",
+	"areaNumber": "630123"
+}, {
+	"id": 630200,
+	"parentId": 630000,
+	"name": "海东市",
+	"level": 2,
+	"postalCode": "810600",
+	"areaNumber": "630200"
+}, {
+	"id": 630202,
+	"parentId": 630200,
+	"name": "乐都区",
+	"level": 3,
+	"postalCode": "810700",
+	"areaNumber": "630202"
+}, {
+	"id": 630203,
+	"parentId": 630200,
+	"name": "平安区",
+	"level": 3,
+	"postalCode": "810600",
+	"areaNumber": "630203"
+}, {
+	"id": 630222,
+	"parentId": 630200,
+	"name": "民和回族土族自治县",
+	"level": 3,
+	"postalCode": "810800",
+	"areaNumber": "630222"
+}, {
+	"id": 630223,
+	"parentId": 630200,
+	"name": "互助土族自治县",
+	"level": 3,
+	"postalCode": "810500",
+	"areaNumber": "630223"
+}, {
+	"id": 630224,
+	"parentId": 630200,
+	"name": "化隆回族自治县",
+	"level": 3,
+	"postalCode": "810900",
+	"areaNumber": "630224"
+}, {
+	"id": 630225,
+	"parentId": 630200,
+	"name": "循化撒拉族自治县",
+	"level": 3,
+	"postalCode": "811100",
+	"areaNumber": "630225"
+}, {
+	"id": 632200,
+	"parentId": 630000,
+	"name": "海北藏族自治州",
+	"level": 2,
+	"postalCode": "812200",
+	"areaNumber": "632200"
+}, {
+	"id": 632221,
+	"parentId": 632200,
+	"name": "门源回族自治县",
+	"level": 3,
+	"postalCode": "810300",
+	"areaNumber": "632221"
+}, {
+	"id": 632222,
+	"parentId": 632200,
+	"name": "祁连县",
+	"level": 3,
+	"postalCode": "810400",
+	"areaNumber": "632222"
+}, {
+	"id": 632223,
+	"parentId": 632200,
+	"name": "海晏县",
+	"level": 3,
+	"postalCode": "812200",
+	"areaNumber": "632223"
+}, {
+	"id": 632224,
+	"parentId": 632200,
+	"name": "刚察县",
+	"level": 3,
+	"postalCode": "812300",
+	"areaNumber": "632224"
+}, {
+	"id": 632300,
+	"parentId": 630000,
+	"name": "黄南藏族自治州",
+	"level": 2,
+	"postalCode": "811300",
+	"areaNumber": "632300"
+}, {
+	"id": 632321,
+	"parentId": 632300,
+	"name": "同仁县",
+	"level": 3,
+	"postalCode": "811300",
+	"areaNumber": "632321"
+}, {
+	"id": 632322,
+	"parentId": 632300,
+	"name": "尖扎县",
+	"level": 3,
+	"postalCode": "811200",
+	"areaNumber": "632322"
+}, {
+	"id": 632323,
+	"parentId": 632300,
+	"name": "泽库县",
+	"level": 3,
+	"postalCode": "811400",
+	"areaNumber": "632323"
+}, {
+	"id": 632324,
+	"parentId": 632300,
+	"name": "河南蒙古族自治县",
+	"level": 3,
+	"postalCode": "811500",
+	"areaNumber": "632324"
+}, {
+	"id": 632500,
+	"parentId": 630000,
+	"name": "海南藏族自治州",
+	"level": 2,
+	"postalCode": "813000",
+	"areaNumber": "632500"
+}, {
+	"id": 632521,
+	"parentId": 632500,
+	"name": "共和县",
+	"level": 3,
+	"postalCode": "813000",
+	"areaNumber": "632521"
+}, {
+	"id": 632522,
+	"parentId": 632500,
+	"name": "同德县",
+	"level": 3,
+	"postalCode": "813200",
+	"areaNumber": "632522"
+}, {
+	"id": 632523,
+	"parentId": 632500,
+	"name": "贵德县",
+	"level": 3,
+	"postalCode": "811700",
+	"areaNumber": "632523"
+}, {
+	"id": 632524,
+	"parentId": 632500,
+	"name": "兴海县",
+	"level": 3,
+	"postalCode": "813300",
+	"areaNumber": "632524"
+}, {
+	"id": 632525,
+	"parentId": 632500,
+	"name": "贵南县",
+	"level": 3,
+	"postalCode": "813100",
+	"areaNumber": "632525"
+}, {
+	"id": 632600,
+	"parentId": 630000,
+	"name": "果洛藏族自治州",
+	"level": 2,
+	"postalCode": "814000",
+	"areaNumber": "632600"
+}, {
+	"id": 632621,
+	"parentId": 632600,
+	"name": "玛沁县",
+	"level": 3,
+	"postalCode": "814000",
+	"areaNumber": "632621"
+}, {
+	"id": 632622,
+	"parentId": 632600,
+	"name": "班玛县",
+	"level": 3,
+	"postalCode": "814300",
+	"areaNumber": "632622"
+}, {
+	"id": 632623,
+	"parentId": 632600,
+	"name": "甘德县",
+	"level": 3,
+	"postalCode": "814100",
+	"areaNumber": "632623"
+}, {
+	"id": 632624,
+	"parentId": 632600,
+	"name": "达日县",
+	"level": 3,
+	"postalCode": "814200",
+	"areaNumber": "632624"
+}, {
+	"id": 632625,
+	"parentId": 632600,
+	"name": "久治县",
+	"level": 3,
+	"postalCode": "624700",
+	"areaNumber": "632625"
+}, {
+	"id": 632626,
+	"parentId": 632600,
+	"name": "玛多县",
+	"level": 3,
+	"postalCode": "813500",
+	"areaNumber": "632626"
+}, {
+	"id": 632700,
+	"parentId": 630000,
+	"name": "玉树藏族自治州",
+	"level": 2,
+	"postalCode": "815000",
+	"areaNumber": "632700"
+}, {
+	"id": 632701,
+	"parentId": 632700,
+	"name": "玉树市",
+	"level": 3,
+	"postalCode": "815000",
+	"areaNumber": "632701"
+}, {
+	"id": 632722,
+	"parentId": 632700,
+	"name": "杂多县",
+	"level": 3,
+	"postalCode": "815300",
+	"areaNumber": "632722"
+}, {
+	"id": 632723,
+	"parentId": 632700,
+	"name": "称多县",
+	"level": 3,
+	"postalCode": "815100",
+	"areaNumber": "632723"
+}, {
+	"id": 632724,
+	"parentId": 632700,
+	"name": "治多县",
+	"level": 3,
+	"postalCode": "815400",
+	"areaNumber": "632724"
+}, {
+	"id": 632725,
+	"parentId": 632700,
+	"name": "囊谦县",
+	"level": 3,
+	"postalCode": "815200",
+	"areaNumber": "632725"
+}, {
+	"id": 632726,
+	"parentId": 632700,
+	"name": "曲麻莱县",
+	"level": 3,
+	"postalCode": "815500",
+	"areaNumber": "632726"
+}, {
+	"id": 632800,
+	"parentId": 630000,
+	"name": "海西蒙古族藏族自治州",
+	"level": 2,
+	"postalCode": "817000",
+	"areaNumber": "632800"
+}, {
+	"id": 632801,
+	"parentId": 632800,
+	"name": "格尔木市",
+	"level": 3,
+	"postalCode": "816000",
+	"areaNumber": "632801"
+}, {
+	"id": 632802,
+	"parentId": 632800,
+	"name": "德令哈市",
+	"level": 3,
+	"postalCode": "817000",
+	"areaNumber": "632802"
+}, {
+	"id": 632821,
+	"parentId": 632800,
+	"name": "乌兰县",
+	"level": 3,
+	"postalCode": "817100",
+	"areaNumber": "632821"
+}, {
+	"id": 632822,
+	"parentId": 632800,
+	"name": "都兰县",
+	"level": 3,
+	"postalCode": "816100",
+	"areaNumber": "632822"
+}, {
+	"id": 632823,
+	"parentId": 632800,
+	"name": "天峻县",
+	"level": 3,
+	"postalCode": "817200",
+	"areaNumber": "632823"
+}, {
+	"id": 640000,
+	"parentId": 100000,
+	"name": "宁夏回族自治区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "640000"
+}, {
+	"id": 640100,
+	"parentId": 640000,
+	"name": "银川市",
+	"level": 2,
+	"postalCode": "750000",
+	"areaNumber": "640100"
+}, {
+	"id": 640104,
+	"parentId": 640100,
+	"name": "兴庆区",
+	"level": 3,
+	"postalCode": "750000",
+	"areaNumber": "640104"
+}, {
+	"id": 640105,
+	"parentId": 640100,
+	"name": "西夏区",
+	"level": 3,
+	"postalCode": "750000",
+	"areaNumber": "640105"
+}, {
+	"id": 640106,
+	"parentId": 640100,
+	"name": "金凤区",
+	"level": 3,
+	"postalCode": "750000",
+	"areaNumber": "640106"
+}, {
+	"id": 640121,
+	"parentId": 640100,
+	"name": "永宁县",
+	"level": 3,
+	"postalCode": "750100",
+	"areaNumber": "640121"
+}, {
+	"id": 640122,
+	"parentId": 640100,
+	"name": "贺兰县",
+	"level": 3,
+	"postalCode": "750200",
+	"areaNumber": "640122"
+}, {
+	"id": 640181,
+	"parentId": 640100,
+	"name": "灵武市",
+	"level": 3,
+	"postalCode": "751400",
+	"areaNumber": "640181"
+}, {
+	"id": 640182,
+	"parentId": 640100,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "750000",
+	"areaNumber": "640182"
+}, {
+	"id": 640200,
+	"parentId": 640000,
+	"name": "石嘴山市",
+	"level": 2,
+	"postalCode": "753000",
+	"areaNumber": "640200"
+}, {
+	"id": 640202,
+	"parentId": 640200,
+	"name": "大武口区",
+	"level": 3,
+	"postalCode": "753000",
+	"areaNumber": "640202"
+}, {
+	"id": 640205,
+	"parentId": 640200,
+	"name": "惠农区",
+	"level": 3,
+	"postalCode": "753600",
+	"areaNumber": "640205"
+}, {
+	"id": 640221,
+	"parentId": 640200,
+	"name": "平罗县",
+	"level": 3,
+	"postalCode": "753400",
+	"areaNumber": "640221"
+}, {
+	"id": 640222,
+	"parentId": 640200,
+	"name": "经济开发区",
+	"level": 3,
+	"postalCode": "753000",
+	"areaNumber": "640222"
+}, {
+	"id": 640300,
+	"parentId": 640000,
+	"name": "吴忠市",
+	"level": 2,
+	"postalCode": "751100",
+	"areaNumber": "640300"
+}, {
+	"id": 640302,
+	"parentId": 640300,
+	"name": "利通区",
+	"level": 3,
+	"postalCode": "751100",
+	"areaNumber": "640302"
+}, {
+	"id": 640303,
+	"parentId": 640300,
+	"name": "红寺堡区",
+	"level": 3,
+	"postalCode": "751900",
+	"areaNumber": "640303"
+}, {
+	"id": 640323,
+	"parentId": 640300,
+	"name": "盐池县",
+	"level": 3,
+	"postalCode": "751500",
+	"areaNumber": "640323"
+}, {
+	"id": 640324,
+	"parentId": 640300,
+	"name": "同心县",
+	"level": 3,
+	"postalCode": "751300",
+	"areaNumber": "640324"
+}, {
+	"id": 640381,
+	"parentId": 640300,
+	"name": "青铜峡市",
+	"level": 3,
+	"postalCode": "751600",
+	"areaNumber": "640381"
+}, {
+	"id": 640400,
+	"parentId": 640000,
+	"name": "固原市",
+	"level": 2,
+	"postalCode": "756000",
+	"areaNumber": "640400"
+}, {
+	"id": 640402,
+	"parentId": 640400,
+	"name": "原州区",
+	"level": 3,
+	"postalCode": "756000",
+	"areaNumber": "640402"
+}, {
+	"id": 640422,
+	"parentId": 640400,
+	"name": "西吉县",
+	"level": 3,
+	"postalCode": "756200",
+	"areaNumber": "640422"
+}, {
+	"id": 640423,
+	"parentId": 640400,
+	"name": "隆德县",
+	"level": 3,
+	"postalCode": "756300",
+	"areaNumber": "640423"
+}, {
+	"id": 640424,
+	"parentId": 640400,
+	"name": "泾源县",
+	"level": 3,
+	"postalCode": "756400",
+	"areaNumber": "640424"
+}, {
+	"id": 640425,
+	"parentId": 640400,
+	"name": "彭阳县",
+	"level": 3,
+	"postalCode": "756500",
+	"areaNumber": "640425"
+}, {
+	"id": 640500,
+	"parentId": 640000,
+	"name": "中卫市",
+	"level": 2,
+	"postalCode": "755000",
+	"areaNumber": "640500"
+}, {
+	"id": 640502,
+	"parentId": 640500,
+	"name": "沙坡头区",
+	"level": 3,
+	"postalCode": "755000",
+	"areaNumber": "640502"
+}, {
+	"id": 640521,
+	"parentId": 640500,
+	"name": "中宁县",
+	"level": 3,
+	"postalCode": "755100",
+	"areaNumber": "640521"
+}, {
+	"id": 640522,
+	"parentId": 640500,
+	"name": "海原县",
+	"level": 3,
+	"postalCode": "755200",
+	"areaNumber": "640522"
+}, {
+	"id": 650000,
+	"parentId": 100000,
+	"name": "新疆维吾尔自治区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "650000"
+}, {
+	"id": 650100,
+	"parentId": 650000,
+	"name": "乌鲁木齐市",
+	"level": 2,
+	"postalCode": "830000",
+	"areaNumber": "650100"
+}, {
+	"id": 650102,
+	"parentId": 650100,
+	"name": "天山区",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650102"
+}, {
+	"id": 650103,
+	"parentId": 650100,
+	"name": "沙依巴克区",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650103"
+}, {
+	"id": 650104,
+	"parentId": 650100,
+	"name": "新市区",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650104"
+}, {
+	"id": 650105,
+	"parentId": 650100,
+	"name": "水磨沟区",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650105"
+}, {
+	"id": 650106,
+	"parentId": 650100,
+	"name": "头屯河区",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650106"
+}, {
+	"id": 650107,
+	"parentId": 650100,
+	"name": "达坂城区",
+	"level": 3,
+	"postalCode": "830039",
+	"areaNumber": "650107"
+}, {
+	"id": 650109,
+	"parentId": 650100,
+	"name": "米东区",
+	"level": 3,
+	"postalCode": "830019",
+	"areaNumber": "650109"
+}, {
+	"id": 650121,
+	"parentId": 650100,
+	"name": "乌鲁木齐县",
+	"level": 3,
+	"postalCode": "830000",
+	"areaNumber": "650121"
+}, {
+	"id": 650200,
+	"parentId": 650000,
+	"name": "克拉玛依市",
+	"level": 2,
+	"postalCode": "834000",
+	"areaNumber": "650200"
+}, {
+	"id": 650202,
+	"parentId": 650200,
+	"name": "独山子区",
+	"level": 3,
+	"postalCode": "833600",
+	"areaNumber": "650202"
+}, {
+	"id": 650203,
+	"parentId": 650200,
+	"name": "克拉玛依区",
+	"level": 3,
+	"postalCode": "834000",
+	"areaNumber": "650203"
+}, {
+	"id": 650204,
+	"parentId": 650200,
+	"name": "白碱滩区",
+	"level": 3,
+	"postalCode": "834008",
+	"areaNumber": "650204"
+}, {
+	"id": 650205,
+	"parentId": 650200,
+	"name": "乌尔禾区",
+	"level": 3,
+	"postalCode": "834014",
+	"areaNumber": "650205"
+}, {
+	"id": 650400,
+	"parentId": 650000,
+	"name": "吐鲁番市",
+	"level": 2,
+	"postalCode": "838000",
+	"areaNumber": "650400"
+}, {
+	"id": 650402,
+	"parentId": 650400,
+	"name": "高昌区",
+	"level": 3,
+	"postalCode": "838000",
+	"areaNumber": "650402"
+}, {
+	"id": 650421,
+	"parentId": 650400,
+	"name": "鄯善县",
+	"level": 3,
+	"postalCode": "838200",
+	"areaNumber": "650421"
+}, {
+	"id": 650422,
+	"parentId": 650400,
+	"name": "托克逊县",
+	"level": 3,
+	"postalCode": "838100",
+	"areaNumber": "650422"
+}, {
+	"id": 650500,
+	"parentId": 650000,
+	"name": "哈密市",
+	"level": 2,
+	"postalCode": "839000",
+	"areaNumber": "650500"
+}, {
+	"id": 650502,
+	"parentId": 650500,
+	"name": "伊州区",
+	"level": 3,
+	"postalCode": "839000",
+	"areaNumber": "650502"
+}, {
+	"id": 650521,
+	"parentId": 650500,
+	"name": "巴里坤哈萨克自治县",
+	"level": 3,
+	"postalCode": "839200",
+	"areaNumber": "650521"
+}, {
+	"id": 650522,
+	"parentId": 650500,
+	"name": "伊吾县",
+	"level": 3,
+	"postalCode": "839300",
+	"areaNumber": "650522"
+}, {
+	"id": 652300,
+	"parentId": 650000,
+	"name": "昌吉回族自治州",
+	"level": 2,
+	"postalCode": "831100",
+	"areaNumber": "652300"
+}, {
+	"id": 652301,
+	"parentId": 652300,
+	"name": "昌吉市",
+	"level": 3,
+	"postalCode": "831100",
+	"areaNumber": "652301"
+}, {
+	"id": 652302,
+	"parentId": 652300,
+	"name": "阜康市",
+	"level": 3,
+	"postalCode": "831500",
+	"areaNumber": "652302"
+}, {
+	"id": 652323,
+	"parentId": 652300,
+	"name": "呼图壁县",
+	"level": 3,
+	"postalCode": "831200",
+	"areaNumber": "652323"
+}, {
+	"id": 652324,
+	"parentId": 652300,
+	"name": "玛纳斯县",
+	"level": 3,
+	"postalCode": "832200",
+	"areaNumber": "652324"
+}, {
+	"id": 652325,
+	"parentId": 652300,
+	"name": "奇台县",
+	"level": 3,
+	"postalCode": "831800",
+	"areaNumber": "652325"
+}, {
+	"id": 652327,
+	"parentId": 652300,
+	"name": "吉木萨尔县",
+	"level": 3,
+	"postalCode": "831700",
+	"areaNumber": "652327"
+}, {
+	"id": 652328,
+	"parentId": 652300,
+	"name": "木垒哈萨克自治县",
+	"level": 3,
+	"postalCode": "831900",
+	"areaNumber": "652328"
+}, {
+	"id": 652700,
+	"parentId": 650000,
+	"name": "博尔塔拉蒙古自治州",
+	"level": 2,
+	"postalCode": "833400",
+	"areaNumber": "652700"
+}, {
+	"id": 652701,
+	"parentId": 652700,
+	"name": "博乐市",
+	"level": 3,
+	"postalCode": "833400",
+	"areaNumber": "652701"
+}, {
+	"id": 652702,
+	"parentId": 652700,
+	"name": "阿拉山口市",
+	"level": 3,
+	"postalCode": "833400",
+	"areaNumber": "652702"
+}, {
+	"id": 652722,
+	"parentId": 652700,
+	"name": "精河县",
+	"level": 3,
+	"postalCode": "833300",
+	"areaNumber": "652722"
+}, {
+	"id": 652723,
+	"parentId": 652700,
+	"name": "温泉县",
+	"level": 3,
+	"postalCode": "833500",
+	"areaNumber": "652723"
+}, {
+	"id": 652800,
+	"parentId": 650000,
+	"name": "巴音郭楞蒙古自治州",
+	"level": 2,
+	"postalCode": "841000",
+	"areaNumber": "652800"
+}, {
+	"id": 652801,
+	"parentId": 652800,
+	"name": "库尔勒市",
+	"level": 3,
+	"postalCode": "841000",
+	"areaNumber": "652801"
+}, {
+	"id": 652822,
+	"parentId": 652800,
+	"name": "轮台县",
+	"level": 3,
+	"postalCode": "841600",
+	"areaNumber": "652822"
+}, {
+	"id": 652823,
+	"parentId": 652800,
+	"name": "尉犁县",
+	"level": 3,
+	"postalCode": "841500",
+	"areaNumber": "652823"
+}, {
+	"id": 652824,
+	"parentId": 652800,
+	"name": "若羌县",
+	"level": 3,
+	"postalCode": "841800",
+	"areaNumber": "652824"
+}, {
+	"id": 652825,
+	"parentId": 652800,
+	"name": "且末县",
+	"level": 3,
+	"postalCode": "841900",
+	"areaNumber": "652825"
+}, {
+	"id": 652826,
+	"parentId": 652800,
+	"name": "焉耆回族自治县",
+	"level": 3,
+	"postalCode": "841100",
+	"areaNumber": "652826"
+}, {
+	"id": 652827,
+	"parentId": 652800,
+	"name": "和静县",
+	"level": 3,
+	"postalCode": "841300",
+	"areaNumber": "652827"
+}, {
+	"id": 652828,
+	"parentId": 652800,
+	"name": "和硕县",
+	"level": 3,
+	"postalCode": "841200",
+	"areaNumber": "652828"
+}, {
+	"id": 652829,
+	"parentId": 652800,
+	"name": "博湖县",
+	"level": 3,
+	"postalCode": "841400",
+	"areaNumber": "652829"
+}, {
+	"id": 652900,
+	"parentId": 650000,
+	"name": "阿克苏地区",
+	"level": 2,
+	"postalCode": "843000",
+	"areaNumber": "652900"
+}, {
+	"id": 652901,
+	"parentId": 652900,
+	"name": "阿克苏市",
+	"level": 3,
+	"postalCode": "843000",
+	"areaNumber": "652901"
+}, {
+	"id": 652922,
+	"parentId": 652900,
+	"name": "温宿县",
+	"level": 3,
+	"postalCode": "843100",
+	"areaNumber": "652922"
+}, {
+	"id": 652923,
+	"parentId": 652900,
+	"name": "库车县",
+	"level": 3,
+	"postalCode": "842000",
+	"areaNumber": "652923"
+}, {
+	"id": 652924,
+	"parentId": 652900,
+	"name": "沙雅县",
+	"level": 3,
+	"postalCode": "842200",
+	"areaNumber": "652924"
+}, {
+	"id": 652925,
+	"parentId": 652900,
+	"name": "新和县",
+	"level": 3,
+	"postalCode": "842100",
+	"areaNumber": "652925"
+}, {
+	"id": 652926,
+	"parentId": 652900,
+	"name": "拜城县",
+	"level": 3,
+	"postalCode": "842300",
+	"areaNumber": "652926"
+}, {
+	"id": 652927,
+	"parentId": 652900,
+	"name": "乌什县",
+	"level": 3,
+	"postalCode": "843400",
+	"areaNumber": "652927"
+}, {
+	"id": 652928,
+	"parentId": 652900,
+	"name": "阿瓦提县",
+	"level": 3,
+	"postalCode": "843200",
+	"areaNumber": "652928"
+}, {
+	"id": 652929,
+	"parentId": 652900,
+	"name": "柯坪县",
+	"level": 3,
+	"postalCode": "843600",
+	"areaNumber": "652929"
+}, {
+	"id": 653000,
+	"parentId": 650000,
+	"name": "克孜勒苏柯尔克孜自治州",
+	"level": 2,
+	"postalCode": "845350",
+	"areaNumber": "653000"
+}, {
+	"id": 653001,
+	"parentId": 653000,
+	"name": "阿图什市",
+	"level": 3,
+	"postalCode": "845350",
+	"areaNumber": "653001"
+}, {
+	"id": 653022,
+	"parentId": 653000,
+	"name": "阿克陶县",
+	"level": 3,
+	"postalCode": "845550",
+	"areaNumber": "653022"
+}, {
+	"id": 653023,
+	"parentId": 653000,
+	"name": "阿合奇县",
+	"level": 3,
+	"postalCode": "843500",
+	"areaNumber": "653023"
+}, {
+	"id": 653024,
+	"parentId": 653000,
+	"name": "乌恰县",
+	"level": 3,
+	"postalCode": "845450",
+	"areaNumber": "653024"
+}, {
+	"id": 653100,
+	"parentId": 650000,
+	"name": "喀什地区",
+	"level": 2,
+	"postalCode": "844000",
+	"areaNumber": "653100"
+}, {
+	"id": 653101,
+	"parentId": 653100,
+	"name": "喀什市",
+	"level": 3,
+	"postalCode": "844000",
+	"areaNumber": "653101"
+}, {
+	"id": 653121,
+	"parentId": 653100,
+	"name": "疏附县",
+	"level": 3,
+	"postalCode": "844100",
+	"areaNumber": "653121"
+}, {
+	"id": 653122,
+	"parentId": 653100,
+	"name": "疏勒县",
+	"level": 3,
+	"postalCode": "844200",
+	"areaNumber": "653122"
+}, {
+	"id": 653123,
+	"parentId": 653100,
+	"name": "英吉沙县",
+	"level": 3,
+	"postalCode": "844500",
+	"areaNumber": "653123"
+}, {
+	"id": 653124,
+	"parentId": 653100,
+	"name": "泽普县",
+	"level": 3,
+	"postalCode": "844800",
+	"areaNumber": "653124"
+}, {
+	"id": 653125,
+	"parentId": 653100,
+	"name": "莎车县",
+	"level": 3,
+	"postalCode": "844700",
+	"areaNumber": "653125"
+}, {
+	"id": 653126,
+	"parentId": 653100,
+	"name": "叶城县",
+	"level": 3,
+	"postalCode": "844900",
+	"areaNumber": "653126"
+}, {
+	"id": 653127,
+	"parentId": 653100,
+	"name": "麦盖提县",
+	"level": 3,
+	"postalCode": "844600",
+	"areaNumber": "653127"
+}, {
+	"id": 653128,
+	"parentId": 653100,
+	"name": "岳普湖县",
+	"level": 3,
+	"postalCode": "844400",
+	"areaNumber": "653128"
+}, {
+	"id": 653129,
+	"parentId": 653100,
+	"name": "伽师县",
+	"level": 3,
+	"postalCode": "844300",
+	"areaNumber": "653129"
+}, {
+	"id": 653130,
+	"parentId": 653100,
+	"name": "巴楚县",
+	"level": 3,
+	"postalCode": "843800",
+	"areaNumber": "653130"
+}, {
+	"id": 653131,
+	"parentId": 653100,
+	"name": "塔什库尔干塔吉克自治县",
+	"level": 3,
+	"postalCode": "845250",
+	"areaNumber": "653131"
+}, {
+	"id": 653200,
+	"parentId": 650000,
+	"name": "和田地区",
+	"level": 2,
+	"postalCode": "848000",
+	"areaNumber": "653200"
+}, {
+	"id": 653201,
+	"parentId": 653200,
+	"name": "和田市",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "653201"
+}, {
+	"id": 653221,
+	"parentId": 653200,
+	"name": "和田县",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "653221"
+}, {
+	"id": 653222,
+	"parentId": 653200,
+	"name": "墨玉县",
+	"level": 3,
+	"postalCode": "848100",
+	"areaNumber": "653222"
+}, {
+	"id": 653223,
+	"parentId": 653200,
+	"name": "皮山县",
+	"level": 3,
+	"postalCode": "845150",
+	"areaNumber": "653223"
+}, {
+	"id": 653224,
+	"parentId": 653200,
+	"name": "洛浦县",
+	"level": 3,
+	"postalCode": "848200",
+	"areaNumber": "653224"
+}, {
+	"id": 653225,
+	"parentId": 653200,
+	"name": "策勒县",
+	"level": 3,
+	"postalCode": "848300",
+	"areaNumber": "653225"
+}, {
+	"id": 653226,
+	"parentId": 653200,
+	"name": "于田县",
+	"level": 3,
+	"postalCode": "848400",
+	"areaNumber": "653226"
+}, {
+	"id": 653227,
+	"parentId": 653200,
+	"name": "民丰县",
+	"level": 3,
+	"postalCode": "848500",
+	"areaNumber": "653227"
+}, {
+	"id": 654000,
+	"parentId": 650000,
+	"name": "伊犁哈萨克自治州",
+	"level": 2,
+	"postalCode": "835000",
+	"areaNumber": "654000"
+}, {
+	"id": 654002,
+	"parentId": 654000,
+	"name": "伊宁市",
+	"level": 3,
+	"postalCode": "835000",
+	"areaNumber": "654002"
+}, {
+	"id": 654003,
+	"parentId": 654000,
+	"name": "奎屯市",
+	"level": 3,
+	"postalCode": "833200",
+	"areaNumber": "654003"
+}, {
+	"id": 654004,
+	"parentId": 654000,
+	"name": "霍尔果斯市",
+	"level": 3,
+	"postalCode": "835221",
+	"areaNumber": "654004"
+}, {
+	"id": 654021,
+	"parentId": 654000,
+	"name": "伊宁县",
+	"level": 3,
+	"postalCode": "835100",
+	"areaNumber": "654021"
+}, {
+	"id": 654022,
+	"parentId": 654000,
+	"name": "察布查尔锡伯自治县",
+	"level": 3,
+	"postalCode": "835300",
+	"areaNumber": "654022"
+}, {
+	"id": 654023,
+	"parentId": 654000,
+	"name": "霍城县",
+	"level": 3,
+	"postalCode": "835200",
+	"areaNumber": "654023"
+}, {
+	"id": 654024,
+	"parentId": 654000,
+	"name": "巩留县",
+	"level": 3,
+	"postalCode": "835400",
+	"areaNumber": "654024"
+}, {
+	"id": 654025,
+	"parentId": 654000,
+	"name": "新源县",
+	"level": 3,
+	"postalCode": "835800",
+	"areaNumber": "654025"
+}, {
+	"id": 654026,
+	"parentId": 654000,
+	"name": "昭苏县",
+	"level": 3,
+	"postalCode": "835600",
+	"areaNumber": "654026"
+}, {
+	"id": 654027,
+	"parentId": 654000,
+	"name": "特克斯县",
+	"level": 3,
+	"postalCode": "835500",
+	"areaNumber": "654027"
+}, {
+	"id": 654028,
+	"parentId": 654000,
+	"name": "尼勒克县",
+	"level": 3,
+	"postalCode": "835700",
+	"areaNumber": "654028"
+}, {
+	"id": 654200,
+	"parentId": 650000,
+	"name": "塔城地区",
+	"level": 2,
+	"postalCode": "834700",
+	"areaNumber": "654200"
+}, {
+	"id": 654201,
+	"parentId": 654200,
+	"name": "塔城市",
+	"level": 3,
+	"postalCode": "834700",
+	"areaNumber": "654201"
+}, {
+	"id": 654202,
+	"parentId": 654200,
+	"name": "乌苏市",
+	"level": 3,
+	"postalCode": "833000",
+	"areaNumber": "654202"
+}, {
+	"id": 654221,
+	"parentId": 654200,
+	"name": "额敏县",
+	"level": 3,
+	"postalCode": "834600",
+	"areaNumber": "654221"
+}, {
+	"id": 654223,
+	"parentId": 654200,
+	"name": "沙湾县",
+	"level": 3,
+	"postalCode": "832100",
+	"areaNumber": "654223"
+}, {
+	"id": 654224,
+	"parentId": 654200,
+	"name": "托里县",
+	"level": 3,
+	"postalCode": "834500",
+	"areaNumber": "654224"
+}, {
+	"id": 654225,
+	"parentId": 654200,
+	"name": "裕民县",
+	"level": 3,
+	"postalCode": "834800",
+	"areaNumber": "654225"
+}, {
+	"id": 654226,
+	"parentId": 654200,
+	"name": "和布克赛尔蒙古自治县",
+	"level": 3,
+	"postalCode": "834400",
+	"areaNumber": "654226"
+}, {
+	"id": 654300,
+	"parentId": 650000,
+	"name": "阿勒泰地区",
+	"level": 2,
+	"postalCode": "836500",
+	"areaNumber": "654300"
+}, {
+	"id": 654301,
+	"parentId": 654300,
+	"name": "阿勒泰市",
+	"level": 3,
+	"postalCode": "836500",
+	"areaNumber": "654301"
+}, {
+	"id": 654321,
+	"parentId": 654300,
+	"name": "布尔津县",
+	"level": 3,
+	"postalCode": "836600",
+	"areaNumber": "654321"
+}, {
+	"id": 654322,
+	"parentId": 654300,
+	"name": "富蕴县",
+	"level": 3,
+	"postalCode": "836100",
+	"areaNumber": "654322"
+}, {
+	"id": 654323,
+	"parentId": 654300,
+	"name": "福海县",
+	"level": 3,
+	"postalCode": "836400",
+	"areaNumber": "654323"
+}, {
+	"id": 654324,
+	"parentId": 654300,
+	"name": "哈巴河县",
+	"level": 3,
+	"postalCode": "836700",
+	"areaNumber": "654324"
+}, {
+	"id": 654325,
+	"parentId": 654300,
+	"name": "青河县",
+	"level": 3,
+	"postalCode": "836200",
+	"areaNumber": "654325"
+}, {
+	"id": 654326,
+	"parentId": 654300,
+	"name": "吉木乃县",
+	"level": 3,
+	"postalCode": "836800",
+	"areaNumber": "654326"
+}, {
+	"id": 659001,
+	"parentId": 650000,
+	"name": "石河子市",
+	"level": 2,
+	"postalCode": "832000",
+	"areaNumber": "659001"
+}, {
+	"id": 659002,
+	"parentId": 650000,
+	"name": "阿拉尔市",
+	"level": 2,
+	"postalCode": "843300",
+	"areaNumber": "659002"
+}, {
+	"id": 659003,
+	"parentId": 650000,
+	"name": "图木舒克市",
+	"level": 2,
+	"postalCode": "843806",
+	"areaNumber": "659003"
+}, {
+	"id": 659004,
+	"parentId": 650000,
+	"name": "五家渠市",
+	"level": 2,
+	"postalCode": "831300",
+	"areaNumber": "659004"
+}, {
+	"id": 659005,
+	"parentId": 650000,
+	"name": "北屯市",
+	"level": 2,
+	"postalCode": "836000",
+	"areaNumber": "659005"
+}, {
+	"id": 659006,
+	"parentId": 650000,
+	"name": "铁门关市",
+	"level": 2,
+	"postalCode": "836000",
+	"areaNumber": "659006"
+}, {
+	"id": 659007,
+	"parentId": 650000,
+	"name": "双河市",
+	"level": 2,
+	"postalCode": "833408",
+	"areaNumber": "659007"
+}, {
+	"id": 659008,
+	"parentId": 650000,
+	"name": "可克达拉市",
+	"level": 2,
+	"postalCode": "835213",
+	"areaNumber": "659008"
+}, {
+	"id": 659009,
+	"parentId": 650000,
+	"name": "昆玉市",
+	"level": 2,
+	"postalCode": "848000",
+	"areaNumber": "659009"
+}, {
+	"id": 659101,
+	"parentId": 659001,
+	"name": "新城街道",
+	"level": 3,
+	"postalCode": "832000",
+	"areaNumber": "659101"
+}, {
+	"id": 659102,
+	"parentId": 659001,
+	"name": "向阳街道",
+	"level": 3,
+	"postalCode": "832000",
+	"areaNumber": "659102"
+}, {
+	"id": 659103,
+	"parentId": 659001,
+	"name": "红山街道",
+	"level": 3,
+	"postalCode": "832000",
+	"areaNumber": "659103"
+}, {
+	"id": 659104,
+	"parentId": 659001,
+	"name": "老街街道",
+	"level": 3,
+	"postalCode": "832000",
+	"areaNumber": "659104"
+}, {
+	"id": 659105,
+	"parentId": 659001,
+	"name": "东城街道",
+	"level": 3,
+	"postalCode": "832000",
+	"areaNumber": "659105"
+}, {
+	"id": 659106,
+	"parentId": 659001,
+	"name": "北泉镇",
+	"level": 3,
+	"postalCode": "832011",
+	"areaNumber": "659106"
+}, {
+	"id": 659107,
+	"parentId": 659001,
+	"name": "石河子乡",
+	"level": 3,
+	"postalCode": "832099",
+	"areaNumber": "659107"
+}, {
+	"id": 659108,
+	"parentId": 659001,
+	"name": "一五二团",
+	"level": 3,
+	"postalCode": "832099",
+	"areaNumber": "659108"
+}, {
+	"id": 659201,
+	"parentId": 659002,
+	"name": "幸福路街道",
+	"level": 3,
+	"postalCode": "843302",
+	"areaNumber": "659201"
+}, {
+	"id": 659202,
+	"parentId": 659002,
+	"name": "金银川路街道",
+	"level": 3,
+	"postalCode": "843300",
+	"areaNumber": "659202"
+}, {
+	"id": 659203,
+	"parentId": 659002,
+	"name": "青松路街道",
+	"level": 3,
+	"postalCode": "843300",
+	"areaNumber": "659203"
+}, {
+	"id": 659204,
+	"parentId": 659002,
+	"name": "南口街道",
+	"level": 3,
+	"postalCode": "843301",
+	"areaNumber": "659204"
+}, {
+	"id": 659205,
+	"parentId": 659002,
+	"name": "托喀依乡",
+	"level": 3,
+	"postalCode": "843300",
+	"areaNumber": "659205"
+}, {
+	"id": 659206,
+	"parentId": 659002,
+	"name": "金银川镇",
+	"level": 3,
+	"postalCode": "843008",
+	"areaNumber": "659206"
+}, {
+	"id": 659301,
+	"parentId": 659003,
+	"name": "图木舒克市区",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659301"
+}, {
+	"id": 659302,
+	"parentId": 659003,
+	"name": "兵团四十四团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659302"
+}, {
+	"id": 659303,
+	"parentId": 659003,
+	"name": "兵团四十九团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659303"
+}, {
+	"id": 659304,
+	"parentId": 659003,
+	"name": "兵团五十团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659304"
+}, {
+	"id": 659305,
+	"parentId": 659003,
+	"name": "兵团五十一团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659305"
+}, {
+	"id": 659306,
+	"parentId": 659003,
+	"name": "兵团五十二团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659306"
+}, {
+	"id": 659307,
+	"parentId": 659003,
+	"name": "兵团五十三团",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659307"
+}, {
+	"id": 659308,
+	"parentId": 659003,
+	"name": "喀拉拜勒镇",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659308"
+}, {
+	"id": 659309,
+	"parentId": 659003,
+	"name": "永安坝",
+	"level": 3,
+	"postalCode": "843806",
+	"areaNumber": "659309"
+}, {
+	"id": 659401,
+	"parentId": 659004,
+	"name": "城区",
+	"level": 3,
+	"postalCode": "831300",
+	"areaNumber": "659401"
+}, {
+	"id": 659402,
+	"parentId": 659004,
+	"name": "一零一团",
+	"level": 3,
+	"postalCode": "831300",
+	"areaNumber": "659402"
+}, {
+	"id": 659403,
+	"parentId": 659004,
+	"name": "一零二团",
+	"level": 3,
+	"postalCode": "831300",
+	"areaNumber": "659403"
+}, {
+	"id": 659404,
+	"parentId": 659004,
+	"name": "一零三团",
+	"level": 3,
+	"postalCode": "831300",
+	"areaNumber": "659404"
+}, {
+	"id": 659501,
+	"parentId": 659005,
+	"name": "新城区",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659501"
+}, {
+	"id": 659502,
+	"parentId": 659005,
+	"name": "老城区",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659502"
+}, {
+	"id": 659503,
+	"parentId": 659005,
+	"name": "工业园区",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659503"
+}, {
+	"id": 659504,
+	"parentId": 659005,
+	"name": "海川镇",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659504"
+}, {
+	"id": 659505,
+	"parentId": 659005,
+	"name": "丰庆镇",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659505"
+}, {
+	"id": 659506,
+	"parentId": 659005,
+	"name": "锡伯渡镇",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659506"
+}, {
+	"id": 659601,
+	"parentId": 659006,
+	"name": "二十九团场",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659601"
+}, {
+	"id": 659602,
+	"parentId": 659006,
+	"name": "库西经济工业园",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659602"
+}, {
+	"id": 659603,
+	"parentId": 659006,
+	"name": "博古其镇",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659603"
+}, {
+	"id": 659604,
+	"parentId": 659006,
+	"name": "双丰镇",
+	"level": 3,
+	"postalCode": "836000",
+	"areaNumber": "659604"
+}, {
+	"id": 659701,
+	"parentId": 659007,
+	"name": "八十一团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659701"
+}, {
+	"id": 659702,
+	"parentId": 659007,
+	"name": "八十四团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659702"
+}, {
+	"id": 659703,
+	"parentId": 659007,
+	"name": "八十五团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659703"
+}, {
+	"id": 659704,
+	"parentId": 659007,
+	"name": "八十六团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659704"
+}, {
+	"id": 659705,
+	"parentId": 659007,
+	"name": "八十九团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659705"
+}, {
+	"id": 659706,
+	"parentId": 659007,
+	"name": "九十团",
+	"level": 3,
+	"postalCode": "833408",
+	"areaNumber": "659706"
+}, {
+	"id": 659801,
+	"parentId": 659008,
+	"name": "63团",
+	"level": 3,
+	"postalCode": "835213",
+	"areaNumber": "659801"
+}, {
+	"id": 659802,
+	"parentId": 659008,
+	"name": "64团",
+	"level": 3,
+	"postalCode": "835213",
+	"areaNumber": "659802"
+}, {
+	"id": 659803,
+	"parentId": 659008,
+	"name": "66团",
+	"level": 3,
+	"postalCode": "835213",
+	"areaNumber": "659803"
+}, {
+	"id": 659804,
+	"parentId": 659008,
+	"name": "67团",
+	"level": 3,
+	"postalCode": "835213",
+	"areaNumber": "659804"
+}, {
+	"id": 659805,
+	"parentId": 659008,
+	"name": "68团",
+	"level": 3,
+	"postalCode": "835213",
+	"areaNumber": "659805"
+}, {
+	"id": 659901,
+	"parentId": 659009,
+	"name": "皮山农场",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "659901"
+}, {
+	"id": 659902,
+	"parentId": 659009,
+	"name": "二二四团",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "659902"
+}, {
+	"id": 659903,
+	"parentId": 659009,
+	"name": "四十七团",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "659903"
+}, {
+	"id": 659904,
+	"parentId": 659009,
+	"name": "一牧场",
+	"level": 3,
+	"postalCode": "848000",
+	"areaNumber": "659904"
+}, {
+	"id": 710000,
+	"parentId": 100000,
+	"name": "台湾",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "710000"
+}, {
+	"id": 710100,
+	"parentId": 710000,
+	"name": "台北市",
+	"level": 2,
+	"postalCode": "1",
+	"areaNumber": "710100"
+}, {
+	"id": 710101,
+	"parentId": 710100,
+	"name": "松山区",
+	"level": 3,
+	"postalCode": "105",
+	"areaNumber": "710101"
+}, {
+	"id": 710102,
+	"parentId": 710100,
+	"name": "信义区",
+	"level": 3,
+	"postalCode": "110",
+	"areaNumber": "710102"
+}, {
+	"id": 710103,
+	"parentId": 710100,
+	"name": "大安区",
+	"level": 3,
+	"postalCode": "106",
+	"areaNumber": "710103"
+}, {
+	"id": 710104,
+	"parentId": 710100,
+	"name": "中山区",
+	"level": 3,
+	"postalCode": "104",
+	"areaNumber": "710104"
+}, {
+	"id": 710105,
+	"parentId": 710100,
+	"name": "中正区",
+	"level": 3,
+	"postalCode": "100",
+	"areaNumber": "710105"
+}, {
+	"id": 710106,
+	"parentId": 710100,
+	"name": "大同区",
+	"level": 3,
+	"postalCode": "103",
+	"areaNumber": "710106"
+}, {
+	"id": 710107,
+	"parentId": 710100,
+	"name": "万华区",
+	"level": 3,
+	"postalCode": "108",
+	"areaNumber": "710107"
+}, {
+	"id": 710108,
+	"parentId": 710100,
+	"name": "文山区",
+	"level": 3,
+	"postalCode": "116",
+	"areaNumber": "710108"
+}, {
+	"id": 710109,
+	"parentId": 710100,
+	"name": "南港区",
+	"level": 3,
+	"postalCode": "115",
+	"areaNumber": "710109"
+}, {
+	"id": 710110,
+	"parentId": 710100,
+	"name": "内湖区",
+	"level": 3,
+	"postalCode": "114",
+	"areaNumber": "710110"
+}, {
+	"id": 710111,
+	"parentId": 710100,
+	"name": "士林区",
+	"level": 3,
+	"postalCode": "111",
+	"areaNumber": "710111"
+}, {
+	"id": 710112,
+	"parentId": 710100,
+	"name": "北投区",
+	"level": 3,
+	"postalCode": "112",
+	"areaNumber": "710112"
+}, {
+	"id": 710200,
+	"parentId": 710000,
+	"name": "高雄市",
+	"level": 2,
+	"postalCode": "8",
+	"areaNumber": "710200"
+}, {
+	"id": 710201,
+	"parentId": 710200,
+	"name": "盐埕区",
+	"level": 3,
+	"postalCode": "803",
+	"areaNumber": "710201"
+}, {
+	"id": 710202,
+	"parentId": 710200,
+	"name": "鼓山区",
+	"level": 3,
+	"postalCode": "804",
+	"areaNumber": "710202"
+}, {
+	"id": 710203,
+	"parentId": 710200,
+	"name": "左营区",
+	"level": 3,
+	"postalCode": "813",
+	"areaNumber": "710203"
+}, {
+	"id": 710204,
+	"parentId": 710200,
+	"name": "楠梓区",
+	"level": 3,
+	"postalCode": "811",
+	"areaNumber": "710204"
+}, {
+	"id": 710205,
+	"parentId": 710200,
+	"name": "三民区",
+	"level": 3,
+	"postalCode": "807",
+	"areaNumber": "710205"
+}, {
+	"id": 710206,
+	"parentId": 710200,
+	"name": "新兴区",
+	"level": 3,
+	"postalCode": "800",
+	"areaNumber": "710206"
+}, {
+	"id": 710207,
+	"parentId": 710200,
+	"name": "前金区",
+	"level": 3,
+	"postalCode": "801",
+	"areaNumber": "710207"
+}, {
+	"id": 710208,
+	"parentId": 710200,
+	"name": "苓雅区",
+	"level": 3,
+	"postalCode": "802",
+	"areaNumber": "710208"
+}, {
+	"id": 710209,
+	"parentId": 710200,
+	"name": "前镇区",
+	"level": 3,
+	"postalCode": "806",
+	"areaNumber": "710209"
+}, {
+	"id": 710210,
+	"parentId": 710200,
+	"name": "旗津区",
+	"level": 3,
+	"postalCode": "805",
+	"areaNumber": "710210"
+}, {
+	"id": 710211,
+	"parentId": 710200,
+	"name": "小港区",
+	"level": 3,
+	"postalCode": "812",
+	"areaNumber": "710211"
+}, {
+	"id": 710212,
+	"parentId": 710200,
+	"name": "凤山区",
+	"level": 3,
+	"postalCode": "830",
+	"areaNumber": "710212"
+}, {
+	"id": 710213,
+	"parentId": 710200,
+	"name": "林园区",
+	"level": 3,
+	"postalCode": "832",
+	"areaNumber": "710213"
+}, {
+	"id": 710214,
+	"parentId": 710200,
+	"name": "大寮区",
+	"level": 3,
+	"postalCode": "831",
+	"areaNumber": "710214"
+}, {
+	"id": 710215,
+	"parentId": 710200,
+	"name": "大树区",
+	"level": 3,
+	"postalCode": "840",
+	"areaNumber": "710215"
+}, {
+	"id": 710216,
+	"parentId": 710200,
+	"name": "大社区",
+	"level": 3,
+	"postalCode": "815",
+	"areaNumber": "710216"
+}, {
+	"id": 710217,
+	"parentId": 710200,
+	"name": "仁武区",
+	"level": 3,
+	"postalCode": "814",
+	"areaNumber": "710217"
+}, {
+	"id": 710218,
+	"parentId": 710200,
+	"name": "鸟松区",
+	"level": 3,
+	"postalCode": "833",
+	"areaNumber": "710218"
+}, {
+	"id": 710219,
+	"parentId": 710200,
+	"name": "冈山区",
+	"level": 3,
+	"postalCode": "820",
+	"areaNumber": "710219"
+}, {
+	"id": 710220,
+	"parentId": 710200,
+	"name": "桥头区",
+	"level": 3,
+	"postalCode": "825",
+	"areaNumber": "710220"
+}, {
+	"id": 710221,
+	"parentId": 710200,
+	"name": "燕巢区",
+	"level": 3,
+	"postalCode": "824",
+	"areaNumber": "710221"
+}, {
+	"id": 710222,
+	"parentId": 710200,
+	"name": "田寮区",
+	"level": 3,
+	"postalCode": "823",
+	"areaNumber": "710222"
+}, {
+	"id": 710223,
+	"parentId": 710200,
+	"name": "阿莲区",
+	"level": 3,
+	"postalCode": "822",
+	"areaNumber": "710223"
+}, {
+	"id": 710224,
+	"parentId": 710200,
+	"name": "路竹区",
+	"level": 3,
+	"postalCode": "821",
+	"areaNumber": "710224"
+}, {
+	"id": 710225,
+	"parentId": 710200,
+	"name": "湖内区",
+	"level": 3,
+	"postalCode": "829",
+	"areaNumber": "710225"
+}, {
+	"id": 710226,
+	"parentId": 710200,
+	"name": "茄萣区",
+	"level": 3,
+	"postalCode": "852",
+	"areaNumber": "710226"
+}, {
+	"id": 710227,
+	"parentId": 710200,
+	"name": "永安区",
+	"level": 3,
+	"postalCode": "828",
+	"areaNumber": "710227"
+}, {
+	"id": 710228,
+	"parentId": 710200,
+	"name": "弥陀区",
+	"level": 3,
+	"postalCode": "827",
+	"areaNumber": "710228"
+}, {
+	"id": 710229,
+	"parentId": 710200,
+	"name": "梓官区",
+	"level": 3,
+	"postalCode": "826",
+	"areaNumber": "710229"
+}, {
+	"id": 710230,
+	"parentId": 710200,
+	"name": "旗山区",
+	"level": 3,
+	"postalCode": "842",
+	"areaNumber": "710230"
+}, {
+	"id": 710231,
+	"parentId": 710200,
+	"name": "美浓区",
+	"level": 3,
+	"postalCode": "843",
+	"areaNumber": "710231"
+}, {
+	"id": 710232,
+	"parentId": 710200,
+	"name": "六龟区",
+	"level": 3,
+	"postalCode": "844",
+	"areaNumber": "710232"
+}, {
+	"id": 710233,
+	"parentId": 710200,
+	"name": "甲仙区",
+	"level": 3,
+	"postalCode": "847",
+	"areaNumber": "710233"
+}, {
+	"id": 710234,
+	"parentId": 710200,
+	"name": "杉林区",
+	"level": 3,
+	"postalCode": "846",
+	"areaNumber": "710234"
+}, {
+	"id": 710235,
+	"parentId": 710200,
+	"name": "内门区",
+	"level": 3,
+	"postalCode": "845",
+	"areaNumber": "710235"
+}, {
+	"id": 710236,
+	"parentId": 710200,
+	"name": "茂林区",
+	"level": 3,
+	"postalCode": "851",
+	"areaNumber": "710236"
+}, {
+	"id": 710237,
+	"parentId": 710200,
+	"name": "桃源区",
+	"level": 3,
+	"postalCode": "848",
+	"areaNumber": "710237"
+}, {
+	"id": 710238,
+	"parentId": 710200,
+	"name": "那玛夏区",
+	"level": 3,
+	"postalCode": "849",
+	"areaNumber": "710238"
+}, {
+	"id": 710300,
+	"parentId": 710000,
+	"name": "基隆市",
+	"level": 2,
+	"postalCode": "2",
+	"areaNumber": "710300"
+}, {
+	"id": 710301,
+	"parentId": 710300,
+	"name": "中正区",
+	"level": 3,
+	"postalCode": "202",
+	"areaNumber": "710301"
+}, {
+	"id": 710302,
+	"parentId": 710300,
+	"name": "七堵区",
+	"level": 3,
+	"postalCode": "206",
+	"areaNumber": "710302"
+}, {
+	"id": 710303,
+	"parentId": 710300,
+	"name": "暖暖区",
+	"level": 3,
+	"postalCode": "205",
+	"areaNumber": "710303"
+}, {
+	"id": 710304,
+	"parentId": 710300,
+	"name": "仁爱区",
+	"level": 3,
+	"postalCode": "200",
+	"areaNumber": "710304"
+}, {
+	"id": 710305,
+	"parentId": 710300,
+	"name": "中山区",
+	"level": 3,
+	"postalCode": "203",
+	"areaNumber": "710305"
+}, {
+	"id": 710306,
+	"parentId": 710300,
+	"name": "安乐区",
+	"level": 3,
+	"postalCode": "204",
+	"areaNumber": "710306"
+}, {
+	"id": 710307,
+	"parentId": 710300,
+	"name": "信义区",
+	"level": 3,
+	"postalCode": "201",
+	"areaNumber": "710307"
+}, {
+	"id": 710400,
+	"parentId": 710000,
+	"name": "台中市",
+	"level": 2,
+	"postalCode": "4",
+	"areaNumber": "710400"
+}, {
+	"id": 710401,
+	"parentId": 710400,
+	"name": "中区",
+	"level": 3,
+	"postalCode": "400",
+	"areaNumber": "710401"
+}, {
+	"id": 710402,
+	"parentId": 710400,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "401",
+	"areaNumber": "710402"
+}, {
+	"id": 710403,
+	"parentId": 710400,
+	"name": "南区",
+	"level": 3,
+	"postalCode": "402",
+	"areaNumber": "710403"
+}, {
+	"id": 710404,
+	"parentId": 710400,
+	"name": "西区",
+	"level": 3,
+	"postalCode": "403",
+	"areaNumber": "710404"
+}, {
+	"id": 710405,
+	"parentId": 710400,
+	"name": "北区",
+	"level": 3,
+	"postalCode": "404",
+	"areaNumber": "710405"
+}, {
+	"id": 710406,
+	"parentId": 710400,
+	"name": "西屯区",
+	"level": 3,
+	"postalCode": "407",
+	"areaNumber": "710406"
+}, {
+	"id": 710407,
+	"parentId": 710400,
+	"name": "南屯区",
+	"level": 3,
+	"postalCode": "408",
+	"areaNumber": "710407"
+}, {
+	"id": 710408,
+	"parentId": 710400,
+	"name": "北屯区",
+	"level": 3,
+	"postalCode": "406",
+	"areaNumber": "710408"
+}, {
+	"id": 710409,
+	"parentId": 710400,
+	"name": "丰原区",
+	"level": 3,
+	"postalCode": "420",
+	"areaNumber": "710409"
+}, {
+	"id": 710410,
+	"parentId": 710400,
+	"name": "东势区",
+	"level": 3,
+	"postalCode": "423",
+	"areaNumber": "710410"
+}, {
+	"id": 710411,
+	"parentId": 710400,
+	"name": "大甲区",
+	"level": 3,
+	"postalCode": "437",
+	"areaNumber": "710411"
+}, {
+	"id": 710412,
+	"parentId": 710400,
+	"name": "清水区",
+	"level": 3,
+	"postalCode": "436",
+	"areaNumber": "710412"
+}, {
+	"id": 710413,
+	"parentId": 710400,
+	"name": "沙鹿区",
+	"level": 3,
+	"postalCode": "433",
+	"areaNumber": "710413"
+}, {
+	"id": 710414,
+	"parentId": 710400,
+	"name": "梧栖区",
+	"level": 3,
+	"postalCode": "435",
+	"areaNumber": "710414"
+}, {
+	"id": 710415,
+	"parentId": 710400,
+	"name": "后里区",
+	"level": 3,
+	"postalCode": "421",
+	"areaNumber": "710415"
+}, {
+	"id": 710416,
+	"parentId": 710400,
+	"name": "神冈区",
+	"level": 3,
+	"postalCode": "429",
+	"areaNumber": "710416"
+}, {
+	"id": 710417,
+	"parentId": 710400,
+	"name": "潭子区",
+	"level": 3,
+	"postalCode": "427",
+	"areaNumber": "710417"
+}, {
+	"id": 710418,
+	"parentId": 710400,
+	"name": "大雅区",
+	"level": 3,
+	"postalCode": "428",
+	"areaNumber": "710418"
+}, {
+	"id": 710419,
+	"parentId": 710400,
+	"name": "新社区",
+	"level": 3,
+	"postalCode": "426",
+	"areaNumber": "710419"
+}, {
+	"id": 710420,
+	"parentId": 710400,
+	"name": "石冈区",
+	"level": 3,
+	"postalCode": "422",
+	"areaNumber": "710420"
+}, {
+	"id": 710421,
+	"parentId": 710400,
+	"name": "外埔区",
+	"level": 3,
+	"postalCode": "438",
+	"areaNumber": "710421"
+}, {
+	"id": 710422,
+	"parentId": 710400,
+	"name": "大安区",
+	"level": 3,
+	"postalCode": "439",
+	"areaNumber": "710422"
+}, {
+	"id": 710423,
+	"parentId": 710400,
+	"name": "乌日区",
+	"level": 3,
+	"postalCode": "414",
+	"areaNumber": "710423"
+}, {
+	"id": 710424,
+	"parentId": 710400,
+	"name": "大肚区",
+	"level": 3,
+	"postalCode": "432",
+	"areaNumber": "710424"
+}, {
+	"id": 710425,
+	"parentId": 710400,
+	"name": "龙井区",
+	"level": 3,
+	"postalCode": "434",
+	"areaNumber": "710425"
+}, {
+	"id": 710426,
+	"parentId": 710400,
+	"name": "雾峰区",
+	"level": 3,
+	"postalCode": "413",
+	"areaNumber": "710426"
+}, {
+	"id": 710427,
+	"parentId": 710400,
+	"name": "太平区",
+	"level": 3,
+	"postalCode": "411",
+	"areaNumber": "710427"
+}, {
+	"id": 710428,
+	"parentId": 710400,
+	"name": "大里区",
+	"level": 3,
+	"postalCode": "412",
+	"areaNumber": "710428"
+}, {
+	"id": 710429,
+	"parentId": 710400,
+	"name": "和平区",
+	"level": 3,
+	"postalCode": "424",
+	"areaNumber": "710429"
+}, {
+	"id": 710500,
+	"parentId": 710000,
+	"name": "台南市",
+	"level": 2,
+	"postalCode": "7",
+	"areaNumber": "710500"
+}, {
+	"id": 710501,
+	"parentId": 710500,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "701",
+	"areaNumber": "710501"
+}, {
+	"id": 710502,
+	"parentId": 710500,
+	"name": "南区",
+	"level": 3,
+	"postalCode": "702",
+	"areaNumber": "710502"
+}, {
+	"id": 710504,
+	"parentId": 710500,
+	"name": "北区",
+	"level": 3,
+	"postalCode": "704",
+	"areaNumber": "710504"
+}, {
+	"id": 710506,
+	"parentId": 710500,
+	"name": "安南区",
+	"level": 3,
+	"postalCode": "709",
+	"areaNumber": "710506"
+}, {
+	"id": 710507,
+	"parentId": 710500,
+	"name": "安平区",
+	"level": 3,
+	"postalCode": "708",
+	"areaNumber": "710507"
+}, {
+	"id": 710508,
+	"parentId": 710500,
+	"name": "中西区",
+	"level": 3,
+	"postalCode": "700",
+	"areaNumber": "710508"
+}, {
+	"id": 710509,
+	"parentId": 710500,
+	"name": "新营区",
+	"level": 3,
+	"postalCode": "730",
+	"areaNumber": "710509"
+}, {
+	"id": 710510,
+	"parentId": 710500,
+	"name": "盐水区",
+	"level": 3,
+	"postalCode": "737",
+	"areaNumber": "710510"
+}, {
+	"id": 710511,
+	"parentId": 710500,
+	"name": "白河区",
+	"level": 3,
+	"postalCode": "732",
+	"areaNumber": "710511"
+}, {
+	"id": 710512,
+	"parentId": 710500,
+	"name": "柳营区",
+	"level": 3,
+	"postalCode": "736",
+	"areaNumber": "710512"
+}, {
+	"id": 710513,
+	"parentId": 710500,
+	"name": "后壁区",
+	"level": 3,
+	"postalCode": "731",
+	"areaNumber": "710513"
+}, {
+	"id": 710514,
+	"parentId": 710500,
+	"name": "东山区",
+	"level": 3,
+	"postalCode": "733",
+	"areaNumber": "710514"
+}, {
+	"id": 710515,
+	"parentId": 710500,
+	"name": "麻豆区",
+	"level": 3,
+	"postalCode": "721",
+	"areaNumber": "710515"
+}, {
+	"id": 710516,
+	"parentId": 710500,
+	"name": "下营区",
+	"level": 3,
+	"postalCode": "735",
+	"areaNumber": "710516"
+}, {
+	"id": 710517,
+	"parentId": 710500,
+	"name": "六甲区",
+	"level": 3,
+	"postalCode": "734",
+	"areaNumber": "710517"
+}, {
+	"id": 710518,
+	"parentId": 710500,
+	"name": "官田区",
+	"level": 3,
+	"postalCode": "720",
+	"areaNumber": "710518"
+}, {
+	"id": 710519,
+	"parentId": 710500,
+	"name": "大内区",
+	"level": 3,
+	"postalCode": "742",
+	"areaNumber": "710519"
+}, {
+	"id": 710520,
+	"parentId": 710500,
+	"name": "佳里区",
+	"level": 3,
+	"postalCode": "722",
+	"areaNumber": "710520"
+}, {
+	"id": 710521,
+	"parentId": 710500,
+	"name": "学甲区",
+	"level": 3,
+	"postalCode": "726",
+	"areaNumber": "710521"
+}, {
+	"id": 710522,
+	"parentId": 710500,
+	"name": "西港区",
+	"level": 3,
+	"postalCode": "723",
+	"areaNumber": "710522"
+}, {
+	"id": 710523,
+	"parentId": 710500,
+	"name": "七股区",
+	"level": 3,
+	"postalCode": "724",
+	"areaNumber": "710523"
+}, {
+	"id": 710524,
+	"parentId": 710500,
+	"name": "将军区",
+	"level": 3,
+	"postalCode": "725",
+	"areaNumber": "710524"
+}, {
+	"id": 710525,
+	"parentId": 710500,
+	"name": "北门区",
+	"level": 3,
+	"postalCode": "727",
+	"areaNumber": "710525"
+}, {
+	"id": 710526,
+	"parentId": 710500,
+	"name": "新化区",
+	"level": 3,
+	"postalCode": "712",
+	"areaNumber": "710526"
+}, {
+	"id": 710527,
+	"parentId": 710500,
+	"name": "善化区",
+	"level": 3,
+	"postalCode": "741",
+	"areaNumber": "710527"
+}, {
+	"id": 710528,
+	"parentId": 710500,
+	"name": "新市区",
+	"level": 3,
+	"postalCode": "744",
+	"areaNumber": "710528"
+}, {
+	"id": 710529,
+	"parentId": 710500,
+	"name": "安定区",
+	"level": 3,
+	"postalCode": "745",
+	"areaNumber": "710529"
+}, {
+	"id": 710530,
+	"parentId": 710500,
+	"name": "山上区",
+	"level": 3,
+	"postalCode": "743",
+	"areaNumber": "710530"
+}, {
+	"id": 710531,
+	"parentId": 710500,
+	"name": "玉井区",
+	"level": 3,
+	"postalCode": "714",
+	"areaNumber": "710531"
+}, {
+	"id": 710532,
+	"parentId": 710500,
+	"name": "楠西区",
+	"level": 3,
+	"postalCode": "715",
+	"areaNumber": "710532"
+}, {
+	"id": 710533,
+	"parentId": 710500,
+	"name": "南化区",
+	"level": 3,
+	"postalCode": "716",
+	"areaNumber": "710533"
+}, {
+	"id": 710534,
+	"parentId": 710500,
+	"name": "左镇区",
+	"level": 3,
+	"postalCode": "713",
+	"areaNumber": "710534"
+}, {
+	"id": 710535,
+	"parentId": 710500,
+	"name": "仁德区",
+	"level": 3,
+	"postalCode": "717",
+	"areaNumber": "710535"
+}, {
+	"id": 710536,
+	"parentId": 710500,
+	"name": "归仁区",
+	"level": 3,
+	"postalCode": "711",
+	"areaNumber": "710536"
+}, {
+	"id": 710537,
+	"parentId": 710500,
+	"name": "关庙区",
+	"level": 3,
+	"postalCode": "718",
+	"areaNumber": "710537"
+}, {
+	"id": 710538,
+	"parentId": 710500,
+	"name": "龙崎区",
+	"level": 3,
+	"postalCode": "719",
+	"areaNumber": "710538"
+}, {
+	"id": 710539,
+	"parentId": 710500,
+	"name": "永康区",
+	"level": 3,
+	"postalCode": "710",
+	"areaNumber": "710539"
+}, {
+	"id": 710600,
+	"parentId": 710000,
+	"name": "新竹市",
+	"level": 2,
+	"postalCode": "3",
+	"areaNumber": "710600"
+}, {
+	"id": 710601,
+	"parentId": 710600,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "300",
+	"areaNumber": "710601"
+}, {
+	"id": 710602,
+	"parentId": 710600,
+	"name": "北区",
+	"level": 3,
+	"postalCode": "",
+	"areaNumber": "710602"
+}, {
+	"id": 710603,
+	"parentId": 710600,
+	"name": "香山区",
+	"level": 3,
+	"postalCode": "",
+	"areaNumber": "710603"
+}, {
+	"id": 710700,
+	"parentId": 710000,
+	"name": "嘉义市",
+	"level": 2,
+	"postalCode": "6",
+	"areaNumber": "710700"
+}, {
+	"id": 710701,
+	"parentId": 710700,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "600",
+	"areaNumber": "710701"
+}, {
+	"id": 710702,
+	"parentId": 710700,
+	"name": "西区",
+	"level": 3,
+	"postalCode": "600",
+	"areaNumber": "710702"
+}, {
+	"id": 710800,
+	"parentId": 710000,
+	"name": "新北市",
+	"level": 2,
+	"postalCode": "2",
+	"areaNumber": "710800"
+}, {
+	"id": 710801,
+	"parentId": 710800,
+	"name": "板桥区",
+	"level": 3,
+	"postalCode": "220",
+	"areaNumber": "710801"
+}, {
+	"id": 710802,
+	"parentId": 710800,
+	"name": "三重区",
+	"level": 3,
+	"postalCode": "241",
+	"areaNumber": "710802"
+}, {
+	"id": 710803,
+	"parentId": 710800,
+	"name": "中和区",
+	"level": 3,
+	"postalCode": "235",
+	"areaNumber": "710803"
+}, {
+	"id": 710804,
+	"parentId": 710800,
+	"name": "永和区",
+	"level": 3,
+	"postalCode": "234",
+	"areaNumber": "710804"
+}, {
+	"id": 710805,
+	"parentId": 710800,
+	"name": "新庄区",
+	"level": 3,
+	"postalCode": "242",
+	"areaNumber": "710805"
+}, {
+	"id": 710806,
+	"parentId": 710800,
+	"name": "新店区",
+	"level": 3,
+	"postalCode": "231",
+	"areaNumber": "710806"
+}, {
+	"id": 710807,
+	"parentId": 710800,
+	"name": "树林区",
+	"level": 3,
+	"postalCode": "238",
+	"areaNumber": "710807"
+}, {
+	"id": 710808,
+	"parentId": 710800,
+	"name": "莺歌区",
+	"level": 3,
+	"postalCode": "239",
+	"areaNumber": "710808"
+}, {
+	"id": 710809,
+	"parentId": 710800,
+	"name": "三峡区",
+	"level": 3,
+	"postalCode": "237",
+	"areaNumber": "710809"
+}, {
+	"id": 710810,
+	"parentId": 710800,
+	"name": "淡水区",
+	"level": 3,
+	"postalCode": "251",
+	"areaNumber": "710810"
+}, {
+	"id": 710811,
+	"parentId": 710800,
+	"name": "汐止区",
+	"level": 3,
+	"postalCode": "221",
+	"areaNumber": "710811"
+}, {
+	"id": 710812,
+	"parentId": 710800,
+	"name": "瑞芳区",
+	"level": 3,
+	"postalCode": "224",
+	"areaNumber": "710812"
+}, {
+	"id": 710813,
+	"parentId": 710800,
+	"name": "土城区",
+	"level": 3,
+	"postalCode": "236",
+	"areaNumber": "710813"
+}, {
+	"id": 710814,
+	"parentId": 710800,
+	"name": "芦洲区",
+	"level": 3,
+	"postalCode": "247",
+	"areaNumber": "710814"
+}, {
+	"id": 710815,
+	"parentId": 710800,
+	"name": "五股区",
+	"level": 3,
+	"postalCode": "248",
+	"areaNumber": "710815"
+}, {
+	"id": 710816,
+	"parentId": 710800,
+	"name": "泰山区",
+	"level": 3,
+	"postalCode": "243",
+	"areaNumber": "710816"
+}, {
+	"id": 710817,
+	"parentId": 710800,
+	"name": "林口区",
+	"level": 3,
+	"postalCode": "244",
+	"areaNumber": "710817"
+}, {
+	"id": 710818,
+	"parentId": 710800,
+	"name": "深坑区",
+	"level": 3,
+	"postalCode": "222",
+	"areaNumber": "710818"
+}, {
+	"id": 710819,
+	"parentId": 710800,
+	"name": "石碇区",
+	"level": 3,
+	"postalCode": "223",
+	"areaNumber": "710819"
+}, {
+	"id": 710820,
+	"parentId": 710800,
+	"name": "坪林区",
+	"level": 3,
+	"postalCode": "232",
+	"areaNumber": "710820"
+}, {
+	"id": 710821,
+	"parentId": 710800,
+	"name": "三芝区",
+	"level": 3,
+	"postalCode": "252",
+	"areaNumber": "710821"
+}, {
+	"id": 710822,
+	"parentId": 710800,
+	"name": "石门区",
+	"level": 3,
+	"postalCode": "253",
+	"areaNumber": "710822"
+}, {
+	"id": 710823,
+	"parentId": 710800,
+	"name": "八里区",
+	"level": 3,
+	"postalCode": "249",
+	"areaNumber": "710823"
+}, {
+	"id": 710824,
+	"parentId": 710800,
+	"name": "平溪区",
+	"level": 3,
+	"postalCode": "226",
+	"areaNumber": "710824"
+}, {
+	"id": 710825,
+	"parentId": 710800,
+	"name": "双溪区",
+	"level": 3,
+	"postalCode": "227",
+	"areaNumber": "710825"
+}, {
+	"id": 710826,
+	"parentId": 710800,
+	"name": "贡寮区",
+	"level": 3,
+	"postalCode": "228",
+	"areaNumber": "710826"
+}, {
+	"id": 710827,
+	"parentId": 710800,
+	"name": "金山区",
+	"level": 3,
+	"postalCode": "208",
+	"areaNumber": "710827"
+}, {
+	"id": 710828,
+	"parentId": 710800,
+	"name": "万里区",
+	"level": 3,
+	"postalCode": "207",
+	"areaNumber": "710828"
+}, {
+	"id": 710829,
+	"parentId": 710800,
+	"name": "乌来区",
+	"level": 3,
+	"postalCode": "233",
+	"areaNumber": "710829"
+}, {
+	"id": 712200,
+	"parentId": 710000,
+	"name": "宜兰县",
+	"level": 2,
+	"postalCode": "2",
+	"areaNumber": "712200"
+}, {
+	"id": 712201,
+	"parentId": 712200,
+	"name": "宜兰市",
+	"level": 3,
+	"postalCode": "260",
+	"areaNumber": "712201"
+}, {
+	"id": 712221,
+	"parentId": 712200,
+	"name": "罗东镇",
+	"level": 3,
+	"postalCode": "265",
+	"areaNumber": "712221"
+}, {
+	"id": 712222,
+	"parentId": 712200,
+	"name": "苏澳镇",
+	"level": 3,
+	"postalCode": "270",
+	"areaNumber": "712222"
+}, {
+	"id": 712223,
+	"parentId": 712200,
+	"name": "头城镇",
+	"level": 3,
+	"postalCode": "261",
+	"areaNumber": "712223"
+}, {
+	"id": 712224,
+	"parentId": 712200,
+	"name": "礁溪乡",
+	"level": 3,
+	"postalCode": "262",
+	"areaNumber": "712224"
+}, {
+	"id": 712225,
+	"parentId": 712200,
+	"name": "壮围乡",
+	"level": 3,
+	"postalCode": "263",
+	"areaNumber": "712225"
+}, {
+	"id": 712226,
+	"parentId": 712200,
+	"name": "员山乡",
+	"level": 3,
+	"postalCode": "264",
+	"areaNumber": "712226"
+}, {
+	"id": 712227,
+	"parentId": 712200,
+	"name": "冬山乡",
+	"level": 3,
+	"postalCode": "269",
+	"areaNumber": "712227"
+}, {
+	"id": 712228,
+	"parentId": 712200,
+	"name": "五结乡",
+	"level": 3,
+	"postalCode": "268",
+	"areaNumber": "712228"
+}, {
+	"id": 712229,
+	"parentId": 712200,
+	"name": "三星乡",
+	"level": 3,
+	"postalCode": "266",
+	"areaNumber": "712229"
+}, {
+	"id": 712230,
+	"parentId": 712200,
+	"name": "大同乡",
+	"level": 3,
+	"postalCode": "267",
+	"areaNumber": "712230"
+}, {
+	"id": 712231,
+	"parentId": 712200,
+	"name": "南澳乡",
+	"level": 3,
+	"postalCode": "272",
+	"areaNumber": "712231"
+}, {
+	"id": 712300,
+	"parentId": 710000,
+	"name": "桃园市",
+	"level": 2,
+	"postalCode": "3",
+	"areaNumber": "712300"
+}, {
+	"id": 712301,
+	"parentId": 712300,
+	"name": "桃园市",
+	"level": 3,
+	"postalCode": "330",
+	"areaNumber": "712301"
+}, {
+	"id": 712302,
+	"parentId": 712300,
+	"name": "中坜市",
+	"level": 3,
+	"postalCode": "320",
+	"areaNumber": "712302"
+}, {
+	"id": 712303,
+	"parentId": 712300,
+	"name": "平镇市",
+	"level": 3,
+	"postalCode": "324",
+	"areaNumber": "712303"
+}, {
+	"id": 712304,
+	"parentId": 712300,
+	"name": "八德市",
+	"level": 3,
+	"postalCode": "334",
+	"areaNumber": "712304"
+}, {
+	"id": 712305,
+	"parentId": 712300,
+	"name": "杨梅市",
+	"level": 3,
+	"postalCode": "326",
+	"areaNumber": "712305"
+}, {
+	"id": 712306,
+	"parentId": 712300,
+	"name": "芦竹市",
+	"level": 3,
+	"postalCode": "338",
+	"areaNumber": "712306"
+}, {
+	"id": 712321,
+	"parentId": 712300,
+	"name": "大溪镇",
+	"level": 3,
+	"postalCode": "335",
+	"areaNumber": "712321"
+}, {
+	"id": 712324,
+	"parentId": 712300,
+	"name": "大园乡",
+	"level": 3,
+	"postalCode": "337",
+	"areaNumber": "712324"
+}, {
+	"id": 712325,
+	"parentId": 712300,
+	"name": "龟山乡",
+	"level": 3,
+	"postalCode": "333",
+	"areaNumber": "712325"
+}, {
+	"id": 712327,
+	"parentId": 712300,
+	"name": "龙潭乡",
+	"level": 3,
+	"postalCode": "325",
+	"areaNumber": "712327"
+}, {
+	"id": 712329,
+	"parentId": 712300,
+	"name": "新屋乡",
+	"level": 3,
+	"postalCode": "327",
+	"areaNumber": "712329"
+}, {
+	"id": 712330,
+	"parentId": 712300,
+	"name": "观音乡",
+	"level": 3,
+	"postalCode": "328",
+	"areaNumber": "712330"
+}, {
+	"id": 712331,
+	"parentId": 712300,
+	"name": "复兴乡",
+	"level": 3,
+	"postalCode": "336",
+	"areaNumber": "712331"
+}, {
+	"id": 712400,
+	"parentId": 710000,
+	"name": "新竹县",
+	"level": 2,
+	"postalCode": "3",
+	"areaNumber": "712400"
+}, {
+	"id": 712401,
+	"parentId": 712400,
+	"name": "竹北市",
+	"level": 3,
+	"postalCode": "302",
+	"areaNumber": "712401"
+}, {
+	"id": 712421,
+	"parentId": 712400,
+	"name": "竹东镇",
+	"level": 3,
+	"postalCode": "310",
+	"areaNumber": "712421"
+}, {
+	"id": 712422,
+	"parentId": 712400,
+	"name": "新埔镇",
+	"level": 3,
+	"postalCode": "305",
+	"areaNumber": "712422"
+}, {
+	"id": 712423,
+	"parentId": 712400,
+	"name": "关西镇",
+	"level": 3,
+	"postalCode": "306",
+	"areaNumber": "712423"
+}, {
+	"id": 712424,
+	"parentId": 712400,
+	"name": "湖口乡",
+	"level": 3,
+	"postalCode": "303",
+	"areaNumber": "712424"
+}, {
+	"id": 712425,
+	"parentId": 712400,
+	"name": "新丰乡",
+	"level": 3,
+	"postalCode": "304",
+	"areaNumber": "712425"
+}, {
+	"id": 712426,
+	"parentId": 712400,
+	"name": "芎林乡",
+	"level": 3,
+	"postalCode": "307",
+	"areaNumber": "712426"
+}, {
+	"id": 712427,
+	"parentId": 712400,
+	"name": "横山乡",
+	"level": 3,
+	"postalCode": "312",
+	"areaNumber": "712427"
+}, {
+	"id": 712428,
+	"parentId": 712400,
+	"name": "北埔乡",
+	"level": 3,
+	"postalCode": "314",
+	"areaNumber": "712428"
+}, {
+	"id": 712429,
+	"parentId": 712400,
+	"name": "宝山乡",
+	"level": 3,
+	"postalCode": "308",
+	"areaNumber": "712429"
+}, {
+	"id": 712430,
+	"parentId": 712400,
+	"name": "峨眉乡",
+	"level": 3,
+	"postalCode": "315",
+	"areaNumber": "712430"
+}, {
+	"id": 712431,
+	"parentId": 712400,
+	"name": "尖石乡",
+	"level": 3,
+	"postalCode": "313",
+	"areaNumber": "712431"
+}, {
+	"id": 712432,
+	"parentId": 712400,
+	"name": "五峰乡",
+	"level": 3,
+	"postalCode": "311",
+	"areaNumber": "712432"
+}, {
+	"id": 712500,
+	"parentId": 710000,
+	"name": "苗栗县",
+	"level": 2,
+	"postalCode": "3",
+	"areaNumber": "712500"
+}, {
+	"id": 712501,
+	"parentId": 712500,
+	"name": "苗栗市",
+	"level": 3,
+	"postalCode": "360",
+	"areaNumber": "712501"
+}, {
+	"id": 712521,
+	"parentId": 712500,
+	"name": "苑里镇",
+	"level": 3,
+	"postalCode": "358",
+	"areaNumber": "712521"
+}, {
+	"id": 712522,
+	"parentId": 712500,
+	"name": "通霄镇",
+	"level": 3,
+	"postalCode": "357",
+	"areaNumber": "712522"
+}, {
+	"id": 712523,
+	"parentId": 712500,
+	"name": "竹南镇",
+	"level": 3,
+	"postalCode": "350",
+	"areaNumber": "712523"
+}, {
+	"id": 712524,
+	"parentId": 712500,
+	"name": "头份市",
+	"level": 3,
+	"postalCode": "351",
+	"areaNumber": "712524"
+}, {
+	"id": 712525,
+	"parentId": 712500,
+	"name": "后龙镇",
+	"level": 3,
+	"postalCode": "356",
+	"areaNumber": "712525"
+}, {
+	"id": 712526,
+	"parentId": 712500,
+	"name": "卓兰镇",
+	"level": 3,
+	"postalCode": "369",
+	"areaNumber": "712526"
+}, {
+	"id": 712527,
+	"parentId": 712500,
+	"name": "大湖乡",
+	"level": 3,
+	"postalCode": "364",
+	"areaNumber": "712527"
+}, {
+	"id": 712528,
+	"parentId": 712500,
+	"name": "公馆乡",
+	"level": 3,
+	"postalCode": "363",
+	"areaNumber": "712528"
+}, {
+	"id": 712529,
+	"parentId": 712500,
+	"name": "铜锣乡",
+	"level": 3,
+	"postalCode": "366",
+	"areaNumber": "712529"
+}, {
+	"id": 712530,
+	"parentId": 712500,
+	"name": "南庄乡",
+	"level": 3,
+	"postalCode": "353",
+	"areaNumber": "712530"
+}, {
+	"id": 712531,
+	"parentId": 712500,
+	"name": "头屋乡",
+	"level": 3,
+	"postalCode": "362",
+	"areaNumber": "712531"
+}, {
+	"id": 712532,
+	"parentId": 712500,
+	"name": "三义乡",
+	"level": 3,
+	"postalCode": "367",
+	"areaNumber": "712532"
+}, {
+	"id": 712533,
+	"parentId": 712500,
+	"name": "西湖乡",
+	"level": 3,
+	"postalCode": "368",
+	"areaNumber": "712533"
+}, {
+	"id": 712534,
+	"parentId": 712500,
+	"name": "造桥乡",
+	"level": 3,
+	"postalCode": "361",
+	"areaNumber": "712534"
+}, {
+	"id": 712535,
+	"parentId": 712500,
+	"name": "三湾乡",
+	"level": 3,
+	"postalCode": "352",
+	"areaNumber": "712535"
+}, {
+	"id": 712536,
+	"parentId": 712500,
+	"name": "狮潭乡",
+	"level": 3,
+	"postalCode": "354",
+	"areaNumber": "712536"
+}, {
+	"id": 712537,
+	"parentId": 712500,
+	"name": "泰安乡",
+	"level": 3,
+	"postalCode": "365",
+	"areaNumber": "712537"
+}, {
+	"id": 712700,
+	"parentId": 710000,
+	"name": "彰化县",
+	"level": 2,
+	"postalCode": "5",
+	"areaNumber": "712700"
+}, {
+	"id": 712701,
+	"parentId": 712700,
+	"name": "彰化市",
+	"level": 3,
+	"postalCode": "500",
+	"areaNumber": "712701"
+}, {
+	"id": 712721,
+	"parentId": 712700,
+	"name": "鹿港镇",
+	"level": 3,
+	"postalCode": "505",
+	"areaNumber": "712721"
+}, {
+	"id": 712722,
+	"parentId": 712700,
+	"name": "和美镇",
+	"level": 3,
+	"postalCode": "508",
+	"areaNumber": "712722"
+}, {
+	"id": 712723,
+	"parentId": 712700,
+	"name": "线西乡",
+	"level": 3,
+	"postalCode": "507",
+	"areaNumber": "712723"
+}, {
+	"id": 712724,
+	"parentId": 712700,
+	"name": "伸港乡",
+	"level": 3,
+	"postalCode": "509",
+	"areaNumber": "712724"
+}, {
+	"id": 712725,
+	"parentId": 712700,
+	"name": "福兴乡",
+	"level": 3,
+	"postalCode": "506",
+	"areaNumber": "712725"
+}, {
+	"id": 712726,
+	"parentId": 712700,
+	"name": "秀水乡",
+	"level": 3,
+	"postalCode": "504",
+	"areaNumber": "712726"
+}, {
+	"id": 712727,
+	"parentId": 712700,
+	"name": "花坛乡",
+	"level": 3,
+	"postalCode": "503",
+	"areaNumber": "712727"
+}, {
+	"id": 712728,
+	"parentId": 712700,
+	"name": "芬园乡",
+	"level": 3,
+	"postalCode": "502",
+	"areaNumber": "712728"
+}, {
+	"id": 712729,
+	"parentId": 712700,
+	"name": "员林市",
+	"level": 3,
+	"postalCode": "510",
+	"areaNumber": "712729"
+}, {
+	"id": 712730,
+	"parentId": 712700,
+	"name": "溪湖镇",
+	"level": 3,
+	"postalCode": "514",
+	"areaNumber": "712730"
+}, {
+	"id": 712731,
+	"parentId": 712700,
+	"name": "田中镇",
+	"level": 3,
+	"postalCode": "520",
+	"areaNumber": "712731"
+}, {
+	"id": 712732,
+	"parentId": 712700,
+	"name": "大村乡",
+	"level": 3,
+	"postalCode": "515",
+	"areaNumber": "712732"
+}, {
+	"id": 712733,
+	"parentId": 712700,
+	"name": "埔盐乡",
+	"level": 3,
+	"postalCode": "516",
+	"areaNumber": "712733"
+}, {
+	"id": 712734,
+	"parentId": 712700,
+	"name": "埔心乡",
+	"level": 3,
+	"postalCode": "513",
+	"areaNumber": "712734"
+}, {
+	"id": 712735,
+	"parentId": 712700,
+	"name": "永靖乡",
+	"level": 3,
+	"postalCode": "512",
+	"areaNumber": "712735"
+}, {
+	"id": 712736,
+	"parentId": 712700,
+	"name": "社头乡",
+	"level": 3,
+	"postalCode": "511",
+	"areaNumber": "712736"
+}, {
+	"id": 712737,
+	"parentId": 712700,
+	"name": "二水乡",
+	"level": 3,
+	"postalCode": "530",
+	"areaNumber": "712737"
+}, {
+	"id": 712738,
+	"parentId": 712700,
+	"name": "北斗镇",
+	"level": 3,
+	"postalCode": "521",
+	"areaNumber": "712738"
+}, {
+	"id": 712739,
+	"parentId": 712700,
+	"name": "二林镇",
+	"level": 3,
+	"postalCode": "526",
+	"areaNumber": "712739"
+}, {
+	"id": 712740,
+	"parentId": 712700,
+	"name": "田尾乡",
+	"level": 3,
+	"postalCode": "522",
+	"areaNumber": "712740"
+}, {
+	"id": 712741,
+	"parentId": 712700,
+	"name": "埤头乡",
+	"level": 3,
+	"postalCode": "523",
+	"areaNumber": "712741"
+}, {
+	"id": 712742,
+	"parentId": 712700,
+	"name": "芳苑乡",
+	"level": 3,
+	"postalCode": "528",
+	"areaNumber": "712742"
+}, {
+	"id": 712743,
+	"parentId": 712700,
+	"name": "大城乡",
+	"level": 3,
+	"postalCode": "527",
+	"areaNumber": "712743"
+}, {
+	"id": 712744,
+	"parentId": 712700,
+	"name": "竹塘乡",
+	"level": 3,
+	"postalCode": "525",
+	"areaNumber": "712744"
+}, {
+	"id": 712745,
+	"parentId": 712700,
+	"name": "溪州乡",
+	"level": 3,
+	"postalCode": "524",
+	"areaNumber": "712745"
+}, {
+	"id": 712800,
+	"parentId": 710000,
+	"name": "南投县",
+	"level": 2,
+	"postalCode": "5",
+	"areaNumber": "712800"
+}, {
+	"id": 712801,
+	"parentId": 712800,
+	"name": "南投市",
+	"level": 3,
+	"postalCode": "540",
+	"areaNumber": "712801"
+}, {
+	"id": 712821,
+	"parentId": 712800,
+	"name": "埔里镇",
+	"level": 3,
+	"postalCode": "545",
+	"areaNumber": "712821"
+}, {
+	"id": 712822,
+	"parentId": 712800,
+	"name": "草屯镇",
+	"level": 3,
+	"postalCode": "542",
+	"areaNumber": "712822"
+}, {
+	"id": 712823,
+	"parentId": 712800,
+	"name": "竹山镇",
+	"level": 3,
+	"postalCode": "557",
+	"areaNumber": "712823"
+}, {
+	"id": 712824,
+	"parentId": 712800,
+	"name": "集集镇",
+	"level": 3,
+	"postalCode": "552",
+	"areaNumber": "712824"
+}, {
+	"id": 712825,
+	"parentId": 712800,
+	"name": "名间乡",
+	"level": 3,
+	"postalCode": "551",
+	"areaNumber": "712825"
+}, {
+	"id": 712826,
+	"parentId": 712800,
+	"name": "鹿谷乡",
+	"level": 3,
+	"postalCode": "558",
+	"areaNumber": "712826"
+}, {
+	"id": 712827,
+	"parentId": 712800,
+	"name": "中寮乡",
+	"level": 3,
+	"postalCode": "541",
+	"areaNumber": "712827"
+}, {
+	"id": 712828,
+	"parentId": 712800,
+	"name": "鱼池乡",
+	"level": 3,
+	"postalCode": "555",
+	"areaNumber": "712828"
+}, {
+	"id": 712829,
+	"parentId": 712800,
+	"name": "国姓乡",
+	"level": 3,
+	"postalCode": "544",
+	"areaNumber": "712829"
+}, {
+	"id": 712830,
+	"parentId": 712800,
+	"name": "水里乡",
+	"level": 3,
+	"postalCode": "553",
+	"areaNumber": "712830"
+}, {
+	"id": 712831,
+	"parentId": 712800,
+	"name": "信义乡",
+	"level": 3,
+	"postalCode": "556",
+	"areaNumber": "712831"
+}, {
+	"id": 712832,
+	"parentId": 712800,
+	"name": "仁爱乡",
+	"level": 3,
+	"postalCode": "546",
+	"areaNumber": "712832"
+}, {
+	"id": 712900,
+	"parentId": 710000,
+	"name": "云林县",
+	"level": 2,
+	"postalCode": "6",
+	"areaNumber": "712900"
+}, {
+	"id": 712901,
+	"parentId": 712900,
+	"name": "斗六市",
+	"level": 3,
+	"postalCode": "640",
+	"areaNumber": "712901"
+}, {
+	"id": 712921,
+	"parentId": 712900,
+	"name": "斗南镇",
+	"level": 3,
+	"postalCode": "630",
+	"areaNumber": "712921"
+}, {
+	"id": 712922,
+	"parentId": 712900,
+	"name": "虎尾镇",
+	"level": 3,
+	"postalCode": "632",
+	"areaNumber": "712922"
+}, {
+	"id": 712923,
+	"parentId": 712900,
+	"name": "西螺镇",
+	"level": 3,
+	"postalCode": "648",
+	"areaNumber": "712923"
+}, {
+	"id": 712924,
+	"parentId": 712900,
+	"name": "土库镇",
+	"level": 3,
+	"postalCode": "633",
+	"areaNumber": "712924"
+}, {
+	"id": 712925,
+	"parentId": 712900,
+	"name": "北港镇",
+	"level": 3,
+	"postalCode": "651",
+	"areaNumber": "712925"
+}, {
+	"id": 712926,
+	"parentId": 712900,
+	"name": "古坑乡",
+	"level": 3,
+	"postalCode": "646",
+	"areaNumber": "712926"
+}, {
+	"id": 712927,
+	"parentId": 712900,
+	"name": "大埤乡",
+	"level": 3,
+	"postalCode": "631",
+	"areaNumber": "712927"
+}, {
+	"id": 712928,
+	"parentId": 712900,
+	"name": "莿桐乡",
+	"level": 3,
+	"postalCode": "647",
+	"areaNumber": "712928"
+}, {
+	"id": 712929,
+	"parentId": 712900,
+	"name": "林内乡",
+	"level": 3,
+	"postalCode": "643",
+	"areaNumber": "712929"
+}, {
+	"id": 712930,
+	"parentId": 712900,
+	"name": "二仑乡",
+	"level": 3,
+	"postalCode": "649",
+	"areaNumber": "712930"
+}, {
+	"id": 712931,
+	"parentId": 712900,
+	"name": "仑背乡",
+	"level": 3,
+	"postalCode": "637",
+	"areaNumber": "712931"
+}, {
+	"id": 712932,
+	"parentId": 712900,
+	"name": "麦寮乡",
+	"level": 3,
+	"postalCode": "638",
+	"areaNumber": "712932"
+}, {
+	"id": 712933,
+	"parentId": 712900,
+	"name": "东势乡",
+	"level": 3,
+	"postalCode": "635",
+	"areaNumber": "712933"
+}, {
+	"id": 712934,
+	"parentId": 712900,
+	"name": "褒忠乡",
+	"level": 3,
+	"postalCode": "634",
+	"areaNumber": "712934"
+}, {
+	"id": 712935,
+	"parentId": 712900,
+	"name": "台西乡",
+	"level": 3,
+	"postalCode": "636",
+	"areaNumber": "712935"
+}, {
+	"id": 712936,
+	"parentId": 712900,
+	"name": "元长乡",
+	"level": 3,
+	"postalCode": "655",
+	"areaNumber": "712936"
+}, {
+	"id": 712937,
+	"parentId": 712900,
+	"name": "四湖乡",
+	"level": 3,
+	"postalCode": "654",
+	"areaNumber": "712937"
+}, {
+	"id": 712938,
+	"parentId": 712900,
+	"name": "口湖乡",
+	"level": 3,
+	"postalCode": "653",
+	"areaNumber": "712938"
+}, {
+	"id": 712939,
+	"parentId": 712900,
+	"name": "水林乡",
+	"level": 3,
+	"postalCode": "652",
+	"areaNumber": "712939"
+}, {
+	"id": 713000,
+	"parentId": 710000,
+	"name": "嘉义县",
+	"level": 2,
+	"postalCode": "6",
+	"areaNumber": "713000"
+}, {
+	"id": 713001,
+	"parentId": 713000,
+	"name": "太保市",
+	"level": 3,
+	"postalCode": "612",
+	"areaNumber": "713001"
+}, {
+	"id": 713002,
+	"parentId": 713000,
+	"name": "朴子市",
+	"level": 3,
+	"postalCode": "613",
+	"areaNumber": "713002"
+}, {
+	"id": 713023,
+	"parentId": 713000,
+	"name": "布袋镇",
+	"level": 3,
+	"postalCode": "625",
+	"areaNumber": "713023"
+}, {
+	"id": 713024,
+	"parentId": 713000,
+	"name": "大林镇",
+	"level": 3,
+	"postalCode": "622",
+	"areaNumber": "713024"
+}, {
+	"id": 713025,
+	"parentId": 713000,
+	"name": "民雄乡",
+	"level": 3,
+	"postalCode": "621",
+	"areaNumber": "713025"
+}, {
+	"id": 713026,
+	"parentId": 713000,
+	"name": "溪口乡",
+	"level": 3,
+	"postalCode": "623",
+	"areaNumber": "713026"
+}, {
+	"id": 713027,
+	"parentId": 713000,
+	"name": "新港乡",
+	"level": 3,
+	"postalCode": "616",
+	"areaNumber": "713027"
+}, {
+	"id": 713028,
+	"parentId": 713000,
+	"name": "六脚乡",
+	"level": 3,
+	"postalCode": "615",
+	"areaNumber": "713028"
+}, {
+	"id": 713029,
+	"parentId": 713000,
+	"name": "东石乡",
+	"level": 3,
+	"postalCode": "614",
+	"areaNumber": "713029"
+}, {
+	"id": 713030,
+	"parentId": 713000,
+	"name": "义竹乡",
+	"level": 3,
+	"postalCode": "624",
+	"areaNumber": "713030"
+}, {
+	"id": 713031,
+	"parentId": 713000,
+	"name": "鹿草乡",
+	"level": 3,
+	"postalCode": "611",
+	"areaNumber": "713031"
+}, {
+	"id": 713032,
+	"parentId": 713000,
+	"name": "水上乡",
+	"level": 3,
+	"postalCode": "608",
+	"areaNumber": "713032"
+}, {
+	"id": 713033,
+	"parentId": 713000,
+	"name": "中埔乡",
+	"level": 3,
+	"postalCode": "606",
+	"areaNumber": "713033"
+}, {
+	"id": 713034,
+	"parentId": 713000,
+	"name": "竹崎乡",
+	"level": 3,
+	"postalCode": "604",
+	"areaNumber": "713034"
+}, {
+	"id": 713035,
+	"parentId": 713000,
+	"name": "梅山乡",
+	"level": 3,
+	"postalCode": "603",
+	"areaNumber": "713035"
+}, {
+	"id": 713036,
+	"parentId": 713000,
+	"name": "番路乡",
+	"level": 3,
+	"postalCode": "602",
+	"areaNumber": "713036"
+}, {
+	"id": 713037,
+	"parentId": 713000,
+	"name": "大埔乡",
+	"level": 3,
+	"postalCode": "607",
+	"areaNumber": "713037"
+}, {
+	"id": 713038,
+	"parentId": 713000,
+	"name": "阿里山乡",
+	"level": 3,
+	"postalCode": "605",
+	"areaNumber": "713038"
+}, {
+	"id": 713300,
+	"parentId": 710000,
+	"name": "屏东县",
+	"level": 2,
+	"postalCode": "9",
+	"areaNumber": "713300"
+}, {
+	"id": 713301,
+	"parentId": 713300,
+	"name": "屏东市",
+	"level": 3,
+	"postalCode": "900",
+	"areaNumber": "713301"
+}, {
+	"id": 713321,
+	"parentId": 713300,
+	"name": "潮州镇",
+	"level": 3,
+	"postalCode": "920",
+	"areaNumber": "713321"
+}, {
+	"id": 713322,
+	"parentId": 713300,
+	"name": "东港镇",
+	"level": 3,
+	"postalCode": "928",
+	"areaNumber": "713322"
+}, {
+	"id": 713323,
+	"parentId": 713300,
+	"name": "恒春镇",
+	"level": 3,
+	"postalCode": "946",
+	"areaNumber": "713323"
+}, {
+	"id": 713324,
+	"parentId": 713300,
+	"name": "万丹乡",
+	"level": 3,
+	"postalCode": "913",
+	"areaNumber": "713324"
+}, {
+	"id": 713325,
+	"parentId": 713300,
+	"name": "长治乡",
+	"level": 3,
+	"postalCode": "908",
+	"areaNumber": "713325"
+}, {
+	"id": 713326,
+	"parentId": 713300,
+	"name": "麟洛乡",
+	"level": 3,
+	"postalCode": "909",
+	"areaNumber": "713326"
+}, {
+	"id": 713327,
+	"parentId": 713300,
+	"name": "九如乡",
+	"level": 3,
+	"postalCode": "904",
+	"areaNumber": "713327"
+}, {
+	"id": 713328,
+	"parentId": 713300,
+	"name": "里港乡",
+	"level": 3,
+	"postalCode": "905",
+	"areaNumber": "713328"
+}, {
+	"id": 713329,
+	"parentId": 713300,
+	"name": "盐埔乡",
+	"level": 3,
+	"postalCode": "907",
+	"areaNumber": "713329"
+}, {
+	"id": 713330,
+	"parentId": 713300,
+	"name": "高树乡",
+	"level": 3,
+	"postalCode": "906",
+	"areaNumber": "713330"
+}, {
+	"id": 713331,
+	"parentId": 713300,
+	"name": "万峦乡",
+	"level": 3,
+	"postalCode": "923",
+	"areaNumber": "713331"
+}, {
+	"id": 713332,
+	"parentId": 713300,
+	"name": "内埔乡",
+	"level": 3,
+	"postalCode": "912",
+	"areaNumber": "713332"
+}, {
+	"id": 713333,
+	"parentId": 713300,
+	"name": "竹田乡",
+	"level": 3,
+	"postalCode": "911",
+	"areaNumber": "713333"
+}, {
+	"id": 713334,
+	"parentId": 713300,
+	"name": "新埤乡",
+	"level": 3,
+	"postalCode": "925",
+	"areaNumber": "713334"
+}, {
+	"id": 713335,
+	"parentId": 713300,
+	"name": "枋寮乡",
+	"level": 3,
+	"postalCode": "940",
+	"areaNumber": "713335"
+}, {
+	"id": 713336,
+	"parentId": 713300,
+	"name": "新园乡",
+	"level": 3,
+	"postalCode": "932",
+	"areaNumber": "713336"
+}, {
+	"id": 713337,
+	"parentId": 713300,
+	"name": "崁顶乡",
+	"level": 3,
+	"postalCode": "924",
+	"areaNumber": "713337"
+}, {
+	"id": 713338,
+	"parentId": 713300,
+	"name": "林边乡",
+	"level": 3,
+	"postalCode": "927",
+	"areaNumber": "713338"
+}, {
+	"id": 713339,
+	"parentId": 713300,
+	"name": "南州乡",
+	"level": 3,
+	"postalCode": "926",
+	"areaNumber": "713339"
+}, {
+	"id": 713340,
+	"parentId": 713300,
+	"name": "佳冬乡",
+	"level": 3,
+	"postalCode": "931",
+	"areaNumber": "713340"
+}, {
+	"id": 713341,
+	"parentId": 713300,
+	"name": "琉球乡",
+	"level": 3,
+	"postalCode": "929",
+	"areaNumber": "713341"
+}, {
+	"id": 713342,
+	"parentId": 713300,
+	"name": "车城乡",
+	"level": 3,
+	"postalCode": "944",
+	"areaNumber": "713342"
+}, {
+	"id": 713343,
+	"parentId": 713300,
+	"name": "满州乡",
+	"level": 3,
+	"postalCode": "947",
+	"areaNumber": "713343"
+}, {
+	"id": 713344,
+	"parentId": 713300,
+	"name": "枋山乡",
+	"level": 3,
+	"postalCode": "941",
+	"areaNumber": "713344"
+}, {
+	"id": 713345,
+	"parentId": 713300,
+	"name": "三地门乡",
+	"level": 3,
+	"postalCode": "901",
+	"areaNumber": "713345"
+}, {
+	"id": 713346,
+	"parentId": 713300,
+	"name": "雾台乡",
+	"level": 3,
+	"postalCode": "902",
+	"areaNumber": "713346"
+}, {
+	"id": 713347,
+	"parentId": 713300,
+	"name": "玛家乡",
+	"level": 3,
+	"postalCode": "903",
+	"areaNumber": "713347"
+}, {
+	"id": 713348,
+	"parentId": 713300,
+	"name": "泰武乡",
+	"level": 3,
+	"postalCode": "921",
+	"areaNumber": "713348"
+}, {
+	"id": 713349,
+	"parentId": 713300,
+	"name": "来义乡",
+	"level": 3,
+	"postalCode": "922",
+	"areaNumber": "713349"
+}, {
+	"id": 713350,
+	"parentId": 713300,
+	"name": "春日乡",
+	"level": 3,
+	"postalCode": "942",
+	"areaNumber": "713350"
+}, {
+	"id": 713351,
+	"parentId": 713300,
+	"name": "狮子乡",
+	"level": 3,
+	"postalCode": "943",
+	"areaNumber": "713351"
+}, {
+	"id": 713352,
+	"parentId": 713300,
+	"name": "牡丹乡",
+	"level": 3,
+	"postalCode": "945",
+	"areaNumber": "713352"
+}, {
+	"id": 713400,
+	"parentId": 710000,
+	"name": "台东县",
+	"level": 2,
+	"postalCode": "9",
+	"areaNumber": "713400"
+}, {
+	"id": 713401,
+	"parentId": 713400,
+	"name": "台东市",
+	"level": 3,
+	"postalCode": "950",
+	"areaNumber": "713401"
+}, {
+	"id": 713421,
+	"parentId": 713400,
+	"name": "成功镇",
+	"level": 3,
+	"postalCode": "961",
+	"areaNumber": "713421"
+}, {
+	"id": 713422,
+	"parentId": 713400,
+	"name": "关山镇",
+	"level": 3,
+	"postalCode": "956",
+	"areaNumber": "713422"
+}, {
+	"id": 713423,
+	"parentId": 713400,
+	"name": "卑南乡",
+	"level": 3,
+	"postalCode": "954",
+	"areaNumber": "713423"
+}, {
+	"id": 713424,
+	"parentId": 713400,
+	"name": "鹿野乡",
+	"level": 3,
+	"postalCode": "955",
+	"areaNumber": "713424"
+}, {
+	"id": 713425,
+	"parentId": 713400,
+	"name": "池上乡",
+	"level": 3,
+	"postalCode": "958",
+	"areaNumber": "713425"
+}, {
+	"id": 713426,
+	"parentId": 713400,
+	"name": "东河乡",
+	"level": 3,
+	"postalCode": "959",
+	"areaNumber": "713426"
+}, {
+	"id": 713427,
+	"parentId": 713400,
+	"name": "长滨乡",
+	"level": 3,
+	"postalCode": "962",
+	"areaNumber": "713427"
+}, {
+	"id": 713428,
+	"parentId": 713400,
+	"name": "太麻里乡",
+	"level": 3,
+	"postalCode": "963",
+	"areaNumber": "713428"
+}, {
+	"id": 713429,
+	"parentId": 713400,
+	"name": "大武乡",
+	"level": 3,
+	"postalCode": "965",
+	"areaNumber": "713429"
+}, {
+	"id": 713430,
+	"parentId": 713400,
+	"name": "绿岛乡",
+	"level": 3,
+	"postalCode": "951",
+	"areaNumber": "713430"
+}, {
+	"id": 713431,
+	"parentId": 713400,
+	"name": "海端乡",
+	"level": 3,
+	"postalCode": "957",
+	"areaNumber": "713431"
+}, {
+	"id": 713432,
+	"parentId": 713400,
+	"name": "延平乡",
+	"level": 3,
+	"postalCode": "953",
+	"areaNumber": "713432"
+}, {
+	"id": 713433,
+	"parentId": 713400,
+	"name": "金峰乡",
+	"level": 3,
+	"postalCode": "964",
+	"areaNumber": "713433"
+}, {
+	"id": 713434,
+	"parentId": 713400,
+	"name": "达仁乡",
+	"level": 3,
+	"postalCode": "966",
+	"areaNumber": "713434"
+}, {
+	"id": 713435,
+	"parentId": 713400,
+	"name": "兰屿乡",
+	"level": 3,
+	"postalCode": "952",
+	"areaNumber": "713435"
+}, {
+	"id": 713500,
+	"parentId": 710000,
+	"name": "花莲县",
+	"level": 2,
+	"postalCode": "9",
+	"areaNumber": "713500"
+}, {
+	"id": 713501,
+	"parentId": 713500,
+	"name": "花莲市",
+	"level": 3,
+	"postalCode": "970",
+	"areaNumber": "713501"
+}, {
+	"id": 713521,
+	"parentId": 713500,
+	"name": "凤林镇",
+	"level": 3,
+	"postalCode": "975",
+	"areaNumber": "713521"
+}, {
+	"id": 713522,
+	"parentId": 713500,
+	"name": "玉里镇",
+	"level": 3,
+	"postalCode": "981",
+	"areaNumber": "713522"
+}, {
+	"id": 713523,
+	"parentId": 713500,
+	"name": "新城乡",
+	"level": 3,
+	"postalCode": "971",
+	"areaNumber": "713523"
+}, {
+	"id": 713524,
+	"parentId": 713500,
+	"name": "吉安乡",
+	"level": 3,
+	"postalCode": "973",
+	"areaNumber": "713524"
+}, {
+	"id": 713525,
+	"parentId": 713500,
+	"name": "寿丰乡",
+	"level": 3,
+	"postalCode": "974",
+	"areaNumber": "713525"
+}, {
+	"id": 713526,
+	"parentId": 713500,
+	"name": "光复乡",
+	"level": 3,
+	"postalCode": "976",
+	"areaNumber": "713526"
+}, {
+	"id": 713527,
+	"parentId": 713500,
+	"name": "丰滨乡",
+	"level": 3,
+	"postalCode": "977",
+	"areaNumber": "713527"
+}, {
+	"id": 713528,
+	"parentId": 713500,
+	"name": "瑞穗乡",
+	"level": 3,
+	"postalCode": "978",
+	"areaNumber": "713528"
+}, {
+	"id": 713529,
+	"parentId": 713500,
+	"name": "富里乡",
+	"level": 3,
+	"postalCode": "983",
+	"areaNumber": "713529"
+}, {
+	"id": 713530,
+	"parentId": 713500,
+	"name": "秀林乡",
+	"level": 3,
+	"postalCode": "972",
+	"areaNumber": "713530"
+}, {
+	"id": 713531,
+	"parentId": 713500,
+	"name": "万荣乡",
+	"level": 3,
+	"postalCode": "979",
+	"areaNumber": "713531"
+}, {
+	"id": 713532,
+	"parentId": 713500,
+	"name": "卓溪乡",
+	"level": 3,
+	"postalCode": "982",
+	"areaNumber": "713532"
+}, {
+	"id": 713600,
+	"parentId": 710000,
+	"name": "澎湖县",
+	"level": 2,
+	"postalCode": "8",
+	"areaNumber": "713600"
+}, {
+	"id": 713601,
+	"parentId": 713600,
+	"name": "马公市",
+	"level": 3,
+	"postalCode": "880",
+	"areaNumber": "713601"
+}, {
+	"id": 713621,
+	"parentId": 713600,
+	"name": "湖西乡",
+	"level": 3,
+	"postalCode": "885",
+	"areaNumber": "713621"
+}, {
+	"id": 713622,
+	"parentId": 713600,
+	"name": "白沙乡",
+	"level": 3,
+	"postalCode": "884",
+	"areaNumber": "713622"
+}, {
+	"id": 713623,
+	"parentId": 713600,
+	"name": "西屿乡",
+	"level": 3,
+	"postalCode": "881",
+	"areaNumber": "713623"
+}, {
+	"id": 713624,
+	"parentId": 713600,
+	"name": "望安乡",
+	"level": 3,
+	"postalCode": "882",
+	"areaNumber": "713624"
+}, {
+	"id": 713625,
+	"parentId": 713600,
+	"name": "七美乡",
+	"level": 3,
+	"postalCode": "883",
+	"areaNumber": "713625"
+}, {
+	"id": 713700,
+	"parentId": 710000,
+	"name": "金门县",
+	"level": 2,
+	"postalCode": "8",
+	"areaNumber": "713700"
+}, {
+	"id": 713701,
+	"parentId": 713700,
+	"name": "金城镇",
+	"level": 3,
+	"postalCode": "893",
+	"areaNumber": "713701"
+}, {
+	"id": 713702,
+	"parentId": 713700,
+	"name": "金湖镇",
+	"level": 3,
+	"postalCode": "891",
+	"areaNumber": "713702"
+}, {
+	"id": 713703,
+	"parentId": 713700,
+	"name": "金沙镇",
+	"level": 3,
+	"postalCode": "890",
+	"areaNumber": "713703"
+}, {
+	"id": 713704,
+	"parentId": 713700,
+	"name": "金宁乡",
+	"level": 3,
+	"postalCode": "892",
+	"areaNumber": "713704"
+}, {
+	"id": 713705,
+	"parentId": 713700,
+	"name": "烈屿乡",
+	"level": 3,
+	"postalCode": "894",
+	"areaNumber": "713705"
+}, {
+	"id": 713706,
+	"parentId": 713700,
+	"name": "乌丘乡",
+	"level": 3,
+	"postalCode": "896",
+	"areaNumber": "713706"
+}, {
+	"id": 713800,
+	"parentId": 710000,
+	"name": "连江县",
+	"level": 2,
+	"postalCode": "2",
+	"areaNumber": "713800"
+}, {
+	"id": 713801,
+	"parentId": 713800,
+	"name": "南竿乡",
+	"level": 3,
+	"postalCode": "209",
+	"areaNumber": "713801"
+}, {
+	"id": 713802,
+	"parentId": 713800,
+	"name": "北竿乡",
+	"level": 3,
+	"postalCode": "210",
+	"areaNumber": "713802"
+}, {
+	"id": 713803,
+	"parentId": 713800,
+	"name": "莒光乡",
+	"level": 3,
+	"postalCode": "211",
+	"areaNumber": "713803"
+}, {
+	"id": 713804,
+	"parentId": 713800,
+	"name": "东引乡",
+	"level": 3,
+	"postalCode": "212",
+	"areaNumber": "713804"
+}, {
+	"id": 810000,
+	"parentId": 100000,
+	"name": "香港特别行政区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "810000"
+}, {
+	"id": 810100,
+	"parentId": 810000,
+	"name": "香港岛",
+	"level": 2,
+	"postalCode": "999077",
+	"areaNumber": "810100"
+}, {
+	"id": 810101,
+	"parentId": 810100,
+	"name": "中西区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810101"
+}, {
+	"id": 810102,
+	"parentId": 810100,
+	"name": "湾仔区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810102"
+}, {
+	"id": 810103,
+	"parentId": 810100,
+	"name": "东区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810103"
+}, {
+	"id": 810104,
+	"parentId": 810100,
+	"name": "南区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810104"
+}, {
+	"id": 810200,
+	"parentId": 810000,
+	"name": "九龙",
+	"level": 2,
+	"postalCode": "999077",
+	"areaNumber": "810200"
+}, {
+	"id": 810201,
+	"parentId": 810200,
+	"name": "油尖旺区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810201"
+}, {
+	"id": 810202,
+	"parentId": 810200,
+	"name": "深水埗区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810202"
+}, {
+	"id": 810203,
+	"parentId": 810200,
+	"name": "九龙城区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810203"
+}, {
+	"id": 810204,
+	"parentId": 810200,
+	"name": "黄大仙区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810204"
+}, {
+	"id": 810205,
+	"parentId": 810200,
+	"name": "观塘区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810205"
+}, {
+	"id": 810300,
+	"parentId": 810000,
+	"name": "新界",
+	"level": 2,
+	"postalCode": "999077",
+	"areaNumber": "810300"
+}, {
+	"id": 810301,
+	"parentId": 810300,
+	"name": "荃湾区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810301"
+}, {
+	"id": 810302,
+	"parentId": 810300,
+	"name": "屯门区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810302"
+}, {
+	"id": 810303,
+	"parentId": 810300,
+	"name": "元朗区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810303"
+}, {
+	"id": 810304,
+	"parentId": 810300,
+	"name": "北区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810304"
+}, {
+	"id": 810305,
+	"parentId": 810300,
+	"name": "大埔区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810305"
+}, {
+	"id": 810306,
+	"parentId": 810300,
+	"name": "西贡区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810306"
+}, {
+	"id": 810307,
+	"parentId": 810300,
+	"name": "沙田区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810307"
+}, {
+	"id": 810308,
+	"parentId": 810300,
+	"name": "葵青区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810308"
+}, {
+	"id": 810309,
+	"parentId": 810300,
+	"name": "离岛区",
+	"level": 3,
+	"postalCode": "999077",
+	"areaNumber": "810309"
+}, {
+	"id": 820000,
+	"parentId": 100000,
+	"name": "澳门特别行政区",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "820000"
+}, {
+	"id": 820100,
+	"parentId": 820000,
+	"name": "澳门半岛",
+	"level": 2,
+	"postalCode": "999078",
+	"areaNumber": "820100"
+}, {
+	"id": 820101,
+	"parentId": 820100,
+	"name": "花地玛堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820101"
+}, {
+	"id": 820102,
+	"parentId": 820100,
+	"name": "圣安多尼堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820102"
+}, {
+	"id": 820103,
+	"parentId": 820100,
+	"name": "大堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820103"
+}, {
+	"id": 820104,
+	"parentId": 820100,
+	"name": "望德堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820104"
+}, {
+	"id": 820105,
+	"parentId": 820100,
+	"name": "风顺堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820105"
+}, {
+	"id": 820200,
+	"parentId": 820000,
+	"name": "氹仔岛",
+	"level": 2,
+	"postalCode": "999078",
+	"areaNumber": "820200"
+}, {
+	"id": 820201,
+	"parentId": 820200,
+	"name": "嘉模堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820201"
+}, {
+	"id": 820300,
+	"parentId": 820000,
+	"name": "路环岛",
+	"level": 2,
+	"postalCode": "999078",
+	"areaNumber": "820300"
+}, {
+	"id": 820301,
+	"parentId": 820300,
+	"name": "圣方济各堂区",
+	"level": 3,
+	"postalCode": "999078",
+	"areaNumber": "820301"
+}, {
+	"id": 900000,
+	"parentId": 100000,
+	"name": "钓鱼岛",
+	"level": 1,
+	"postalCode": "",
+	"areaNumber": "900000"
+}]
+ }

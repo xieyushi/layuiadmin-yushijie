@@ -1,0 +1,164 @@
+<script type="text/javascript" ></script>
+<div class="common_area">
+    <form class="layui-form" action="" lay-filter="LAY_basemodule_area_form">
+        <div class="layui-form-item">
+            <label class="layui-form-label">选择地区</label>
+            <div class="layui-input-inline">
+                <select name="LAY_select_area_provinceId" id="LAY_select_area_provinceId" lay-search
+                        lay-filter="LAY_select_area_provinceId" lay-verify="required">
+                    <option value="0">请选择</option>
+                </select>
+            </div>
+            <div class="layui-input-inline">
+                <select name="LAY_select_area_cityId" id="LAY_select_area_cityId" lay-filter="LAY_select_area_cityId"
+                        lay-verify="required">
+                    <option value="0">请选择</option>
+                </select>
+            </div>
+            <div class="layui-input-inline">
+                <select name="LAY_select_area_areaId" id="LAY_select_area_areaId" lay-filter="LAY_select_area_areaId"
+                        lay-verify="required">
+                    <option value="0">请选择</option>
+                </select>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">详细地址</label>
+            <div class="layui-input-block">
+                <input type="text" placeholder="请填写详细地址" id="LAY_select_area_detail" name="LAY_select_area_detail"
+                       value="" class="layui-input" lay-filter="LAY_select_area_detail" lay-verify="required">
+            </div>
+        </div>
+        <div class="layui-form-item" style="display: none;">
+            <div class="layui-input-block">
+                <button class="layui-btn" id="LAY_basemodule_area_form_submitbtn" lay-submit
+                        lay-filter="LAY_basemodule_area_form">立即提交
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+<style>
+    .common_area {
+        margin-top: -10px;
+    }
+
+    .common_area .layui-form-select dl {
+        max-height: 144px;
+    }
+
+    .common_area .layui-form-select dl dd {
+        height: 28px;
+    }
+</style>
+<script>
+    layui.use(['view'], function () {
+        var $ = layui.jquery;
+        var form = layui.form;
+        var $form = $('form');
+        var admin = layui.admin;
+        var layer = layui.layer;
+        var selectObj = $('#Lay_data_json').val() ? eval('('+$('#Lay_data_json').val()+')') : {};
+        $('#LAY_select_area_detail').val(selectObj.address);
+        var provinceArray = [];
+        var cityJson = {};
+        var areaJson = {};
+        var loadIndex = layer.load(1, {
+            shade: [0.3, '#000000']
+        });
+        var loadSelectData = function (arrayData, selectId, selectValue) {
+            $('#' + selectId).html('');
+            $('#' + selectId).append('<option value="">请选择</option>')
+            for (var i = 0; i < arrayData.length; i++) {
+                $('#' + selectId).append('<option value="' + arrayData[i].id + '">' + arrayData[i].name + '</option>')
+            }
+            if (selectValue) {
+                $('#' + selectId).val(selectValue);
+            }
+            form.render('select');
+
+        }
+        //请求拿到所有数据
+        admin.req({
+		      url: './json/region.js'
+		      ,type: 'get'
+		      ,data: {}
+            , success: function (data) {
+
+                for (var i = 0; i < data.data.length; i++) {
+                    if (data.data[i]['level'] == 1) {
+                        provinceArray.push(data.data[i]);
+                    } else if (data.data[i]['level'] == 2) {
+                        if (cityJson[data.data[i]['parentId']]) {
+                            cityJson[data.data[i]['parentId']].push(data.data[i]);
+                        } else {
+                            cityJson[data.data[i]['parentId']] = [];
+                            cityJson[data.data[i]['parentId']].push(data.data[i]);
+                        }
+                    } else if (data.data[i]['level'] == 3) {
+                        if (areaJson[data.data[i]['parentId']]) {
+                            areaJson[data.data[i]['parentId']].push(data.data[i]);
+                        } else {
+                            areaJson[data.data[i]['parentId']] = [];
+                            areaJson[data.data[i]['parentId']].push(data.data[i]);
+                        }
+                    }
+                }
+
+                //添加省份下拉框监听
+                form.on('select(LAY_select_area_provinceId)', function (data) {
+
+                    if (data.value) {
+                        loadSelectData(cityJson[data.value], 'LAY_select_area_cityId');
+                    } else {
+                        loadSelectData([], 'LAY_select_area_cityId');
+                    }
+                    //清空区选项
+                    $('#LAY_select_area_cityId').next().find('dl dd:first').click();
+                });
+                //添加市下拉框监听
+                form.on('select(LAY_select_area_cityId)', function (data) {
+                    if (data.value) {
+                        loadSelectData(areaJson[data.value], 'LAY_select_area_areaId');
+                    } else {
+                        loadSelectData([], 'LAY_select_area_areaId');
+                    }
+                });
+                //加载所有的省份
+                loadSelectData(provinceArray, 'LAY_select_area_provinceId', selectObj.provinceId);
+                //触发省下拉框监听
+                $('#LAY_select_area_provinceId').next().find('dl dd.layui-this').click();
+                //选中市
+                $('#LAY_select_area_cityId').val(selectObj.cityId);
+                form.render('select');
+                //触发市下拉框监听
+                $('#LAY_select_area_cityId').next().find('dl dd.layui-this').click();
+                //选中区
+                $('#LAY_select_area_areaId').val(selectObj.areaId);
+                form.render('select');
+                layer.close(loadIndex);
+            }
+        });
+        form.render();
+        form.on('submit(LAY_basemodule_area_form)', function (data) {
+        	var jsondata = {};
+            //省
+            jsondata.provinceId = data.field.LAY_select_area_provinceId;
+            jsondata.provinceName = $('#LAY_select_area_provinceId option:selected').text()
+            //市
+            jsondata.cityId = data.field.LAY_select_area_cityId;
+            jsondata.cityName = $('#LAY_select_area_cityId option:selected').text()
+            //区
+            jsondata.areaId = data.field.LAY_select_area_areaId;
+            jsondata.areaName = $('#LAY_select_area_areaId option:selected').text()
+            //详细地址
+            jsondata.address = $('#LAY_select_area_detail').val()
+            //状态码，表示当前表单的值校验已过
+            jsondata.verifySuccess = true;
+            $('#Lay_data_json').val(JSON.stringify(jsondata));
+            return false; //阻止表单跳转。如果需要表单跳转，去掉这段即可。
+        });
+        
+    });
+
+</script>

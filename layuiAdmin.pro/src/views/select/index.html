@@ -1,0 +1,60 @@
+<form class="layui-form " lay-filter="LAY_form" action="" style="margin: 10px auto;">
+	<div class="layui-form-item" style="display: none;">
+		<label class="layui-form-label">省市区</label>
+		<div class="layui-input-inline">
+			<input type="text" name="provinceId" id="Lay_input_provinceId" value="" class="layui-input">
+		</div>
+		<div class="layui-input-inline">
+			<input type="text" name="cityId" id="Lay_input_cityId" value="" class="layui-input">
+		</div>
+		<div class="layui-input-inline">
+			<input type="text" name="areaId" id="Lay_input_areaId" value="" class="layui-input">
+		</div>
+	</div>
+	<div class="layui-form-item">
+		<label class="layui-form-label">单位地址</label>
+		<div class="layui-input-inline" style="width: 50%;">
+			<input type="text" id="Lay_input_address" name="address" value="" class="layui-input">
+			<input type="hidden" id="Lay_data_json" value="" class="layui-input">
+		</div>
+	</div>
+</form>
+<script type="text/javascript">
+	layui.use(['layer', 'tree', 'jquery', 'table', 'admin', 'form', ], function() {
+		var layer = layui.layer;
+		var $ = layui.jquery;
+		var admin = layui.admin;
+		var jsondata = {};
+		$('#Lay_input_address').on('click', function() {
+			layui.admin.popup({
+				id: 'LAY_select_area',
+				title: '填写地址',
+				area: [admin.screen() > 1 ? '800px' : '100%', admin.screen() > 1 ? '400px' : '100%'],
+				shadeClose: false,
+				btn: ['确认', '取消'],
+				yes: function() {
+					$('#LAY_basemodule_area_form_submitbtn').click();
+						jsondata = eval('('+$('#Lay_data_json').val()+')');
+						if(jsondata.verifySuccess){
+							jsondata.verifySuccess = false;
+							//开始赋值
+							$('#Lay_input_provinceId').val(jsondata.provinceId);
+							$('#Lay_input_cityId').val(jsondata.cityId);
+							$('#Lay_input_areaId').val(jsondata.areaId);
+							$('#Lay_input_address').val(
+								jsondata.provinceName
+								+jsondata.cityName
+								+jsondata.areaName
+								+jsondata.address
+							);
+							layer.closeAll();
+						}
+				},
+				btn2: function() {},
+				success: function() {
+					layui.view(this.id).render('/select/area');
+				}
+			});
+		});
+	});
+</script>

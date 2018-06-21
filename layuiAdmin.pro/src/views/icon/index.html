@@ -1,0 +1,47 @@
+<form class="layui-form " lay-filter="LAY_form" action="" style="margin: 10px auto;">
+	<div class="layui-form-item">
+		<label class="layui-form-label">菜单图标</label>
+		<div class="layui-input-inline">
+			<input type="text" name="icon" id="LAY_icon" placeholder="输入Layui的图标编码" autocomplete="off" class="layui-input">
+		</div>
+		<label class="layui-form-label" id="iconlabel" style="text-align: left;"></label>
+		<script type="text/html" id="icontmp" type="text/html">
+			{{# var iconfunction = function(text){return text?'&#x'+text+';':''}; }}
+			<i class="layui-icon">
+                {{
+                iconfunction(d.toString(16))
+                }}
+            </i>
+		</script>
+
+	</div>
+</form>
+<script type="text/javascript">
+	layui.use(['layer', 'tree', 'jquery', 'table', 'admin', 'form', ], function() {
+		var layer = layui.layer;
+		var $ = layui.jquery;
+		var admin = layui.admin;
+		var laytpl = layui.laytpl;
+		$('#LAY_icon').on('click', function() {
+			admin.popup({
+				id: 'LAY_select_icon',
+				title: '选择图标',
+				area: [admin.screen() > 1 ? '803px' : '100%', admin.screen() > 1 ? '90%' : '100%'],
+				shadeClose: false,
+				btn: ['确认', '取消'],
+				yes: function(index, layero) {
+					var getTpl = $('#icontmp').html();
+					layui.laytpl(getTpl).render($('#LAY_basemodule_icons_selecticon').val(), function(html) {
+						$('#iconlabel').html(html);
+					});
+					$('#LAY_icon').val($('#LAY_basemodule_icons_selecticon').val())
+					layer.close(index);
+				},
+				btn2: function() {},
+				success: function() {
+					layui.view(this.id).render('/icon/icons');
+				}
+			});
+		});
+	});
+</script>
