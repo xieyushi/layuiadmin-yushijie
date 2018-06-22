@@ -1,0 +1,53 @@
+<title>角色管理</title>
+	<a href="javascript:;" class="layui-btn layui-btn-normal" id="LAY_add_btn">
+		<i class="layui-icon"></i> 新增权限
+	</a>
+
+<script>
+	layui.use(['table', 'jquery', 'element', 'admin','authtree'], function() {
+		var $ = layui.jquery;
+		var table = layui.table;
+		var admin = layui.admin;
+		var util = layui.util;
+		var authtree = layui.authtree;
+
+		//新增角色
+		$('#LAY_add_btn').on('click', function() {
+			clickTr = {};
+			admin.popup({
+				id: 'LAY-rolemanage-role-add',
+				title: '新增权限',
+				area: [admin.screen() > 1 ? '1000px' : '100%', '100%'],
+				btn: ['提交', '取消'],
+				yes: function(index, layero) {
+					$('#LAY_add_form_submit_btn').click();
+				},
+				btn2: function(index, layero) {},
+				end: function() {
+					clickTr = {};
+				},
+				success: function(layero, index) {
+					layui.view(this.id)
+						.render('/tree/add')
+						.done(function() {
+							form.render(null, 'LAY_add_form');
+							form.on('submit(LAY_add_form_submit_btn)', function(data) {
+								//提交 Ajax 成功后，关闭当前弹层并重载表格
+								loadIndex = layer.load(1, {
+									shade: [0.3, '#000000']
+								});
+								// 获取选中的叶子节点
+								var leaf = layui.authtree.getLeaf('#LAY_add_tree_div');
+								layui.layer.closeAll();
+								layui.layer.alert('选择的节点的nodeValue为:'+JSON.stringify(leaf));
+								return false;
+							});
+						});
+
+				}
+			});
+		});
+
+		//列表数据
+	});
+</script>

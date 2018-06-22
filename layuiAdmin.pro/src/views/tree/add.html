@@ -1,0 +1,129 @@
+<form class="layui-form layui-form-pane" lay-filter="LAY_add_form">
+	<fieldset class="layui-elem-field">
+		<legend>权限设置</legend>
+		<div class="layui-form-item" style="margin-left:13px;">
+			<div class="layui-input-block">
+				<div id="LAY_add_tree_div" style="display: none;"></div>
+			</div>
+		</div>
+	</fieldset>
+	<input type="button" style="display: none;" id="LAY_add_form_submit_btn" lay-submit lay-filter="LAY_add_form_submit_btn" value="确认" class="layui-btn">
+</form>
+<script>
+	layui.use(['form', 'table', 'jquery', 'admin', 'authtree'], function() {
+		var form = layui.form;
+		var table = layui.table;
+		var $ = layui.jquery;
+		var admin = layui.admin;
+		var authtree = layui.authtree;
+		form.render();
+		/**
+		 * list转换成递归树,这个方法我本来是扩展在util里面的,但是为了方便,少上传个util,方法就写在了这里了.
+		 * 
+		 */
+		var arrayToTreeJson = function(treeArray, id, parentId, children) {
+			var r = [];
+			id = id ? id : 'id';
+			parentId = parentId ? parentId : 'parentId';
+			children = children ? children : 'children';
+
+			if(treeArray.length > 0) {
+				var tmpMap = {};
+				for(var i = 0, l = treeArray.length; i < l; i++) {
+					// 以每条数据的id作为obj的key值，数据作为value值存入到一个临时对象里面
+					tmpMap[treeArray[i][id]] = treeArray[i];
+				}
+				for(i = 0, l = treeArray.length; i < l; i++) {
+					var key = tmpMap[treeArray[i][parentId]];
+
+					//循环每一条数据的pid，假如这个临时对象有这个key值，就代表这个key对应的数据有children，需要Push进去
+					if(key) {
+						if(!key[children]) {
+							key[children] = [];
+							key[children].push(treeArray[i]);
+						} else {
+							key[children].push(treeArray[i]);
+						}
+					} else {
+						//如果没有这个Key值，那就代表没有父级,直接放在最外层
+						r.push(treeArray[i]);
+					}
+				}
+			}
+			return r
+		}
+		/**
+		 * list转换成递归树,这个方法我本来是扩展在util里面的,但是为了方便,少上传个util,方法就写在了这里了.
+		 * 
+		 */
+		//模拟树的list数据.
+		var data = {
+			"code": 0,
+			"msg": "操作成功！",
+			"data": [{
+				"title": "系统菜单",
+				"parent_id": 0,
+				"name": "netpolice",
+				"id": 1,
+				"jump": ""
+			}, {
+				"title": "系统管理",
+				"parent_id": 1,
+				"name": "sysmanage",
+				"id": 13,
+				"jump": ""
+			}, {
+				"title": "日常管理",
+				"parent_id": 1,
+				"name": "sysmanage",
+				"id": 14,
+				"jump": ""
+			},{
+				"title": "系统管理主页",
+				"parent_id": 13,
+				"name": "index",
+				"id": 21,
+				"jump": "/sysmanage/"
+			},{
+				"title": "日常菜单1",
+				"parent_id": 14,
+				"name": "index",
+				"id": 15,
+				"jump": "/sysmanage/"
+			},{
+				"title": "日常菜单2",
+				"parent_id": 14,
+				"name": "index",
+				"id": 15,
+				"jump": "/sysmanage/"
+			}, {
+				"title": "组织机构图",
+				"parent_id": 13,
+				"name": "depimg",
+				"id": 40,
+				"jump": "/sysmanage/depimg/"
+			}, {
+				"title": "组织管理",
+				"parent_id": 13,
+				"name": "depmanage",
+				"id": 41,
+				"jump": "/sysmanage/depmanage/"
+			}],
+			"count": 5
+		}
+		var treeJson = arrayToTreeJson(data.data, 'id', 'parent_id', 'list')
+		authtree.render(
+			'#LAY_add_tree_div',
+			treeJson, {
+				inputname: 'ids[]',
+				layfilter: 'LAY_add_tree_div_submit',
+				nodeName: 'title',
+				nodeValue: 'id',
+				openall: true
+			}
+		);
+		$('#LAY_add_tree_div').show(500);
+	});
+</script>
+
+</html>
