@@ -39,7 +39,6 @@ layui.define(['jquery', 'form'], function(exports){
 			// 	form.render('checkbox');
 			// });
 			$(dst).find('.auth-single:first').unbind('click').on('click', '.layui-form-checkbox', function(){
-				debugger;
 				var elem = $(this).prev();
 				var checked = elem.is(':checked');
 				var childs = elem.parent().next().find('input[type="checkbox"]').prop('checked', checked);
@@ -60,7 +59,6 @@ layui.define(['jquery', 'form'], function(exports){
 
 			/*动态绑定展开事件*/
 			$(dst).unbind('click').on('click', '.auth-icon', function(){
-				debugger;
 				var origin = $(this);
 				var child = origin.parent().parent().find('.auth-child:first');
 				if(origin.is('.active')){
@@ -93,7 +91,7 @@ layui.define(['jquery', 'form'], function(exports){
 			str += '</div>';
 			return str;
 		},
-		// 递归创建格式
+		// 设置选中
 		setValue: function(dst,valueArray){
 			layui.each(valueArray, function(index, item){
 				var checkbox = $(dst).find('#treeInputValue'+item.id);
