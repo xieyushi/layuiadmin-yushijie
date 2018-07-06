@@ -1,0 +1,110 @@
+	<link rel="stylesheet" href="../src/style/bootstrap.min.css"  media="all"  />
+  <div class="content">
+    <h1>自定义表单</h1>
+    <div id="stage1" class="build-wrap"></div>
+    <form class="render-wrap"></form>
+    <div class="action-buttons">
+      <button id="getJSON" type="button">Get JSON Data</button>
+    </div>
+  </div>
+  <!--<script src="assets/js/vendor.js"></script>
+  <script src="assets/js/form-builder.min.js"></script>
+  <script src="assets/js/form-render.min.js"></script>
+  <script src="assets/js/demo.js"></script>-->
+<script>
+layui.use(['admin', 'form', 'user','formBuilder','jqueryUI'], function(){
+  var $ = layui.jquery
+  ,setter = layui.setter
+  ,admin = layui.admin
+  ,form = layui.form
+  ,router = layui.router()
+  ,search = router.search;
+	var fields = [
+    {
+      type: 'autocomplete',
+      label: '模糊查询下拉框',
+      required: true,
+      values: [
+        {label: '选项1'}
+      ]
+    }
+  ];
+
+  var replaceFields = [
+    {
+      type: 'textarea',
+      subtype: 'tinymce',
+      label: '富文本',
+      required: true,
+    }
+  ];
+
+
+
+  var typeUserDisabledAttrs = {
+    autocomplete: ['access']
+  };
+
+  var typeUserAttrs = {
+    text: {
+      className: {
+        label: 'Class',
+        options: {
+          'red form-control': 'Red',
+          'green form-control': 'Green',
+          'blue form-control': 'Blue'
+        },
+        style: 'border: 1px solid red'
+      }
+    }
+  };
+
+  // test disabledAttrs
+  var disabledAttrs = ['placeholder'];
+
+  var fbOptions = {
+	  i18n: {
+	    locale: 'zh-CN'
+	  },
+    subtypes: {
+      text: ['datetime-local']
+    },
+    onSave: function(e, formData) {
+    	alert(JSON.stringify(formData));
+//    toggleEdit();
+//    $('.render-wrap').formRender({
+//      formData: formData,
+//      templates: templates
+//    });
+//    window.sessionStorage.setItem('formData', );
+    },
+    stickyControls: {
+      enable: true
+    },
+    sortableControls: true,
+    fields: fields,
+    typeUserDisabledAttrs: typeUserDisabledAttrs,
+    typeUserAttrs: typeUserAttrs,
+    disableInjectedStyle: false,
+    disableFields: ['autocomplete'],
+    replaceFields: replaceFields,
+    disabledFieldButtons: {
+      text: ['copy']
+    }
+    // controlPosition: 'left'
+    // disabledAttrs
+  };
+
+
+  var setFormData = '[{"i18n":{"locale":"zh-CN"},"type":"text","label":"Full Name","subtype":"text","className":"form-control","name":"text-1476748004559"},{"type":"select","label":"Occupation","className":"form-control","name":"select-1476748006618","values":[{"label":"Street Sweeper","value":"option-1","selected":true},{"label":"Moth Man","value":"option-2"},{"label":"Chemist","value":"option-3"}]},{"type":"textarea","label":"Short Bio","rows":"5","className":"form-control","name":"textarea-1476748007461"}]';
+var formBuilder = $('.build-wrap').formBuilder(fbOptions);
+var fbPromise = formBuilder.promise;
+debugger;
+fbPromise.then(function(fb) {
+    document.getElementById('getJSON').addEventListener('click', function() {
+      alert(formBuilder.actions.getData('json', true));
+    });
+});
+
+});
+</script>
