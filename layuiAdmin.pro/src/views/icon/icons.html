@@ -47,12 +47,10 @@
             layui.jquery('#LAY_basemodule_icons_selecticon').val(layui.jquery(this).attr('icon-text'));
         })">
 	<ul class="layui-row layui-col-space10">
-		{{# var iconfunction = function(text){return text?'&#x'+text+';':''}; layui.each(d['icons'], function(index, item){ }}
+		{{# debugger; layui.each(d['icons'], function(index, item){ }}
 		<li class="layui-col-xs2 select-icon" icon-text="{{item.icon.defaultCode.toString(16)}}">
 			<i class="layui-icon layui-big-icon">
-                {{
-                iconfunction(item.icon.defaultCode.toString(16))
-                }}
+                &#x{{item.icon.defaultCode.toString(16)}};
             </i>
 			<div class="doc-icon-name">{{item.properties.name}}</div>
 			<div class="doc-icon-code">&amp;#x{{item.icon.defaultCode.toString(16)}};</div>
