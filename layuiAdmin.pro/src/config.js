@@ -4,6 +4,7 @@
       'formBuilder',
       'formRender',
       'jqueryUI',
+      'lenChart',
       'authtree'
     ]
  

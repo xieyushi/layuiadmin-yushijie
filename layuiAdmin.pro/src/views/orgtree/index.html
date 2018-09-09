@@ -1,0 +1,44 @@
+<title>组织机构图</title>
+<div class="orgWrap" id="oneChild">
+<script type="text/javascript">
+	layui.use(['view', 'admin', 'lenChart', 'jquery'], function() {
+		var $ = layui.jquery;
+		var admin = layui.admin;
+		var app = {};
+		var showDept = function(depth, datas) {
+			$('.orgWrap').empty();
+			$('.orgWrap').lenChart({
+				data: datas,
+				drag: true,
+				depth: depth,
+				renderdata: function(data, $dom) {
+					var value = data;
+					if(value && Object.keys(value).length) {
+						var $name = $('<div class="name"></div>');
+						!!(value.name) && $name.text(value.name);
+						$dom.append($name)
+						$dom.addClass('organization')
+					}
+				},
+				callback: function() {
+				}
+			})
+		}
+		admin.req({
+			url: "./json/org.js",
+			type: "get",
+			success: function(res) {
+				//3表示显示到部门的第3级
+				showDept(3, res.data);
+				//如果json没有子节点,就是部门就一个总部门要隐藏divider,就是正面连接部门的
+				if(res.data.children) {
+
+				} else {
+					$('.divider').hide();
+					$('.organization').addClass("no-border");
+				}
+			}
+		});
+
+	});
+</script>
