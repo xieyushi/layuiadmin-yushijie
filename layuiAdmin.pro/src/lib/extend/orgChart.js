@@ -15,12 +15,11 @@
 layui.define("jquery", function(exports) {
 	var $ = layui.jquery;
 	"use strict";
-	$("head").append("<link>");
 	layui.link(layui.cache.base + "../style/orgChart.css");
 	var self,
 		objs = {
 			render: function(options) {
-				debugger;
+				
 				var defaults = {};
 				var opts = $.extend({}, defaults, options);
 				var obj = opts.data;
@@ -262,7 +261,7 @@ layui.define("jquery", function(exports) {
 						$('.orgWrap li:has("ul>li")').addClass('parent_li').find(' > span').attr('title', '收起');
 						avoid();
 					}else{
-						debugger;
+						
 						$(self).css('left','0');
 						$('.organization').addClass("noChildren").removeClass("content");
 						
@@ -274,7 +273,7 @@ layui.define("jquery", function(exports) {
 						opts.callback()
 					}
 				}
-				//              debugger;
+				//              
 				//              if(options.data.children&&options.data.children.length>0){
 				//              	
 				//              }else{
