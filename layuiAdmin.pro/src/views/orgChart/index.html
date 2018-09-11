@@ -1,0 +1,35 @@
+<title>组织机构图</title>
+<div class="orgWrap" id="oneChild">
+	<script type="text/javascript">
+		layui.use(['view', 'admin', 'orgChart', 'jquery'], function() {
+			var $ = layui.jquery;
+			var admin = layui.admin;
+			var orgChart = layui.orgChart;
+			var app = {};
+			admin.req({
+				url: "./json/org.js",
+				type: "get",
+				success: function(res) {
+					var data = res.data
+					//3表示显示到部门的第3级
+					orgChart.render({
+						elm: '.orgWrap',
+						data: data,
+						drag: true,
+						depth: 3,
+						renderdata: function(data, $dom) {
+							var value = data;
+							if(value && Object.keys(value).length) {
+								var $name = $('<div class="name"></div>');
+								!!(value.name) && $name.text(value.name);
+								$dom.append($name)
+								$dom.addClass('organization')
+							}
+						},
+						callback: function() {}
+					});
+				}
+			});
+
+		});
+	</script>

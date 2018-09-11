@@ -111,6 +111,22 @@ body{
   z-index: 0;
 
 }
+.level1s .level1 .noChildren::before{
+  border-left: 0;
+}
+.orgWrap .noChildren .name{
+    /* width: 170px; */
+    position: relative;
+    height:42px;
+    line-height: 42px;
+    font-weight:bold;
+    width:fit-content;
+    min-width: 100px;
+    border: 3px solid #a9a9a9;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+}
 /*第二层*/
 .level2s{
     position: relative;
@@ -137,6 +153,7 @@ body{
     border: 2px solid #a9a9a9;
     position: relative;
 }
+
 /*.level2s .level2.noneChild{*/
     /*padding-right: 40px;*/
 /*}*/
@@ -171,7 +188,6 @@ body{
 .content{
     position: relative;
 }
-
 /*第二层只有一个*/
 #oneChild .divider{
     border: none;
@@ -291,6 +307,7 @@ body{
     z-index: 2;
     background: #f2f2f2;
     margin: 0;
+    margin-left: 0 !important;
     padding: 0;
 }
 .level2s .level2{
