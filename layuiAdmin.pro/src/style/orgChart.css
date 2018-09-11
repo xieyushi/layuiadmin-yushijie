@@ -185,7 +185,7 @@ body{
 .level1>.icon,.noneChild .icon{
     display: none;
 }
-.content{
+.organization.content{
     position: relative;
 }
 /*第二层只有一个*/
@@ -214,7 +214,7 @@ body{
 }
 
 /*内部样式*/
-.content{
+.organization.content{
     border: 3px solid #a9a9a9;
     text-align: center;
     font-size:12px;
