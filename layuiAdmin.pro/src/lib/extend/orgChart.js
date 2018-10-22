@@ -99,7 +99,7 @@ layui.define("jquery", function(exports) {
 						}
 
 						$level2.each(function() {
-							if(!$(this).find('li.level3').size()) {
+							if(!$(this).find('li.level3').length) {
 								$(this).addClass('noneChild')
 							}
 
